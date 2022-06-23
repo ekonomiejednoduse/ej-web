@@ -1,0 +1,44 @@
+    <div class="col-4-middle left">
+        <a href="/">
+            <h2 class="logo">Ekonomie Jednoduše</h2>
+        </a>
+    </div>
+    
+    <nav class="col-8-middle mob-hide web-nav right">
+        <!-- <a 
+            {% if page.url == "/" %}
+                class="clickedon"
+            {%endif%}
+        
+        href="/"> Home </a> -->
+        <a 
+        {% if page.url == "/videa.html" %}
+        class="clickedon"
+        {%endif%} href="/videa.html"> Videa </a>
+
+        <a 
+        {% if page.url == "/clanky.html" %}
+        class="clickedon"
+        {%endif%}
+        
+        href="/clanky.html"> Články </a>
+        <a 
+        {% if page.url == "/dalsi-tvorba.html" %}
+        class="clickedon"
+        {%endif%}
+        
+        
+        href="/dalsi-tvorba.html"> Další tvorba </a>
+        <a 
+        {% if page.url == "/kontakt.html" %}
+        class="clickedon"
+        {%endif%}
+        
+        href="/kontakt"> Kontakt </a>
+        <a class="button
+        {% if page.url == "/podporte-me.html" %}
+        clickedon
+        {%endif%}"
+        
+        href="/podporte-me.html"> Podpořte mě </a>
+    </nav>
