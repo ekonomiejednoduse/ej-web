@@ -259,6 +259,58 @@ header{
     text-align: center;
 }
 
+
+/* Form styling*/
+form input, form textarea{
+    width: 100%;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border: 2px solid var(--writing-lm);
+    /*this will override the blue outline upon hovering or clicking*/
+    outline: none;
+    font-family: inherit;
+    font-size: 0.9rem;
+}
+  /* sets the outlien to teal when its being focuse --> clicked on/written in*/
+form input:focus, form textarea:focus{
+    border: 2px solid;
+    border-image-slice: 1;
+    border-width: 2px;
+    border-image-source: linear-gradient(to left, var(--purple), var(--blue));
+}
+
+textarea{
+    min-height: 5rem;
+}
+
+form label{
+    margin-top: 1rem;
+    display: block;
+    color: var(--writing);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+form button{
+    border: 2px solid;
+    border-image-slice: 1;
+    border-width: 2px;
+    border-image-source: linear-gradient(to left, var(--purple), var(--blue));
+    transition: 0.3s;
+    cursor: pointer;
+    padding: 0.6rem 0.5rem;
+    font-size: 1.1rem;
+    background-color: inherit;
+    margin-top: 0.5rem;
+    color: var(--writing-lm);
+}
+
+form button:hover{
+    color: var(--purple);
+
+
+}
+
 @media(max-width:48em) {
     .mob-hide { display: none; }
     .mob-show { display: block; }
