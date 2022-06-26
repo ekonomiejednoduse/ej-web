@@ -23,6 +23,13 @@
         
         href="/clanky.html"> Články </a>
         <a 
+        {% if page.url == "/podcast.html" %}
+        class="clickedon"
+        {%endif%}
+        
+        
+        href="/podcast.html"> Podcast </a>
+        <a 
         {% if page.url == "/dalsi-tvorba.html" %}
         class="clickedon"
         {%endif%}
