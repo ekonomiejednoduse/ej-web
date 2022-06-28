@@ -1,6 +1,8 @@
 $('.hamburger-button').click(function(){
     $('.mobile-menu').fadeToggle(100);
-    $(this).toggleClass('active')};
+    $(this).toggleClass('active')
+  });
+
 
     $('.slider-container').slick({
         autoplay: true,        // Do we want it to autoplay? true or false
@@ -17,7 +19,6 @@ $('.hamburger-button').click(function(){
         slidesToScroll: 1,
     });
         
-});
 
 // $('.slider-container').slick({
 //     autoplay: true,        // Do we want it to autoplay? true or false
