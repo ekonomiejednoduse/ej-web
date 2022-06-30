@@ -34,6 +34,7 @@ max-width:100%;
 a {
 text-decoration: none;
 color: inherit;
+display: inline-block;
 }
 
 p{
@@ -179,7 +180,6 @@ footer h2{
 
 .web-nav a:hover{
     color: var(--purple);
-    font-size: 1.5rem;
 }
 
 .hamburger-button {
@@ -250,6 +250,10 @@ footer h2{
 .button:hover{
     background: linear-gradient(to left, var(--purple)), var(--blue);
     color: var(--writing-lm);
+}
+
+.yt-button{
+    font-size: 10rem;
 }
 
 
@@ -329,13 +333,19 @@ form button:hover{
 /* Slick styling videos */
 
 .slider-item{
-    padding: 5%;
-}
-
-.slider-item iframe{
-    height: 25vw;
+    padding: 10%;
 }
 
 .featured-video iframe{
     height: 50vw;
+}
+
+#f-video iframe{
+    height: 25vw;
+    width: 45vw;
+}
+
+#slider-video iframe{
+    height: 17vw;
+    width: 30vw;
 }

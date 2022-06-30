@@ -15,7 +15,7 @@ $('.hamburger-button').click(function(){
         infinite: true,       // When true, means that it will scroll in a circle
         pauseOnHover: true,   // When true means the autoplay pauses when hovering
         pauseOnDotsHover: true, // Pauses the autoplay when hovering over the dots
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 1,
     });
         
