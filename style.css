@@ -37,6 +37,10 @@ color: inherit;
 display: inline-block;
 }
 
+a:hover{
+    color:var(--purple);
+}
+
 p{
     font-size: 1.2rem;
     line-height: 1.1;
@@ -174,7 +178,7 @@ footer h2{
 }
 
 .web-nav a{
-    padding: 0.5rem 0.8rem;
+    padding: 0.6rem 0.9rem;
     transition: 0.2s;
 }
 
@@ -212,7 +216,7 @@ footer h2{
 
 .mobile-menu {
     display: none; 
-    background-color: var(--bg); 
+    background-color: var(--bg-lm); 
     color: var(--writing);
     padding: 5%;
     position: fixed; 
@@ -236,6 +240,28 @@ footer h2{
     color: var(--featured);
 }
 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    left:10px;
+    padding:5px;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-content a {
+  display:block;
+  padding:5px 15px;
+  text-align:left;
+  white-space:nowrap;
+}
+
+.dropdown-nav {
+  position:relative;
+}
+.dropdown-nav:hover .dropdown-content {
+    display: block;
+}
 
 /* Button styles */
 

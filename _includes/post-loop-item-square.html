@@ -6,7 +6,7 @@
     <div class="padded-t-1 padded-b-1">
         
         {% for item in post.categories %}
-            <span class="tag"> {{item}} </span>
+           <a href="/{{item}}"> <span class="tag"> {{item}} </span></a>
         {% endfor %}
 
         <h2 class="margin-t-1"> {{ post.title }} </h2>
