@@ -24,7 +24,7 @@
 body {
 color: var(--writing-lm);
 font-family: 'Roboto';
-font-size: 1.3rem;
+font-size: 1rem;
 }
 
 img {
@@ -61,6 +61,7 @@ p{
 .p-b-0{padding-bottom: 0;}
 .p-b-1{padding-bottom: 1rem;}
 .p-t-2{padding-top: 2rem;}
+.p-02{padding: 2rem;}
 
 .capped-width { max-width: 1100px; margin: auto;}
 
@@ -116,6 +117,11 @@ font-size: 1.2rem;
 .underline{
     border-bottom: 2px solid var(--blue);
 }
+
+h3{
+    font-size: 1.7rem;
+    margin-bottom: 0.3rem;
+}
 /* Button & Link Styles */
 
 
@@ -130,11 +136,9 @@ a:hover {
     background-repeat: no-repeat;
 }
 
-.bg-stepa{
-    background-image: url('/images/stepa-foto.jpg');
-}
-
+.bg-stepa{background-image: url('/images/stepa-foto.jpg');}
 .bg-placeholder{background-image: url('/images/placeholder.jpg');}
+.bg-bitcoin{background-image: url('/images/bitcoin-index.jpg');}
 
 /* Header and footer styles */
 header{
@@ -171,14 +175,14 @@ footer h2{
     font-family: var(--psani);
     text-transform: uppercase;
     font-weight: 400;
-    font-size: 1.3rem;
+    font-size: 1.15rem;
     letter-spacing: 0.08em;
     display: inline-block;
     text-align: right;
 }
 
 .web-nav a{
-    padding: 0.6rem 0.9rem;
+    padding: 0.4rem 0.6rem;
     transition: 0.2s;
 }
 
@@ -258,6 +262,7 @@ footer h2{
 
 .dropdown-nav {
   position:relative;
+  padding-bottom: 1rem;
 }
 .dropdown-nav:hover .dropdown-content {
     display: block;

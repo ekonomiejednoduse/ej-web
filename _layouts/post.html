@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-<section class="padded capped-width-narrow blog-content">
+<section class="padded capped-width blog-content">
 
 
         <div class="intro padded-1 center margin-b-2">
 
             {% for item in page.categories %}
-                <a href="#"><span class="tag"> {{ item }}</span></a>
+                <a href="/{{item}}"><span class="tag"> {{ item }}</span></a>
             {% endfor %}
             
             <h1> {{ page.title }} </h1>
