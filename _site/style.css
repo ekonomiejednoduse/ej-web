@@ -104,8 +104,9 @@ margin-bottom:0;
 hr {
     border: none;
     border-bottom: 2px solid var(--writing-lm); 
-    margin: 0;
-  }
+    margin: 2.5rem 0;
+}
+
 
 
 /* Unique Typography Styles */
@@ -122,6 +123,10 @@ h3{
     font-size: 1.7rem;
     margin-bottom: 0.3rem;
 }
+
+ul, ol{
+    list-style-position: inside;
+}
 /* Button & Link Styles */
 
 
@@ -129,6 +134,38 @@ a:hover {
     color: var(--purple);
 }
 
+.button {
+    border: 5px solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(to left, var(--purple), var(--blue));
+    transition: 0.3s;
+}
+
+.button:hover{
+    background: linear-gradient(to left, var(--purple)), var(--blue);
+    color: var(--writing-lm);
+}
+
+.yt-button{
+    font-size: 10rem;
+}
+
+
+p a {
+    color: var(--writing-lm);
+    text-decoration: none;
+    border-bottom: 1px solid inherit;
+    transition: all 0.3s;
+}
+
+p a:hover {
+    color: var(--purple);
+    border-bottom: 1px solid;
+    border-image-slice: 1;
+    /* border-width: 3px; i don't know if i need this */
+    border-image-source: linear-gradient(to left, var(--purple), var(--blue));
+}
 /* Image styles */
 .bg-image{
     background-position: center;
@@ -268,25 +305,6 @@ footer h2{
     display: block;
 }
 
-/* Button styles */
-
-.button {
-    border: 5px solid;
-    border-image-slice: 1;
-    border-width: 3px;
-    border-image-source: linear-gradient(to left, var(--purple), var(--blue));
-    transition: 0.3s;
-}
-
-.button:hover{
-    background: linear-gradient(to left, var(--purple)), var(--blue);
-    color: var(--writing-lm);
-}
-
-.yt-button{
-    font-size: 10rem;
-}
-
 
 /* Typography styles */
 .nadpis{
@@ -379,4 +397,20 @@ form button:hover{
 #slider-video iframe{
     height: 17vw;
     width: 30vw;
+}
+
+/* Blogging styles  */
+blockquote {
+    line-height: 1.4;
+    font-size: 1.8rem;
+    margin: 2rem 0;
+    font-style: italic;
+    color: rgb(150,150,150);
+    padding-left: 1.5rem;
+    margin-left: 1.5rem;
+    border-left: 2px solid;
+}
+
+blockquote p {
+    font-size: 1.8rem;
 }
