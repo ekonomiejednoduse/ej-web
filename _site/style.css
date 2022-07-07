@@ -31,15 +31,7 @@ img {
 max-width:100%;
 }
 
-a {
-text-decoration: none;
-color: inherit;
-display: inline-block;
-}
 
-a:hover{
-    color:var(--purple);
-}
 
 p{
     font-size: 1.2rem;
@@ -66,6 +58,7 @@ p{
 .capped-width { max-width: 1100px; margin: auto;}
 
 .tall-30  {  min-height: 30vh;   }
+.tall-35  {  min-height: 35vh;   }
 .tall-50  {  min-height: 50vh;   }
 .tall-70    {min-height: 70vh;}
 .tall-100 {  min-height: 100vh;  }
@@ -127,11 +120,17 @@ h3{
 ul, ol{
     list-style-position: inside;
 }
+
 /* Button & Link Styles */
 
+a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
 
-a:hover {
-    color: var(--purple);
+a:hover{
+    color:var(--purple);
 }
 
 .button {
@@ -176,6 +175,10 @@ p a:hover {
 .bg-stepa{background-image: url('/images/stepa-foto.jpg');}
 .bg-placeholder{background-image: url('/images/placeholder.jpg');}
 .bg-bitcoin{background-image: url('/images/bitcoin-index.jpg');}
+.qr-bitcoin{background-image: url('/images/bitcoin-qr.png');}
+.qr-lightning{background-image: url('/images/lightning.png');}
+.qr-litecoin{background-image: url('/images/litecoin.png');}
+.qr-monero{background-image: url('/images/monero.png');}
 
 /* Header and footer styles */
 header{
@@ -205,6 +208,10 @@ header{
               
 footer h2{
     margin-bottom: 0.6rem;
+}
+
+footer{
+    font-size: 1.3rem;
 }
 
 /* Nav styles */
@@ -413,4 +420,28 @@ blockquote {
 
 blockquote p {
     font-size: 1.8rem;
+}
+
+/* Podpořte mě copy styling */
+
+.copy-text input.text {
+    padding:10px;
+    font-size:18px;
+    color:#555;
+    border:none;
+    outline:none;
+    padding-right:50px;
+}
+.copy-text button {
+padding:10px;
+background:#5784f5;
+color:#fff;
+font-size:18px;
+border:none;
+outline:none;
+border-radius:10px;
+cursor:pointer;
+}
+.copy-text button:active {
+background:#809ce2;
 }
