@@ -426,7 +426,7 @@ blockquote p {
 
 .copy-text input.text {
     padding:10px;
-    font-size:18px;
+    font-size: 1rem;
     color:#555;
     border:none;
     outline:none;
@@ -434,13 +434,20 @@ blockquote p {
 }
 .copy-text button {
 padding:10px;
-background:#5784f5;
+background: var(--blue);
 color:#fff;
-font-size:18px;
+font-size: 0.8rem;
 border:none;
 outline:none;
 border-radius:10px;
 cursor:pointer;
+transition: 0.3s;
+}
+
+.copy-text button:hover{
+    color: var(--blue);
+    background: white;
+    border: 1px solid var(--blue);
 }
 .copy-text button:active {
 background:#809ce2;
