@@ -5,8 +5,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sun
 author: Daniel
 featured: true
 categories: [ekonomie, penize]
-featured_image: https://source.unsplash.com/random?sig=6
-seo: 
+featured_image: /images/ekologie.jpg
+seo:
     title: 
     description: 
     social_image: 
@@ -14,7 +14,7 @@ seo:
     hide-from-google: false
 ---
 
-## Adventures in Australia
+## Adventures in 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?
 
