@@ -4,8 +4,8 @@ title: My ninth post
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
 author: Catherine
 featured: true
-categories: [peníze, ekonomie]
-featured_image: https://source.unsplash.com/random?sig=8
+categories: [penize, ekonomie]
+featured_image: /images/bitcoin-clanek.png
 seo: 
     title: 
     description: 

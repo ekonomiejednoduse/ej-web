@@ -3,6 +3,7 @@
     --blue: #4389A2;
     --writing-dm: white;
     --writing-lm: rgb(78, 73, 73);
+    --writing-dark: rgb(78, 73, 73);
     --bg-lm: white;
     --bg-dm: black;
     --bg-faded: #eff1ee;
@@ -318,10 +319,12 @@ footer{
 
 .dropdown-content a {
   display:block;
+  color: rgb(78, 73, 73);
   padding:5px 15px;
   text-align:left;
   white-space:nowrap;
 }
+
 
 .dropdown-nav {
   position:relative;
@@ -409,6 +412,10 @@ form button:hover{
 
 .slider-item{
     padding: 10%;
+}
+
+.slick-dots{
+    color: var(--writing-lm);
 }
 
 .featured-video iframe{
