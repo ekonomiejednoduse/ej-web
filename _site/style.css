@@ -3,8 +3,8 @@
     --blue: #4389A2;
     --writing-dm: white;
     --writing-lm: rgb(78, 73, 73);
-    --bg-lm: #DBDFD8;
-    --bg-dm: #202124;
+    --bg-lm: white;
+    --bg-dm: black;
     --bg-faded: #eff1ee;
     --light-text: #E3AB38;
     --nadpis: font-family: 'Bebas Neue';
@@ -25,12 +25,14 @@ body {
 color: var(--writing-lm);
 font-family: 'Roboto';
 font-size: 1rem;
+background-color: var(--bg-lm);
 }
 
 body.dark-mode{
-    color: var(--writing-dm);
-    background-color: black;
     --light-text: #272;
+    --writing-lm: white;
+    --bg-lm: black;
+    --writing-dm: black;
 }
 
 img {
@@ -60,6 +62,7 @@ p{
 .p-b-1{padding-bottom: 1rem;}
 .p-t-2{padding-top: 2rem;}
 .p-02{padding: 2rem;}
+.m-b-1{margin-bottom: 1rem;}
 
 .capped-width { max-width: 1100px; margin: auto;}
 
@@ -130,6 +133,10 @@ h2{
 
 ul, ol{
     list-style-position: inside;
+}
+
+.yellow{
+    color: #E3AB38;
 }
 
 /* Button & Link Styles */
@@ -436,10 +443,15 @@ blockquote p {
 
 /* Podpořte mě copy styling */
 
+.copy-text{
+    color: var(--writing-lm);
+}
+
 .copy-text input.text {
     padding:10px;
     font-size: 1rem;
-    color:#555;
+    color: var(--writing-lm);
+    background-color: var(--writing-dm);
     border:none;
     outline:none;
     padding-right:50px;
@@ -447,7 +459,7 @@ blockquote p {
 .copy-text button {
 padding:10px;
 background: var(--blue);
-color:#fff;
+color: white;
 font-size: 0.8rem;
 border:none;
 outline:none;
@@ -458,12 +470,12 @@ transition: 0.3s;
 
 .copy-text button:hover{
     color: var(--blue);
-    background: white;
+    background: var(--bg-lm);
     border: 1px solid var(--blue);
 }
-.copy-text button:active {
+/* .copy-text button:active {
 background:#809ce2;
-}
+} */
 
 
 @media(max-width:48em) {

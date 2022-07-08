@@ -7,7 +7,7 @@ description: >-
 author: Štěpán Drábek
 featured: true
 categories:
-  - ekonomika
+  - ekonomie
   - bitcoin
 featured_image: /images/bitcoin-clanek.png
 seo:

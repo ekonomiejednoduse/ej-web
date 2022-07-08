@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: My ninth post 
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur
 author: Catherine
