@@ -7,8 +7,7 @@ description: >-
 author: Lucy
 featured: true
 categories:
-  - self care
-  - food
+  - bitcoin
 featured_image: https://source.unsplash.com/random?sig=10
 seo:
   title:

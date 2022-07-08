@@ -27,6 +27,12 @@ font-family: 'Roboto';
 font-size: 1rem;
 }
 
+body.dark-mode{
+    color: var(--writing-dm);
+    background-color: black;
+    --light-text: #272;
+}
+
 img {
 max-width:100%;
 }
