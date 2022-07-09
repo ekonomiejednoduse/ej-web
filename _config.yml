@@ -4,9 +4,9 @@ collections:
     permalink: /posts/:year/:slug
   archives: 
     output: true
-  tvorba:
+  tvorbas:
     output: true
-    permalink: /tvorba/:day/:month/:year/:slug
+    permalink: /tvorba/:year/:slug
     
     
 _options:

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Další tvorba
 ---
 <section class="padded archive">
 
@@ -11,21 +12,19 @@ layout: default
     <div class="capped-width grid">
 
         {% for tvorba in site.tvorbas limit:100 %}
-
-        <a class="col-6_md-12 post-item padded-2 sm-padded-1" href="{{ tvorba.url }}">
-            <div class="grid">
-                <div class="col-3-middle">
-                    <div class="bg-image square" style="background-image:url( '{{ tvorba.featured_image }}' );"></div>
-    
+    <div class="col-4_md-6_sm-12 post-item padded-2 sm-padded-1">
+        <a href="{{ post.url }}" class="bg-image square" style="background-image:url('{{post.featured_image}}'); display: block;"></a>
+                <div class="padded-1">
+                    {% for item in tvorba.categories %}
+                    <a href="/{{item}}"> <span class="tag"> {{item}} </span></a>
+                 {% endfor %}
+                 <a href="{{ post.url }}">
+                    <h2 class="margin-t-1"> {{ tvorba.title }} </h2>
+                    <p> {{ tvorba.description }} </p>
+                 </a>
                 </div>
-                <div class="col-9-middle padded-1">
             
-                    <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ tvorba.title }} </h4>
-                    <p class="subtitle hide-xs"> {{ tvorba.description }} </p>
-            
-                </div>
-            </div>
-        </a>
+        </div>
 
         {% endfor %}
 

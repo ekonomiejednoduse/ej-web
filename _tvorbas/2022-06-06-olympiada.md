@@ -7,6 +7,7 @@ description: >-
 author: Štěpán Drábek
 featured: true
 featured_image: /images/bitcoin-clanek.png
+categories: dalsi tvorba
 seo:
   title:
   description:
