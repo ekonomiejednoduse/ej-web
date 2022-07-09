@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Další tvorba
+title: Tvorba
 ---
 <section class="padded archive">
 
@@ -13,12 +13,12 @@ title: Další tvorba
 
         {% for tvorba in site.tvorbas limit:100 %}
     <div class="col-4_md-6_sm-12 post-item padded-2 sm-padded-1">
-        <a href="{{ post.url }}" class="bg-image square" style="background-image:url('{{post.featured_image}}'); display: block;"></a>
+        <a href="{{ tvorba.url }}" class="bg-image square" style="background-image:url('{{tvorba.featured_image}}'); display: block;"></a>
                 <div class="padded-1">
                     {% for item in tvorba.categories %}
                     <a href="/{{item}}"> <span class="tag"> {{item}} </span></a>
                  {% endfor %}
-                 <a href="{{ post.url }}">
+                 <a href="{{ tvorba.url }}">
                     <h2 class="margin-t-1"> {{ tvorba.title }} </h2>
                     <p> {{ tvorba.description }} </p>
                  </a>
