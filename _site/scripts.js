@@ -49,6 +49,10 @@ console.log('clickedon' + document.cookie)
 
 darkmodeButton.addEventListener('click', toggleDarkMode);
 
+AOS.init({
+  duration: 2500 // values from 0 to 3000, with step 50ms
+});
+
 
 // .querySelector("button").addEventListener("click",function(){
 //   let input = copyText.querySelector("input.text");

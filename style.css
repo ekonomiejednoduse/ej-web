@@ -118,9 +118,10 @@ hr {
 font-size: 1.2rem;
 }
 
-.underline{
-    border-bottom: 2px solid var(--blue);
+.purple{
+    color: var(--purple);
 }
+
 
 h3{
     font-size: 1.7rem;
@@ -185,17 +186,18 @@ a:hover{
 p a {
     color: var(--writing-lm);
     text-decoration: none;
-    border-bottom: 1px solid inherit;
-    transition: all 0.3s;
+    border-bottom: 2px solid #4389A2;
+    transition: all 0.2s;
 }
 
 p a:hover {
-    color: var(--purple);
-    border-bottom: 1px solid;
+    color: #4389A2;
+    border-bottom: 2px solid;
     border-image-slice: 1;
     /* border-width: 3px; i don't know if i need this */
     border-image-source: linear-gradient(to left, var(--purple), var(--blue));
 }
+
 /* Image styles */
 .bg-image{
     background-position: center;

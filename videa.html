@@ -29,27 +29,22 @@ videos:
   </div>
 </section>
 
-<section id="slider-video" class="padded grid">
+<section id="slider-video" class="padded grid-spaceAround">
 
-
-<div class="slider-container mob-hide"> 
+  
+  
+ 
   {%for video in page.videos%}
-    <div class="slider-item padded"> 
-       
+ 
+    <div class="col-5_sm-12 padded"> 
+      <div data-aos="fade-up">
         <iframe width="100%" src="https://www.youtube.com/embed/{{video.video-id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-        </div>   
-    
+        </div> 
+          
+        </div>
     {%endfor%}
-</div>
-<div class="col-12 center">
-{%for video in page.videos%}
-    
-    <div class="padded">
-        <iframe class="min-width" width="100%" src="https://www.youtube.com/embed/{{video.video-id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-       </div>  
-    
-    {%endfor%}
-</div>
+
+
 </section>
 
 <section class="grid-spaceBetween padded">
