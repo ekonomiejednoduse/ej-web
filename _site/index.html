@@ -60,7 +60,13 @@
     <header id="header" class="grid-spaceBetween">
     
 
-            <div class="col-4-middle left">
+            <div class="col-4-middle mob-hide left">
+        <a href="/">
+            <h2 class="logo">Ekonomie Jednoduše</h2>
+        </a>
+    </div>
+
+    <div class="col-12 mob-show center">
         <a href="/">
             <h2 class="logo">Ekonomie Jednoduše</h2>
         </a>
@@ -114,8 +120,17 @@
     </nav>
 
 <div class="col-12-right">
-    <button id="dark-btn" class="btn-toggle">Toggle Dark-Mode</button>
+    <button id="dark-btn" class="btn-toggle">
+        Dark Mode On/Off
+         </button>
 </div>
+
+<!-- <div class="col-12 center">
+    <button id="dark-btn" class="btn-toggle">
+        Dark Mode On/Off
+         </button>
+</div> -->
+
 
 
         <div class="col-4-middle right">
@@ -138,7 +153,7 @@
 
     <section>
     <div class="capped-width">
-        <h1 class="nadpis p-b-2">Ekonomie Jednoduše</h1>
+        <h1 class="nadpis mob-hide p-b-2">Ekonomie Jednoduše</h1>
 
         <p class="center">Ahoj, vítejte na oficiálních webových stránkách Ekonomie Jednoduše. Ekonomický systém nebyl nikdy tak nečitelný a fragilní, jako je dnes, a proto je velmi důležité se v něm umět zorientovat. Rád bych Vám v této orientaci pomohl prostřednictvím tvorby edukačního obsahu, a to především o ekonomii, ekonomice, investicích a v neposlední řadě i o Bitcoinu.</p>
 
@@ -172,7 +187,7 @@
     <div class="col-5-middle_sm-12">
         <p>Ekonomické znalosti nám poskytnou způsob, jak přemýšlet o světě kolem nás a jak lépe hospodařit s penězi. Myslím si, že tyto znalosti jsou velmi důležité, ale bohužel se o nich málo mluví. A když už se o nich mluví, tak moc složitě, a pro někoho, kdo se s ekonomií střetne poprvé, nesrozumitelně... Mým cílem je zjednodušit složitější ekonomická témata, popřípadě i určité aspekty Bitcoinu, a předat Vám je srozumitelnou a krátkou formou.</p>
     </div>
-    <div class="col-6_sm-12 bg-image bg-bitcoin tall-50"></div>
+    <div class="col-6_sm-12 bg-image bg-bitcoin tall-50 mob-hide"></div>
     </div>
 </section>
 
@@ -186,13 +201,13 @@
    <hr>           
 <footer class="grid">
     <!-- column -->
-    <div class="col-5_sm-12 padded p-b-1 p-t-2">
+    <div class="col-5_sm-12 padded p-b-1 p-t-2" id="footer-logo">
       <a href="/"><h2 class="logo"> Ekonomie Jednoduše </h2></a>
       <p> Pokud se ti má tvorba líbí, můžeš mě <a href="/podporte-me.html"><span class="underline">podpořit.</span></a> </p>
     </div>
     <div class="col-1 sm-hidden p-b-1"></div>
     <!-- column -->
-    <div class="col-6_sm-12-middle padded right p-b-1 p-t-2">
+    <div class="col-6_sm-12-middle padded right p-b-1 p-t-2" id="socials-footer">
       <nav class="inline">
         <a href="#"> Email </a>|
         <a href="#"> Discord</a>

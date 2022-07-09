@@ -60,7 +60,13 @@
     <header id="header" class="grid-spaceBetween">
     
 
-            <div class="col-4-middle left">
+            <div class="col-4-middle mob-hide left">
+        <a href="/">
+            <h2 class="logo">Ekonomie Jednoduše</h2>
+        </a>
+    </div>
+
+    <div class="col-12 mob-show center">
         <a href="/">
             <h2 class="logo">Ekonomie Jednoduše</h2>
         </a>
@@ -112,8 +118,17 @@
     </nav>
 
 <div class="col-12-right">
-    <button id="dark-btn" class="btn-toggle">Toggle Dark-Mode</button>
+    <button id="dark-btn" class="btn-toggle">
+        Dark Mode On/Off
+         </button>
 </div>
+
+<!-- <div class="col-12 center">
+    <button id="dark-btn" class="btn-toggle">
+        Dark Mode On/Off
+         </button>
+</div> -->
+
 
 
         <div class="col-4-middle right">
@@ -355,13 +370,13 @@
    <hr>           
 <footer class="grid">
     <!-- column -->
-    <div class="col-5_sm-12 padded p-b-1 p-t-2">
+    <div class="col-5_sm-12 padded p-b-1 p-t-2" id="footer-logo">
       <a href="/"><h2 class="logo"> Ekonomie Jednoduše </h2></a>
       <p> Pokud se ti má tvorba líbí, můžeš mě <a href="/podporte-me.html"><span class="underline">podpořit.</span></a> </p>
     </div>
     <div class="col-1 sm-hidden p-b-1"></div>
     <!-- column -->
-    <div class="col-6_sm-12-middle padded right p-b-1 p-t-2">
+    <div class="col-6_sm-12-middle padded right p-b-1 p-t-2" id="socials-footer">
       <nav class="inline">
         <a href="#"> Email </a>|
         <a href="#"> Discord</a>

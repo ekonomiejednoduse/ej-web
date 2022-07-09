@@ -10,6 +10,7 @@ categories:
   - ekonomie
   - bitcoin
 featured_image: /images/bitcoin-clanek.png
+download: co-je-to-bitcoin.pdf
 seo:
   title:
   description:

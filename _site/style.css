@@ -169,6 +169,18 @@ a:hover{
     font-size: 10rem;
 }
 
+.btn-toggle{
+    text-decoration: none;
+    background-color: var(--bg-lm);
+    color: var(--writing-lm);
+    padding: 0.4rem;
+    border: 3px solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(to left, var(--purple), var(--blue));
+    font-size: 0.8rem;
+}
+
 
 p a {
     color: var(--writing-lm);
@@ -488,4 +500,43 @@ background:#809ce2;
 @media(max-width:48em) {
     .mob-hide { display: none; }
     .mob-show { display: block; }
+}
+
+@media(max-width: 36em){
+    body{
+        padding: 5%;
+    }
+    .logo{font-size: 2.7rem;
+        display: inline-block;
+        padding: 0;
+        margin-top: 4rem;
+    }
+    .nadpis{
+        font-size: 1.8rem;
+    }
+    .btn-toggle{
+        margin-left:-0.5rem;
+    }
+    #footer-logo{
+        padding-top: 0rem;
+    }
+    hr{
+        margin-bottom: 0;
+    }
+    #socials-footer{
+        text-align: center;
+    }
+    #f-video iframe{
+        padding: 0;
+        margin: 0;
+        min-width: 80vw;
+        height: auto;
+    }
+    iframe.min-width{
+        min-width: 80vw;
+        height: auto;
+    }
+    #slider-video iframe{
+        height: auto;
+    }
 }
