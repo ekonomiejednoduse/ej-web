@@ -540,5 +540,6 @@ background:#809ce2;
     }
     #slider-video iframe{
         height: auto;
+        min-width: 80vw;
     }
 }
