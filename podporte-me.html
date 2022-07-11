@@ -1,5 +1,18 @@
 ---
 layout: default
+codes:
+ - code_image: /images/lightning.png
+   adress: LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXYHKCMN4WFKZ7VFSXCCS5AGD60
+   name: Lightning network <i class="yellow fa fa-bolt"></i>
+ - code_image: /images/bitcoin-qr.png
+   adress: bc1qck7adpcrzmmdfsteyfhqtjr0lku3kwlfmelcpv
+   name: Bitcoin
+ - code_image: images/monero.png 
+   adress: 48hESVEfQhFXooAE2mFKyMWGsNP3pJdpf7swRu4jPDj9aU9Z1WEED3cH1feAZzgZHXZGEZxzK5Kc5HemzcJtrvyzGX3CBqs
+   name: Monero
+ - code_image: /images/litecoin.png
+   adress: ltc1qg60ll2phu03afv40vm9rk9wnsw5kztc4v8m6ne
+   name: Litecoin
 ---
 
 <section class="padded grid center capped-width">
@@ -12,19 +25,23 @@ layout: default
 </section>
 
 <section class="grid-spaceAround capped-width">
-    <div class="col-4_sm-12 copy-code">
-        <h2 class="center">Lightning network <i class="yellow fa fa-bolt"></i></h2>
-    <div class="qr-lightning tall-50 bg-image m-b-1"></div>
+    {%for qr in page.codes%}
+    <div class="col-5_sm-12 copy-code">
+        <h2 class="center">{{qr.name}}</h2>
+        <img src="{{qr.code_image}}" alt="qr code">
+    
     <div class="container">
         <div class="copy-text center">
-            <input type="text" class="text" value="LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXYHKCMN4WFKZ7VFSXCCS5AGD60" readonly>
+            <input type="text" class="text" value="{{qr.adress}}" readonly>
             <button>
             <i class="fa fa-clone"></i>
             </button>
         </div>
         </div>
     </div>
-    <div class="col-4_sm-12 copy-code">
+    {%endfor%}
+</section>
+    <!-- <div class="col-4_sm-12 copy-code">
         <h2 class="center">Bitcoin</h2>
         <div class="qr-bitcoin tall-50 bg-image m-b-1"></div>
         <div class="container">
@@ -62,7 +79,7 @@ layout: default
                 </div>
                 </div>
             </div>
-</section>
+</section> -->
 
 <section class="capped-width padded center"> 
     <div class="copy-code">

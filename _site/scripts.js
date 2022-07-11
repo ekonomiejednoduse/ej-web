@@ -38,10 +38,10 @@ function toggleDarkMode(){
   console.log('clickedon' + document.cookie)
 body.classList.toggle('dark-mode');
 if (body.classList.contains('dark-mode')){
-  document.cookie = "dark-mode=active";
+  document.cookie = "dark-mode=active;SameSite=Lax";
 }
 else {
-  document.cookie = "dark-mode=deactive";
+  document.cookie = "dark-mode=deactive;SameSite=Lax";
 };
 
 console.log('clickedon' + document.cookie)
