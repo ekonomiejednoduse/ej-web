@@ -180,6 +180,11 @@ a:hover{
     border-width: 3px;
     border-image-source: linear-gradient(to left, var(--purple), var(--blue));
     font-size: 0.8rem;
+    cursor: pointer;
+}
+
+.btn-toggle:hover{
+    color: var(--purple);
 }
 
 .btn-toggle::before{
