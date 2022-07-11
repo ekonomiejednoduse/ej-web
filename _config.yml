@@ -8,7 +8,7 @@ collections:
     output: true
     permalink: /tvorba/:year/:slug
     
-    
+url: https://comfy-tanuki-dedf21.netlify.app/
 _options:
   content:
     styles: /editor.css
