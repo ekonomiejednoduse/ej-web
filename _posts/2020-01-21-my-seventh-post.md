@@ -9,6 +9,7 @@ featured: true
 categories:
   - bitcoin
 featured_image: https://source.unsplash.com/random?sig=10
+download:
 seo:
   title:
   description:

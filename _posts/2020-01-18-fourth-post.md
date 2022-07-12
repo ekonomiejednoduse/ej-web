@@ -6,6 +6,7 @@ author: Catherine
 featured: true
 categories: [bitcoin]
 featured_image: https://source.unsplash.com/random?sig=4
+download:
 seo: 
     title: 
     description: 

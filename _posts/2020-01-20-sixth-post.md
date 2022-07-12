@@ -6,6 +6,7 @@ author: James
 featured: true
 categories: [penize, ekonomie]
 featured_image: https://source.unsplash.com/random?sig=2
+download:
 seo: 
     title: 
     description: 

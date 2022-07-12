@@ -6,6 +6,7 @@ author: Catherine
 featured: true
 categories: [ekonomie, penize]
 featured_image: /images/jak-funguje.jpg
+download:
 seo: 
     title: 
     description: 

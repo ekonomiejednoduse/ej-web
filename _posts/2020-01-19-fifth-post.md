@@ -6,6 +6,7 @@ author: Tina
 featured: true
 categories: [ekonomie]
 featured_image: https://source.unsplash.com/random?sig=3
+download:
 seo: 
     title: 
     description: 

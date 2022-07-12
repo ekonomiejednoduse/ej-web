@@ -6,6 +6,7 @@ author: Daniel
 featured: true
 categories: [ekonomie, penize]
 featured_image: /images/ekologie.jpg
+download: 
 seo:
     title: 
     description: 

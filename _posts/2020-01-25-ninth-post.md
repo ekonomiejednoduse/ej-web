@@ -6,6 +6,7 @@ author: Catherine
 featured: true
 categories: [penize, ekonomie]
 featured_image: /images/bitcoin-clanek.png
+download:
 seo: 
     title: 
     description: 

@@ -6,6 +6,7 @@ author: Tina
 featured: true
 categories: [bitcoin, penize]
 featured_image: https://source.unsplash.com/random?sig=9
+download:
 seo: 
     title: 
     description: 
