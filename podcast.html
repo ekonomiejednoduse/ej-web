@@ -1,16 +1,25 @@
 ---
 layout: default
 episodes:
- - episode-url: https://open.spotify.com/embed/episode/55STk5lNbMRO6gZXVzlbMs?utm_source=generator&theme=0
- - episode-url: https://open.spotify.com/embed/episode/55STk5lNbMRO6gZXVzlbMs?utm_source=generator&theme=0
+ -
+  episode-url: >-
+   https://open.spotify.com/embed/episode/55STk5lNbMRO6gZXVzlbMs?utm_source=generator&theme=0
+ -
+  episode-url: >-
+   https://open.spotify.com/embed/episode/55STk5lNbMRO6gZXVzlbMs?utm_source=generator&theme=0
 ---
 
 <section class="grid center capped-width">
     <div class="col-12">
-        <h2 class="editable">Podcast coming soon...</h2>
-        <p class="editable">Jsem rád, že se těšíš na podcastové epizody od Ekonomie jednoduše. Momentálně na nich tvrdě pracuji, abych Ti mohl doručovat pravidelný obsah ze světa ekonomiky, ekonomie a bitcoinu i v audio verzi! Do svého podcastu budu zvát i zajímavé hosty na rozhovory, takže se rozhodně máš na co těšit!
+        <h2 class="editable">
+            Podcast coming soon...
+        </h2>
+        <p class="editable">
+            V r&aacute;mci Ekonomie Jednodu&scaron;e pracuji i na podcastu o ekonomii a Bitcoinu s těmi nejzaj&iacute;mavěj&scaron;&iacute;mi hosty v cz/sk.
         </p>
-        <p class="editable">V mezičase si ale můžeš přečíst některý z mých zajímavých článků, které najdeš <a href="/blog-archive.html"><span class="underline">tady.</span></a></p>
+        <p class="editable">
+            Na podcastech nyn&iacute; usilovně pracuji a m&aacute;te se rozhodně na co tě&scaron;it! Mezit&iacute;m si ale můžete přeč&iacute;st někter&eacute; z m&yacute;ch zaj&iacute;mav&yacute;ch čl&aacute;nků.
+        </p>
     </div>
 
 </section>
@@ -18,13 +27,17 @@ episodes:
 
 <section class="capped-width grid-spaceBetween">
     <div class="col-12 center">
-        <h2 class="editable">Poslechněte si episody mého podcastu</h2>
-        <p class="editable">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur cum sed aperiam natus recusandae nobis et! Nihil natus assumenda suscipit repudiandae dolore ex molestiae ducimus, accusantium fugit, tenetur, sapiente sequi!</p>
+        <h2 class="editable">
+            
+        </h2>
+        <p class="editable">
+            
+        </p>
     </div>
     {%for episode in page.episodes%}
     <div class="col-5_sm-12">
         
-        <iframe style="border-radius:12px" src="{{episode.episode-url}}" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+        <iframe style="border-radius:12px" src="{{episode.episode-url}}" width="100%" height="232" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     </div>
         {%endfor%}
 
