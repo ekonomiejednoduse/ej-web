@@ -211,6 +211,19 @@ p a:hover {
     border-image-source: linear-gradient(to left, var(--purple), var(--blue));
 }
 
+.social-share{
+    font-size: 1.3rem;
+}
+
+.social{
+    font-size: 1.5rem;
+    padding: 0.3rem;
+}
+
+.download{
+    font-size: 1.3rem;
+    padding-top: 0.7rem;
+}
 /* Image styles */
 .bg-image{
     background-position: center;
