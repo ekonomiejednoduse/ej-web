@@ -10,7 +10,7 @@ categories:
   - ekonomie
   - bitcoin
   - selhání trhu
-featured_image: /uploads/veřejné-statky.png
+featured_image: /uploads/návrh-bez-názvu-kopie.png
 download:
 seo:
   title: Veřejné statky
