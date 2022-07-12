@@ -64,7 +64,7 @@ Jedn&iacute;m z velmi neintuitivn&iacute;ch, byť naprosto z&aacute;sadn&iacute;
 
 ![](/uploads/ce-1.png){: width="2387" height="2062"}
 
-*Zn&aacute;zorněn&iacute; toho, v jakém pořad&iacute; se kdo dost&aacute;v&aacute; k nov&yacute;m penězům *
+*Zn&aacute;zorněn&iacute; toho, v jakém pořad&iacute; se kdo dost&aacute;v&aacute; k nov&yacute;m penězům*
 
 &nbsp;
 
