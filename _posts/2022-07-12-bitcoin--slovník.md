@@ -590,9 +590,7 @@ Komerčn&iacute; banka: Komerčn&iacute; banka s mal&yacute;m „k“ je institu
 
 *LNURL pay:* Způsob placen&iacute; a přij&iacute;m&aacute;n&iacute; LN plateb. LNURL si klade za c&iacute;l zjednodušit mnoho technicky složitějš&iacute;ch LN akc&iacute; tak, aby vyžadovaly pouze kliknut&iacute; nebo skenov&aacute;n&iacute; QR k&oacute;du. D&iacute;ky LNURL pay můžete trvale použ&iacute;vat jednu a tu samou adresu pro přij&iacute;m&aacute;n&iacute; LN bitcoinu a nav&iacute;c tato adresa nemus&iacute; b&yacute;t poř&aacute;d online, což je obrovsk&aacute; v&yacute;hoda, oproti LN faktur&aacute;m. To je způsobeno t&iacute;m, že LNURL pay je odkaz na vygenerov&aacute;n&iacute; Lightning př&iacute;kazu v danou chv&iacute;li. Pro vyzkoušen&iacute; LNURL pay můžete vyzkoušet tento odkaz, č&iacute;mž z&aacute;roveň podpoř&iacute;te moji tvorbu:
 
-&nbsp;
-
-LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXYHKCMN4WFKZ7VFSX5USE22VHN :)
+`LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXYHKCMN4WFKZ7VFSX5USE22VHN` :)
 
 &nbsp;
 
