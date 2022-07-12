@@ -9,11 +9,11 @@ featured_image: /uploads/návrh-bez-názvu.png
 categories: dalsi tvorba
 download:
 seo:
-  title:
+  title: Ekonomická olympiáda
   description:
   social_image:
   twitter_card:
-  keywords:
+  keywords: Ekonomická olympiáda, EO, EO 2022, EO22
   hide-from-google: false
 _comments:
   title: Max 70 characters
