@@ -2,8 +2,8 @@
 layout: post
 title: BtcPayServer a crowdfunding
 description: >-
-  Služba BtcPayServer umožňuje fungování  služby crowdfundingu skrze bitcoin a
-  Lightning Network. V tomto článku se dozvíte, proč tato implementace
+  Služba BtcPayServer umožňuje fungování technologie crowdfunding, skrze bitcoin
+  a Lightning Network. V tomto článku se dozvíte, proč tato implementace
   crowdfundingu neřeší ten problém, co crowdfunding řešit má.
 author: Štěpán Drábek
 featured: true
