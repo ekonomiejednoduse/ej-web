@@ -22,8 +22,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## Co je to Bitcoin a proč vznikl?
-
 Bitcoin je tu s n&aacute;mi již od roku 2009 a neust&aacute;le nab&yacute;v&aacute; na své popularitě. Většina lid&iacute; na světě o něm už slyšela, někteř&iacute; jej již nakoupili a jin&iacute; ho dokonce stihli i prodat, avšak pouze zlomek světové populaci v&iacute;, co je to Bitcoin, jaké problémy řeš&iacute; a proč se jedn&aacute; o tak z&aacute;sadn&iacute; inovaci v oblasti peněz. A tato témata se pokus&iacute;m v nadch&aacute;zej&iacute;c&iacute;ch ř&aacute;dc&iacute;ch jednoduše vysvětlit. Prvně si zde pop&iacute;šeme problémy současn&yacute;ch peněz a až n&aacute;sledně to, co vlastně Bitcoin je a jak tyto problémy řeš&iacute;.
 
 &nbsp;
