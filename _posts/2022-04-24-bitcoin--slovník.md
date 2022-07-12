@@ -40,19 +40,19 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 *Algoritmus*\: Předem určen&yacute; postup, kter&yacute;m se řeš&iacute; dan&aacute; &uacute;loha. Algoritmy se nejčastěji použ&iacute;vaj&iacute; v programov&aacute;n&iacute;, ale obecně tento pojem můžete naj&iacute;t i v jakémkoliv jiném vědeckém oboru. Algoritmy v informatice maj&iacute; tyto z&aacute;kladn&iacute; parametry:
 
-1. Determinovanost
+**Determinovanost**
 
 Determinovanost (jednoznačnost) znamen&aacute;, že je postup pr&aacute;ce předem určen&yacute; a vždy z&aacute;vis&iacute; pouze na popisu algoritmu a na vstupu.
 
-1. Konečnost
+**Konečnost**
 
 Každ&yacute; algoritmus z definice mus&iacute; jednou končit (po konečném počtu proveden&yacute;ch kroků).
 
-1. Rezultativnost
+**Rezultativnost**
 
 Aby algoritmus mohl b&yacute;t algoritmem, mus&iacute; vždy vydat určit&yacute; v&yacute;sledek.
 
-1. Jednoduchost popisu
+**Jednoduchost popisu**
 
 Každ&yacute; algoritmus je popsan&yacute; počtem s konečn&yacute;m množstv&iacute;m z&aacute;kladn&iacute;ch instrukc&iacute;. Jedn&aacute; se tedy o instrukce, o kter&yacute;ch přesně v&iacute;me, jak se provedou.
 
