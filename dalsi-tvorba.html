@@ -2,14 +2,24 @@
 layout: default
 title: Tvorba
 pars:
- - title: Podcasty
-   popis: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id pariatur numquam facilis expedita! Dignissimos veniam totam fugit expedita distinctio corrupti possimus iusto aperiam, repudiandae soluta rem dicta eum accusamus libero.
+   -
+      title: Podcasty
+      popis: >-
+         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id pariatur
+         numquam facilis expedita! Dignissimos veniam totam fugit expedita
+         distinctio corrupti possimus iusto aperiam, repudiandae soluta rem
+         dicta eum accusamus libero.
 ---
+
 <section class="padded archive">
 
     <div class="capped-width-narrow padded-05 center margin-b-1">
-        <h2 class="editable"> Další tvorba </h2>
-        <p class="editable">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+        <h2 class="editable">
+            Dal&scaron;&iacute; tvorba
+        </h2>
+        <p class="editable">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.
+        </p>
     </div>
 
     <div class="capped-width grid">
@@ -36,11 +46,17 @@ pars:
 </section>
 
 <section class="capped-width center grid-spaceAround">
-    <h2 class="col-12 editable">Kam dál?</h2>
+    <h2 class="col-12 editable">
+        Kam d&aacute;l?
+    </h2>
     {%for par in page.pars%}
     <div class="col-4_sm-12">
-        <p class="editable center">{{par.title}}</p>
-        <p class="editable center">{{par.odkazy}}</p>
+        <p class="editable center">
+            Podcasty
+        </p>
+        <p class="editable center">
+            Toto je odkaz <a target="_blank" rel="noopener" href="https://www.loveandlemons.com/matcha-green-tea/">na jin&yacute; web</a>
+        </p>
     </div>
     {%endfor%}
 </section>
