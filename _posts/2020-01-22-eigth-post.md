@@ -10,7 +10,7 @@ categories:
     - bitcoin
     - penize
 featured_image: https://source.unsplash.com/random?sig=9
-download: B2-First-sample-paper -1 -RUE.pdf
+download: B2-First-sample-paper-1-RUE.pdf
 seo:
     title:
     description:
