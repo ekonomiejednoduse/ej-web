@@ -1,26 +1,40 @@
 ---
 layout: default
 codes:
- - code_image: /images/lightning.png
-   adress: LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXYHKCMN4WFKZ7VFSXCCS5AGD60
-   name: Lightning network <i class="yellow fa fa-bolt"></i>
- - code_image: /images/bitcoin-qr.png
-   adress: bc1qck7adpcrzmmdfsteyfhqtjr0lku3kwlfmelcpv
-   name: Bitcoin
- - code_image: images/monero.png 
-   adress: 48hESVEfQhFXooAE2mFKyMWGsNP3pJdpf7swRu4jPDj9aU9Z1WEED3cH1feAZzgZHXZGEZxzK5Kc5HemzcJtrvyzGX3CBqs
-   name: Monero
- - code_image: /images/litecoin.png
-   adress: ltc1qg60ll2phu03afv40vm9rk9wnsw5kztc4v8m6ne
-   name: Litecoin
+   -
+      code_image: /images/lightning.png
+      adress: >-
+         LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXYHKCMN4WFKZ7VFSXCCS5AGD60
+      name: Lightning network <i class="yellow fa fa-bolt"></i>
+   -
+      code_image: /images/bitcoin-qr.png
+      adress: bc1qck7adpcrzmmdfsteyfhqtjr0lku3kwlfmelcpv
+      name: Bitcoin
+   -
+      code_image: images/monero.png
+      adress: >-
+         48hESVEfQhFXooAE2mFKyMWGsNP3pJdpf7swRu4jPDj9aU9Z1WEED3cH1feAZzgZHXZGEZxzK5Kc5HemzcJtrvyzGX3CBqs
+      name: Monero
+   -
+      code_image: /images/litecoin.png
+      adress: ltc1qg60ll2phu03afv40vm9rk9wnsw5kztc4v8m6ne
+      name: Litecoin
 ---
 
 <section class="padded grid center capped-width">
     <div class="col-12">
-        <h2 class="editable">Jsem moc rád, že se ti líbí content, který tvořím!</h2>
-        <p class="editable">Abych mohl ve tvorbě pokračovat i dál, budu moc rád, když zvážíš podporu mé tvorby v podobě finančního daru, který můžeš zaslat na bankovní účet nebo na bitcoin.</p>
-        <p class="editable">Pokud pro tebe finančí příspěvek momentálně není možný, budu moc rád za jakékoliv sdílení, třeba na FACEBOOKU, TWITTERU nebo o mě pověz své rodině a kamarádům.</p>
-        <p class="editable">Vážím si tvé návštěvy na mých stránkách a děkuji!</p>
+        <h2 class="editable">
+            Jsem moc r&aacute;d, že se Ti l&iacute;b&iacute; obsah, kter&yacute; tvoř&iacute;m!
+        </h2>
+        <p class="editable">
+            Ve&scaron;ker&aacute; m&aacute; tvorba je <strong>ZDARMA</strong> veřejně dostupn&aacute;. Pokud se Ti tento obsah l&iacute;b&iacute;, zvažte pros&iacute;m podporu m&eacute; pr&aacute;ce. Každ&eacute; Tvoj&iacute; podpory (a to nejen finančn&iacute;) si moc v&aacute;ž&iacute;m! :)
+        </p>
+        <p class="editable">
+            Pokud pro Tebe finanč&iacute; př&iacute;spěvek moment&aacute;lně nen&iacute; možn&yacute;, budu moc r&aacute;d za jak&eacute;koliv sd&iacute;len&iacute; na soci&aacute;ln&iacute;ch s&iacute;t&iacute;ch, aby se m&aacute; tvorba dostala i k ostatn&iacute;m lidem
+        </p>
+        <p class="editable">
+            
+        </p>
     </div>
 </section>
 
@@ -28,11 +42,11 @@ codes:
     {%for qr in page.codes%}
     <div class="col-5_sm-12 copy-code">
         <h2 class="center">{{qr.name}}</h2>
-        <img src="{{qr.code_image}}" alt="qr code" class="m-b-1">
+        <img src="{{qr.code_image}}" alt="qr code" class="m-b-1" />
     
     <div class="container">
         <div class="copy-text center">
-            <input type="text" class="text" value="{{qr.adress}}" readonly>
+            <input type="text" class="text" value="{{qr.adress}}" readonly />
             <button>
             <i class="fa fa-clone"></i>
             </button>
@@ -86,13 +100,12 @@ codes:
         <h2>Bankovní účet:</h2>
         <div class="container">
             <div class="copy-text">
-                <input type="text" class="text center" value="2176915019/3030" readonly>
+                <input type="text" class="text center" value="2176915019/3030" readonly />
                 <button>
                 <i class="fa fa-clone"></i>
                 </button>
             </div>
             </div>
         </div>  
-    </div>
+    
 </section>
-
