@@ -1,6 +1,6 @@
 ---
 layout: tvorba
-title: 🥈Ekonomická olympiáda 2022
+title: 🥈 Ekonomická olympiáda 2022
 description: |
   Skončil jsem na 2. místě v celostátním kole Ekonomické olympiády.
 author: Štěpán Drábek
