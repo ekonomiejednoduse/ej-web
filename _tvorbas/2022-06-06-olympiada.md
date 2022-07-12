@@ -9,7 +9,7 @@ featured_image: /uploads/návrh-bez-názvu.png
 categories: dalsi tvorba
 download:
 seo:
-  title: Ekonomická olympiáda
+  title: 'Ekonomická olympiáda '
   description:
   social_image:
   twitter_card:
