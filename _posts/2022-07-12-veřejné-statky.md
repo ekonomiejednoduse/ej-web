@@ -22,11 +22,11 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-**Veřejné statky**
+*Selh&aacute;n&iacute; trhu* je často prob&iacute;rané téma. Pojďme se nyn&iacute; pod&iacute;vat na jednu oblast, kde by voln&yacute; trh mohl způsobit neefektivn&iacute; alokaci zdrojů, kterou bychom mohli nazvat selh&aacute;n&iacute;m – *veřejné statky*. V tomto čl&aacute;nku si společně rozebereme, zda trh může při řešen&iacute; problémů spojen&yacute;ch s veřejn&yacute;mi statky selhat a zda n&aacute;sledné st&aacute;tn&iacute; řešen&iacute; tohoto problému nemůže způsobit dalš&iacute; neefektivnosti.
 
 &nbsp;
 
-Selh&aacute;n&iacute; trhu je často prob&iacute;rané téma. Pojďme se nyn&iacute; pod&iacute;vat na jednu oblast, kde by voln&yacute; trh mohl způsobit neefektivn&iacute; alokaci zdrojů, kterou bychom mohli nazvat selh&aacute;n&iacute;m – veřejné statky. V tomto čl&aacute;nku si společně rozebereme, zda trh může při řešen&iacute; problémů spojen&yacute;ch s veřejn&yacute;mi statky selhat a zda n&aacute;sledné st&aacute;tn&iacute; řešen&iacute; tohoto problému nemůže způsobit dalš&iacute; neefektivnosti.
+> Ne všechny statky v ekonomice jsou čistě soukrom&yacute;mi nebo veřejn&yacute;mi. Velk&aacute; č&aacute;st z nich se nach&aacute;z&iacute; mezi těmito dvěma extrémy.
 
 &nbsp;
 
@@ -34,11 +34,23 @@ Nejprve je zapotřeb&iacute; si zde přesně definovat, co je to veřejn&yacute;
 
 &nbsp;
 
-Ne všechny statky v ekonomice jsou čistě soukrom&yacute;mi nebo veřejn&yacute;mi. Velk&aacute; č&aacute;st z nich se nach&aacute;z&iacute; mezi těmito dvěma extrémy. Tedy se jedn&aacute; buďto o statek, kter&yacute; je sice vylučiteln&yacute; ze spotřeby, avšak nen&iacute; rivalitn&iacute;, anebo o statek, kter&yacute; je rivalitn&iacute;, ovšem nen&iacute; vylučiteln&yacute; ze spotřeby. Avšak i samotn&aacute; vylučitelnost ze spotřeby a rivalitnost statků nejsou jak&yacute;misi objektivn&iacute;mi bin&aacute;rn&iacute;mi pojmy. Ve skutečnosti z&aacute;lež&iacute; na tom, s jak vysok&yacute;mi n&aacute;klady (s jak velk&yacute;m &uacute;sil&iacute;m) lze spotřebitele vyloučit ze spotřeby a jak spotřeba statku jedn&iacute;m člověkem znemožňuje spotřebu stejného statku člověkem jin&yacute;m. Jin&yacute;mi slovy rivalitnost a vylučitelnost ze spotřeby nejsou objektivn&iacute;mi vlastnostmi jednotliv&yacute;ch statků, n&yacute;brž se jedn&aacute; sp&iacute;še o naše subjektivn&iacute; posouzen&iacute; m&iacute;ry, šk&aacute;ly chcete-li, jak moc dobře dan&yacute; statek tyto vlastnosti splňuje.
+> Jin&yacute;mi slovy rivalitnost a vylučitelnost ze spotřeby nejsou objektivn&iacute;mi vlastnostmi jednotliv&yacute;ch statků, n&yacute;brž se jedn&aacute; sp&iacute;še o naše subjektivn&iacute; posouzen&iacute; m&iacute;ry, šk&aacute;ly chcete-li, jak moc dobře dan&yacute; statek tyto vlastnosti splňuje.
 
 &nbsp;
 
-Nyn&iacute; už ch&aacute;peme, že definice veřejn&yacute;ch statků je lehce v&aacute;gn&iacute;. To však nen&iacute; zdaleka největš&iacute;m problémem těchto statků. Abychom pochopili, proč a jak může trh při poskytov&aacute;n&iacute; čistě veřejn&yacute;ch statků selhat, mus&iacute;me nejprve pochopit, jak trh funguje při poskytov&aacute;n&iacute; statků čistě soukrom&yacute;ch. U nich funguje takzvan&aacute; *neviditeln&aacute; ruka trhu*, což je zjednodušeně koncept, kter&yacute; n&aacute;m ř&iacute;k&aacute;, že ačkoliv všichni &uacute;častn&iacute;ci trhu vždy sleduj&iacute; předevš&iacute;m svůj vlastn&iacute; prospěch z obchodu, v&yacute;sledkem je řetězec efektivn&iacute;ch produkčn&iacute;ch procesů (jedn&aacute; se o nezamyšlené soci&aacute;ln&iacute; př&iacute;nosy vlast&iacute;ch z&aacute;jmů jednotlivců). Producenti v důsledku tlaku konkurence produkuj&iacute; takové statky, které spotřebitelé popt&aacute;vaj&iacute;. Tedy byť se snaž&iacute; zejména maximalizovat svůj vlastn&iacute; zisk (nemus&iacute; b&yacute;t pouze finančn&iacute;) naplňuj&iacute; potřeby lid&iacute;. A naopak, jestliže spotřebitelé (z&aacute;kazn&iacute;ci) chtěj&iacute; spotřebov&aacute;vat dan&yacute; statek, mus&iacute; za něj zaplatit (anebo jinou formou kompenzovat veškeré n&aacute;klady obětované př&iacute;ležitosti plynouc&iacute; z produkce statků), což opět finančně motivuje producenty, aby trhu poskytovali popt&aacute;vané zbož&iacute; a služby.
+Ne všechny statky v ekonomice jsou čistě soukrom&yacute;mi nebo veřejn&yacute;mi. Velk&aacute; č&aacute;st z nich se nach&aacute;z&iacute; mezi těmito dvěma extrémy. Tedy se jedn&aacute; buďto o statek, kter&yacute; je sice vylučiteln&yacute; ze spotřeby, avšak nen&iacute; rivalitn&iacute;, anebo o statek, kter&yacute; je rivalitn&iacute;, ovšem nen&iacute; vylučiteln&yacute; ze spotřeby. Avšak i samotn&aacute; vylučitelnost ze spotřeby a rivalitnost statků nejsou jak&yacute;misi objektivn&iacute;mi [bin&aacute;rn&iacute;mi](https://youtu.be/5tE0xPdkDQk?t=2417){: target="_blank" rel="noopener"}&nbsp;pojmy. Ve skutečnosti z&aacute;lež&iacute; na tom, s jak vysok&yacute;mi n&aacute;klady (s jak velk&yacute;m &uacute;sil&iacute;m) lze spotřebitele vyloučit ze spotřeby a jak spotřeba statku jedn&iacute;m člověkem znemožňuje spotřebu stejného statku člověkem jin&yacute;m. Jin&yacute;mi slovy rivalitnost a vylučitelnost ze spotřeby nejsou objektivn&iacute;mi vlastnostmi jednotliv&yacute;ch statků, n&yacute;brž se jedn&aacute; sp&iacute;še o naše subjektivn&iacute; posouzen&iacute; m&iacute;ry, šk&aacute;ly chcete-li, jak moc dobře dan&yacute; statek tyto vlastnosti splňuje.
+
+&nbsp;
+
+> V&yacute;sledkem toho, když jsou v&yacute;robn&iacute; prostředky soukrom&yacute;ch statků v rukou podnikatelů touž&iacute;c&iacute;ch po zisku, je pak efektivn&iacute; alokace zdrojů
+
+&nbsp;
+
+Nyn&iacute; už ch&aacute;peme, že definice veřejn&yacute;ch statků je lehce v&aacute;gn&iacute;. To však nen&iacute; zdaleka největš&iacute;m problémem těchto statků. Abychom pochopili, proč a jak může trh při poskytov&aacute;n&iacute; čistě veřejn&yacute;ch statků selhat, mus&iacute;me nejprve pochopit, jak trh funguje při poskytov&aacute;n&iacute; statků čistě soukrom&yacute;ch. U nich funguje takzvan&aacute; *neviditeln&aacute; ruka trhu*, což je zjednodušeně koncept, kter&yacute; n&aacute;m ř&iacute;k&aacute;, že ačkoliv všichni &uacute;častn&iacute;ci trhu vždy sleduj&iacute; předevš&iacute;m svůj vlastn&iacute; prospěch z obchodu, v&yacute;sledkem je řetězec efektivn&iacute;ch produkčn&iacute;ch procesů (jedn&aacute; se o nezamyšlené soci&aacute;ln&iacute; př&iacute;nosy vlast&iacute;ch z&aacute;jmů jednotlivců). Producenti v důsledku tlaku konkurence produkuj&iacute; takové statky, které spotřebitelé popt&aacute;vaj&iacute;. Tedy byť se snaž&iacute; zejména maximalizovat svůj vlastn&iacute; zisk (nemus&iacute; b&yacute;t pouze finančn&iacute;), naplňuj&iacute; potřeby lid&iacute;. A naopak, jestliže spotřebitelé (z&aacute;kazn&iacute;ci) chtěj&iacute; spotřebov&aacute;vat dan&yacute; statek, mus&iacute; za něj zaplatit (anebo jinou formou kompenzovat veškeré n&aacute;klady obětované př&iacute;ležitosti plynouc&iacute; z produkce statků), což opět finančně motivuje producenty, aby trhu poskytovali popt&aacute;vané zbož&iacute; a služby.
+
+&nbsp;
+
+> U veřejn&yacute;ch statků skutečně může doj&iacute;t k méně efektivn&iacute; alokaci zdrojů.
 
 &nbsp;
 
@@ -50,11 +62,19 @@ U veřejn&yacute;ch statků skutečně může doj&iacute;t k méně efektivn&iac
 
 &nbsp;
 
+> Nejefektivnějš&iacute; nakl&aacute;d&aacute;n&iacute; s prostředky je, když si Vy sami nakupujete statky pro vlastn&iacute; spotřebu.
+
+&nbsp;
+
 Kvůli tomu, že určit&yacute; statek může spotřebov&aacute;vat i spotřebitel, kter&yacute; za něj producentovi nezaplatil (anebo obecně neposkytl ž&aacute;dnou popt&aacute;vanou kompenzaci), nemus&iacute; b&yacute;t trh schopen dos&aacute;hnout efektivn&iacute; alokace zdrojů (kvůli existenci pozitivn&iacute;ch externalit, d&iacute;ky nimž parazituj&iacute; čern&iacute; pasažéři). A to, jelikož celkov&aacute; suma mezn&iacute;ch užitků vešker&yacute;ch spotřebitelů (mezi nimi jsou i oni čern&iacute; pasažéři, kteř&iacute; za spotřebu statku nezaplatili) tohoto statku bude převyšovat mezn&iacute; n&aacute;klady na produkci dodatečné jednotky statku. Č&iacute;mž bude trh poskytovat méně těchto veřejn&yacute;ch statků, než by byl bod společenského optima (v z&aacute;věru čl&aacute;nku poukazuji na v&iacute;ce různ&yacute;ch metodologick&yacute;ch př&iacute;stupů, které odm&iacute;taj&iacute; tvrzen&iacute;, že trh neposkytuje ide&aacute;ln&iacute; množstv&iacute; veřejn&yacute;ch statků, že může selhat). A to je podle někter&yacute;ch ekonomů v čele s Paulem Samuelsonem dostatečn&yacute; důvod, proč by do hry měl přij&iacute;t st&aacute;t, kter&yacute; poskytne vyšš&iacute;, Paretovsky optim&aacute;ln&iacute; množstv&iacute; veřejn&yacute;ch statků, a t&iacute;m vykompenzuje nerovnov&aacute;hy, které stvořil trh.
 
 &nbsp;
 
 To je však velmi odv&aacute;žn&yacute; normarativn&iacute; z&aacute;věr z pozitivn&iacute; anal&yacute;zy vlastnost&iacute; veřejn&yacute;ch statků. Ano, trh skutečně může poskytovat méně veřejn&yacute;ch statků, než kolik jich společnost popt&aacute;v&aacute; (tuto „chybnou“ alokaci zdrojů klidně můžeme označit selh&aacute;n&iacute;m trhu). Ovšem řada ekonomů obhajuj&iacute;c&iacute;ch postoj, že st&aacute;t m&aacute; tuto neefektivitu trhu řešit poskytov&aacute;n&iacute;m větš&iacute;ho množstv&iacute; veřejn&yacute;ch statků, se nijak nezam&yacute;šlela nad t&iacute;m, zda nemůže i st&aacute;t v řešen&iacute; problému černého pasažéra a negativn&iacute;ch dopadů z tohoto problému plynouc&iacute;ch selhat (respektive, zda i st&aacute;t nemůže způsobit chybnou, neefektivn&iacute; alokaci zdrojů).
+
+&nbsp;
+
+> V&yacute;sledkem je skutečnost, že bychom si dobrovolně nekoupili statek, u kterého by n&aacute;klady na jeho poř&iacute;zen&iacute; převyšovaly užitek z jeho spotřeby.
 
 &nbsp;
 
@@ -66,11 +86,23 @@ Nejefektivnějš&iacute; nakl&aacute;d&aacute;n&iacute; s prostředky je, když 
 
 &nbsp;
 
+> Daně jsou extrémně neefektivn&iacute; způsob nakl&aacute;d&aacute;n&iacute; s prostředky a n&aacute;sledné alokace zdrojů.
+
+&nbsp;
+
 A to jsem ani nezm&iacute;nil, že většina dan&iacute; neslouž&iacute; k financov&aacute;n&iacute; veřejn&yacute;ch statků. Velk&aacute; č&aacute;st st&aacute;tem zkonfiskovan&yacute;ch peněz skonč&iacute; i v soukrom&yacute;ch statc&iacute;ch, a to ať už ve formě př&iacute;mého financov&aacute;n&iacute; soukrom&yacute;ch statků (st&aacute;t m&aacute; totiž monopoln&iacute; postaven&iacute; v mnoha odvětv&iacute;ch čistě soukrom&yacute;ch statků, ale o tom až později) anebo různ&yacute;ch dotac&iacute; (daně jsou mimo jiné i vysoce netransparentn&iacute; z&aacute;ležitost&iacute;). Zde z&aacute;sah st&aacute;tu do trhu nelze rozumně obh&aacute;jit, poněvadž neviditeln&aacute; ruka funguje u čistě soukrom&yacute;ch statků slibně.
 
 &nbsp;
 
+> Politici nemaj&iacute; dostatek informac&iacute; a spr&aacute;vn&yacute;ch motivac&iacute; dos&aacute;hnout společenského optima.
+
+&nbsp;
+
 Řada zn&aacute;m&yacute;ch ekonomů dělala tu chybu, že spr&aacute;vně odhalili tržn&iacute; selh&aacute;n&iacute; ve formě v&yacute;skytu čern&yacute;ch pasažérů u veřejn&yacute;ch statků, avšak hned volali po st&aacute;tn&iacute;m řešen&iacute;, bez toho, aby se zamysleli nad t&iacute;m, zda nemůže i st&aacute;t selhat při poskytov&aacute;n&iacute; čistě veřejn&yacute;ch statků. Daně jsou extrémně neefektivn&iacute; (o mor&aacute;ln&iacute; str&aacute;nce vym&aacute;h&aacute;n&iacute; peněz n&aacute;sil&iacute;m zde raději ani nebudu pojedn&aacute;vat) způsob nakl&aacute;d&aacute;n&iacute; s prostředky a n&aacute;sledné alokace zdrojů (připomeňme, že daně způsobuj&iacute; ztr&aacute;tu mrtvé v&aacute;hy; měn&iacute; pob&iacute;dky a deformuj&iacute; tržn&iacute; mechanismy).
+
+&nbsp;
+
+> Politici maj&iacute;, jako všichni ostatn&iacute; lidé, své individu&aacute;ln&iacute; (sobecké) motivace
 
 &nbsp;
 
@@ -82,7 +114,15 @@ Nejprve si pojďme ř&iacute;ci něco o motivac&iacute;ch politiků. Politici ma
 
 &nbsp;
 
+> St&aacute;t nen&iacute; soukrom&aacute; firma, a fakt, že n&aacute;klady na poskytov&aacute;n&iacute; veřejn&yacute;ch statků převyšuj&iacute; peněžn&iacute; zisk, jej nijak z&aacute;sadně netr&aacute;p&iacute;.
+
+&nbsp;
+
 Pokud nebude ve společnosti dostatečn&aacute; popt&aacute;vka po politické straně, kter&aacute; by chtěla sn&iacute;žit daně a využ&iacute;vat je pouze na financov&aacute;n&iacute; čistě veřejn&yacute;ch statků, kde trh může způsobit neefektivn&iacute; alokaci zdrojů (lidé bohužel chtěj&iacute; „obědy zadarmo“, neuvědomuj&iacute; si totiž, že [TANSTAAFL](https://cs.wikipedia.org/wiki/TANSTAAFL), neboli neexistuje *zdarma*, vše m&aacute; své n&aacute;klady; ukončen&iacute; přerozdělov&aacute;n&iacute; peněz na „věci zadarmo“ je politicky neatraktivn&iacute;m př&iacute;stupem), takov&aacute;to politika nebude ve volb&aacute;ch v&yacute;hern&iacute; strategi&iacute;, tedy k odluce vešker&yacute;ch soukrom&yacute;ch statků od st&aacute;tu „seshora“ nedojde.
+
+&nbsp;
+
+> Deficitn&iacute;mi v&yacute;daji si st&aacute;t bere pen&iacute;ze z budoucnosti, aby je mohl utratit v současnosti.
 
 &nbsp;
 
@@ -110,7 +150,7 @@ Nyn&iacute; jsme vyřešili problém s t&iacute;m, že maj&iacute; jednotliv&iac
 
 &nbsp;
 
-Crowdfunding se použ&iacute;v&aacute; k financov&aacute;n&iacute; (nejen) veřejn&yacute;ch statků v několika různ&yacute;ch sektorech. Největš&iacute; zastoupen&iacute; m&aacute; u internetov&yacute;ch služeb (webov&yacute;ch str&aacute;nek, nez&aacute;visl&yacute;ch novin&aacute;řsk&yacute;ch webů, vide&iacute;, mobiln&iacute;ch aplikac&iacute;...), ale použ&iacute;v&aacute; se např&iacute;klad i při financov&aacute;n&iacute; nov&yacute;ch knih, politick&yacute;ch kampan&iacute;, rozhleden, veřejného osvětlen&iacute; a v neposledn&iacute; řadě i n&aacute;rodn&iacute; obrany (současn&aacute; v&aacute;lka na Ukrajině je z č&aacute;sti financovan&aacute; i př&iacute;spěvky několika jednotlivců; v crowdfundingové kampani na podporu ukrajinské arm&aacute;dy, se ke dni 17. 3. 2022 vybralo přes neuvěřiteln&yacute;ch 400 milionů dolarů, což je v&iacute;ce než 9,5 miliard česk&yacute;ch korun; ještě větš&iacute; peněžn&iacute; obnos se vybral v crowdfundingové kampani na humanit&aacute;rn&iacute; pomoc Ukrajině). Crowdfunding však zdaleka nen&iacute; v&yacute;plodem novodobé historie. Ve skutečnosti existuje jeden velmi zn&aacute;m&yacute; př&iacute;klad z 19. stolet&iacute;. Spojené st&aacute;ty dostaly jako dar od Francie sochu Svobody. Ovšem bylo zapotřeb&iacute; postavit podstavec pod tuto sochu, a to nebyli politici ochotni financovat. A tak přišel do hry crowdfunding. Občané se mal&yacute;mi př&iacute;spěvky (jednotkami dolarů) dohromady &uacute;spěšně složili na financov&aacute;n&iacute; v&yacute;stavby podstavce pro sochu Svobody. Fascinuj&iacute;c&iacute; byl rovněž systém odměn přispěvatelů. Každ&yacute; z nich dostal malou sošku ztv&aacute;rňuj&iacute;c&iacute; onu v&yacute;stavbu podstavce a z&aacute;roveň byla jména všech podporovatelů naps&aacute;na v novin&aacute;ch (to byly ony selektivn&iacute; podněty, incentivy přispět).
+Crowdfunding se použ&iacute;v&aacute; k financov&aacute;n&iacute; (nejen) veřejn&yacute;ch statků v několika různ&yacute;ch sektorech. Největš&iacute; zastoupen&iacute; m&aacute; u internetov&yacute;ch služeb (webov&yacute;ch str&aacute;nek, nez&aacute;visl&yacute;ch novin&aacute;řsk&yacute;ch webů, vide&iacute;, mobiln&iacute;ch aplikac&iacute;…), ale použ&iacute;v&aacute; se např&iacute;klad i při financov&aacute;n&iacute; nov&yacute;ch knih, politick&yacute;ch kampan&iacute;, rozhleden, veřejného osvětlen&iacute; a v neposledn&iacute; řadě i n&aacute;rodn&iacute; obrany (současn&aacute; v&aacute;lka na Ukrajině je z č&aacute;sti financovan&aacute; i př&iacute;spěvky několika jednotlivců; v crowdfundingové kampani na podporu ukrajinské arm&aacute;dy, se ke dni 17. 3. 2022 vybralo přes neuvěřiteln&yacute;ch 400 milionů dolarů, což je v&iacute;ce než 9,5 miliard česk&yacute;ch korun; ještě větš&iacute; peněžn&iacute; obnos se vybral v crowdfundingové kampani na humanit&aacute;rn&iacute; pomoc Ukrajině). Crowdfunding však zdaleka nen&iacute; v&yacute;plodem novodobé historie. Ve skutečnosti existuje jeden velmi zn&aacute;m&yacute; př&iacute;klad z 19. stolet&iacute;. Spojené st&aacute;ty dostaly jako dar od Francie sochu Svobody. Ovšem bylo zapotřeb&iacute; postavit podstavec pod tuto sochu, a to nebyli politici ochotni financovat. A tak přišel do hry crowdfunding. Občané se mal&yacute;mi př&iacute;spěvky (jednotkami dolarů) dohromady &uacute;spěšně složili na financov&aacute;n&iacute; v&yacute;stavby podstavce pro sochu Svobody. Fascinuj&iacute;c&iacute; byl rovněž systém odměn přispěvatelů. Každ&yacute; z nich dostal malou sošku ztv&aacute;rňuj&iacute;c&iacute; onu v&yacute;stavbu podstavce a z&aacute;roveň byla jména všech podporovatelů naps&aacute;na v novin&aacute;ch (to byly ony selektivn&iacute; podněty, incentivy přispět).
 
 &nbsp;
 
