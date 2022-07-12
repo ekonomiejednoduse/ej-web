@@ -46,7 +46,7 @@ Avšak po zrušen&iacute; n&aacute;vaznosti dolaru a s n&iacute;m i ostatn&iacut
 
 &nbsp;
 
-> Pen&iacute;ze jsou totiž pouze prostředek k přesunu hodnoty prostorem a časem, jsou prostředkem směny.
+> Pen&iacute;ze jsou totiž pouze prostředek k přesunu hodnoty skrze prostor a čas, jsou prostředkem směny.
 
 &nbsp;
 
@@ -54,7 +54,7 @@ A nen&iacute; ž&aacute;dn&yacute;m překvapen&iacute;m, že v důsledku masivn&
 
 &nbsp;
 
-Pen&iacute;ze, které se znehodnocuj&iacute; z definice nemohou b&yacute;t uchovatelem hodnoty, což je jedna ze z&aacute;kladn&iacute;ch funkc&iacute; peněz. Pen&iacute;ze jsou totiž pouze prostředek k přesunu hodnoty prostorem a časem, jsou prostředkem směny. Jejich prostřednictv&iacute;m se ulehčuje směna statků. Ale k čemu jsou takové pen&iacute;ze, které maj&iacute; časem menš&iacute; a menš&iacute; kupn&iacute; s&iacute;lu? Přece jenom, pen&iacute;ze by si měly uchovat svoji hodnotu do té doby, než je opět směn&iacute;me za jiné zbož&iacute;. Pokud jsou pen&iacute;ze nevz&aacute;cné a neuchov&aacute;vaj&iacute; si svoj&iacute; kupn&iacute; s&iacute;lu, neslouž&iacute; jako prostředek k uspokojov&aacute;n&iacute; vlastn&iacute;ch potřeb, n&yacute;brž jako n&aacute;stroj k obohacov&aacute;n&iacute; určité privilegované skupiny, kter&aacute; m&aacute; k těmto nově vytvořen&yacute;m penězům jako prvn&iacute; př&iacute;stup.
+Pen&iacute;ze, které se znehodnocuj&iacute; z definice nemohou b&yacute;t uchovatelem hodnoty, což je jedna ze z&aacute;kladn&iacute;ch funkc&iacute; peněz. Pen&iacute;ze jsou totiž pouze prostředek k přesunu hodnoty skrze prostor a čas, jsou prostředkem směny. Jejich prostřednictv&iacute;m se ulehčuje směna statků. Ale k čemu jsou takové pen&iacute;ze, které maj&iacute; časem menš&iacute; a menš&iacute; kupn&iacute; s&iacute;lu? Přece jenom, pen&iacute;ze by si měly uchovat svoji hodnotu do té doby, než je opět směn&iacute;me za jiné zbož&iacute;. Pokud jsou pen&iacute;ze nevz&aacute;cné a neuchov&aacute;vaj&iacute; si svoj&iacute; kupn&iacute; s&iacute;lu, neslouž&iacute; jako prostředek k uspokojov&aacute;n&iacute; vlastn&iacute;ch potřeb, n&yacute;brž jako n&aacute;stroj k obohacov&aacute;n&iacute; určité privilegované skupiny, kter&aacute; m&aacute; k těmto nově vytvořen&yacute;m penězům jako prvn&iacute; př&iacute;stup.
 
 &nbsp;
 
