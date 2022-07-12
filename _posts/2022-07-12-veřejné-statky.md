@@ -134,7 +134,15 @@ Zaj&iacute;mavost&iacute; je, že některé čistě soukromé statky, jako škol
 
 &nbsp;
 
+> Č&iacute;m relevantnějš&iacute; je reklama, t&iacute;m větš&iacute; je pravděpodobnost, že si osloven&yacute; uživatel produkty dané firmy koup&iacute;.
+
+&nbsp;
+
 Jednoduch&yacute;m př&iacute;kladem veřejn&yacute;ch statků, které již dnes poskytuje v&yacute;hradně trh, je (nešifrované) televizn&iacute; a rozhlasové vys&iacute;l&aacute;n&iacute; soukrom&yacute;ch firem. Tyto služby ekonomicky živ&iacute; reklamy, které si producenti nakupuj&iacute; s c&iacute;lem informov&aacute;n&iacute; (respektive sezn&aacute;men&iacute; lid&iacute; s jejich produkty) spotřebitelů a n&aacute;sledné vytvořen&iacute; popt&aacute;vky potenci&aacute;ln&iacute;ch z&aacute;kazn&iacute;ků. Spotřebitelé tak za televizn&iacute; a rozhlasové vys&iacute;l&aacute;n&iacute; plat&iacute; sv&yacute;m časem, nikoliv peněžn&iacute;mi prostředky (někteř&iacute; by mohli nam&iacute;tnout, že pen&iacute;ze jsou pouze fyzick&yacute;m ztv&aacute;rněn&iacute;m času, respektive naš&iacute; ekonomické prospěšnosti pro společnost, což je samozřejmě pravda, ale pojďme se v tuto chv&iacute;li nezab&yacute;vat filozofi&iacute; peněz, n&yacute;brž veřejn&yacute;mi statky). Č&iacute;mž problém černého pasažéra vymizel, jelikož spotřebitelé př&iacute;mo neplat&iacute; penězi za veřejné statky (avšak firmy za zhlédnut&iacute; poutavé reklamy na jejich produkty), tud&iacute;ž zde neexistuje motivace spotřebov&aacute;vat statky bez zaplacen&iacute; za ně, poněvadž za ně ž&aacute;dn&yacute; spotřebitel sv&yacute;mi penězi neplat&iacute; (respektive platit nemus&iacute;; některé televizn&iacute; stanice nebo internetové služby, jež rovněž živ&iacute; reklama, z č&aacute;sti funguj&iacute; i na dobrovoln&yacute;ch př&iacute;spěvc&iacute;ch vysoce solid&aacute;rn&iacute;ch spotřebitelů). A t&iacute;m dok&aacute;že trh poskytovat optim&aacute;ln&iacute; množstv&iacute; televizn&iacute;ho a rozhlasového vys&iacute;l&aacute;n&iacute; (vzpomeňme si, že hlavn&iacute; problém existence čern&yacute;ch pasažérů spoč&iacute;v&aacute; v tom, že součet mezn&iacute;ch užitků spotřebitelů převyšuje mezn&iacute; n&aacute;klady, a t&iacute;m trh neposkytuje ide&aacute;ln&iacute; množstv&iacute; veřejn&yacute;ch statků).
+
+&nbsp;
+
+> Crowdfunding (kolektivn&iacute; financov&aacute;n&iacute;) je způsob financov&aacute;n&iacute;, na kterém větš&iacute; počet jednotlivců přisp&iacute;v&aacute; na realizaci určitého projektu.
 
 &nbsp;
 
@@ -146,7 +154,15 @@ Reklama nen&iacute; řešen&iacute;m problémů spojen&yacute;ch s tržn&iacute;
 
 &nbsp;
 
+> Občané se mal&yacute;mi př&iacute;spěvky (jednotkami dolarů) dohromady &uacute;spěšně složili na financov&aacute;n&iacute; v&yacute;stavby podstavce pro sochu Svobody.
+
+&nbsp;
+
 Nyn&iacute; jsme vyřešili problém s t&iacute;m, že maj&iacute; jednotliv&iacute; uživatelé v decentralizovaném světě tendenci si vz&aacute;jemně nedůvěřovat, pokud prospěch z jejich rozhodnut&iacute; př&iacute;mo z&aacute;vis&iacute; na rozhodnut&iacute; ostatn&iacute;ch (viz [vězňovo dilema](https://cs.wikipedia.org/wiki/V%C4%9Bz%C5%88ovo_dilema){: target="_blank" rel="noopener"}). Avšak st&aacute;le nevymizel problém černého pasažéra. Respektive, jaké m&aacute;m j&aacute;, coby jednotlivec, incentivy pod&iacute;let se na kolektivn&iacute;m financov&aacute;n&iacute; určitého projektu? Crowdfunding řeš&iacute; tento problém selektivn&iacute;mi podněty, tedy motivov&aacute;n&iacute;m lid&iacute; přispět na realizaci nov&yacute;ch n&aacute;padů t&iacute;m, že člověk, jenž přispěje v crowdfundingové kampani, dostane určité bonusy (exkluzivn&iacute; odměny spojené př&iacute;mo s dan&yacute;m projektem, např&iacute;klad zveřejněn&iacute; jména podporovatele nebo oblečen&iacute; s potiskem loga daného projektu). Lidé, kteř&iacute; se rozhodnou přispět, budou m&iacute;t z veřejného statku v&iacute;ce užitku (samozřejmě užitek je interperson&aacute;lně neporovnateln&yacute;, &uacute;vahu pros&iacute;m ch&aacute;pejte jako, že veřejn&yacute; statek + bonus &gt; veřejn&yacute; statek) nežli čern&iacute; pasažéři. A to snižuje (nikoliv zcela eliminuje) motivaci b&yacute;t čern&yacute;m pasažérem.
+
+&nbsp;
+
+> Občané se dobrovolně složili na financov&aacute;n&iacute; volnotržn&iacute; policie a dohromady se vybral desetin&aacute;sobek požadované minim&aacute;ln&iacute; č&aacute;stky
 
 &nbsp;
 
@@ -158,7 +174,15 @@ Zaj&iacute;mav&yacute;ch př&iacute;kladů financov&aacute;n&iacute; veřejn&yac
 
 &nbsp;
 
-Většina ekonomů použ&iacute;v&aacute; jako př&iacute;klad čistě veřejného statku maj&aacute;ky. Pr&aacute;vě na něm popisuj&iacute; důvody selh&aacute;n&iacute; trhu a nutnost st&aacute;tn&iacute;ho řešen&iacute;. Maj&aacute;ky jsou dle definice čistě veřejn&yacute;m statkem, neboť nelze vyloučit určitou loď ze spotřeby maj&aacute;ku, jelikož by t&iacute;m byli inherentně ze spotřeby vyloučeni všichni spotřebitelé, a to i ti poctiv&iacute;, již nejsou čern&yacute;mi pasažéry; z&aacute;roveň je tento statek nerivalitn&iacute;, využ&iacute;v&aacute;n&iacute; maj&aacute;ku jednou lod&iacute;, nijak nenarušuje spotřebu téhož statku spotřebitelem jin&yacute;m. V historii bychom však nalezli několik př&iacute;kladů, kde maj&aacute;ky poskytoval trh. Např&iacute;klad v Anglii před zač&aacute;tkem 19. stolet&iacute; se maj&aacute;ky poskytovaly soukromě. A do té doby, než si v&yacute;robn&iacute; prostředky k poskytov&aacute;n&iacute; maj&aacute;ků uzurpoval st&aacute;t, fungoval v Anglii tento veřejn&yacute; statek relativně efektivně. Jak ale trh dok&aacute;zal poskytovat tento čistě veřejn&yacute; statek? Bylo to pomoc&iacute; strategie „sv&aacute;z&aacute;n&iacute;“ veřejného statku se statkem soukrom&yacute;m. Podnikatelé v Anglii spojili službu poskytov&aacute;n&iacute; maj&aacute;ku se zakotven&iacute;m lodě v př&iacute;stavu (pozorn&yacute; čten&aacute;ř by si možn&aacute; všiml, že reklamy u internetov&yacute;ch služeb, kter&yacute;mi jsme se zab&yacute;vali v&yacute;še, funguj&iacute; na stejném principu; např&iacute;klad televizn&iacute; či rozhlasové vys&iacute;l&aacute;n&iacute; jsou čistě veřejn&yacute;mi statky, ovšem možnost inzerovat v těchto služb&aacute;ch je naopak statkem čistě soukrom&yacute;m; televizn&iacute; a rozhlasové vys&iacute;l&aacute;n&iacute; tyto dva statky spojily do jednoho, č&iacute;mž umožnily jeho efektivn&iacute; soukromé poskytov&aacute;n&iacute;). Služby bezpečného zakotven&iacute; lodi v př&iacute;stavu a fungov&aacute;n&iacute; maj&aacute;ku byly totiž komplementy (dva statky, u nichž ze spotřeby jednoho vypl&yacute;v&aacute; spotřeba druhého), nikoliv substituty (statky, u nichž lze zaměňovat spotřebu jednoho spotřebou druhého statku). Soukromé maj&aacute;ky byly v minulosti financov&aacute;ny i pojišťovnami, jež pojišťovaly lodě jednotliv&yacute;ch rejdařů. Tedy jak vid&iacute;te, i v ekonomii často použ&iacute;van&yacute; př&iacute;klad veřejného statku, může v praxi poskytovat trh.
+> Služby bezpečného zakotven&iacute; lod&iacute; v př&iacute;stavu a fungov&aacute;n&iacute; maj&aacute;ku byly totiž komplementy, nikoliv substituty.
+
+&nbsp;
+
+Většina ekonomů použ&iacute;v&aacute; jako př&iacute;klad čistě veřejného statku maj&aacute;ky. Pr&aacute;vě na něm popisuj&iacute; důvody selh&aacute;n&iacute; trhu a nutnost st&aacute;tn&iacute;ho řešen&iacute;. Maj&aacute;ky jsou dle definice čistě veřejn&yacute;m statkem, neboť nelze vyloučit určitou loď ze spotřeby maj&aacute;ku, jelikož by t&iacute;m byli inherentně ze spotřeby vyloučeni všichni spotřebitelé, a to i ti poctiv&iacute;, již nejsou čern&yacute;mi pasažéry; z&aacute;roveň je tento statek nerivalitn&iacute;, využ&iacute;v&aacute;n&iacute; maj&aacute;ku jednou lod&iacute;, nijak nenarušuje spotřebu téhož statku spotřebitelem jin&yacute;m. V historii bychom však nalezli několik př&iacute;kladů, kde maj&aacute;ky poskytoval trh. Např&iacute;klad v Anglii před zač&aacute;tkem 19. stolet&iacute; se maj&aacute;ky poskytovaly soukromě. A do té doby, než si v&yacute;robn&iacute; prostředky k poskytov&aacute;n&iacute; maj&aacute;ků uzurpoval st&aacute;t, fungoval v Anglii tento veřejn&yacute; statek relativně efektivně. Jak ale trh dok&aacute;zal poskytovat tento čistě veřejn&yacute; statek? Bylo to pomoc&iacute; strategie „sv&aacute;z&aacute;n&iacute;“ veřejného statku se statkem soukrom&yacute;m. Podnikatelé v Anglii spojili službu poskytov&aacute;n&iacute; maj&aacute;ku se zakotven&iacute;m lodě v př&iacute;stavu (pozorn&yacute; čten&aacute;ř by si možn&aacute; všiml, že reklamy u internetov&yacute;ch služeb, kter&yacute;mi jsme se zab&yacute;vali v&yacute;še, funguj&iacute; na stejném principu; např&iacute;klad televizn&iacute; či rozhlasové vys&iacute;l&aacute;n&iacute; jsou čistě veřejn&yacute;mi statky, ovšem možnost inzerovat v těchto služb&aacute;ch je naopak statkem čistě soukrom&yacute;m; televizn&iacute; a rozhlasové vys&iacute;l&aacute;n&iacute; tyto dva statky spojily do jednoho, č&iacute;mž umožnily jeho efektivn&iacute; soukromé poskytov&aacute;n&iacute;). Služby bezpečného zakotven&iacute; lod&iacute; v př&iacute;stavu a fungov&aacute;n&iacute; maj&aacute;ku byly totiž komplementy (dva statky, u nichž ze spotřeby jednoho vypl&yacute;v&aacute; spotřeba druhého), nikoliv substituty (statky, u nichž lze zaměňovat spotřebu jednoho spotřebou druhého statku). Soukromé maj&aacute;ky byly v minulosti financov&aacute;ny i pojišťovnami, jež pojišťovaly lodě jednotliv&yacute;ch rejdařů. Tedy jak vid&iacute;te, i v ekonomii často použ&iacute;van&yacute; př&iacute;klad veřejného statku, může v praxi poskytovat trh.
+
+&nbsp;
+
+> Jestliže vych&aacute;z&iacute;me z metodologického individualismu, argument, že by st&aacute;t měl poskytovat optim&aacute;ln&iacute; množstv&iacute; čistě veřejn&yacute;ch statků, jež nedok&aacute;že poskytnout voln&yacute; trh, je naprosto slab&yacute;, ekonomicky nedok&aacute;že obst&aacute;t.
 
 &nbsp;
 
@@ -166,7 +190,15 @@ Z&aacute;věrem bych zde chtěl zm&iacute;nit rozd&iacute;l mezi př&iacute;stup
 
 &nbsp;
 
+> Jin&yacute;mi slovy, statků je vždy optim&aacute;ln&iacute; množstv&iacute;, je jich nakoupeno/prod&aacute;no tolik, kolik jich nakoupeno/prod&aacute;no m&aacute; b&yacute;t.
+
+&nbsp;
+
 Druh&yacute; metodologick&yacute; př&iacute;stup, jejž zast&aacute;v&aacute; např&iacute;klad ekonom James McGill Buchanan, se na věc d&iacute;v&aacute; zcela odlišně. Dle tohoto př&iacute;stupu nen&iacute; možné, aby trh poskytoval statků nedostatek, anebo naopak přebytek. A to nehledě na vlastnosti daného statku (rivalitnost a vylučitelnost ze spotřeby). &nbsp;Jin&yacute;mi slovy, statků je vždy optim&aacute;ln&iacute; množstv&iacute;, je jich nakoupeno/prod&aacute;no tolik, kolik jich nakoupeno/prod&aacute;no m&aacute; b&yacute;t. Pokud je totiž „smlouva“ mezi producentem a spotřebitelem oboustranně dobrovoln&aacute;, je pro obě strany obchodu v&yacute;hodn&aacute;. Kdyby nebyla, k uzavřen&iacute; tohoto kontraktu by jednoduše nedošlo. Tud&iacute;ž tento metodologick&yacute; př&iacute;stup rezolutně odm&iacute;t&aacute; n&aacute;zor, že trh kvůli pozitivn&iacute;m externalit&aacute;m, z nichž čerpaj&iacute; čern&iacute; pasažéři při spotřebě statků, může selhat, a že je zapotřeb&iacute; st&aacute;tn&iacute; řešen&iacute;.
+
+&nbsp;
+
+> Avšak problém černého pasažéra se vyskytuje u velkého množstv&iacute; transakc&iacute; v ekonomice, a dal by se považovat za vlastnost našeho světa, kter&aacute; je způsobena nedostatkem informac&iacute; o budouc&iacute;m prospěchu z obchodu.
 
 &nbsp;
 
