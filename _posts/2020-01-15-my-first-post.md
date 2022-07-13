@@ -98,7 +98,7 @@ U peněz by tento problém mohl vypadat n&aacute;sledovně: M&aacute;me dva čle
 
 &nbsp;
 
-#### **Centralizovaně **
+#### Centralizovaně
 
 Nejjednodušš&iacute;m řešen&iacute;m je postavit mezi Alici, Boba a všechny uživatele dan&yacute;ch peněz autoritu, banku, kter&aacute; bude spravovat datab&aacute;zi, ve které bude m&iacute;t uloženy veškeré transakce, které kdy proběhly. Tedy uvid&iacute; např&iacute;klad to, že Alice poslala Bobovi 1 minci, tud&iacute;ž ji už nem&aacute; a nemůže ji poslat Cyrilovi. Banka jednoduše znemožn&iacute; Alici dvoj&iacute; &uacute;tratu téže mince. Problém vyřešen, kde je problém? Problém spoč&iacute;v&aacute; v samotném centru. Všechny transakce jsou totiž postaveny na důvěře k autoritě, které nic nebr&aacute;n&iacute; v tom, aby svého postaven&iacute; zneužila. M&aacute; nad všemi transakcemi moc, pomoc&iacute; které může určité uživatele cenzurovat. Samozřejmě je zde i již dř&iacute;ve zm&iacute;něn&yacute; problém s centralizac&iacute;, a sice zranitelnost. Tato datab&aacute;ze je totiž takzvan&yacute; *honey pot*, tj. př&iacute;mo vyb&iacute;z&iacute; &uacute;točn&iacute;ky, aby na ni za&uacute;točili. Centralizace sice řeš&iacute; problém dvoj&iacute; &uacute;traty, ale vytv&aacute;ř&iacute; jiné, velké problémy.
 
