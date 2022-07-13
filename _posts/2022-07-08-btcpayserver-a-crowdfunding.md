@@ -26,6 +26,10 @@ _comments:
 
 &nbsp;
 
+> Dnes nen&iacute; možné ve *spendovac&iacute;m skriptu* bitcoinové transakce nastavit, že když se v crowdfundingové kampani nevybere dostatek peněz, *sats* se vr&aacute;t&iacute; zpět k lidem, kteř&iacute; se rozhodli pomoci financovat onen projekt.
+
+&nbsp;
+
 Téměř všechny crowdundingové platformy jsou založeny na technologii *all or nothing*, spoč&iacute;vaj&iacute;c&iacute; v tom, že když se v dané kampani nevybere požadovan&aacute; c&iacute;lov&aacute; č&aacute;stka, pen&iacute;ze se vr&aacute;t&iacute; zpět k jednotliv&yacute;m přispěvatelům. T&iacute;m miz&iacute; n&aacute;klady v podobě nedostatku informac&iacute; spojen&yacute;ch s volbou ostatn&iacute;ch. V momentě, kdy o &uacute;spěšnosti kampaně nerozhoduje pouze Vaše volba přispět, ale i volba ostatn&iacute;ch, které nezn&aacute;te, je z hlediska [teorie her](https://cs.wikipedia.org/wiki/Teorie_her){: target="_blank" rel="noopener"} [dominantn&iacute; strategi&iacute;](https://cs.wikipedia.org/wiki/Dominantn%C3%AD_strategie){: target="_blank" rel="noopener"} i [Shellingov&yacute;m (ohniskov&yacute;m) bodem](https://en.wikipedia.org/wiki/Focal_point_&#40;game_theory&#41;){: target="_blank" rel="noopener"} na dan&yacute; projekt nepřispět. Strategie all or nothing n&aacute;klady spojené s t&iacute;mto problémem eliminuje.
 
 &nbsp;
