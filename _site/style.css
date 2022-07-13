@@ -37,7 +37,7 @@ body.dark-mode{
 }
 
 img {
-max-width:100%;
+max-width: 100%;
 }
 
 /* img{
@@ -244,6 +244,9 @@ p a:hover {
 .qr-litecoin{background-image: url('/images/litecoin.png');}
 .qr-monero{background-image: url('/images/monero.png');}
 
+.max-w{
+    max-width: 100%;
+}
 /* Header and footer styles */
 header{
     padding: 3% 4%;

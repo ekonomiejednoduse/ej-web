@@ -36,15 +36,15 @@ body.dark-mode{
     --writing-dm: black;
 }
 
-/* img {
-max-width:100%;
-} */
+img {
+max-width: 100%;
+}
 
-img{
+/* img{
     display: inline-block;
     max-width: 40vw;
     height: auto;
-}
+} */
 
 p{
     font-size: 1.2rem;
@@ -244,10 +244,9 @@ p a:hover {
 .qr-litecoin{background-image: url('/images/litecoin.png');}
 .qr-monero{background-image: url('/images/monero.png');}
 
-img.copy-code{
+.max-w{
     max-width: 100%;
 }
-
 /* Header and footer styles */
 header{
     padding: 3% 4%;
