@@ -47,9 +47,7 @@ Jedn&iacute;m z velmi neintuitivn&iacute;ch, byť naprosto z&aacute;sadn&iacute;
 
 &nbsp;
 
-![Cantillonův efekt](/uploads/ce-2.png "Znázornění toho, v jakém pořadí se kdo dostává k novým penězům"){: .small-centered-image width="2387" height="2062"}
-
-&nbsp;
+​​​​
 
 Důležité je také zm&iacute;nit, že současné měny stoj&iacute; a padaj&iacute; pouze na důvěře k jejich emitentovi – bank&aacute;m. K jejich tvorbě nejsou potřeba prakticky ž&aacute;dné n&aacute;klady a jejich množstv&iacute; nen&iacute; do budoucna predikovatelné – st&aacute;tn&iacute; měny nemaj&iacute; předv&iacute;datelnou monet&aacute;rn&iacute; politiku.
 
