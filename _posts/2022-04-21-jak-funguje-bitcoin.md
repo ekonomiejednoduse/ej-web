@@ -49,11 +49,13 @@ Bitcoin k tomu použ&iacute;v&aacute; algoritmus *Proof of Work*. U Bitcoinu tot
 
 &nbsp;
 
-> Důsledek růstu nab&iacute;dky zlata je pak pokles jeho ceny. Bitcoin ale funguje jinak.
+![Blockchain](/uploads/blockchain-2.png "Řetězec bloků – Blockchain"){: .small-centered-image width="2264" height="1090"}​​​​
+
+Jak je ale možné z&iacute;skat onu odměnu? Přece jenom, to, že se k z&iacute;sk&aacute;n&iacute; nov&yacute;ch minc&iacute; mus&iacute; zahashovat veškeré &uacute;daje v bloc&iacute;ch nijak nezaruč&iacute; to, že je vytěž&iacute; ten, kdo k tomu obětoval nejv&iacute;ce zdrojů. A nyn&iacute; přich&aacute;z&iacute; do hry znalost hashovac&iacute;ch funkc&iacute;. Bitcoinov&aacute; s&iacute;ť předem zn&aacute; takzvané *c&iacute;lové č&iacute;slo*. V&yacute;sledn&yacute; hash vešker&yacute;ch &uacute;dajů v bloku mus&iacute; b&yacute;t menš&iacute; nebo stejn&yacute; jako ono c&iacute;lové č&iacute;slo. Komu takto vyjde hash, z&iacute;sk&aacute; pravomoc uzavř&iacute;t blok, rozeslat jej mezi uživatele Bitcoinové s&iacute;tě a z&iacute;skat odměnu v podobě nov&yacute;ch bitcoinů.
 
 &nbsp;
 
-Jak je ale možné z&iacute;skat onu odměnu? Přece jenom, to, že se k z&iacute;sk&aacute;n&iacute; nov&yacute;ch minc&iacute; mus&iacute; zahashovat veškeré &uacute;daje v bloc&iacute;ch nijak nezaruč&iacute; to, že je vytěž&iacute; ten, kdo k tomu obětoval nejv&iacute;ce zdrojů. A nyn&iacute; přich&aacute;z&iacute; do hry znalost hashovac&iacute;ch funkc&iacute;. Bitcoinov&aacute; s&iacute;ť předem zn&aacute; takzvané *c&iacute;lové č&iacute;slo*. V&yacute;sledn&yacute; hash vešker&yacute;ch &uacute;dajů v bloku mus&iacute; b&yacute;t menš&iacute; nebo stejn&yacute; jako ono c&iacute;lové č&iacute;slo. Komu takto vyjde hash, z&iacute;sk&aacute; pravomoc uzavř&iacute;t blok, rozeslat jej mezi uživatele Bitcoinové s&iacute;tě a z&iacute;skat odměnu v podobě nov&yacute;ch bitcoinů.
+> Důsledek růstu nab&iacute;dky zlata je pak pokles jeho ceny. Bitcoin ale funguje jinak.
 
 &nbsp;
 
