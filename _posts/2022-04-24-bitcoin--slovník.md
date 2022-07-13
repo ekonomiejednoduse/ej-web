@@ -7,9 +7,8 @@ description: >-
 author: Štěpán Drábek
 featured: true
 categories:
-  - ekonomie
   - bitcoin
-featured_image: /uploads/slovník.png
+featured_image: /uploads/random.png
 download:
 seo:
   title: Bitcoinový slovník
