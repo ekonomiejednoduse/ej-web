@@ -3,7 +3,7 @@ layout: tvorba
 title: 🥈 Cena ČNB 2022
 description: >
   Skončil jsem na 2. místě v soutěži o cenu ČNB. Přičemž letošní téma soutěže
-  znělo: Mají se centrální banky angažovat v ochraně klimatu?
+  znělo: "Mají se centrální banky angažovat v ochraně klimatu?"
 author: Štěpán Drábek
 featured: true
 featured_image: /uploads/cena-čnb.jpeg
@@ -20,3 +20,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+
