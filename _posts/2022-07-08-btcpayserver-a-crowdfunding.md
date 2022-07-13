@@ -11,7 +11,7 @@ categories:
   - bitcoin
   - lightning network
 featured_image: /uploads/btcpayserver-a-crowdfunding.png
-download:
+download: btcpayserver-a-crowdfunding.pdf
 seo:
   title: BtcPayServer a crowdfunding
   description:
