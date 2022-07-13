@@ -244,6 +244,10 @@ p a:hover {
 .qr-litecoin{background-image: url('/images/litecoin.png');}
 .qr-monero{background-image: url('/images/monero.png');}
 
+img.copy-code{
+    max-width: 100%;
+}
+
 /* Header and footer styles */
 header{
     padding: 3% 4%;
