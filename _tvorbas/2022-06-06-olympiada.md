@@ -5,7 +5,7 @@ description: |
   Skončil jsem na 2. místě v celostátním kole Ekonomické olympiády.
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/kapitalismus-a-ekologie.jpg
+featured_image: /uploads/eo.jpeg
 categories: dalsi tvorba
 download:
 seo:
