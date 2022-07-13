@@ -1,4 +1,4 @@
-I"XI<p>Bitcoin je tu s námi již od roku 2009 a neustále nabývá na své popularitě. Většina lidí na světě o něm už slyšela, někteří jej již nakoupili a jiní ho dokonce stihli i prodat, avšak pouze zlomek světové populaci ví, co je to Bitcoin, jaké problémy řeší a proč se jedná o tak zásadní inovaci v oblasti peněz. A tato témata se pokusím v nadcházejících řádcích jednoduše vysvětlit. Prvně si zde popíšeme problémy současných peněz a až následně to, co vlastně Bitcoin je a jak tyto problémy řeší.</p>
+I"VI<p>Bitcoin je tu s námi již od roku 2009 a neustále nabývá na své popularitě. Většina lidí na světě o něm už slyšela, někteří jej již nakoupili a jiní ho dokonce stihli i prodat, avšak pouze zlomek světové populaci ví, co je to Bitcoin, jaké problémy řeší a proč se jedná o tak zásadní inovaci v oblasti peněz. A tato témata se pokusím v nadcházejících řádcích jednoduše vysvětlit. Prvně si zde popíšeme problémy současných peněz a až následně to, co vlastně Bitcoin je a jak tyto problémy řeší.</p>
 
 <p> </p>
 
@@ -92,7 +92,7 @@
 
 <p>Nejjednodušším řešením je postavit mezi Alici, Boba a všechny uživatele daných peněz autoritu, banku, která bude spravovat databázi, ve které bude mít uloženy veškeré transakce, které kdy proběhly. Tedy uvidí například to, že Alice poslala Bobovi 1 minci, tudíž ji už nemá a nemůže ji poslat Cyrilovi. Banka jednoduše znemožní Alici dvojí útratu téže mince. Problém vyřešen, kde je problém? Problém spočívá v samotném centru. Všechny transakce jsou totiž postaveny na důvěře k autoritě, které nic nebrání v tom, aby svého postavení zneužila. Má nad všemi transakcemi moc, pomocí které může určité uživatele cenzurovat. Samozřejmě je zde i již dříve zmíněný problém s centralizací, a sice zranitelnost. Tato databáze je totiž takzvaný <em>honey pot</em>, tj. přímo vybízí útočníky, aby na ni zaútočili. Centralizace sice řeší problém dvojí útraty, ale vytváří jiné, velké problémy.</p>
 
-<h4> </h4>
+<p> </p>
 
 <h4 id="decentralizovaně">Decentralizovaně</h4>
 
