@@ -25,7 +25,7 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 &nbsp;
 
-*51% &uacute;to*k: Jeden z typů &uacute;toků na blockchain. &Uacute;tok, při kterém m&aacute; jeden člověk či skupina lid&iacute; nadpolovičn&iacute; v&yacute;početn&iacute; v&yacute;kon – hash rate.
+*51% &uacute;to*k: Jeden z typů &uacute;toku na blockchain. &Uacute;tok, při kterém m&aacute; těžař nadpolovičn&iacute; (respektive v praxi to může b&yacute;t i mnohem méně, jde o to, aby dan&yacute; pool dok&aacute;zal uzavř&iacute;t v&iacute;ce bloků za čas *t* než ostatn&iacute; těžaři) v&yacute;početn&iacute; v&yacute;kon (hash rate), pomoc&iacute; něhož provede reorganizaci blockchainu a potenci&aacute;lně může provést i double spending &uacute;toky.
 
 &nbsp;
 
@@ -537,7 +537,7 @@ Fiat: Nejen italsk&aacute; automobilka, ale i pen&iacute;ze s nucen&yacute;m ob�
 
 &nbsp;
 
-*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad...
+*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad…
 
 &nbsp;
 
@@ -669,7 +669,7 @@ LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXY
 
 &nbsp;
 
-*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor...).
+*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor…).
 
 &nbsp;
 
@@ -1049,7 +1049,7 @@ Open source software: Takov&yacute; software, kter&yacute; m&aacute; svůj zdroj
 
 &nbsp;
 
-*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy...). Pro některé je Wall Street symbolem kapitalismu.
+*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy…). Pro některé je Wall Street symbolem kapitalismu.
 
 &nbsp;
 
