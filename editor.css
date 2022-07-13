@@ -10,12 +10,18 @@ img.one-third-image {
     display: inline-block;
     width: calc(33% - 1rem);
     margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
 img.one-half-image {
     display: inline-block;
     width: calc(50% - 1rem);
     margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 img.float-left-image {
@@ -33,6 +39,9 @@ img.float-right-image {
 img.small-centered-image {
     max-width: 300px;
     margin:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
