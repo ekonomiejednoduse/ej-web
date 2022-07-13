@@ -9,6 +9,7 @@ featured: true
 categories:
   - ekonomie
   - bitcoin
+  - penize
 featured_image: /images/bitcoin-clanek.png
 download: co-je-to-bitcoin-a-proc-vznikl.pdf
 seo:
