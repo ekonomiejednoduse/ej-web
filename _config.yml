@@ -10,6 +10,8 @@ collections:
     
 url: https://comfy-tanuki-dedf21.netlify.app/
 _options:
+  _block:
+    center: center
   content:
     styles: /editor.css
     blockquote: true
