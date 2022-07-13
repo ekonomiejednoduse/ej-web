@@ -39,4 +39,6 @@ Proč je to ale u Bitcoinu problém? Bitcoin jako takov&yacute; umožnuje vytv&a
 
 BtcPayServer je skvěl&aacute; služba, kter&aacute; v&yacute;razně snižuje n&aacute;klady na přij&iacute;m&aacute;n&iacute; bitcoinu bez jakéhokoliv prostředn&iacute;ka, zkr&aacute;tka tak, jak byl Bitcoin navržen – P2P digit&aacute;ln&iacute; pen&iacute;ze. Služba crowdfundingu, kterou BtcPayServer poskytuje však neřeš&iacute; jeden z hlavn&iacute;ch problémů, co crowdfunding řešit m&aacute; – eliminovat n&aacute;klady spojené se z&aacute;vislost&iacute; rozhodnut&iacute; jednotlivce na rozhodnut&iacute;ch ostatn&iacute;ch lid&iacute;, které nezn&aacute; a přirozeně nem&aacute; sklon k tomu, jim důvěřovat. Řešen&iacute;m může b&yacute;t větš&iacute; šk&aacute;la různ&yacute;ch způsobů realizace projektu, ovšem tu nelze implementovat u vešker&yacute;ch projektů. BtcPayServer může ale skvěle sloužit k charitativn&iacute;m &uacute;čelům (viz třeba [https://bitcoinsmiles.org/](https://bitcoinsmiles.org/){: target="_blank" rel="noopener"}), kde nen&iacute; nutné vybrat jednu konkrétn&iacute; sumu, s pomoc&iacute; využit&iacute; Lightning Network je totiž možné na charitu přispět již od p&aacute;r satoshi, tedy opravdu malé sumy (v ř&aacute;dech jednotek haléřů).
 
-![](/uploads/evergreen-fb-page-post-1080x1080-2022-07-12.jpg){: .small-centered-image width="1080" height="1080"}
+![](/uploads/blockchain-1.png){: .small-centered-image width="2264" height="1090"}
+
+&nbsp;
