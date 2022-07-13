@@ -41,9 +41,7 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 &nbsp;
 
-1. Determinovanost
-
-&nbsp;
+1\. Determinovanost
 
 Determinovanost (jednoznačnost) znamen&aacute;, že je postup pr&aacute;ce předem určen&yacute; a vždy z&aacute;vis&iacute; pouze na popisu algoritmu a na vstupu.
 
@@ -51,23 +49,17 @@ Determinovanost (jednoznačnost) znamen&aacute;, že je postup pr&aacute;ce pře
 
 2\. Konečnost
 
-&nbsp;
-
 Každ&yacute; algoritmus z definice mus&iacute; jednou končit (po konečném počtu proveden&yacute;ch kroků).
 
 &nbsp;
 
 3\. Rezultativnost
 
-&nbsp;
-
 Aby algoritmus mohl b&yacute;t algoritmem, mus&iacute; vždy vydat určit&yacute; v&yacute;sledek.
 
 &nbsp;
 
 4\. Jednoduchost popisu
-
-&nbsp;
 
 Každ&yacute; algoritmus je popsan&yacute; počtem s konečn&yacute;m množstv&iacute;m z&aacute;kladn&iacute;ch instrukc&iacute;. Jedn&aacute; se tedy o instrukce, o kter&yacute;ch přesně v&iacute;me, jak se provedou.
 
@@ -557,7 +549,7 @@ Fiat: Nejen italsk&aacute; automobilka, ale i pen&iacute;ze s nucen&yacute;m ob�
 
 &nbsp;
 
-*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad...
+*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad…
 
 &nbsp;
 
@@ -689,7 +681,7 @@ LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXY
 
 &nbsp;
 
-*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor...).
+*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor…).
 
 &nbsp;
 
@@ -1073,7 +1065,7 @@ Open source software: Takov&yacute; software, kter&yacute; m&aacute; svůj zdroj
 
 &nbsp;
 
-*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy...). Pro některé je Wall Street symbolem kapitalismu.
+*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy…). Pro některé je Wall Street symbolem kapitalismu.
 
 &nbsp;
 
