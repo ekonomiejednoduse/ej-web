@@ -8,6 +8,7 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
+  - selhání trhu
 featured_image: /uploads/veřejné-statky3.png
 download:
 seo:
