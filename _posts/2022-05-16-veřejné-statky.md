@@ -8,7 +8,7 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-featured_image: /uploads/veřejné-statky3-1.png
+featured_image: /uploads/veřejné-statky3.png
 download:
 seo:
   title: Veřejné statky
