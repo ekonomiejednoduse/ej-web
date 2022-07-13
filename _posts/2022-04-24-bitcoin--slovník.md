@@ -9,7 +9,7 @@ featured: true
 categories:
   - ekonomie
   - bitcoin
-featured_image: /uploads/bitcoin--slovník.png
+featured_image: /uploads/slovník.png
 download:
 seo:
   title: Bitcoinový slovník
@@ -562,7 +562,7 @@ Zlatý standard: Období v historii, kdy se platilo buď samotným zlatem anebo 
 
 *Zlehčování (peněz)*\: Proces, při kterém se snižuje kvalita (v jejímž důsledku i kupní síla) peněz (například u zlata ryzost tohoto kovu).
 
-##
+\#\#
 
 *ASIC* – Application-Specific Integrated Circuit
 
