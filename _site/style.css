@@ -370,6 +370,7 @@ footer{
 .dropdown-nav {
   position:relative;
   padding-bottom: 1rem;
+  z-index: 2;
 }
 .dropdown-nav:hover .dropdown-content {
     display: block;

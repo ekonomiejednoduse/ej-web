@@ -1,4 +1,10 @@
-I"<p><a href="https://btcpayserver.org/" target="_blank" rel="noopener">BtcPayServer</a> je služba, pomocí které je možné přijímat bitcoin (<em>on-chain</em> i <em>Lightning Network</em>) bez jakékoliv třetí strany (stačí si pouze stáhnout software na vlastní <em>node</em>). <em>Crowdfunding</em> je způsob kolektivního financování, který může eliminovat problém černého pasažéra u veřejných statků pomocí selektivních podnětů (viz ).</p>
+I"�<p><a href="https://btcpayserver.org/" target="_blank" rel="noopener">BtcPayServer</a> je služba, pomocí které je možné přijímat bitcoin (<em>on-chain</em> i <em>Lightning Network</em>) bez jakékoliv třetí strany (stačí si pouze stáhnout software na vlastní <em>node</em>). <em>Crowdfunding</em> je způsob kolektivního financování, který může eliminovat problém černého pasažéra u veřejných statků pomocí selektivních podnětů (viz ).</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Dnes není možné ve <em>spendovacím skriptu</em> bitcoinové transakce nastavit, že když se v crowdfundingové kampani nevybere dostatek peněz, <em>sats</em> se vrátí zpět k lidem, kteří se rozhodli pomoci financovat onen projekt.</p>
+</blockquote>
 
 <p> </p>
 
@@ -10,7 +16,19 @@
 
 <p> </p>
 
+<blockquote>
+  <p>BtcPayServer je skvělá služba, která výrazně snižuje náklady na přijímání bitcoinu bez jakéhokoliv prostředníka, zkrátka tak, jak byl Bitcoin navržen – P2P digitální peníze.</p>
+</blockquote>
+
+<p> </p>
+
 <p>Řešení? <em>Multisig</em>, <em>escrow</em>. Tedy vytvoření adresy, z níž bude možné utrácet <em>UTXOs</em> pouze s poskytnutím více než jednoho <em>digitálního podpisu</em>. <em>Privátní klíč</em> k <em>adrese</em> by tak měl jak člověk, který se snaží vybrat dostatek finančních zdrojů, každý jeden přispěvatel, tak i samotná platforma (v tomto případě BtcPayServer). Ovšem to jde proti hlavní myšlence BtcPayServeru, tedy <em>P2P</em> službě přijímání btc bez jakékoliv třetí strany. Tudy tedy cesta nevede… Dalším možným řešením je v crowdfundingové kampani nastavit větší rozsah jednotlivých cílů, například, pokud se vybere 10 sats, tyto peníze budou využity na X, pokud 100 sats, tak na Y, pokud 1000, tak na Z… A to by skutečně mohlo být řešením toho problému, že se v případě neúspěchu kolektivního financování u BtcPayServer nevrátí bitcoiny zpět na adresy přispěvatelů, a tato <em>informační asymetrie</em> demotivuje některé potenciální přispěvatele projektu finančně pomoci. Ale má to jeden háček, ne všechny projekty lze takto škálovat. Pokud potřebuji na realizaci určité činnosti vybrat (minimálně) přesně 100 sats, 10 sats mi v uskutečnění tohoto projektu nepomůže a bylo by žádoucí, kdyby se tyto prostředky vrátily zpět k přispěvatelům.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Řešením může být větší škála různých způsobů realizace projektu, ovšem tu nelze implementovat u veškerých projektů.</p>
+</blockquote>
 
 <p> </p>
 
