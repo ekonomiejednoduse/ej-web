@@ -44,6 +44,14 @@ img.small-centered-image {
     justify-content: center;
     align-items: center;
 }
+img.styled{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 40vw;
+    height: auto;
+}
 
 
 
