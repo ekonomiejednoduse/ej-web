@@ -8,8 +8,6 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-  - bitcoin
-  - selhání trhu
 featured_image: /uploads/veřejné-statky3-1.png
 download:
 seo:
