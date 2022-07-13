@@ -9,7 +9,7 @@ featured: true
 categories:
   - ekonomie
   - selhání trhu
-featured_image: /uploads/veřejné-statky3.png
+featured_image: /uploads/verejnestatky3.png
 download:
 seo:
   title: Veřejné statky
