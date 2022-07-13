@@ -2,9 +2,9 @@
 layout: post
 title: BtcPayServer a crowdfunding
 description: >-
-  Služba BtcPayServer umožňuje fungování technologie crowdfunding, skrze bitcoin
-  a Lightning Network. V tomto článku se dozvíte, proč tato implementace
-  crowdfundingu neřeší ten problém, co crowdfunding řešit má.
+  Služba BtcPayServer umožňuje fungování technologie crowdfunding. V tomto
+  článku se dozvíte, proč tato implementace crowdfundingu neřeší ten problém, co
+  crowdfunding řešit má.
 author: Štěpán Drábek
 featured: true
 categories:
@@ -34,7 +34,7 @@ Proč je to ale u Bitcoinu problém? Bitcoin jako takov&yacute; umožnuje vytv&a
 
 &nbsp;
 
-Řešen&iacute;? *Multisig*, *escrow*. Tedy vytvořen&iacute; adresy, z n&iacute;ž bude možné utr&aacute;cet *UTXOs* pouze s poskytnut&iacute;m v&iacute;ce než jednoho *digit&aacute;ln&iacute;ho podpisu*. *Priv&aacute;tn&iacute; kl&iacute;č* k *adrese* by tak měl jak člověk, kter&yacute; se snaž&iacute; vybrat dostatek finančn&iacute;ch zdrojů, každ&yacute; jeden přispěvatel, tak i samotn&aacute; platforma (v tomto př&iacute;padě BtcPayServer). Ovšem to jde proti hlavn&iacute; myšlence BtcPayServeru, tedy *P2P* službě přij&iacute;m&aacute;n&iacute; btc bez jakékoliv třet&iacute; strany. Tudy tedy cesta nevede... Dalš&iacute;m možn&yacute;m řešen&iacute;m je v crowdfundingové kampani nastavit větš&iacute; rozsah jednotliv&yacute;ch c&iacute;lů, např&iacute;klad, pokud se vybere 10 sats, tyto pen&iacute;ze budou využity na X, pokud 100 sats, tak na Y, pokud 1000, tak na Z... A to by skutečně mohlo b&yacute;t řešen&iacute;m toho problému, že se v př&iacute;padě ne&uacute;spěchu kolektivn&iacute;ho financov&aacute;n&iacute; u BtcPayServer nevr&aacute;t&iacute; bitcoiny zpět na adresy přispěvatelů, a tato *informačn&iacute; asymetrie* demotivuje některé potenci&aacute;ln&iacute; přispěvatele projektu finančně pomoci. Ale m&aacute; to jeden h&aacute;ček, ne všechny projekty lze takto šk&aacute;lovat. Pokud potřebuji na realizaci určité činnosti vybrat (minim&aacute;lně) přesně 100 sats, 10 sats mi v uskutečněn&iacute; tohoto projektu nepomůže a bylo by ž&aacute;douc&iacute;, kdyby se tyto prostředky vr&aacute;tily zpět k přispěvatelům.
+Řešen&iacute;? *Multisig*, *escrow*. Tedy vytvořen&iacute; adresy, z n&iacute;ž bude možné utr&aacute;cet *UTXOs* pouze s poskytnut&iacute;m v&iacute;ce než jednoho *digit&aacute;ln&iacute;ho podpisu*. *Priv&aacute;tn&iacute; kl&iacute;č* k *adrese* by tak měl jak člověk, kter&yacute; se snaž&iacute; vybrat dostatek finančn&iacute;ch zdrojů, každ&yacute; jeden přispěvatel, tak i samotn&aacute; platforma (v tomto př&iacute;padě BtcPayServer). Ovšem to jde proti hlavn&iacute; myšlence BtcPayServeru, tedy *P2P* službě přij&iacute;m&aacute;n&iacute; btc bez jakékoliv třet&iacute; strany. Tudy tedy cesta nevede… Dalš&iacute;m možn&yacute;m řešen&iacute;m je v crowdfundingové kampani nastavit větš&iacute; rozsah jednotliv&yacute;ch c&iacute;lů, např&iacute;klad, pokud se vybere 10 sats, tyto pen&iacute;ze budou využity na X, pokud 100 sats, tak na Y, pokud 1000, tak na Z… A to by skutečně mohlo b&yacute;t řešen&iacute;m toho problému, že se v př&iacute;padě ne&uacute;spěchu kolektivn&iacute;ho financov&aacute;n&iacute; u BtcPayServer nevr&aacute;t&iacute; bitcoiny zpět na adresy přispěvatelů, a tato *informačn&iacute; asymetrie* demotivuje některé potenci&aacute;ln&iacute; přispěvatele projektu finančně pomoci. Ale m&aacute; to jeden h&aacute;ček, ne všechny projekty lze takto šk&aacute;lovat. Pokud potřebuji na realizaci určité činnosti vybrat (minim&aacute;lně) přesně 100 sats, 10 sats mi v uskutečněn&iacute; tohoto projektu nepomůže a bylo by ž&aacute;douc&iacute;, kdyby se tyto prostředky vr&aacute;tily zpět k přispěvatelům.
 
 &nbsp;
 
