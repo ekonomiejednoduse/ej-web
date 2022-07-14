@@ -1,7 +1,7 @@
 ---
 layout: tvorba
 title: 🥈 Ekonomická olympiáda 2022
-date: 
+date: 2022-07-07 00:00:00
 description: |
   Skončil jsem na 2. místě v celostátním kole Ekonomické olympiády.
 author: Štěpán Drábek
