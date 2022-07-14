@@ -1,7 +1,7 @@
 ---
 layout: tvorba
 title: 🥈 Cena ČNB 2022
-date: 2022-07-08 00:00:00
+date: 2022-04-21 00:00:00
 description: >
   Skončil jsem na 2. místě v soutěži o cenu ČNB. Přičemž letošní téma soutěže
   znělo: "Mají se centrální banky angažovat v ochraně klimatu?"
