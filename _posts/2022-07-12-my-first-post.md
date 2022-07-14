@@ -62,13 +62,11 @@ Skupině cypherpunků bylo jasné, že tudy cesta nevede a je zapotřeb&iacute; 
 
 U peněz by tento problém mohl vypadat n&aacute;sledovně: M&aacute;me dva členy transakce – Alici a Boba, řekněme, že by Alice chtěla poslat Bobovi 1 minci. Co ji ale br&aacute;n&iacute; v tom,s tou samou minc&iacute; provést dalš&iacute; transakci s jin&yacute;m členem, třeba s Cyrilem? Nic. V digit&aacute;ln&iacute;m světě můžete totiž naprosto jednoduše zkop&iacute;rovat transakci a ostatn&iacute; uživatelé této s&iacute;tě nemaj&iacute;, jak rozpoznat, kter&aacute; z těchto transakc&iacute; je ta spr&aacute;vn&aacute;. Tento problém tak dostal jméno problém dvoj&iacute; &uacute;traty (angl. double- spending problem). Ovšem, jak jej vyřešit?
 
-\#\#\#\#
 
 #### Centralizovaně
 
 Nejjednodušš&iacute;m řešen&iacute;m je postavit mezi Alici, Boba a všechny uživatele dan&yacute;ch peněz autoritu, banku, kter&aacute; bude spravovat datab&aacute;zi, ve které bude m&iacute;t uloženy veškeré transakce, které kdy proběhly. Tedy uvid&iacute; např&iacute;klad to, že Alice poslala Bobovi 1 minci, tud&iacute;ž ji už nem&aacute; a nemůže ji poslat Cyrilovi. Banka jednoduše znemožn&iacute; Alici dvoj&iacute; &uacute;tratu téže mince. Problém vyřešen, kde je problém? Problém spoč&iacute;v&aacute; v samotném centru. Všechny transakce jsou totiž postaveny na důvěře k autoritě, které nic nebr&aacute;n&iacute; v tom, aby svého postaven&iacute; zneužila. M&aacute; nad všemi transakcemi moc, pomoc&iacute; které může určité uživatele cenzurovat. Samozřejmě je zde i již dř&iacute;ve zm&iacute;něn&yacute; problém s centralizac&iacute;, a sice zranitelnost. Tato datab&aacute;ze je totiž takzvan&yacute; *honey pot*, tj. př&iacute;mo vyb&iacute;z&iacute; &uacute;točn&iacute;ky, aby na ni za&uacute;točili. Centralizace sice řeš&iacute; problém dvoj&iacute; &uacute;traty, ale vytv&aacute;ř&iacute; jiné, velké problémy.
 
-\#\#\#\#
 
 #### Decentralizovaně
 

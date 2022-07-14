@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bitcoinový slovník
-date: 
+date: 2022-05-17 00:00:00
 description: >-
   V tomto slovníku naleznete veškeré důležité Bitcoinové pojmy, které je pro
   jeho studium dobré znát.
