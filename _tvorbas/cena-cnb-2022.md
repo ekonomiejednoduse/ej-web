@@ -6,7 +6,7 @@ description: >
   znělo: "Mají se centrální banky angažovat v ochraně klimatu?"
 author: Štěpán Drábek
 featured: true
-featured_image: 
+featured_image: /uploads/cena-cnb.jpeg
 categories: dalsi tvorba
 download:
 seo:
