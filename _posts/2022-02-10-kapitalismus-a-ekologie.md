@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kapitalismus a ekologie
-date: 
+date: 2016-03-23T10:20:00Z
 description: >-
   Co je to Bitcoin, jaká byla motivace jeho vzniku a proč se jedná o tak zásadní
   inovaci v oblasti peněz?
