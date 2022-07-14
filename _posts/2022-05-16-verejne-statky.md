@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Veřejné statky
+date: 
 description: >-
   Proč může trh selhat při poskytování veřejných statků? Je řešením stát? A
   nemůže i stát selhat? Tak přesně o tom je můj článek o veřejných statcích.

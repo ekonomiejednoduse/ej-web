@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bitcoinový slovník
+date: 
 description: >-
   V tomto slovníku naleznete veškeré důležité Bitcoinové pojmy, které je pro
   jeho studium dobré znát.

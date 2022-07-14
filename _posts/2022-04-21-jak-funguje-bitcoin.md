@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jak funguje Bitcoin?
+date:
 description: >-
   Jakým způsobem je u Bitcoinu zabezpečena veřejná účetní kniha – blockchain?
   Odpověď na tuto neleznete otátzku naleznete právě v tomto článku.

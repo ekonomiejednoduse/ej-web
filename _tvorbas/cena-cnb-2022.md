@@ -1,6 +1,7 @@
 ---
 layout: tvorba
 title: 🥈 Cena ČNB 2022
+date: 
 description: >
   Skončil jsem na 2. místě v soutěži o cenu ČNB. Přičemž letošní téma soutěže
   znělo: "Mají se centrální banky angažovat v ochraně klimatu?"

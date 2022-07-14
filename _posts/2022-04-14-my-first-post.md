@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Co je to bitcoin a proč vznikl?
+date: 
 description: >-
   Co je to Bitcoin, jaká byla motivace jeho vzniku a proč se jedná o tak zásadní
   inovaci v oblasti peněz?
