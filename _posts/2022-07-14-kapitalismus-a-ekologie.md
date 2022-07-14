@@ -4,7 +4,7 @@ title: Kapitalismus a ekologie
 date: 2022-07-14 00:00:00
 description: >-
   Ekologičtí aktivisté často tvrdí, že je kapitalismus pro planetu problémem a
-  že za současnou environmentální situaci může právě on, avšak, je to skutečně
+  že za současnou environmentální situaci může právě on, avšak je to skutečně
   pravda?
 author: Štěpán Drábek
 featured: true
@@ -23,7 +23,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Ekologičt&iacute; [aktivisté](https://cs2.wiki/wiki/Eco-socialism){: target="_blank" rel="noopener"} často tvrd&iacute;, že je kapitalismus pro planetu problémem a že za současnou environment&aacute;ln&iacute; situaci může pr&aacute;vě on, avšak, je to skutečně pravda?
+Ekologičt&iacute; [aktivisté](https://cs2.wiki/wiki/Eco-socialism){: target="_blank" rel="noopener"} často tvrd&iacute;, že je kapitalismus pro planetu problémem a že za současnou environment&aacute;ln&iacute; situaci může pr&aacute;vě on, avšak je to skutečně pravda?
 
 &nbsp;
 
