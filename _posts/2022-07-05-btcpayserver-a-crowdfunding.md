@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BtcPayServer a crowdfunding
-date: 
+date: 2022-07-05 00:00:00
 description: >-
   Služba BtcPayServer umožňuje fungování technologie crowdfunding. V tomto
   článku se dozvíte, proč tato implementace crowdfundingu neřeší ten problém, co
