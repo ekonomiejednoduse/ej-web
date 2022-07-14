@@ -1,7 +1,7 @@
 ---
 layout: tvorba
 title: 🥈 Ekonomická olympiáda 2022
-date: 2022-07-07 00:00:00
+date: 2022-05-30 00:00:00
 description: |
   Skončil jsem na 2. místě v celostátním kole Ekonomické olympiády.
 author: Štěpán Drábek
@@ -21,4 +21,4 @@ _comments:
   social_image: landscape 1200 x 600px
 ---
 
-V roce 2022 jsem ve fin&aacute;le&nbsp;[Ekonomické olympi&aacute;dy](https://ekonomickaolympiada.cz/eo-pro-zs/o-soutezi/){: target="_blank" rel="noopener"}&nbsp;skončil na 2. m&iacute;stě. Ekonomick&aacute; olympi&aacute;da je skvěl&aacute; soutěž, kter&aacute; umožňuje studentům otestovat si své ekonomické znalosti. Všem bych ji doporučil a moc se těš&iacute;m na dalš&iacute; (douf&aacute;m, že pro mě v&iacute;tězn&yacute;) ročn&iacute;k\! :)
+V roce 2022 jsem ve finále [Ekonomické olympiády](https://ekonomickaolympiada.cz/eo-pro-zs/o-soutezi/){: target="_blank" rel="noopener"} skončil na 2. místě. Ekonomická olympiáda je skvělá soutěž, která umožňuje studentům otestovat si své ekonomické znalosti. Všem bych ji doporučil a moc se těším na další (doufám, že pro mě vítězný) ročník\! :)
