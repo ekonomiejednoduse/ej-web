@@ -1,11 +1,11 @@
 :root{
     --purple: #5C258D;
     --blue: #4389A2;
-    --writing-dm: white;
-    --writing-lm: rgb(78, 73, 73);
+    --writing-dm: rgb(78, 73, 73);
+    --writing-lm: white;
     --writing-dark: rgb(78, 73, 73);
-    --bg-lm: white;
-    --bg-dm: black;
+    --bg-lm: black;
+    --bg-dm: white;
     --bg-faded: #eff1ee;
     --light-text: #E3AB38;
     --nadpis: font-family: 'Bebas Neue';
@@ -31,9 +31,9 @@ background-color: var(--bg-lm);
 
 body.dark-mode{
     --light-text: #272;
-    --writing-lm: white;
-    --bg-lm: black;
-    --writing-dm: black;
+    --writing-lm: rgb(78, 73, 73);
+    --bg-lm: white;
+    --writing-dm: white;
 }
 
 img {
@@ -49,6 +49,12 @@ max-width: 100%;
 p{
     font-size: 1.2rem;
     line-height: 1.5;
+}
+
+.copyright{
+    font-size: 0.8rem;
+    margin-bottom: 0.4rem;
+    padding-top: 1rem;
 }
 
 /* ------------- Utility Classes --------------  */
@@ -69,6 +75,7 @@ p{
 .p-02{padding: 2rem;}
 .m-b-1{margin-bottom: 1rem;}
 .m-b-0{margin-bottom: 0;}
+.m-t-2{margin-top: 2rem;}
 
 .capped-width { max-width: 1100px; margin: auto;}
 
@@ -193,11 +200,11 @@ a:hover{
 }
 
 .btn-toggle::before{
-    content: "Dark";
+    content: "Light";
 }
 
 .dark-mode .btn-toggle::before{
-    content: "Light";
+    content: "Dark";
 }
 
 
@@ -507,7 +514,7 @@ blockquote p {
     padding:10px;
     font-size: 1rem;
     color: var(--writing-lm);
-    background-color: var(--writing-dm);
+    background-color: var(--bg-lm);
     border:none;
     outline:none;
     padding-right:50px;
