@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- ---------- Technical Metadata  ------------------------------- -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+
+    <!-- ---------- SEO Metadata  ------------------------------- -->
+    <title> Ekonomie Jednoduše </title> 
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    
+        <meta name="robots" content="index, follow">
+    
+
+
+     <!-- ----------  Social media sharing META Tags ---------- -->
+    <meta property="og:title" content="Co je to bitcoin a proč vznikl?">
+    <meta property="og:description" content=""> 
+    <meta property="og:image" content="">
+    <meta property="og:url" content="http://localhost:4000/posts/2022/my-first-post">
+    <meta name="twitter:card" content="">
+    <meta name="og:site_name" content="Ekonomie Jednoduše">
+    <link rel="icon" type="image/png" href="">
+
+    <!------------ Pinterest Meta Tags ------------>
+    <meta property="article:author" content="Štěpán Drábek" /> 
+
+    <!------------ External Stylesheets  ------------>
+
+    <!-- Gridlex -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css">
+
+    <!-- Font Awesome Version 5 for Icons  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" /> 
+
+    <!-- Google Font  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet"> 
+
+<!-- Slick -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css" integrity="sha512-wR4oNhLBHf7smjy0K4oqzdWumd+r5/+6QO/vDda76MW5iug4PT7v86FoEkySIJft3XA0Ae6axhIvHrqwm793Nw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<Link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+    <!-- AOS -->
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- Custom Stylesheet  -->
+    <link id="theme-link" rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+
+<body>
+    <header id="header" class="grid-spaceBetween">
+    
+
+            <div class="col-4-middle mob-hide left">
+        <a href="/">
+            <h2 class="logo">Ekonomie Jednoduše</h2>
+        </a>
+    </div>
+
+    <div class="col-12 mob-show center">
+        <a href="/">
+            <h2 class="logo">Ekonomie Jednoduše</h2>
+        </a>
+    </div>
+    
+    <nav class="col-8-middle mob-hide web-nav right">
+        <!-- <a 
+            
+        
+        href="/"> Home </a> -->
+        <a 
+         href="/videa.html"> Videa </a>
+
+
+
+
+        <span class="dropdown-nav">
+        <a href="/blog-archive.html"> Články </a>
+        <div class="dropdown-content">
+            <!-- <a href="/bankovnictvi">Bankovnictví</a> -->
+            <a href="/bitcoin">Bitcoin</a>
+            <a href="/ekonomie">Ekonomie</a>
+            <a href="/lightning-network">Lightning network</a>
+            <!-- <a href="/ekonomika">Ekonomika</a> -->
+            <!-- <a href="/inflace">Inflace</a> -->
+            <!-- <a href="/menova-politika">Měňová politika</a> -->
+            <a href="/penize">Peníze</a>
+            <a href="/selhani-trhu">Selhání trhu</a>
+        </div>
+
+     </span>
+
+        <a 
+        
+        
+        
+        href="/podcast.html"> Podcast </a>
+        <a 
+        
+        
+        
+        href="/dalsi-tvorba.html"> Další tvorba </a>
+        <a 
+        
+        
+        href="/kontakt"> Kontakt </a>
+        <a class="button p-02
+        "
+        
+        href="/podporte-me.html"> Podpořte mě </a>
+    </nav>
+
+<div class="col-12-right">
+    <button id="dark-btn" class="btn-toggle">
+        Mode
+         </button>
+</div>
+
+
+
+<!-- <div class="col-12 center">
+    <button id="dark-btn" class="btn-toggle">
+        Dark Mode On/Off
+         </button>
+</div> -->
+
+
+
+        <div class="col-4-middle right">
+            <a class="hamburger-button mob-show"> &#9776; </a>
+          </div>
+</header>
+
+<div class="mobile-menu"> 
+  <nav> 
+    <a href="/"> Home </a>
+    <a href="/videa.html"> Videa </a>
+    <a href="/clanky.html"> Články </a>
+    <a href="/podcast.html"> Podcast </a>
+    <a href="/dalsi-tvorba.html"> Další tvorba </a>
+    <a href="/kontakt.html"> Kontakt </a>
+    <a href="/podporte-me.html"> Podpoř mě </a>
+  </nav>
+</div> 
+
+
+    <section class="padded capped-width blog-content">
+
+
+        <div class="intro padded-1 center margin-b-2">
+
+            
+                <a href="/ekonomie"><span class="tag"> ekonomie</span></a>
+            
+                <a href="/bitcoin"><span class="tag"> bitcoin</span></a>
+            
+                <a href="/penize"><span class="tag"> penize</span></a>
+            
+            
+            <h1> Co je to bitcoin a proč vznikl? </h1>
+            
+            <p class="post-info">Štěpán Drábek | 21/04/2022 </p>
+         
+        </div>
+
+        <div class="padded-1">
+
+            <p>Bitcoin je tu s námi již od roku 2009 a neustále nabývá na své popularitě. Většina lidí na světě o něm už slyšela, někteří jej již nakoupili a jiní ho dokonce stihli i prodat, avšak pouze zlomek světové populaci ví, co je to Bitcoin, jaké problémy řeší a proč se jedná o tak zásadní inovaci v oblasti peněz. A tato témata se pokusím v nadcházejících řádcích jednoduše vysvětlit. Prvně si zde popíšeme problémy současných peněz a až následně to, co vlastně Bitcoin je a jak tyto problémy řeší.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Dokud byly měny navázány či kryty skutečnými penězi, především v podobě drahých kovů, byly obchodní banky limitovány v tom, kolik úvěrů mohou poskytnout, tedy kolik nových peněz mohou vytvořit.</p>
+</blockquote>
+
+<p> </p>
+
+<p>V roce 1971 přišel obrovský zlom v celé historii peněz. Tohoto roku totiž tehdejší americký prezident Richard Milhous Nixon jednostranně ukončil takzvaný <a href="https://cs.wikipedia.org/wiki/Brettonwoodský_systém" target="_blank" rel="noopener">Brettonwoodský systém</a> a tím i veškerou návaznost amerického dolaru na zlato, co by podkladové aktivum.</p>
+
+<p> </p>
+
+<p>Dokud byly měny navázány či kryty skutečnými penězi, především v podobě drahých kovů, byly obchodní banky limitovány v tom, kolik úvěrů mohou poskytnout, tedy kolik nových peněz mohou vytvořit. Mimochodem termíny <em>peníze</em> a <em>měna</em>, byť jsou často vzájemně zaměňovány, neznamenají to stejné, ostatně, proto jsou v češtině dvě různá označení pro platidlo. Měna je poukázka (peněžní substitut), chcete-li směnka na peníze. Historicky byly měny papírové bankovky, které byly kryty penězi v podobě drahých kovů, zejména zlata. Přičemž na samotných těchto bankovkách bylo <a href="https://cs.wikipedia.org/wiki/Americký_dolar#/media/Soubor:5$1928AV.jpg" target="_blank" rel="noopener">napsáno</a>, že na žádost bude držiteli vyplacena částka odpovídající směnnému poměru mezi měnou a penězi.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>A není žádným překvapením, že v důsledku masivní tvorby nových měnových jednotek, v poslední době rostou i ceny spotřebních statků – cenová inflace.</p>
+</blockquote>
+
+<p> </p>
+
+<p>Avšak po zrušení návaznosti dolaru a s ním i ostatních měn na zlato se monetární politika stávala čím dál tím rozvolnější. Centrální banky začaly provádět expanzivní monetární politiku, tj. stlačovaly úrokové sazby níže a níže a tím motivovaly lidi k novým úvěrům a v poslední době začaly dokonce provádět i takzvané kvantitativní uvolňování (respektive ne všechny centrální banky, ČNB například kvantitativní uvolňování nikdy neprováděla, ale na konci roku 2013 byl u nás zaveden jiný nekonvenční nástroj měnové politiky – <a href="https://www.cnb.cz/cs/casto-kladene-dotazy/Co-byl-kurzovy-zavazek/" target="_blank" rel="noopener">kurzový závazek</a>). Kvantitativní uvolňování znamená nákup aktiv centrální bankou. To v praxi vypadá tak, že centrální banka nakoupí od finančních institucí (na sekundárním trhu) určité cenné papíry, převážně státní dluhopisy, a tím zvýší likviditu komerčních bank. Tyto obchodní, chcete-li komerční banky tak mají více peněz k poskytování nových půjček. Čehož pochopitelně využívají, poskytují nové úvěry a tím i emitují nové peníze.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Peníze jsou totiž pouze prostředek k přesunu hodnoty skrze prostor a čas, jsou prostředkem směny.</p>
+</blockquote>
+
+<p> </p>
+
+<p>A není žádným překvapením, že v důsledku masivní tvorby nových měnových jednotek, v poslední době rostou i ceny spotřebních statků – cenová inflace. Z dlouhodobého hlediska je ale růst cen velkým problémem, a to hned z několika různých důvodů. Dlouhodobé znehodnocování peněz totiž ničí základní ekonomický instrument – <em>spoření</em>, tedy odložení současné spotřeby peněz. V dnešní době je už inflace tak vysoká, že jsou lidé bohužel nuceni (pokud nechtějí přijít o kupní sílu vlastních peněz) začínat s vysoce rizikovými investicemi a riskovat tak ztráty jejich celoživotních úspor.</p>
+
+<p> </p>
+
+<p>Peníze, které se znehodnocují z definice nemohou být uchovatelem hodnoty, což je jedna ze základních funkcí peněz. Peníze jsou totiž pouze prostředek k přesunu hodnoty skrze prostor a čas, jsou prostředkem směny. Jejich prostřednictvím se ulehčuje směna statků. Ale k čemu jsou takové peníze, které mají časem menší a menší kupní sílu? Přece jenom, peníze by si měly uchovat svoji hodnotu do té doby, než je opět směníme za jiné zboží. Pokud jsou peníze nevzácné a neuchovávají si svojí kupní sílu, neslouží jako prostředek k uspokojování vlastních potřeb, nýbrž jako nástroj k obohacování určité privilegované skupiny, která má k těmto nově vytvořeným penězům jako první přístup.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Celý inflační peněžní systém si lze představit jako jednu velkou pyramidu.</p>
+</blockquote>
+
+<p> </p>
+
+<p>Jedním z velmi neintuitivních, byť naprosto zásadních dopadů tvorby peněz je totiž takzvaný <em>Cantillonův efekt</em>. Tento efekt popisuje, jak se vlivem tvorby nových peněz přerozděluje jejich kupní síla, a to od držitelů těchto peněz k jejich emitentům. A to protože, ten, kdo má brzký přístup k novým penězům, může za tyto peníze nakupovat statky, v jejichž cenách ještě nejsou nijak projeveny samotné nově vzniklé peníze – ceny jsou i přes růst měnové zásoby stále stejně nízké, jako před vznikem těchto peněz. A to jsou konkrétně lidé, kteří mají investiční instrumenty, jako jsou například nemovitosti či akcie, kde se pomocí bankovních úvěrů dostávají tyto nově vzniklé peníze, a to, protože většina spotřebitelů, kterým banky poskytují úvěr, si tyto peníze půjčují buďto k nákupu nemovitostí – hypoteční úvěr anebo k financování aktivity vlastního podniku – korporátní úvěr. A na druhou stanu lidé, ke kterým se tyto peníze dostanou až později jsou na tom hůře, poněvadž nakupují zboží a služby za ceny, v nichž je zakomponována skutečnost, že došlo k růstu měnové zásoby, v jejímž důsledku rostou ceny statků. Celý inflační peněžní systém si lze představit jako jednu velkou pyramidu, v níž, čím blíže jste k novým penězům, tím lépe pro vás, to však na úkor lidí, ke kterým se tyto nové peníze dostanou až později. Vše závisí pouze na tom, jak blízko jste ke tvorbě nových peněžních jednotek. Důležité je ale zmínit, že se tento efekt bude objevovat u veškerých peněz, jejichž zásoba se v průběhu čase navyšuje.</p>
+
+<p> </p>
+
+<p>​​​​Důležité je také zmínit, že současné měny stojí a padají pouze na důvěře k jejich emitentovi – bankám. K jejich tvorbě nejsou potřeba prakticky žádné náklady a jejich množství není do budoucna predikovatelné – státní měny nemají předvídatelnou monetární politiku.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Centralizované služby mohou fungovat relativně dobře, jsou však extrémně fragilní, křehké, chcete-li.</p>
+</blockquote>
+
+<p> </p>
+
+<p>O vyřešení problému, že stát zneužívá svého postavení v tvorbě peněz a jeho instituce – centrální banky provádí čím dál tím expanzivnější monetární politiku, čímž znehodnocují peníze všem jejím držitelům a prohlubují Cantillonův efekt, se snažila jistá skupina <a href="https://libinst.cz/wp-content/uploads/2020/08/havel.pdf" target="_blank" rel="noopener">cypherpunků</a> již na přelomu 20. a 21. století s projekty, jako byl <a href="https://en.wikipedia.org/wiki/Liberty_dollar_&#40;private_currency&#41;" target="_blank" rel="noopener">Liberty dollar</a>, <a href="https://cs.wikipedia.org/wiki/E-gold" target="_blank" rel="noopener">e-gold</a> či <a href="https://nakamotoinstitute.org/bit-gold/" target="_blank" rel="noopener">Bit gold</a>. Avšak všechny tyto alternativy k současným státním měnám měly jeden velký problém – centralizaci. Centralizované služby mohou fungovat relativně dobře (díky svojí méně nákladné správě), jsou však extrémně fragilní, křehké, chcete-li. Centralizované systémy jsou totiž vysoce zranitelné, stačí pouze jeden „kámen úrazu“ a celý systém je u konce. V tomto případě byly pomyslnými body zkázy sklady se zlatem a stříbrem, které tyto digitální tokeny kryly, a identita zakladatelů těchto projektů.</p>
+
+<p> </p>
+
+<p>Ačkoliv je ve Spojených státech naprosto legální konkurovat americkému dolaru, jakožto zákonnému platidlu (neplést s paděláním zákonného platidla, to je federální zločin), když vám, co by státu, soukromé společnosti postupně oslabují váš monopol na tvorbu peněz, ze kterého mimo jiné i díky Cantillonově efektu profitujete, nějaký zákon, který by vás v této činnosti mohl omezit, potažmo celý váš podnik ukončit, se vždy nalezne. A tak všechny z těchto projektů dopadly neslavně: Zakladatel Liberty dollaru – Bernard Von NotHaus byl odsouzen za padělání peněz a hrozil mu trest až 25 let za mřížemi. Nakonec dostal „pouhých“ 6 měsíců domácího vězení a tříletou podmínku. Přičemž veškeré drahé kovy, které za tímto projektem stály, byly státem zkonfiskovány. Tu tehdy nejpopulárnější a nejrozšířenější alternativu ke státním měnám – e-gold, kterou ve svých nejlepších letech dokonce používalo více než 5 000 000 lidí po celém světě, zakázala americká vláda s odůvodněním, že se skrze ni perou špinavé peníze a financují další trestné činy. Částečně měla vláda skutečně pravdu, protože se e-gold díky své anonymitě, kterou umožňoval, skutečně používal i k ilegálním činnostem, avšak se nejednalo o primární využití těchto digitálních peněz. Koneckonců, každou technologii je možné použít k dobrým, ale i špatným účelům. Kdybychom však zakazovali veškeré inovace jenom kvůli tomu, že se dají použít i k nehezkým účelům, svět by se nikam neposouval, nezažíval by žádný pokrok, který zlepšuje životy lidem po celém světě. Pokud by ale americká vláda skutečně chtěla omezit, potažmo znemožnit existenci černého trhu, musela by si prvně zamést před svým vlastním prahem a zakázat hotovost, která se, ze všech platidel, nejčastěji používá k nelegálním transakcím. Tedy je zřejmé, že vlády mají zcela jiné motivace znemožňovat konkurenci peněz, nežli ochránit své vlastní občany před šedou/černou ekonomikou. A poslední ze zde zmíněných projektů, Bit Gold, byl pouze koncept jednoho z nejlepších světových kryptografů Nicka Szaba, který nebyl nikdy uveden do praxe. Možná právě kvůli tomu, jak neslavně dopadly předchozí, podobné projekty.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>V digitálním světě můžete totiž naprosto jednoduše zkopírovat transakci a ostatní uživatelé této sítě nemají, jak rozpoznat, která z těchto transakcí je ta správná.</p>
+</blockquote>
+
+<p> </p>
+
+<p>Skupině cypherpunků bylo jasné, že tudy cesta nevede a je zapotřebí vynaleznout nový systém, ve kterém není jediné, zranitelné místo, ze kterého by byl tento systém ovládán. S decentralizovaným systém, tj. systémem, který nemá jedno centrum, nýbrž je distribuován mezi více různých subjektů, které jej spravují, se ale také pojí jisté problémy. A to konkrétně například, jak dosáhnout shody, konsenzu chcete-li, mezi jednotlivými uživateli sítě bez centrální autority, která by určovala, co je pravda a co ne? V IT terminologii se tento problém nazývá <em>problém byzantských generálů</em>.</p>
+
+<p> </p>
+
+<p>U peněz by tento problém mohl vypadat následovně: Máme dva členy transakce – Alici a Boba, řekněme, že by Alice chtěla poslat Bobovi 1 minci. Co ji ale brání v tom,s tou samou mincí provést další transakci s jiným členem, třeba s Cyrilem? Nic. V digitálním světě můžete totiž naprosto jednoduše zkopírovat transakci a ostatní uživatelé této sítě nemají, jak rozpoznat, která z těchto transakcí je ta správná. Tento problém tak dostal jméno problém dvojí útraty (angl. double- spending problem). Ovšem, jak jej vyřešit?</p>
+
+<p> </p>
+
+<p><strong>1. Centralizovaně</strong></p>
+
+<p> </p>
+
+<p>Nejjednodušším řešením je postavit mezi Alici, Boba a všechny uživatele daných peněz autoritu, banku, která bude spravovat databázi, ve které bude mít uloženy veškeré transakce, které kdy proběhly. Tedy uvidí například to, že Alice poslala Bobovi 1 minci, tudíž ji už nemá a nemůže ji poslat Cyrilovi. Banka jednoduše znemožní Alici dvojí útratu téže mince. Problém vyřešen, kde je problém? Problém spočívá v samotném centru. Všechny transakce jsou totiž postaveny na důvěře k autoritě, které nic nebrání v tom, aby svého postavení zneužila. Má nad všemi transakcemi moc, pomocí které může určité uživatele cenzurovat. Samozřejmě je zde i již dříve zmíněný problém s centralizací, a sice zranitelnost. Tato databáze je totiž takzvaný <em>honey pot</em>, tj. přímo vybízí útočníky, aby na ni zaútočili. Centralizace sice řeší problém dvojí útraty, ale vytváří jiné, velké problémy.</p>
+
+<p> </p>
+
+<p><strong>2. Decentralizovaně</strong></p>
+
+<p> </p>
+
+<p>Dlouho panoval názor, že k dosažení konsenzu a vzájemné důvěry mezi různými členy určité sítě, musí existovat jistá autorita, která dohlíží na správný chod této sítě a rozhoduje o, v případě peněz, správnosti transakcí. Celý tento narativ dokázal až v roce 2008 změnit určitý člověk nebo skupina lidí s pseudonymem <em>Satoshi Nakamoto</em>, který zveřejnil takzvaný <a href="https://bitcoin.org/bitcoin.pdf" target="_blank" rel="noopener">white paper</a> s názvem Bitcoin: <strong>A Peer-to-Peer Electronic Cash System</strong>. V tomto technickém návodu Satoshi popisuje fungování nové formy digitálních peněz – Bitcoinu. Problém dvojí útraty vyřešil tak, že mezi veškeré účastníky těchto peněz umístil databázi, ke které mají všichni uživatelé přístup. Distribuované veřejné databázi – účetní knize se říká <em>Blockchai</em>n. Přičemž tuto databázi spravují samotní uživatelé, tedy pomyslnou „pravdu“ neurčuje jeden centrální bod, nýbrž je výsledkem vzájemné shody uživatelů v síti, kteří mají pozitivní motivace nepodvádět, respektive, negativní motivace podvádět. Blockchain umožňuje lidem, kteří si navzájem nedůvěřují, bezpečně vytvářet záznamy bez nutnosti přítomnosti prostředníka, jako je banka nebo notář. *Zabezpečováním této účetní knihy a dalšími technickými prvky Bitcoinu se budeme detailněji zabývat hned v nadcházejícím článku.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>U fiat měn zkrátka nevíme, kdy se kolik nových jednotek platidla vytvoří.</p>
+</blockquote>
+
+<p> </p>
+
+<p>Nyní si ale pojďme říct něco o monetární politice Bitcoinu. Monetární politika Bitcoinu je nastavena tak, že předem známe jeho konečné množství, nikdy jej nebude více než 21 000 000 (respektive 20 999 999,9769) mincí. Tato politika je navíc předvídatelná, přesně víme, kdy vznikne kolik nových mincí, což je oproti státním měnám obrovská výhoda. U <em>fiat</em> měn, tj. státem emitovaných měn s vynuceným oběhem, totiž množství nově vzniklých peněžních jednotek závisí pouze na rozhodnutí cílů centrálních bank, tedy na jednání malé skupiny centrálních plánovačů v oblasti peněz (abych byl přesný, centrální banky dnes necílí peněžní zásobu, nýbrž růst cenové hladiny – inflaci a nemají dokonalou kontrolu nad množstvím peněz v oběhu. Množství nově vzniklých peněz závisí na poptávce spotřebitelů po úvěrech, centrální banky však stanovují podmínky, při kterých obchodní banky mohou provádět úvěrovou činnost a nepřímo, skrze stanovení úrokových sazeb, vytváří i motivace pro to, si nové úvěry brát). U fiat měn zkrátka nevíme, kdy se kolik nových jednotek platidla vytvoří. Navíc je jejich měnová zásoba výrazně elastická, tj. mění se v závislosti na ekonomické situaci v daných státech (na základě poptávky po úvěrech). Zatímco Bitcoin má fixní, přesně danou monetární politiku, která je zajištěna matematikou a technologiemi, o kterých bude řeč v příštím článku, nikoliv důvěrou v autoritu, která svého postavení zatím vždy zneužila.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Tedy Bitcoin má silné předpoklady k tomu, aby u něj byl Cantillonův efekt velmi nízký a po roce 2140 úplně nulový.</p>
+</blockquote>
+
+<p> </p>
+
+<p>U Bitcoinu se navíc snižuje tempo růstu nových mincí, a to až do roku 2140, od tohoto roku již nebudou vznikat nové peněžní jednotky. Co to znamená? Bitcoin bude dlouho <em>dezinflační</em>, tj. bude se zpomalovat tempo růstu měnové zásoby (a to exponenciálně) a po roce 2140 bude zcela <em>deflační</em>, tj. bude se snižovat jeho měnová zásoba, a to, protože sem tam někdo ztratí své bitcoiny (respektive privátní klíče ke svým <em>UTXOs</em>). Tedy Bitcoin má silné předpoklady k tomu, aby u něj byl Cantillonův efekt velmi nízký a po roce 2140 úplně nulový. Navíc musíme vzít v úvahu, že u Bitcoinu jsou vysoké náklady pro vznik nových mincí, tudíž se tak rychle nedostávají do oběhu, čímž snižují právě dopady tohoto efektu. Jinými slovy, z peněz, které dnes známe (fiat, drahé kovy, bitcoin…) bude Cantillonův efekt nejnižší právě u Bitcoinu (nikoliv však žádný, respektive do roku 2140 ne).</p>
+
+
+        </div>
+        
+        <div class="social-share center margin-t">
+
+    <hr class="short center"> 
+
+    <h4 class="margin-b-05"> Sdílet </h4>
+
+    <nav>
+        <a href="https://twitter.com/intent/tweet?text=Co je to bitcoin a proč vznikl?&url=http://localhost:4000/posts/2022/my-first-post&via=&related=" rel="nofollow" target="_blank" title="Share on Twitter">
+            <i class="social fab fa-twitter"></i>
+        </a>
+        <a href="https://facebook.com/sharer.php?u=http://localhost:4000/posts/2022/my-first-post" rel="nofollow" target="_blank" title="Share on Facebook">
+            <i class="social fab fa-facebook-f"></i>
+        </a>
+    </nav>
+
+</div>
+
+<div class="download center">
+    <a href="/files/co-je-to-bitcoin-a-proc-vznikl.pdf" download>Stáhnout v pdf</a>
+</div>
+
+
+</section>
+
+<section class="bg-light padded related-posts">
+
+    <h4 class="center"> Related Posts </h4>
+    
+    <div class="grid-center">
+    
+    
+    
+
+    
+
+      
+
+    
+          <a href="/posts/2022/verejne-statky" class="col-4_xs-12 padded-2 post-item">
+            <div class="bg-image square margin-b-05" style="background-image:url(/uploads/verejnestatky3.png)"> </div>
+            
+                <span class="post-info">Štěpán Drábek // </span> 
+                <span class="post-info"> 05.16.2022 </span>
+            
+                <h3 class="margin-t-05"> Veřejné statky </h3>
+          </a>
+          
+      
+
+    
+          <a href="/posts/2022/kapitalismus-a-ekologie" class="col-4_xs-12 padded-2 post-item">
+            <div class="bg-image square margin-b-05" style="background-image:url(/uploads/kapitalismus-a-ekologie.png)"> </div>
+            
+                <span class="post-info">Štěpán Drábek // </span> 
+                <span class="post-info"> 02.10.2022 </span>
+            
+                <h3 class="margin-t-05"> Kapitalismus a ekologie </h3>
+          </a>
+          
+      
+    </div>
+    
+</section>
+
+
+
+    <hr />           
+<footer class="grid">
+    <!-- column -->
+    <div class="col-5_sm-12 padded p-b-1 p-t-2" id="footer-logo">
+      <a href="/"><h2 class="logo"> Ekonomie Jednoduše </h2></a>
+      <p class="editable">
+          Pokud se V&aacute;m m&aacute; tvorba l&iacute;b&iacute;, můžete mě <a href="/podporte-me.html">podpořit.</a>
+      </p>
+    </div>
+    <div class="col-1 sm-hidden p-b-1"></div>
+    <!-- column -->
+    <div class="col-6_sm-12-middle padded right p-b-1 p-t-2" id="socials-footer">
+      <nav class="inline">
+        <a href="mailto:ekonomie-jednoduse@proton.me" target="_blank"> Email </a>|
+      </nav>
+      <nav class="inline socials">
+        <a href="https://www.instagram.com/ekonomie_jednoduse/" target="_blank">
+          <i class="fab fa-instagram-square"></i>
+        </a>
+        <a href="https://www.youtube.com/c/EkonomieJednoduše" target="_blank">
+          <i class="fab fa-youtube"></i>
+        </a>
+          <a href="https://twitter.com/Stepec_Drabek?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3AStepec_Drabek%7Ctwgr%5EeyJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9mZiIsInZlcnNpb24iOm51bGx9LCJ0ZndfcmVmc3JjX3Nlc3Npb24iOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvZmYiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3VzZXJfZm9sbG93X2ludGVudF8xNDQwNiI6eyJidWNrZXQiOiJmb2xsb3ciLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3R3ZWV0X2VkaXRfZnJvbnRlbmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&ref_url=http%3A%2F%2F127.0.0.1%3A4000%2F" target="_blank">
+            <i class="fab fa-twitter"></i>
+          </a>
+      </nav>
+    </div>
+    <div class="col-12 center">
+        <span class="center copyright">Design and code by <a href="#">Lofterra Webdevelopment</a></span>
+    </div>
+</footer>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js" integrity="sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js" integrity="sha512-WNZwVebQjhSxEzwbettGuQgWxbpYdoLf7mH+25A7sfQbbxKeS5SQ9QBf97zOY4nOlwtksgDA/czSTmfj4DUEiQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<script src="/scripts.js"></script>
+
+
+</body>
+</html>
