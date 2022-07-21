@@ -22,7 +22,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&iacute;ch term&iacute;nů/zkratek, kter&yacute;m bez vyhled&aacute;n&iacute; nebudete rozumět. Zde je slovn&iacute;k všech důležit&yacute;ch slov&iacute;ček z této oblasti, kter&yacute; by V&aacute;m mohl pomoci ve studio Bitcoinu a ekonomie. V př&iacute;padě, kdyby V&aacute;s napadl důležit&yacute; pojem/zkratka, na kter&yacute; jsem při psan&iacute; tohoto slovn&iacute;ku zapomněl, kontaktujte mě pros&iacute;m na email [dotazy@ekonomie-jednoduse.cz](mailto:dotazy@ekonomie-jednoduse.cz). :)
+Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&iacute;ch term&iacute;nů/zkratek, kter&yacute;m bez vyhled&aacute;n&iacute; nebudete rozumět. Zde je slovn&iacute;k všech důležit&yacute;ch slov&iacute;ček z této oblasti, kter&yacute; by V&aacute;m mohl pomoci ve studio Bitcoinu a ekonomie. V př&iacute;padě, kdyby V&aacute;s napadl důležit&yacute; pojem/zkratka, na kter&yacute; jsem při psan&iacute; tohoto slovn&iacute;ku zapomněl, kontaktujte mě pros&iacute;m na email ekonomie-jednoduse@proton.me. :)
 
 &nbsp;
 
@@ -548,7 +548,7 @@ Fiat: Nejen italsk&aacute; automobilka, ale i pen&iacute;ze s nucen&yacute;m ob�
 
 &nbsp;
 
-*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad...
+*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad…
 
 &nbsp;
 
@@ -682,7 +682,7 @@ LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXY
 
 &nbsp;
 
-*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor...).
+*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor…).
 
 &nbsp;
 
@@ -1062,7 +1062,7 @@ Open source software: Takov&yacute; software, kter&yacute; m&aacute; svůj zdroj
 
 &nbsp;
 
-*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy...). Pro některé je Wall Street symbolem kapitalismu.
+*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy…). Pro některé je Wall Street symbolem kapitalismu.
 
 &nbsp;
 
