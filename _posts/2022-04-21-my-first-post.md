@@ -68,7 +68,11 @@ Jedn&iacute;m z velmi neintuitivn&iacute;ch, byť naprosto z&aacute;sadn&iacute;
 
 &nbsp;
 
+&nbsp;
+
 ![Znázornění toho, v jakém pořadí se kdo dostává k novým penězům](/uploads/ce-4.png "Znázornění toho, v jakém pořadí se kdo dostává k novým penězům"){: .small-centered-image width="2387" height="2062"}
+
+&nbsp;
 
 &nbsp;
 
