@@ -26,8 +26,6 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 &nbsp;
 
-&nbsp;
-
 *51% &uacute;to*k: Jeden z typů &uacute;toku na blockchain. &Uacute;tok, při kterém m&aacute; těžař nadpolovičn&iacute; (respektive v praxi to může b&yacute;t i mnohem méně, jde o to, aby dan&yacute; pool dok&aacute;zal uzavř&iacute;t v&iacute;ce bloků za čas *t* než ostatn&iacute; těžaři) v&yacute;početn&iacute; v&yacute;kon (hash rate), pomoc&iacute; něhož provede reorganizaci blockchainu a potenci&aacute;lně může provést i double spending &uacute;toky.
 
 &nbsp;
