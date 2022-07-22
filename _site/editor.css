@@ -37,7 +37,7 @@ img.float-right-image {
 }
 
 img.small-centered-image {
-    max-width: 40vw;
+    max-width: 70vw;
     height: auto;
     margin:auto;
     display: flex;
@@ -49,7 +49,7 @@ img.styled{
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 40vw;
+    max-width: 70vw;
     height: auto;
 }
 

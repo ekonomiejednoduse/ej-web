@@ -318,7 +318,7 @@ footer{
     font-size: 3.5rem;
     line-height: 0.8;
     margin-top: -0.7rem;
-    position: fixed;
+    position: absolute;
     right: 1rem;
     top: 2rem;
     z-index: 3;
@@ -610,5 +610,8 @@ background:#809ce2;
     #slider-video iframe{
         height: auto;
         min-width: 80vw;
+    }
+    .mob-m{
+        margin-top: 3rem;
     }
 }

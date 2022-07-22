@@ -10,7 +10,7 @@ featured: true
 categories:
   - bitcoin
 featured_image: /uploads/random.png
-download: bitcoin–slovnik.pdf
+download: slovnik.pdf
 seo:
   title: Bitcoinový slovník
   description:

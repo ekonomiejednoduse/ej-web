@@ -144,7 +144,7 @@
 
 <div class="mobile-menu"> 
   <nav> 
-    <a href="/"> Home </a>
+    <a href="/"> Domů </a>
     <a href="/videa.html"> Videa </a>
     <a href="/blog-archive.html"> Články </a>
     <a href="/podcast.html"> Podcast </a>
@@ -200,7 +200,11 @@
 
 <p> </p>
 
-<p>Bitcoin k tomu používá algoritmus <em>Proof of Work</em>. U Bitcoinu totiž onu loterii vyhrává ten, kdo k tomu obětuje nejvíce, kdo utopí největší množství nákladů, a to v podobě elektřiny. K získání odměny je potřeba zahashovat veškeré údaje v <em>bloku</em>. Blok je datová struktura, ve které se nachází jednotlivé transakce, časové razítko (<em>timestamp</em>), nonce a hash předchozího bloku. Tyto bloky jsou na sebe <em>kryptograficky</em> navázány, každý blok potvrzuje blok předchozí, a tím ztěžuje jeho změnu, a tvoří řetězec bloků – Blockchain. Ten je právě díky kryptografické návaznosti jednotlivých bloků nezměnitelný (respektive tak tomu je, kvůli možnosti <em>reorgu</em>, pouze od určité hloubky <em>transakce</em> v Bitcoinovém blockchainu). Kdybychom chtěli změnit transakci ve vůbec prvním bloku, který vytěžil samotný <em>Satoshi Nakamoto,</em><a href="https://commons.wikimedia.org/wiki/File:Bitcoin-Genesis-block.jpg" target="_blank" rel="noopener"><em>genesis bloku</em></a><em>,</em> hash celého bloku by byl naprosto odlišný od hashe původního, správného bloku (vzpomeňme si, že sebemenší změna ve vstupu hashovací funkce vede k zcela jinému výstupu). Co by to znamenalo? Tento blok by nenavazoval na ostatní bloky a byl by neplatným. Proč? Součástí bloků je hash předchozího bloku, pomocí kterého jsou jednotlivé bloky na sebe navázány. Ve chvíli, kdyby se tento hash změnil, blok by k ostatním blokům jednoduše neseděl.</p>
+<p>Bitcoin k tomu používá algoritmus <em>Proof of Work</em>. U Bitcoinu totiž onu loterii vyhrává ten, kdo k tomu obětuje nejvíce, kdo utopí největší množství nákladů, a to v podobě elektřiny. K získání odměny je potřeba zahashovat veškeré údaje v <em>bloku</em>. Blok je datová struktura, ve které se nachází jednotlivé transakce, časové razítko (<em>timestamp</em>), nonce a hash předchozího bloku. Tyto bloky jsou na sebe <em>kryptograficky</em> navázány, každý blok potvrzuje blok předchozí, a tím ztěžuje jeho změnu, a tvoří řetězec bloků – Blockchain. Ten je právě díky kryptografické návaznosti jednotlivých bloků nezměnitelný (respektive tak tomu je, kvůli možnosti <em>reorgu</em>, pouze od určité hloubky <em>transakce</em> v Bitcoinovém blockchainu). Kdybychom chtěli změnit transakci ve vůbec prvním bloku, který vytěžil samotný <em>Satoshi Nakamoto, </em><a href="https://commons.wikimedia.org/wiki/File:Bitcoin-Genesis-block.jpg" target="_blank" rel="noopener"><em>genesis bloku</em></a><em>,</em> hash celého bloku by byl naprosto odlišný od hashe původního, správného bloku (vzpomeňme si, že sebemenší změna ve vstupu hashovací funkce vede k zcela jinému výstupu). Co by to znamenalo? Tento blok by nenavazoval na ostatní bloky a byl by neplatným. Proč? Součástí bloků je hash předchozího bloku, pomocí kterého jsou jednotlivé bloky na sebe navázány. Ve chvíli, kdyby se tento hash změnil, blok by k ostatním blokům jednoduše neseděl.</p>
+
+<p> </p>
+
+<p><img src="/uploads/blockchain-3.png" alt="Řetězec bloků – Blockchain" title="Řetězec bloků – Blockchain" class="small-centered-image" width="2264" height="1090" /></p>
 
 <p>​​​​</p>
 
@@ -397,7 +401,7 @@
       </nav>
     </div>
     <div class="col-12 center copyright">
-      <i class="fa fa-copyright"></i> 2022 Design and code by <a href="#"> Lofterra webdevelopment</a>
+      <i class="fa fa-copyright"></i> 2022 Design and code by <a href="https://www.lofterrawebdevelopment.com/" target="_blank"> Lofterra webdevelopment</a>
     </div>
 </footer>
 
