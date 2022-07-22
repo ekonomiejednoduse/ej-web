@@ -50,7 +50,7 @@ Bitcoin k tomu použ&iacute;v&aacute; algoritmus *Proof of Work*. U Bitcoinu tot
 
 &nbsp;
 
-![](/uploads/blockchain-4.png){: width="1993" height="1155"}
+![Řetězec bloků – Blockchain](/uploads/blockchain-4.png "Řetězec bloků – Blockchain"){: width="1993" height="1155"}
 
 ​​​​
 
