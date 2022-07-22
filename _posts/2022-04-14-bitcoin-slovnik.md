@@ -70,7 +70,7 @@ Každ&yacute; algoritmus je popsan&yacute; počtem s konečn&yacute;m množstv&i
 
 &nbsp;
 
-*Altcoiny:* Alternativn&iacute; kryptoměny k Bitcoinu. Jedn&aacute; se o všechny kryptoměny kromě Bitcoinu.
+*Altcoiny (neboli shitcoiny):* Alternativn&iacute; kryptoměny k Bitcoinu. Jedn&aacute; se o všechny kryptoměny kromě Bitcoinu.
 
 &nbsp;
 
