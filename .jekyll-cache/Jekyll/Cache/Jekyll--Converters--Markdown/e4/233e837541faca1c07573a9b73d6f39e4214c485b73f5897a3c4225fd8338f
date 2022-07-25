@@ -1,118 +1,70 @@
-I"�D<p>Po přečtení minulého článku o tom, co je to Bitcoin a proč vznikl, Vás možná napadla (naprosto správná) otázka, a sice, kdo onu účetní knihu, Blockchain, spravuje, když má Bitcoin decentralizovanou podobu a žádná jedna entita jej neovládá? A přesně touto otázkou, respektive tím, jak Bitcoin funguje po technické stránce, se v následujících řádcích budeme zabývat. Tento článek bude na pochopení lehce složitější, ale když si jej přečtete, pochopíte základy fungování Bitcoinu a získáte tak konkurenční výhodu oproti naprosté většině světové populace.</p>
-
-<p> </p>
+I"�C<p>Po přečtení minulého článku o tom, co je to Bitcoin a proč vznikl, Vás možná napadla (naprosto správná) otázka, a sice, kdo onu účetní knihu, Blockchain, spravuje, když má Bitcoin decentralizovanou podobu a žádná jedna entita jej neovládá? A přesně touto otázkou, respektive tím, jak Bitcoin funguje po technické stránce, se v následujících řádcích budeme zabývat. Tento článek bude na pochopení lehce složitější, ale když si jej přečtete, pochopíte základy fungování Bitcoinu a získáte tak konkurenční výhodu oproti naprosté většině světové populace.</p>
 
 <blockquote>
   <p>Blockchain je zkrátka pouze veřejná databáze, ale musíme ještě nějak zajistit, aby do ní nemohl data psát každý, aby kdokoliv nemohl vyhrát loterii.</p>
 </blockquote>
 
-<p> </p>
-
 <p><em>Blockchain</em> (veřejná účetní kniha) je spravován pomocí takzvané <em>těžby</em>. Těžbu si lze představit jako jednu velkou loterii. Těžaři (ti, co provádí těžbu) se snaží najít určité číslo – <em>nonce</em>, přičemž ten, kdo toto číslo nalezne jako první, získá možnost dostat odměnu v podobě nových bitcoinů. Tedy motivace spravovat veřejnou účetní knihu je primárně finanční, a to v podobě nových mincí a transakčních poplatků od uživatelů <em>Bitcoinové sítě</em>.</p>
 
-<p> </p>
-
 <p>Jakmile těžař nalezne onu správnou nonce, kterou nazýváme <em>golden nonce</em>, aplikuje na ní (společně s ostatními údaji v <em>hlavičče bloku</em>, jako je <em>merkle root, časové razítko</em>, anebo <em>hash</em> přechozího bloku) takzvanou <em>hashovací funkci</em>. Hashovací funkce je matematická funkce, která převádí zprávu o libovolné délce na otisk, <em>hash</em> (nečitelnou kombinaci písmen a čísel) s přesně danou velikostí. Bitcoin využívá hashovací funkci <em>SHA-256</em>, tedy výstup hashovací funkce má 256 bitů. Přičemž platí, že drobná změna ve zprávě na vstupu vede k velké změně ve výstupu. Dejme si jednoduchý příklad: Vytvoříme si nějaký vstup, například slovo Bitcoin. Tento vstup vložíme do hashovací funkce SHA-256 a vyjde nám otisk – <strong><em>b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4</em></strong>, kdybychom však změnili slovo Bitcoin na Bitcon, vyjde nám zcela odlišný výstup – <strong><em>dcb05a36f3d9336f77cc7bd59cffabd6f10a0fba48efc7d2ab6cbdd3d8b8d4ca</em></strong>. U hashovacích funkcí navíc platí, že nejsou obousměrné, symetrické. Z výstupu této funkce je prakticky nemožné zjistit její vstup. Pravděpodobnost, že byste z výstupu zjistili jeho vstup je (díky binární soustavě – 0 nebo 1) 2ˇ256, což je zhruba tak stejně velké číslo, jako počet atomů ve vesmíru.</p>
-
-<p> </p>
 
 <blockquote>
   <p>U Bitcoinu totiž onu loterii vyhrává ten, kdo k tomu obětuje nejvíce, kdo utopí největší množství nákladů, a to v podobě elektřiny.</p>
 </blockquote>
 
-<p> </p>
-
 <p>V minulém článku jsem zmínil, že <em>problém dvojí útraty</em> byl u Bitcoinu vyřešen pomocí toho, že je mezi všemi uživateli veřejná účetní kniha, avšak to není úplně pravda. A to, jelikož blockchain samotný neřeší problém dvojí útraty, řeší jej v kombinaci s <em>konsenzuálním algoritmem</em>. Blockchain je zkrátka pouze veřejná databáze, ale musíme ještě nějak zajistit, aby do ní nemohl data psát každý, aby kdokoliv nemohl vyhrát loterii.</p>
 
-<p> </p>
+<p>Bitcoin k tomu používá algoritmus <em>Proof of Work</em>. U Bitcoinu totiž onu loterii vyhrává ten, kdo k tomu obětuje nejvíce, kdo utopí největší množství nákladů, a to v podobě elektřiny. K získání odměny je potřeba zahashovat veškeré údaje v <em>bloku</em>. Blok je datová struktura, ve které se nachází jednotlivé transakce, časové razítko (<em>timestamp</em>), nonce a hash předchozího bloku. Tyto bloky jsou na sebe <em>kryptograficky</em> navázány, každý blok potvrzuje blok předchozí, a tím ztěžuje jeho změnu, a tvoří řetězec bloků – Blockchain. Ten je právě díky kryptografické návaznosti jednotlivých bloků nezměnitelný (respektive tak tomu je, kvůli možnosti <em>reorgu</em>, pouze od určité hloubky <em>transakce</em> v Bitcoinovém blockchainu). Kdybychom chtěli změnit transakci ve vůbec prvním bloku, který vytěžil samotný <em>Satoshi Nakamoto,</em><a href="https://commons.wikimedia.org/wiki/File:Bitcoin-Genesis-block.jpg" target="_blank" rel="noopener"><em>genesis bloku</em></a><em>,</em> hash celého bloku by byl naprosto odlišný od hashe původního, správného bloku (vzpomeňme si, že sebemenší změna ve vstupu hashovací funkce vede k zcela jinému výstupu). Co by to znamenalo? Tento blok by nenavazoval na ostatní bloky a byl by neplatným. Proč? Součástí bloků je hash předchozího bloku, pomocí kterého jsou jednotlivé bloky na sebe navázány. Ve chvíli, kdyby se tento hash změnil, blok by k ostatním blokům jednoduše neseděl.</p>
 
-<p>Bitcoin k tomu používá algoritmus <em>Proof of Work</em>. U Bitcoinu totiž onu loterii vyhrává ten, kdo k tomu obětuje nejvíce, kdo utopí největší množství nákladů, a to v podobě elektřiny. K získání odměny je potřeba zahashovat veškeré údaje v <em>bloku</em>. Blok je datová struktura, ve které se nachází jednotlivé transakce, časové razítko (<em>timestamp</em>), nonce a hash předchozího bloku. Tyto bloky jsou na sebe <em>kryptograficky</em> navázány, každý blok potvrzuje blok předchozí, a tím ztěžuje jeho změnu, a tvoří řetězec bloků – Blockchain. Ten je právě díky kryptografické návaznosti jednotlivých bloků nezměnitelný (respektive tak tomu je, kvůli možnosti <em>reorgu</em>, pouze od určité hloubky <em>transakce</em> v Bitcoinovém blockchainu). Kdybychom chtěli změnit transakci ve vůbec prvním bloku, který vytěžil samotný <em>Satoshi Nakamoto, </em><a href="https://commons.wikimedia.org/wiki/File:Bitcoin-Genesis-block.jpg" target="_blank" rel="noopener"><em>genesis bloku</em></a><em>,</em> hash celého bloku by byl naprosto odlišný od hashe původního, správného bloku (vzpomeňme si, že sebemenší změna ve vstupu hashovací funkce vede k zcela jinému výstupu). Co by to znamenalo? Tento blok by nenavazoval na ostatní bloky a byl by neplatným. Proč? Součástí bloků je hash předchozího bloku, pomocí kterého jsou jednotlivé bloky na sebe navázány. Ve chvíli, kdyby se tento hash změnil, blok by k ostatním blokům jednoduše neseděl.</p>
-
-<p> </p>
-
-<p><img src="/uploads/blockchain-3.png" alt="Řetězec bloků – Blockchain" title="Řetězec bloků – Blockchain" class="small-centered-image" width="2264" height="1090" /></p>
+<p><img src="/uploads/blockchain-4.png" alt="Řetězec bloků – Blockchain" title="Řetězec bloků – Blockchain" class="small-centered-image" width="1993" height="1155" /></p>
 
 <p>​​​​</p>
 
 <p>Jak je ale možné získat onu odměnu? Přece jenom, to, že se k získání nových mincí musí zahashovat veškeré údaje v blocích nijak nezaručí to, že je vytěží ten, kdo k tomu obětoval nejvíce zdrojů. A nyní přichází do hry znalost hashovacích funkcí. Bitcoinová síť předem zná takzvané <em>cílové číslo</em>. Výsledný hash veškerých údajů v bloku musí být menší nebo stejný jako ono cílové číslo. Komu takto vyjde hash, získá pravomoc uzavřít blok, rozeslat jej mezi uživatele Bitcoinové sítě a získat odměnu v podobě nových bitcoinů.</p>
 
-<p> </p>
-
 <blockquote>
   <p>Důsledek růstu nabídky zlata je pak pokles jeho ceny. Bitcoin ale funguje jinak.</p>
 </blockquote>
 
-<p> </p>
-
 <p>Nyní ale nastává problém, jelikož každé dva týdny (respektive každých <em>2016</em> bloků) se cílové číslo mění v závislosti výpočetní kapacity (měřeno množstvím hashů za sekundu) Bitcoinové sítě vždy tak, aby se blok vytěžil každých <em>10 minut</em>. Tomuto regulačnímu mechanismu říkáme <em>difficulty algorithm</em> (algoritmus náročnosti těžby). Díky této technologii můžeme předem vědět, kdy se kolik nových bitcoinů vytěží, jeho <em>monetární</em> politika je tak do budoucna známá. To je obrovská výhoda například oproti zlatu, kde růst jeho ceny vede k výhodnější těžbě, a tedy i k větší produkci tohoto drahého kovu. Důsledek růstu nabídky zlata je pak pokles jeho ceny. Bitcoin ale funguje jinak. Růst jeho ceny sice krátkodobě zvýhodní těžbu (dokud nedojde ke změně cílového čísla), ale těžaři nevytěží více bitcoinů (Bitcoinový protokol jim to jednoduše neumožňuje), pouze více zabezpečí síť, což má neutrální (respektive někdy dokonce i pozitivní) dopad na cenu bitcoinu.</p>
 
-<p> </p>
-
 <p>Možná jste někdy slyšeli o tom, že těžba je způsob, jak si může kdokoliv vytvořit nové bitcoiny. To však není úplně pravda. Těžba totiž není pro každého. Dnes je to už velice sofistikovaná profesionální činnost, a to právě kvůli algoritmu náročnosti těžby. Dříve bylo možné bitcoiny těžit na procesoru standardního počítače, protože výpočetní síla celé sítě byla malá, a tedy cílové číslo vysoké (čím vyšší je cílové číslo, tím větší je pravděpodobnost nalezení nonce). To se ale časem změnilo. Jak se Bitcoin stával populárnějším, rostlo množství jeho uživatelů i těžařů. Což vedlo k růstu výpočetní síly celé sítě a poklesu hodnoty cílového čísla. Začalo se tak těžit na výpočetně výkonnějších grafických kartách. Náročnost těžby neustále rostla a rostla. Dnes se bitcoiny těží v takzvaných <em>těžebních poolech</em>, ve kterých je několik desítek tisíc specializovaných strojů přímo na těžbu bitcoinů – <em>ASIC minerů</em>. Tím, že je v daném poolu několik výkonných těžebních strojů, zvyšuje se pravděpodobnost, že právě ona skupina těžařů nalezne golden nonce, pomocí které získají nové bitcoiny. Tyto pooly mají často rozdílné obchodní strategie, ale většina z nich funguje na tom principu, že svoji odměnu rozdělí jednotlivým těžařům (respektive vlastníkům ASIC minerů) podle toho, jak velkým výpočetním výkonem poolu přispěli.</p>
-
-<p> </p>
 
 <blockquote>
   <p>Je to jednoduché, u každé transakce je <em>transakční poplatek</em>, který po vytěžení bloku připadá právě jejímu těžaři.</p>
 </blockquote>
 
-<p> </p>
-
 <p>Ale teď zpět ke konsenzuálnímu algoritmu Proof of Work. Proof of Work znamená důkaz vykonané práce, avšak, co je tím důkazem práce? Je to golden nonce. Samotný fakt, že těžař nalezl správnou nonce, pomocí které mu jako výsledek hashovací funkce vyšel hash menší než cílové číslo, znamená, že k tomu musel obětovat obrovské množství výpočetního výkonu. Tento důkaz je tak velmi těžké vytvořit, ale naopak naprosto jednoduché ověřit (stačí použít veškeré údaje v bloku jako vstup hashovací funkce SHA-256 a vyjde Vám stejný výstup jako těžařovi). Vzhledem k takto nákladné činnosti nemají těžaři incentivy pro to, aby podváděli, protože by spotřebovali obrovské množství elektrické energie a žádné bitcoiny by nezískali, to jednoduše nedává smysl.</p>
-
-<p> </p>
 
 <blockquote>
   <p>Veškeré transakce, tj. přesunutí bitcoinů z jedné <em>bitcoinové adresy</em> na druhou, ukládají <em>uzly</em> v Bitcoinové síti, <em>nody</em>, do takzvaného <em>mempoolu</em>.</p>
 </blockquote>
 
-<p> </p>
-
 <p>Těžaři získávají svoji odměnu pomocí takzvané <em>coinbase</em> (generující) <em>transakce</em>. Avšak jsme si říkali, že pomocí těžby se zabezpečuje účetní kniha, respektive zaručuje správnost jednotlivých transakcí. Tak jakou mají těžaři motivaci zabezpečovat transakce? Je to jednoduché, u každé transakce je <em>transakční poplatek</em>, který po vytěžení bloku připadá právě jejímu těžaři. Díky tomu není v bloku pouze jediná transakce, generující bitcoiny, ale i transakce běžných uživatelů.</p>
-
-<p> </p>
 
 <p>Veškeré transakce, tj. přesunutí bitcoinů z jedné <em>bitcoinové adresy</em> na druhou, ukládají <em>uzly</em> v Bitcoinové síti, <em>nody</em>, do takzvaného <em>mempoolu</em>. Plnohodnotný uzel v Bitcoinové síti je zařízení, které v sobě uchovává celou historii Bitcoinového blockchainu (dnes je to zhruba <em>470 GB</em>) a ověřuje transakce nové, například pomocí, pro tento účel, nejpoužívanějšího softwaru <em>Bitcoin Core</em>. Možná jsem Vás nyní zmátl tím, že uzly ověřují transakce, přece to je práce těžařů, anebo ne? Rozdíl mezi uzly a těžaři je přitom naprosto zásadní. Když někomu odešlete transakci, tato transakce se nejprve rozšíří mezi veškeré uzly, ty ověří, zda neutrácíte již utracené bitcoiny a zda je Vámi poskytnutý <em>digitální podpis</em> validní, a následně je zařadí do mempoolu. Z mempoolu pak těžař vybere transakce (samozřejmě vybírá transakce s co nejvyšším transakčním poplatkem), které zařadí do bloku a tím je potvrdí. Tyto bloky pak rozšíří do Bitcoinové sítě mezi všechny uzly a ostatní těžaře. Zjednodušeně tak můžeme říci, že uzly ověřují transakce a těžaři je naopak potvrzují. Každý těžař je uzel, ale když máte vlastní Bitcoinový node nemusíte být těžařem.</p>
 
-<p> </p>
-
 <p>Avšak zde nastává další otázka, a sice, co brání nodům, aby v síti rozšířili transakce, které se ve skutečnosti nestaly? Nyní vstupuje do hry <em>teorie her</em>. Vždy, když lidé, jakkoliv jednají, mají k tomu určité <em>incentivy</em>, motivace, chcete-li. Jinými slovy, je dobré se pokaždé zamýšlet nad tím, co vede lidi k tomu, aby se určitým způsobem chovali. A Bitcoin je geniální systém incentiv. Jsou zde totiž jednotliví uživatelé motivováni udržovat celou síť ve správném chodu. Proč tomu tak je? Bitcoinoví uživatelé (většinou) drží mince samotného ekosystému – bitcoiny. <em>Kupní síla</em> (respektive dnes spíše cena měřená ve státních měnách) by mohla v důsledku útoku na síť totiž výrazně poklesnout (mohla by se snížit poptávka po bitcoinech a to by za jinak stejných podmínek vedlo k poklesu ceny), a to si žádný <em>Bitcoiner</em> nepřeje… A naopak by v případě hladkého fungování Bitcoinu mohla jeho cena vzrůst, čímž by se jeho držitelé stali bohatšími. Ekonomické motivace jednoduše fungují.</p>
-
-<p> </p>
 
 <blockquote>
   <p>Bitcoin je totiž systém, kde každý kontroluje každého a snaží se zabránit jakýmkoliv podvodům.</p>
 </blockquote>
 
-<p> </p>
-
 <p>Navíc dnes celou Bitcoinovou síť spravují desítky, ne-li i stovky tisíc (přesná čísla nejsou veřejně známá, protože velká část nodů nemá zveřejněnou IP adresu a zůstává tak v anonymitě) uzlů. Tudíž i kdyby se našlo pár neposlušných nodů, které by chtěli ostatní podvést, většina uzlů by tyto transakce ověřila jako neplatné a nezařadila do mempoolu, potažmo těžaři neumístili do bloku. Falešné transakce by tak byly neplatné. Bitcoin je totiž systém, kde každý kontroluje každého a snaží se zabránit jakýmkoliv podvodům.</p>
 
-<p> </p>
-
 <p>Co by se ale stalo, kdyby dva rozdílní těžaři vytěžili a do sítě rozšířili nový blok s validními transakcemi a správným důkazem vykonané práce v jednu a tu samou chvíli? Takováto situace skutečně čas od čase nastane a říkáme jí <em>fork</em> nebo také <em>rozštěpení blockchainu</em>. Bitcoin tento problém řeší šalamounským způsobem, a sice tím, že počkáme a uvidíme. Vzhledem k tomu, že jsou oba tyto bloky validní, těžaři si mohou vybrat, který blok zařadí do své kopie účetní knihy a použijí jako základ pro další bloky. Čas ukáže, který z těchto bloků bude nakonec tím jediným správným, a to, protože se Bitcoinová síť řídí takzvaným <em>Nakamotovým konsenzem</em>. Ten spočívá v tom, že uzly musí vždy akceptovat nejsilnější řetězec důkazu o vykonané práci (blockchain s nejvíce platnými bloky), který přitom nijak neporušuje ostatní podmínky Bitcoinové sítě.</p>
-
-<p> </p>
 
 <blockquote>
   <p>Přímo u generující coinbase transakce je nastaven čas, až po kterém bude možné bitcoiny z adresy utratit (takzvaný <em>timelock</em>).</p>
 </blockquote>
 
-<p> </p>
-
 <p>Další blok tak rozhodne, která verze blockchainu je ta správná. Pokud jej vytěží těžař, který akceptoval blok od těžaře A a vytvoří tak silnější důkaz práce, ostatní těžaři a nody jej musí považovat jako jediný správný blockchain. Ovšem co se stane s blokem těžaře B, který akceptovala část Bitcoinové sítě? Odpověď zní jasně, musí provést takzvaný <em>reorg</em>, tj. reorganizaci bloků v blockchainu. Z bloku těžaře A se stane blok, který je součástí jediného správného řetězce bloků, jenž musí všechny nody (tedy i ostatní těžaři) uznat platným, zatímco blok těžaře B se stane takzvaným <em>osiřelým blokem</em> (<em>orphan block</em>). A těžba pokračuje pozvolně dál, dokud nenastane stejná situace znova.</p>
 
-<p> </p>
-
 <p>Avšak co se stane s odměnou těžařů A a B? Přece oba tito těžaři vytvořili validní blok s platnou coinbase transakcí, tudíž musí, jak těžař A, tak i těžař B dostat odměnu, anebo ne? Bitcoin je z hlediska technologického fungování naprosto geniální, a i tento problém brilantním způsobem řeší, a to s pomocí takzvaného <em>maturation time</em> (doby zrání). Přímo u generující coinbase transakce je nastaven čas, až po kterém bude možné bitcoiny z adresy utratit (takzvaný <em>timelock</em>). Tento čas je <em>100 Bitcoinových bloků</em>, tedy zhruba nějakých 17 hodin. Tedy až po 100 blocích může těžař utrácet svoje nově vytěžené bitcoiny, čímž se eliminují problémy spojené s reorganizací Bitcoinocých bloků.</p>
-
-<p> </p>
 
 <blockquote>
   <p>Ovšem každé zhruba <em>4 roky</em> (respektive <em>210 000 bloků</em>) se tato odměna snižuje, a to přesně o polovinu.</p>
 </blockquote>
-
-<p> </p>
 
 <p>A teď ještě něco k odměně těžařů. Tato odměna byla ze začátku (od genesis bloku, tj. roku 2009) 50 bitcoinů za jeden vytěžený blok. Ovšem každé zhruba <em>4 roky</em> (respektive <em>210 000 bloků</em>) se tato odměna snižuje, a to přesně o polovinu. Půlení odměny těžařů říkáme <em>halving</em>. První halving nastal v listopadu roku 2012 a snížil odměnu na 25 bitcoinů za blok. Dnes činí odměna 6,25 bitcoinů a další halving nastane už v březnu roku 2024. Takto se bude postupně snižovat odměna za těžbu až se dostaneme k roku <em>2140</em>, kdy se vytěží poslední <em>20 999 999,9769.</em> mince a od této chvíle již nebudou vznikat žádné nové bitcoiny.</p>
 :ET

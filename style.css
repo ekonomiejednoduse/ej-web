@@ -27,6 +27,7 @@ color: var(--writing-lm);
 font-family: 'Roboto';
 font-size: 1rem;
 background-color: var(--bg-lm);
+overflow-x: hidden;
 }
 
 body.dark-mode{
@@ -273,6 +274,8 @@ header{
     display:inline-block;
     padding: 0.5rem;
 }
+
+
 
 .socials{
     font-size: 1.8rem;
