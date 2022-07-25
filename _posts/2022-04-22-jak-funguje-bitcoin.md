@@ -124,9 +124,13 @@ Avšak co se stane s odměnou těžařů A a B? Přece oba tito těžaři vytvo�
 
 A teď ještě něco k odměně těžařů. Tato odměna byla ze zač&aacute;tku (od genesis bloku, tj. roku 2009) 50 bitcoinů za jeden vytěžen&yacute; blok. Ovšem každé zhruba *4 roky* (respektive *210 000 bloků*) se tato odměna snižuje, a to přesně o polovinu. Půlen&iacute; odměny těžařů ř&iacute;k&aacute;me *halving*. Prvn&iacute; halving nastal v listopadu roku 2012 a sn&iacute;žil odměnu na 25 bitcoinů za blok. Dnes čin&iacute; odměna 6,25 bitcoinů a dalš&iacute; halving nastane už v březnu roku 2024. Takto se bude postupně snižovat odměna za těžbu až se dostaneme k roku *2140*, kdy se vytěž&iacute; posledn&iacute; *20 999 999,9769.* mince a od této chv&iacute;le již nebudou vznikat ž&aacute;dné nové bitcoiny.
 
-&nbsp;
-
-&nbsp;
+> &nbsp;&nbsp;
+>
+>
+> Pozn&aacute;mky pod čarou:
+>
+>
+> &nbsp;
 
 **1** Respektive blockchain je v&yacute;sledkem ekonomick&yacute;ch motivac&iacute; tuto datab&aacute;zi zabezpečovat (*security budget – block subsidy* + transakčn&iacute; poplatky), n&aacute;ročnost&iacute; přeps&aacute;n&iacute; transakčn&iacute; historie (*PoW*) a kryptografickou n&aacute;vaznost&iacute; jednotliv&yacute;ch digit&aacute;ln&iacute;ch souborů – bloků (*Merkle tree* hashov&aacute;n&iacute;). Jeho implementace d&aacute;v&aacute; smysl pouze s využit&iacute;m těchto technologi&iacute;. Bohužel se ze slova **blockchain** stal v posledn&iacute;ch letech obrovsk&yacute; *buzzword*, téměř vždy se jedn&aacute; pouze o marketing. Blockchain s&aacute;m o sobě ned&aacute;v&aacute; smysl a je to pouze neefektivn&iacute;, vysoce n&aacute;kladn&aacute; datab&aacute;ze (v&yacute;jimkou jsou projekty, které využ&iacute;vaj&iacute; technologi&iacute;, jež jsem zmiňoval v&yacute;še).
 
