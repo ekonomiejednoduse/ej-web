@@ -27,9 +27,8 @@ Po přečten&iacute; minulého čl&aacute;nku o tom, co je to Bitcoin a proč vz
 &nbsp;
 
 > Blockchain je zkr&aacute;tka pouze veřejn&aacute; datab&aacute;ze, ale mus&iacute;me ještě nějak zajistit, aby do n&iacute; nemohl data ps&aacute;t každ&yacute;, aby kdokoliv nemohl vyhr&aacute;t loterii.
->
->
-> &nbsp;
+
+&nbsp;
 
 *Blockchain* (veřejn&aacute; &uacute;četn&iacute; kniha) je spravov&aacute;n pomoc&iacute; takzvané *těžby*. Těžbu si lze představit jako jednu velkou loterii. Těžaři (ti, co prov&aacute;d&iacute; těžbu) se snaž&iacute; naj&iacute;t určité č&iacute;slo – *nonce*, přičemž ten, kdo toto č&iacute;slo nalezne jako prvn&iacute;, z&iacute;sk&aacute; možnost dostat odměnu v podobě nov&yacute;ch bitcoinů. Tedy motivace spravovat veřejnou &uacute;četn&iacute; knihu je prim&aacute;rně finančn&iacute;, a to v podobě nov&yacute;ch minc&iacute; a transakčn&iacute;ch poplatků od uživatelů *Bitcoinové s&iacute;tě*.
 
@@ -60,9 +59,8 @@ Jak je ale možné z&iacute;skat onu odměnu? Přece jenom, to, že se k z&iacut
 &nbsp;
 
 > Důsledek růstu nab&iacute;dky zlata je pak pokles jeho ceny. Bitcoin ale funguje jinak.
->
->
-> &nbsp;
+
+&nbsp;
 
 Nyn&iacute; ale nast&aacute;v&aacute; problém, jelikož každé dva t&yacute;dny (respektive každ&yacute;ch *2016* bloků) se c&iacute;lové č&iacute;slo měn&iacute; v z&aacute;vislosti v&yacute;početn&iacute; kapacity (měřeno množstv&iacute;m hashů za sekundu) Bitcoinové s&iacute;tě vždy tak, aby se blok vytěžil každ&yacute;ch *10 minut*. Tomuto regulačn&iacute;mu mechanismu ř&iacute;k&aacute;me *difficulty algorithm* (algoritmus n&aacute;ročnosti těžby). D&iacute;ky této technologii můžeme předem vědět, kdy se kolik nov&yacute;ch bitcoinů vytěž&iacute;, jeho *monet&aacute;rn&iacute;* politika je tak do budoucna zn&aacute;m&aacute;. To je obrovsk&aacute; v&yacute;hoda např&iacute;klad oproti zlatu, kde růst jeho ceny vede k v&yacute;hodnějš&iacute; těžbě, a tedy i k větš&iacute; produkci tohoto drahého kovu. Důsledek růstu nab&iacute;dky zlata je pak pokles jeho ceny. Bitcoin ale funguje jinak. Růst jeho ceny sice kr&aacute;tkodobě zv&yacute;hodn&iacute; těžbu (dokud nedojde ke změně c&iacute;lového č&iacute;sla), ale těžaři nevytěž&iacute; v&iacute;ce bitcoinů (Bitcoinov&yacute; protokol jim to jednoduše neumožňuje), pouze v&iacute;ce zabezpeč&iacute; s&iacute;ť, což m&aacute; neutr&aacute;ln&iacute; (respektive někdy dokonce i pozitivn&iacute;) dopad na cenu bitcoinu.
 
@@ -73,18 +71,16 @@ Možn&aacute; jste někdy slyšeli o tom, že těžba je způsob, jak si může 
 &nbsp;
 
 > Je to jednoduché, u každé transakce je *transakčn&iacute; poplatek*, kter&yacute; po vytěžen&iacute; bloku připad&aacute; pr&aacute;vě jej&iacute;mu těžaři.
->
->
-> &nbsp;
+
+&nbsp;
 
 Ale teď zpět ke konsenzu&aacute;ln&iacute;mu algoritmu Proof of Work. Proof of Work znamen&aacute; důkaz vykonané pr&aacute;ce, avšak, co je t&iacute;m důkazem pr&aacute;ce? Je to golden nonce. Samotn&yacute; fakt, že těžař nalezl spr&aacute;vnou nonce, pomoc&iacute; které mu jako v&yacute;sledek hashovac&iacute; funkce vyšel hash menš&iacute; než c&iacute;lové č&iacute;slo, znamen&aacute;, že k tomu musel obětovat obrovské množstv&iacute; v&yacute;početn&iacute;ho v&yacute;konu. Tento důkaz je tak velmi těžké vytvořit, ale naopak naprosto jednoduché ověřit (stač&iacute; použ&iacute;t veškeré &uacute;daje v bloku jako vstup hashovac&iacute; funkce SHA-256 a vyjde V&aacute;m stejn&yacute; v&yacute;stup jako těžařovi). Vzhledem k takto n&aacute;kladné činnosti nemaj&iacute; těžaři incentivy pro to, aby podv&aacute;děli, protože by spotřebovali obrovské množstv&iacute; elektrické energie a ž&aacute;dné bitcoiny by nez&iacute;skali, to jednoduše ned&aacute;v&aacute; smysl.
 
 &nbsp;
 
 > Veškeré transakce, tj. přesunut&iacute; bitcoinů z jedné *bitcoinové adresy* na druhou, ukl&aacute;daj&iacute; *uzly* v Bitcoinové s&iacute;ti, *nody*, do takzvaného *mempoolu*.
->
->
-> &nbsp;
+
+&nbsp;
 
 Těžaři z&iacute;sk&aacute;vaj&iacute; svoji odměnu pomoc&iacute; takzvané *coinbase* (generuj&iacute;c&iacute;) *transakce*. Avšak jsme si ř&iacute;kali, že pomoc&iacute; těžby se zabezpečuje &uacute;četn&iacute; kniha, respektive zaručuje spr&aacute;vnost jednotliv&yacute;ch transakc&iacute;. Tak jakou maj&iacute; těžaři motivaci zabezpečovat transakce? Je to jednoduché, u každé transakce je *transakčn&iacute; poplatek*, kter&yacute; po vytěžen&iacute; bloku připad&aacute; pr&aacute;vě jej&iacute;mu těžaři. D&iacute;ky tomu nen&iacute; v bloku pouze jedin&aacute; transakce, generuj&iacute;c&iacute; bitcoiny, ale i transakce běžn&yacute;ch uživatelů.
 
@@ -99,9 +95,8 @@ Avšak zde nast&aacute;v&aacute; dalš&iacute; ot&aacute;zka, a sice, co br&aacu
 &nbsp;
 
 > Bitcoin je totiž systém, kde každ&yacute; kontroluje každého a snaž&iacute; se zabr&aacute;nit jak&yacute;mkoliv podvodům.
->
->
-> &nbsp;
+
+&nbsp;
 
 Nav&iacute;c dnes celou Bitcoinovou s&iacute;ť spravuj&iacute; des&iacute;tky, ne-li i stovky tis&iacute;c (přesn&aacute; č&iacute;sla nejsou veřejně zn&aacute;m&aacute;, protože velk&aacute; č&aacute;st nodů nem&aacute; zveřejněnou IP adresu a zůst&aacute;v&aacute; tak v anonymitě) uzlů. Tud&iacute;ž i kdyby se našlo p&aacute;r neposlušn&yacute;ch nodů, které by chtěli ostatn&iacute; podvést, většina uzlů by tyto transakce ověřila jako neplatné a nezařadila do mempoolu, potažmo těžaři neum&iacute;stili do bloku. Falešné transakce by tak byly neplatné. Bitcoin je totiž systém, kde každ&yacute; kontroluje každého a snaž&iacute; se zabr&aacute;nit jak&yacute;mkoliv podvodům.
 
@@ -112,9 +107,8 @@ Co by se ale stalo, kdyby dva rozd&iacute;ln&iacute; těžaři vytěžili a do s
 &nbsp;
 
 > Př&iacute;mo u generuj&iacute;c&iacute; coinbase transakce je nastaven čas, až po kterém bude možné bitcoiny z adresy utratit (takzvan&yacute; *timelock*).
->
->
-> &nbsp;
+
+&nbsp;
 
 Dalš&iacute; blok tak rozhodne, kter&aacute; verze blockchainu je ta spr&aacute;vn&aacute;. Pokud jej vytěž&iacute; těžař, kter&yacute; akceptoval blok od těžaře A a vytvoř&iacute; tak silnějš&iacute; důkaz pr&aacute;ce, ostatn&iacute; těžaři a nody jej mus&iacute; považovat jako jedin&yacute; spr&aacute;vn&yacute; blockchain. Ovšem co se stane s blokem těžaře B, kter&yacute; akceptovala č&aacute;st Bitcoinové s&iacute;tě? Odpověď zn&iacute; jasně, mus&iacute; provést takzvan&yacute; *reorg*, tj. reorganizaci bloků v blockchainu. Z bloku těžaře A se stane blok, kter&yacute; je souč&aacute;st&iacute; jediného spr&aacute;vného řetězce bloků, jenž mus&iacute; všechny nody (tedy i ostatn&iacute; těžaři) uznat platn&yacute;m, zat&iacute;mco blok těžaře B se stane takzvan&yacute;m *osiřel&yacute;m blokem* (*orphan block*). A těžba pokračuje pozvolně d&aacute;l, dokud nenastane stejn&aacute; situace znova.
 
@@ -125,8 +119,7 @@ Avšak co se stane s odměnou těžařů A a B? Přece oba tito těžaři vytvo�
 &nbsp;
 
 > Ovšem každé zhruba *4 roky* (respektive *210 000 bloků*) se tato odměna snižuje, a to přesně o polovinu.
->
->
-> &nbsp;
+
+&nbsp;
 
 A teď ještě něco k odměně těžařů. Tato odměna byla ze zač&aacute;tku (od genesis bloku, tj. roku 2009) 50 bitcoinů za jeden vytěžen&yacute; blok. Ovšem každé zhruba *4 roky* (respektive *210 000 bloků*) se tato odměna snižuje, a to přesně o polovinu. Půlen&iacute; odměny těžařů ř&iacute;k&aacute;me *halving*. Prvn&iacute; halving nastal v listopadu roku 2012 a sn&iacute;žil odměnu na 25 bitcoinů za blok. Dnes čin&iacute; odměna 6,25 bitcoinů a dalš&iacute; halving nastane už v březnu roku 2024. Takto se bude postupně snižovat odměna za těžbu až se dostaneme k roku *2140*, kdy se vytěž&iacute; posledn&iacute; *20 999 999,9769.* mince a od této chv&iacute;le již nebudou vznikat ž&aacute;dné nové bitcoiny.
