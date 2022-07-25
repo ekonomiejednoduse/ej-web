@@ -26,13 +26,11 @@ _comments:
 ---
 Bitcoin je tu s n&aacute;mi již od roku 2009 a neust&aacute;le nab&yacute;v&aacute; na své popularitě. Většina lid&iacute; na světě o něm už slyšela, někteř&iacute; jej již nakoupili a jin&iacute; ho dokonce stihli i prodat, avšak pouze zlomek světové populaci v&iacute;, co je to Bitcoin, jaké problémy řeš&iacute; a proč se jedn&aacute; o tak z&aacute;sadn&iacute; inovaci v oblasti peněz. A tato témata se pokus&iacute;m v nadch&aacute;zej&iacute;c&iacute;ch ř&aacute;dc&iacute;ch jednoduše vysvětlit. Prvně si zde pop&iacute;šeme problémy současn&yacute;ch peněz a až n&aacute;sledně to, co vlastně Bitcoin je a jak tyto problémy řeš&iacute;.
 
-> &nbsp;
->
->
+&nbsp;
+
 > Dokud byly měny nav&aacute;z&aacute;ny či kryty skutečn&yacute;mi penězi, předevš&iacute;m v podobě drah&yacute;ch kovů, byly obchodn&iacute; banky limitov&aacute;ny v tom, kolik &uacute;věrů mohou poskytnout, tedy kolik nov&yacute;ch peněz mohou vytvořit.
->
->
-> &nbsp;
+
+&nbsp;
 
 V roce 1971 přišel obrovsk&yacute; zlom v celé historii peněz. Tohoto roku totiž tehdejš&iacute; americk&yacute; prezident Richard Milhous Nixon jednostranně ukončil takzvan&yacute; [Brettonwoodsk&yacute; systém](https://cs.wikipedia.org/wiki/Brettonwoodský_systém){: target="_blank" rel="noopener"} a t&iacute;m i veškerou n&aacute;vaznost amerického dolaru na zlato, co by podkladové aktivum.
 
@@ -43,18 +41,16 @@ Dokud byly měny nav&aacute;z&aacute;ny či kryty skutečn&yacute;mi penězi, p�
 &nbsp;
 
 > A nen&iacute; ž&aacute;dn&yacute;m překvapen&iacute;m, že v důsledku masivn&iacute; tvorby nov&yacute;ch měnov&yacute;ch jednotek, v posledn&iacute; době rostou i ceny spotřebn&iacute;ch statků – cenov&aacute; inflace.
->
->
-> &nbsp;
+
+&nbsp;
 
 Avšak po zrušen&iacute; n&aacute;vaznosti dolaru a s n&iacute;m i ostatn&iacute;ch měn na zlato se monet&aacute;rn&iacute; politika st&aacute;vala č&iacute;m d&aacute;l t&iacute;m rozvolnějš&iacute;. Centr&aacute;ln&iacute; banky začaly prov&aacute;dět expanzivn&iacute; monet&aacute;rn&iacute; politiku, tj. stlačovaly &uacute;rokové sazby n&iacute;že a n&iacute;že a t&iacute;m motivovaly lidi k nov&yacute;m &uacute;věrům a v posledn&iacute; době začaly dokonce prov&aacute;dět i takzvané kvantitativn&iacute; uvolňov&aacute;n&iacute; (respektive ne všechny centr&aacute;ln&iacute; banky, ČNB např&iacute;klad kvantitativn&iacute; uvolňov&aacute;n&iacute; nikdy neprov&aacute;děla, ale na konci roku 2013 byl u n&aacute;s zaveden jin&yacute; nekonvenčn&iacute; n&aacute;stroj měnové politiky – [kurzov&yacute; z&aacute;vazek](https://www.cnb.cz/cs/casto-kladene-dotazy/Co-byl-kurzovy-zavazek/){: target="_blank" rel="noopener"}). Kvantitativn&iacute; uvolňov&aacute;n&iacute; znamen&aacute; n&aacute;kup aktiv centr&aacute;ln&iacute; bankou. To v praxi vypad&aacute; tak, že centr&aacute;ln&iacute; banka nakoup&iacute; od finančn&iacute;ch instituc&iacute; (na sekund&aacute;rn&iacute;m trhu) určité cenné pap&iacute;ry, přev&aacute;žně st&aacute;tn&iacute; dluhopisy, a t&iacute;m zv&yacute;š&iacute; likviditu komerčn&iacute;ch bank. Tyto obchodn&iacute;, chcete-li komerčn&iacute; banky tak maj&iacute; v&iacute;ce peněz k poskytov&aacute;n&iacute; nov&yacute;ch půjček. Čehož pochopitelně využ&iacute;vaj&iacute;, poskytuj&iacute; nové &uacute;věry a t&iacute;m i emituj&iacute; nové pen&iacute;ze.
 
 &nbsp;
 
 > Pen&iacute;ze jsou totiž pouze prostředek k přesunu hodnoty skrze prostor a čas, jsou prostředkem směny.
->
->
-> &nbsp;
+
+&nbsp;
 
 A nen&iacute; ž&aacute;dn&yacute;m překvapen&iacute;m, že v důsledku masivn&iacute; tvorby nov&yacute;ch měnov&yacute;ch jednotek, v posledn&iacute; době rostou i ceny spotřebn&iacute;ch statků – cenov&aacute; inflace. Z dlouhodobého hlediska je ale růst cen velk&yacute;m problémem, a to hned z několika různ&yacute;ch důvodů. Dlouhodobé znehodnocov&aacute;n&iacute; peněz totiž nič&iacute; z&aacute;kladn&iacute; ekonomick&yacute; instrument – *spořen&iacute;*, tedy odložen&iacute; současné spotřeby peněz. V dnešn&iacute; době je už inflace tak vysok&aacute;, že jsou lidé bohužel nuceni (pokud nechtěj&iacute; přij&iacute;t o kupn&iacute; s&iacute;lu vlastn&iacute;ch peněz) zač&iacute;nat s vysoce rizikov&yacute;mi investicemi a riskovat tak ztr&aacute;ty jejich celoživotn&iacute;ch &uacute;spor.
 
@@ -93,9 +89,8 @@ Ačkoliv je ve Spojen&yacute;ch st&aacute;tech naprosto leg&aacute;ln&iacute; ko
 &nbsp;
 
 > V digit&aacute;ln&iacute;m světě můžete totiž naprosto jednoduše zkop&iacute;rovat transakci a ostatn&iacute; uživatelé této s&iacute;tě nemaj&iacute;, jak rozpoznat, kter&aacute; z těchto transakc&iacute; je ta spr&aacute;vn&aacute;.
->
->
-> &nbsp;
+
+&nbsp;
 
 Skupině cypherpunků bylo jasné, že tudy cesta nevede a je zapotřeb&iacute; vynaleznout nov&yacute; systém, ve kterém nen&iacute; jediné, zranitelné m&iacute;sto, ze kterého by byl tento systém ovl&aacute;d&aacute;n. S decentralizovan&yacute;m systém, tj. systémem, kter&yacute; nem&aacute; jedno centrum, n&yacute;brž je distribuov&aacute;n mezi v&iacute;ce různ&yacute;ch subjektů, které jej spravuj&iacute;, se ale také poj&iacute; jisté problémy. A to konkrétně např&iacute;klad, jak dos&aacute;hnout shody, konsenzu chcete-li, mezi jednotliv&yacute;mi uživateli s&iacute;tě bez centr&aacute;ln&iacute; autority, kter&aacute; by určovala, co je pravda a co ne? V IT terminologii se tento problém naz&yacute;v&aacute; *problém byzantsk&yacute;ch gener&aacute;lů*.
 
