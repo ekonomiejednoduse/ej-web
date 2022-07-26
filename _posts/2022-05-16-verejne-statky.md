@@ -193,32 +193,22 @@ Ještě se ale na chv&iacute;li vraťme k metodologii ekonomie blahobytu. Někte
 
 &nbsp;
 
-> **D&iacute;ky technologi&iacute;m jako je komplement&aacute;rn&iacute; spojen&iacute; veřejného statku se statkem soukrom&yacute;m anebo crowdfundingu, může i voln&yacute; trh, bez jak&yacute;chkoliv st&aacute;tn&iacute;ch intervenc&iacute;, neefektivnosti spojené s poskytov&aacute;n&iacute;m veřejn&yacute;ch statků redukovat anebo zcela eliminovat.**
+> **D&iacute;ky technologi&iacute;m jako je komplement&aacute;rn&iacute; spojen&iacute; veřejného statku se statkem soukrom&yacute;m anebo crowdfundingu, může i voln&yacute; trh bez jak&yacute;chkoliv st&aacute;tn&iacute;ch intervenc&iacute; neefektivnosti spojené s poskytov&aacute;n&iacute;m veřejn&yacute;ch statků redukovat anebo zcela eliminovat.**
 
 &nbsp;
 
-Dle metodologického př&iacute;stupu ekonomie blahobytu může trh při poskytov&aacute;n&iacute; čistě veřejn&yacute;ch statků selhat (ale jsou i jiné metodologie, které se na celou problematiku d&iacute;vaj&iacute; zcela odlišně). To však rozhodně nen&iacute; ospravedlněn&iacute;m pro st&aacute;tn&iacute; řešen&iacute;, jež vytv&aacute;ř&iacute; spoustu jin&yacute;ch, často větš&iacute;ch problémů. **D&iacute;ky technologi&iacute;m jako je komplement&aacute;rn&iacute; spojen&iacute; veřejného statku se statkem soukrom&yacute;m anebo crowdfundingu, může i voln&yacute; trh, bez jak&yacute;chkoliv st&aacute;tn&iacute;ch intervenc&iacute;, neefektivnosti spojené s poskytov&aacute;n&iacute;m veřejn&yacute;ch statků redukovat anebo zcela eliminovat.**
+Dle metodologického př&iacute;stupu ekonomie blahobytu může trh při poskytov&aacute;n&iacute; čistě veřejn&yacute;ch statků selhat (ale jsou i jiné metodologie, které se na celou problematiku d&iacute;vaj&iacute; zcela odlišně). To však rozhodně nen&iacute; ospravedlněn&iacute;m pro st&aacute;tn&iacute; řešen&iacute;, jež vytv&aacute;ř&iacute; spoustu jin&yacute;ch, často větš&iacute;ch problémů. **D&iacute;ky technologi&iacute;m jako je komplement&aacute;rn&iacute; spojen&iacute; veřejného statku se statkem soukrom&yacute;m anebo crowdfundingu, může i voln&yacute; trh bez jak&yacute;chkoliv st&aacute;tn&iacute;ch intervenc&iacute; neefektivnosti spojené s poskytov&aacute;n&iacute;m veřejn&yacute;ch statků redukovat anebo zcela eliminovat.**
 
 &nbsp;
 
 **Zdroje:**
 
-&nbsp;
-
 Mojm&iacute;r Hampl – [Troj&iacute; př&iacute;stup k veřejn&yacute;m statkům](http://journal.fsv.cuni.cz/storage/146_004_111_125.pdf){: target="_blank" rel="noopener"}
-
-&nbsp;
 
 R&oacute;bert Chovanculiak – [Pokrok bez povolenia](https://pokrokbezpovolenia.sk/){: target="_blank" rel="noopener"}
 
-&nbsp;
-
 Nicholas Gregory Mankiw – Z&aacute;sady ekonomie
 
-&nbsp;
-
 Paul A. Samuelson – Economics
-
-&nbsp;
 
 James M. Buchanan – Positive Economics, Welfare Economics and Political Economy
