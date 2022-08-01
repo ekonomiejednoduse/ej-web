@@ -21,6 +21,10 @@
     margin:0;
     box-sizing: border-box;
 }
+
+[class*="grid-"], [class*="grid_"], [class~="grid"]{
+    margin: 0;
+}
   
 body {
 color: var(--writing-lm);
