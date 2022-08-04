@@ -2,21 +2,18 @@
 layout: post
 title: Windfall tax – daň ze zisků, které přinesl vítr
 date: 2022-02-10 00:00:00
-description: >-
-  Ekologičtí aktivisté často tvrdí, že je kapitalismus pro planetu problémem a
-  že za současnou environmentální situaci může právě on, avšak je to skutečně
-  pravda?
+description:
 author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-featured_image: /uploads/kapitalismus-a-ekologie.png
-download: kapitalismus-a-ekologie.pdf
+featured_image:
+download:
 seo:
-  title: Kapitalismus a ekologie
+  title:
   description:
   social_image:
-  twitter_card: Kapitalismus, ekologie, anarchokapitalismus, stát, regulace
+  twitter_card:
   keywords:
   hide-from-google: false
 _comments:
