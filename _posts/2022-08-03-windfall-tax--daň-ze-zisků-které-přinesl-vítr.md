@@ -20,11 +20,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-**Windfall tax – daň ze zisků, které přinesl v&iacute;tr**
-
-&nbsp;
-
-Windfall tax je v posledn&iacute;ch t&yacute;dnech mezi česk&yacute;mi ekonomy a investory na kapit&aacute;lovém trhu často prob&iacute;rané a velmi kontroverzn&iacute; téma. O co přesně se jedn&aacute;, jaké problémy se tato daň snaž&iacute; řešit, jaké jsou jej&iacute; negativn&iacute; dopady a proč byla komunikace vl&aacute;dy o možnosti jej&iacute;ho nasazen&iacute; chybn&aacute;? Odpověď na tyto důležité ot&aacute;zky naleznete pr&aacute;vě v tomto čl&aacute;nku.
+**Windfall tax** je v posledn&iacute;ch t&yacute;dnech mezi česk&yacute;mi ekonomy a investory na kapit&aacute;lovém trhu často prob&iacute;rané a velmi kontroverzn&iacute; téma. O co přesně se jedn&aacute;, jaké problémy se tato daň snaž&iacute; řešit, jaké jsou jej&iacute; negativn&iacute; dopady a proč byla komunikace vl&aacute;dy o možnosti jej&iacute;ho nasazen&iacute; chybn&aacute;? Odpověď na tyto důležité ot&aacute;zky naleznete pr&aacute;vě v tomto čl&aacute;nku.
 
 &nbsp;
 
