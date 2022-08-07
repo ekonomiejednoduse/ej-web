@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windfall tax
-date: 2022-08-07 00:00:00
+date: 2022-08-03 00:00:00
 description: "Windfall tax je v\_posledních týdnech mezi českými ekonomy a investory na kapitálovém trhu často probírané a velmi kontroverzní téma. O co přesně se jedná, jaké problémy se tato daň snaží řešit, jaké jsou její negativní dopady a proč byla komunikace vlády o možnosti jejího\nnasazení chybná? Odpověď na tyto důležité otázky naleznete právě v\_tomto článku."
 author: Štěpán Drábek
 featured: true
