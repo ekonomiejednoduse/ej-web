@@ -34,7 +34,15 @@ Prvn&iacute; si pojďme ř&iacute;ci něco m&aacute;lo o definici *windfall tax*
 
 &nbsp;
 
+> Pokud se hypotetick&aacute; ekonomika skl&aacute;d&aacute; pouze z dobrovoln&yacute;ch transakc&iacute;, nen&iacute; ž&aacute;dn&yacute; zisk nezasloužen&yacute;.
+
+&nbsp;
+
 Takto se na celou problematiku d&iacute;v&aacute; Ministerstvo financ&iacute; ČR a N&aacute;rodn&iacute; rozpočtov&aacute; rada. Ovšem j&aacute; zde chci vysvětlit, proč se domn&iacute;v&aacute;m, že je cel&yacute; tento př&iacute;stup postaven na naprosto špatn&yacute;ch z&aacute;kladech a opom&iacute;j&iacute; mnohé problémy, spojené s t&iacute;mto zdaněn&iacute;m. Prvně mus&iacute;me jasně ř&iacute;ct, že zisk je z hlediska &uacute;četnictv&iacute; naprosto objektivn&iacute; vlastnost&iacute;, kter&aacute; je jednoduše ztv&aacute;rněn&iacute;m přev&yacute;šen&iacute; finančn&iacute;ch př&iacute;jmů nad n&aacute;klady (u ekonomie je to složitějš&iacute;, neboť pracuje s celkov&yacute;mi n&aacute;klady obětovan&yacute;ch př&iacute;ležitost&iacute; a s vešker&yacute;mi formami př&iacute;jmů. Př&iacute;jmy ani n&aacute;klady tak v ekonomii nejsou pouze finančn&iacute;). Pokud se hypotetick&aacute; ekonomika skl&aacute;d&aacute; pouze z dobrovoln&yacute;ch transakc&iacute;, nen&iacute; ž&aacute;dn&yacute; zisk „nezasloužen&yacute;“, naopak, dobrovolné směny jsou postaveny pr&aacute;vě na konceptu, že všem jej&iacute;m &uacute;častn&iacute;kům zlepšuj&iacute; jejich pozici, zvyšuj&iacute; jim užitek.7 Je pak samozřejmě možné zpochybňovat mor&aacute;ln&iacute; str&aacute;nku statků, které si jednotlivci vz&aacute;jemně směnili, ale to je ryze subjektivn&iacute; z&aacute;ležitost. O ž&aacute;dném př&iacute;jmu, jenž plyne z všestranně dobrovoln&yacute;ch transakc&iacute;, nelze tvrdit, že je nezasloužen&yacute;, jelikož ž&aacute;dn&yacute; člověk nedok&aacute;že zn&aacute;t preference všech ostatn&iacute;ch lid&iacute; a n&aacute;sledně ř&iacute;ct, co je pro společnost objektivně spr&aacute;vné. Je zisk zasloužen&yacute; pouze tehdy, když pro něj bylo vykon&aacute;no určité množstv&iacute; lidské pr&aacute;ce? To bychom ale považovali za platnou d&aacute;vno vyvr&aacute;cenou8 Marxistickou teorii hodnoty, což současn&aacute; „pravicov&aacute;“ vl&aacute;da jistě nechce. To ale nen&iacute; jedin&yacute; problém socialisticky zněj&iacute;c&iacute;ho slovn&iacute;ho spojen&iacute; *nezasloužen&yacute; zisk*. Jsou např&iacute;klad zisky odvětv&iacute; postaven&yacute;ch na cykličnosti zasloužené? Je velk&aacute; &uacute;roda farm&aacute;ře či vinaře vlivem dlouhodobě př&iacute;znivého počas&iacute; jeho z&aacute;sluhou? I kdybychom připustili, že tomu tak nen&iacute;, jelikož je zisk nezasloužen&yacute; pouze, když jej způsobila kombinace pozitivn&iacute;ch čern&yacute;ch labut&iacute; (vysoce nepravděpodobn&yacute;ch ud&aacute;lost&iacute; se z&aacute;sadn&iacute;mi dopady), st&aacute;le by bylo velmi n&aacute;ročné udržet si n&aacute;zorovou konzistenci. Když by měl st&aacute;t zdaňovat nezasloužené zisky, neměl by z&aacute;roveň dotovat nezasloužené ztr&aacute;ty? Extern&iacute; vlivy totiž mohou působit i negativně. Dalš&iacute; problém je určit, do jaké m&iacute;ry je zisk zasloužen&yacute; a jakou dodatečnou sazbou ten nezasloužen&yacute; zdanit. Na tyto ot&aacute;zky rovněž nelze nalézt uspokojivé odpovědi. Jin&yacute;mi slovy, pokud se vl&aacute;da nechce stavět do role společenského pl&aacute;novače, kter&yacute; určuje, zda je zisk spr&aacute;vn&yacute; či ne a omezuje svobodné podnik&aacute;n&iacute; a chce si zachovat ekonomickou odbornost, mus&iacute; upustit od hodnocen&iacute; z&aacute;sluhy zisku.
+
+&nbsp;
+
+> Špatn&aacute; vl&aacute;dn&iacute; komunikace již nyn&iacute; udeřila obrovskou r&aacute;nu česk&yacute;m kapit&aacute;lov&yacute;m trhům a jejich investorům.
 
 &nbsp;
 
@@ -42,7 +50,15 @@ Již v&iacute;me, že definice toho, zda je zisk zasloužen&yacute; či ne, je s
 
 &nbsp;
 
+> Struktur&aacute;ln&iacute; deficit je takov&yacute; z&aacute;porn&yacute; rozd&iacute;l mezi st&aacute;tn&iacute;mi př&iacute;jmy a v&yacute;daji, kter&yacute; nijak nez&aacute;vis&iacute; na tom, v jaké f&aacute;zi hospod&aacute;řského cyklu se ekonomika nach&aacute;z&iacute;.
+
+&nbsp;
+
 Windfall tax rovněž představuje riziko pro důvěru ve stabilitu českého daňového systému. Podnikatelé si nemohou b&yacute;t jisti, že se pr&aacute;vě jejich sektoru či př&iacute;mo jejich podniku nedotkne podobn&aacute; daň kdykoli v budoucnu, to mimochodem tvrd&iacute; i současn&yacute; ministr financ&iacute; **Zbyněk Stanjura**.12 Prolomen&iacute; důvěry zahraničn&iacute;ch investorů ve st&aacute;lost českého daňového systému by mohla zredukovat množstv&iacute; investic, a to i v energetickém sektoru. Investice do v&yacute;stavby nov&yacute;ch elektr&aacute;ren (v př&iacute;padě elektrické energie) na našem &uacute;zem&iacute; či zefektivněn&iacute; produkčn&iacute;ho procesu je přesně to, co by mohlo postupně vyřešit bezprecedentn&iacute; n&aacute;růst cen energi&iacute; a zv&yacute;šit naši nez&aacute;vislost na energi&iacute;ch, které n&aacute;m dod&aacute;vaj&iacute; země s nestabiln&iacute;m politick&yacute;m systémem.
+
+&nbsp;
+
+> Kdybychom jej měli jednor&aacute;zově vyřešit, museli bychom např&iacute;klad zrušit celé Ministerstvo školstv&iacute;, ml&aacute;deže a tělov&yacute;chovy.
 
 &nbsp;
 
@@ -52,11 +68,7 @@ Windfall tax by mohl m&iacute;rně zv&yacute;šit st&aacute;tn&iacute; př&iacut
 
 Pojďme si na z&aacute;věr shrnout všechny nev&yacute;hody, které windfall tax přin&aacute;š&iacute;, a srovnat je s možn&yacute;mi pozitivn&iacute;mi dopady této daně. Prvn&iacute; nev&yacute;hodou je samotn&aacute; nebezpečn&aacute; definice nezasloužen&yacute;ch zisků. Těmi dalš&iacute;mi jsou jednoznačně podp&aacute;sov&aacute; r&aacute;na pro česk&yacute; kapit&aacute;lov&yacute; trh a možné prolomen&iacute; důvěry v česk&yacute; daňov&yacute; systém a v důsledku toho i sn&iacute;žen&iacute; množstv&iacute; (nejen) zahraničn&iacute;ch investic do energetického sektoru v České republice. Zat&iacute;mco jediné zat&iacute;m zn&aacute;mé pozitivum implementace windfall tax by bylo zv&yacute;šen&iacute; př&iacute;jmů do st&aacute;tn&iacute;ho rozpočtu o nižš&iacute; des&iacute;tky miliard korun (samozřejmě by z&aacute;leželo na velikosti daňové sazby), které by však nijak nevyřešilo obrovsk&yacute; struktur&aacute;ln&iacute; deficit, jenž n&aacute;š st&aacute;tn&iacute; rozpočet tr&aacute;p&iacute; a nejsp&iacute;še i do budoucna nem&aacute;lo tr&aacute;pit bude. Současnou vl&aacute;dnouc&iacute; koalici volili předevš&iacute;m pravicově sm&yacute;šlej&iacute;c&iacute; lidé, jejichž sympatie s touto vl&aacute;du (v jej&iacute;mž poltickém programu bylo mimo jiné i to, že daně zvyšovat nebude) by mohly b&yacute;t zaveden&iacute;m daně z „nezasloužen&yacute;ch“ zisků značně ohroženy. Tud&iacute;ž, i kdyby vl&aacute;da jednala čistě politicky, nikoli ekonomicky, windfall tax by nebyla tou spr&aacute;vnou volbou.
 
-&nbsp;
-
 > &nbsp;
-
-&nbsp;
 
 **1** [https://www.bankofengland.co.uk/boeapps/database/Bank-Rate.asp](https://www.bankofengland.co.uk/boeapps/database/Bank-Rate.asp)
 
