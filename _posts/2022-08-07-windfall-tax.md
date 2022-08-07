@@ -48,6 +48,8 @@ Pojďme si na z&aacute;věr shrnout všechny nev&yacute;hody, které windfall ta
 
 &nbsp;
 
+> &nbsp;
+
 &nbsp;
 
 **1** [https://www.bankofengland.co.uk/boeapps/database/Bank-Rate.asp](https://www.bankofengland.co.uk/boeapps/database/Bank-Rate.asp)
@@ -70,7 +72,7 @@ Pojďme si na z&aacute;věr shrnout všechny nev&yacute;hody, které windfall ta
 
 &nbsp;
 
-**6** V&iacute;ce viz třeba [https://www.penize.cz/terminovane-vklady/430032-nejlepsi-terminovane-vklady-banky-prisly-o-velkou-konkurenci](https://www.penize.cz/terminovane-vklady/430032-nejlepsi-terminovane-vklady-banky-prisly-o-velkou-konkurenci)<u>. Důležit&eacute; je ale tak&eacute; podotknout, že u dlouhodob&yacute;ch term&iacute;novan&yacute;ch vkladů jsou &uacute;rokov&eacute; sazby vy&scaron;&scaron;&iacute; (pohybuj&iacute; se až mezi 5 a 5,5 %), tud&iacute;ž zde je rozd&iacute;l s 2T repo sazbou men&scaron;&iacute;.</u>
+**6** V&iacute;ce viz třeba [https://www.penize.cz/terminovane-vklady/430032-nejlepsi-terminovane-vklady-banky-prisly-o-velkou-konkurenci](https://www.penize.cz/terminovane-vklady/430032-nejlepsi-terminovane-vklady-banky-prisly-o-velkou-konkurenci). Důležité je ale také podotknout, že u dlouhodob&yacute;ch term&iacute;novan&yacute;ch vkladů jsou &uacute;rokové sazby vyšš&iacute; (pohybuj&iacute; se až mezi 5 a 5,5 %), tud&iacute;ž zde je rozd&iacute;l s 2T repo sazbou menš&iacute;.
 
 &nbsp;
 
@@ -78,47 +80,47 @@ Pojďme si na z&aacute;věr shrnout všechny nev&yacute;hody, které windfall ta
 
 &nbsp;
 
-<u><strong>8 </strong></u><u>Marxovu pracovn&iacute; teorii hodnoty, kter&aacute; vych&aacute;zela z Ricardovy n&aacute;kladov&eacute; teorie hodnoty (<strong>David Ricard</strong>přitom nav&aacute;zal na odli&scaron;en&iacute; užitn&eacute; a směnn&eacute; hodnoty statků samotn&eacute;ho otce zakladatele ekonomie <strong>Adama Smitha</strong>), souběžně vyvr&aacute;til britsk&yacute; ekonom <strong>William Stanley Jevons</strong> a jeden ze zakladatelů <em>rakousk&eacute; ekonomick&eacute; &scaron;koly</em> a tak&eacute; jeden z hlavn&iacute;ch představitelů <em>marginalistick&eacute; revoluce</em> <strong>Carl Menger</strong>. Ti při&scaron;li s novou, <em>subjektivn&iacute; teori&iacute; hodnoty</em>, kter&aacute; jednodu&scaron;e tvrd&iacute;, že hodnota nen&iacute; ž&aacute;dnou explicitn&iacute; vlastnost&iacute; statků. Ve&scaron;kerou hodnotu statkům podle n&iacute; přiřazuj&iacute; až samotn&iacute; lid&eacute;, a to na z&aacute;kladě toho, jak kvalitně uspokojuj&iacute; jejich individu&aacute;ln&iacute; preference. </u>
+**8** Marxovu pracovn&iacute; teorii hodnoty, kter&aacute; vych&aacute;zela z Ricardovy n&aacute;kladové teorie hodnoty (**David Ricard**přitom nav&aacute;zal na odlišen&iacute; užitné a směnné hodnoty statků samotného otce zakladatele ekonomie **Adama Smitha**), souběžně vyvr&aacute;til britsk&yacute; ekonom **William Stanley Jevons** a jeden ze zakladatelů *rakouské ekonomické školy* a také jeden z hlavn&iacute;ch představitelů *marginalistické revoluce* **Carl Menger**. Ti přišli s novou, *subjektivn&iacute; teori&iacute; hodnoty*, kter&aacute; jednoduše tvrd&iacute;, že hodnota nen&iacute; ž&aacute;dnou explicitn&iacute; vlastnost&iacute; statků. Veškerou hodnotu statkům podle n&iacute; přiřazuj&iacute; až samotn&iacute; lidé, a to na z&aacute;kladě toho, jak kvalitně uspokojuj&iacute; jejich individu&aacute;ln&iacute; preference.
 
 &nbsp;
 
-<u><strong>9 </strong></u>[https://www.fio.cz/zpravodajstvi/zpravy-z-burzy/270794-cez-tema-specialniho-zdaneni-energetickych-firem-stale-silne-rezonuje-kapitalovym-trhem](https://www.fio.cz/zpravodajstvi/zpravy-z-burzy/270794-cez-tema-specialniho-zdaneni-energetickych-firem-stale-silne-rezonuje-kapitalovym-trhem)
+**9**[https://www.fio.cz/zpravodajstvi/zpravy-z-burzy/270794-cez-tema-specialniho-zdaneni-energetickych-firem-stale-silne-rezonuje-kapitalovym-trhem](https://www.fio.cz/zpravodajstvi/zpravy-z-burzy/270794-cez-tema-specialniho-zdaneni-energetickych-firem-stale-silne-rezonuje-kapitalovym-trhem)
 
 &nbsp;
 
-<u><strong>10 </strong></u>[https://www.cez.cz/cs/o-cez/cez/akcionari](https://www.cez.cz/cs/o-cez/cez/akcionari)
+**10**[https://www.cez.cz/cs/o-cez/cez/akcionari](https://www.cez.cz/cs/o-cez/cez/akcionari)
 
 &nbsp;
 
-<u><strong>11</strong></u> [https://www.cez.cz/cs/pro-investory/akcie/vyvoj-cen-akcii](https://www.cez.cz/cs/pro-investory/akcie/vyvoj-cen-akcii)
+**11** [https://www.cez.cz/cs/pro-investory/akcie/vyvoj-cen-akcii](https://www.cez.cz/cs/pro-investory/akcie/vyvoj-cen-akcii)
 
 &nbsp;
 
-<u><strong>12 </strong></u>[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970)
+**12**[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970)
 
 &nbsp;
 
-<u><strong>13</strong></u><u> To konec konců tvrd&iacute; i předseda N&aacute;rodn&iacute; rozpočtov&eacute; rady <strong>Mojm&iacute;r Hampl</strong> (viz třeba </u>[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-hampl-extra-dani-pro-cez-a-banky-to-zacne-pak-vlada-zdani-i-lidi-207701](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-hampl-extra-dani-pro-cez-a-banky-to-zacne-pak-vlada-zdani-i-lidi-207701)<u>)</u>
+**13** <u>To konec konců tvrd&iacute; i předseda N&aacute;rodn&iacute; rozpočtov&eacute; rady <strong>Mojm&iacute;r Hampl</strong> (viz třeba </u>[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-hampl-extra-dani-pro-cez-a-banky-to-zacne-pak-vlada-zdani-i-lidi-207701](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-hampl-extra-dani-pro-cez-a-banky-to-zacne-pak-vlada-zdani-i-lidi-207701)<u>)</u>
 
 &nbsp;
 
-<u><strong>14</strong></u> [https://unrr.cz/nrr-vydala-pravidelne-ctvrtletni-stanovisko-k-vyvoji-hospodareni-sektoru-verejnych-instituci-a-k-nastaveni-fiskalni-a-rozpoctove-politiky-5/](https://unrr.cz/nrr-vydala-pravidelne-ctvrtletni-stanovisko-k-vyvoji-hospodareni-sektoru-verejnych-instituci-a-k-nastaveni-fiskalni-a-rozpoctove-politiky-5/)
+**14** [https://unrr.cz/nrr-vydala-pravidelne-ctvrtletni-stanovisko-k-vyvoji-hospodareni-sektoru-verejnych-instituci-a-k-nastaveni-fiskalni-a-rozpoctove-politiky-5/](https://unrr.cz/nrr-vydala-pravidelne-ctvrtletni-stanovisko-k-vyvoji-hospodareni-sektoru-verejnych-instituci-a-k-nastaveni-fiskalni-a-rozpoctove-politiky-5/)
 
 &nbsp;
 
-<u><strong>15 </strong></u>[https://cs.wikipedia.org/wiki/St&aacute;tn&iacute;\_rozpočet\_České\_republiky](https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_rozpo%C4%8Det_%C4%8Cesk%C3%A9_republiky)
+**15**[https://cs.wikipedia.org/wiki/St&aacute;tn&iacute;\_rozpočet\_České\_republiky](https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_rozpo%C4%8Det_%C4%8Cesk%C3%A9_republiky)
 
 &nbsp;
 
-<u><strong>16</strong></u> [https://twitter.com/mmister/status/1549426595210960896?t=A0fAwiK4fpOJ970nmjcsxQ&s=19](https://twitter.com/mmister/status/1549426595210960896?t=A0fAwiK4fpOJ970nmjcsxQ&amp;s=19)
+**16** [https://twitter.com/mmister/status/1549426595210960896?t=A0fAwiK4fpOJ970nmjcsxQ&s=19](https://twitter.com/mmister/status/1549426595210960896?t=A0fAwiK4fpOJ970nmjcsxQ&amp;s=19)
 
 &nbsp;
 
-<u><strong>17 </strong></u>[https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/)
+**17**[https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/)
 
 &nbsp;
 
-<u><strong>18 </strong></u>[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970)
+**18**[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970)
 
 &nbsp;
 
