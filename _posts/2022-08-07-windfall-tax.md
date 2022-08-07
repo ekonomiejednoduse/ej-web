@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Windfall tax
+title: Windfall tax – daň ze zisků, které přinesl vítr
 date: 2022-08-03 00:00:00
-description: "Windfall tax je v\_posledních týdnech mezi českými ekonomy a investory na kapitálovém trhu často probírané a velmi kontroverzní téma. O co přesně se jedná, jaké problémy se tato daň snaží řešit, jaké jsou její negativní dopady a proč byla komunikace vlády o možnosti jejího\nnasazení chybná? Odpověď na tyto důležité otázky naleznete právě v\_tomto článku."
+description: >-
+  Co je to windfall tax? Proč o této dani v současnosti Ministerstvo financí
+  uvažuje a proč se domnívám, že přinese mnohem více škody než užitku?
 author: Štěpán Drábek
 featured: true
 categories:
@@ -11,10 +13,14 @@ featured_image: /uploads/windfall-tax.png
 download: windfall-tax.pdf
 seo:
   title: Windfall tax
-  description:
+  description: >-
+    Co je to windfall tax? Proč o této dani v současnosti Ministerstvo financí
+    uvažuje a proč se domnívám, že přinese mnohem více škody než užitku?
   social_image:
-  twitter_card: Kapitalismus, ekologie, anarchokapitalismus, stát, regulace
-  keywords:
+  twitter_card:
+  keywords: >-
+    Windfall tax, ministerstvo financí, daň, ekonomie, zisk, strukturální
+    deficit, státní rozpočet
   hide-from-google: false
 _comments:
   title: Max 70 characters
