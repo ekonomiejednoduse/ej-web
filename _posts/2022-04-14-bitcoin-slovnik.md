@@ -22,7 +22,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&iacute;ch term&iacute;nů/zkratek, kter&yacute;m bez vyhled&aacute;n&iacute; nebudete rozumět. Zde je slovn&iacute;k všech důležit&yacute;ch slov&iacute;ček z této oblasti, kter&yacute; by V&aacute;m mohl pomoci ve studiu Bitcoinu a ekonomie. V př&iacute;padě, kdyby V&aacute;s napadl důležit&yacute; pojem/zkratka, na kter&yacute; jsem při psan&iacute; tohoto slovn&iacute;ku zapomněl, kontaktujte mě pros&iacute;m na email&nbsp;[ekonomie-jednoduse@proton.me](file:///Users/stepan/Desktop/C%CC%8Cla%CC%81nky/C%CC%8Cla%CC%81nky%20&#40;text&#41;/ekonomie-jednoduse@proton.me){: target="_blank" rel="noopener"}&nbsp;:)
+Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&iacute;ch term&iacute;nů/zkratek, kter&yacute;m bez vyhled&aacute;n&iacute; nebudete rozumět. Zde je slovn&iacute;k všech důležit&yacute;ch slov&iacute;ček z této oblasti, kter&yacute; by V&aacute;m mohl pomoci ve studio Bitcoinu a ekonomie. V př&iacute;padě, kdyby V&aacute;s napadl důležit&yacute; pojem/zkratka, na kter&yacute; jsem při psan&iacute; tohoto slovn&iacute;ku zapomněl, kontaktujte mě pros&iacute;m na email [ekonomie-jednoduse@proton.me](applewebdata://461EF8D3-32A4-4555-812D-1D6B65ADD781/ekonomie-jednoduse@proton.me) :)
 
 &nbsp;
 
@@ -38,39 +38,11 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 &nbsp;
 
-*Algoritmus*\: Předem určen&yacute; postup, kter&yacute;m se řeš&iacute; dan&aacute; &uacute;loha. Algoritmy se nejčastěji použ&iacute;vaj&iacute; v programov&aacute;n&iacute;, ale obecně tento pojem můžete naj&iacute;t i v jakémkoliv jiném vědeckém oboru. Algoritmy v informatice maj&iacute; tyto z&aacute;kladn&iacute; parametry:
-
-&nbsp;
-
-1\. Determinovanost
-
-Determinovanost (jednoznačnost) znamen&aacute;, že je postup pr&aacute;ce předem určen&yacute; a vždy z&aacute;vis&iacute; pouze na popisu algoritmu a na vstupu.
-
-&nbsp;
-
-2\. Konečnost
-
-Každ&yacute; algoritmus z definice mus&iacute; jednou končit (po konečném počtu proveden&yacute;ch kroků).
-
-&nbsp;
-
-3\. Rezultativnost
-
-Aby algoritmus mohl b&yacute;t algoritmem, mus&iacute; vždy vydat určit&yacute; v&yacute;sledek.
-
-&nbsp;
-
-4\. Jednoduchost popisu
-
-Každ&yacute; algoritmus je popsan&yacute; počtem s konečn&yacute;m množstv&iacute;m z&aacute;kladn&iacute;ch instrukc&iacute;. Jedn&aacute; se tedy o instrukce, o kter&yacute;ch přesně v&iacute;me, jak se provedou.
-
-&nbsp;
-
 *Alokace* *(zdrojů*): Přidělen&iacute; omezen&yacute;ch zdrojů určitému subjektu (firmě, dom&aacute;cnosti). Vz&aacute;cné zdroje se alokuj&iacute; za pomoc&iacute; tržn&iacute;ch cen, tedy cen, které určuje poměr nab&iacute;dky a popt&aacute;vky.
 
 &nbsp;
 
-*Altcoiny (neboli shitcoiny):* Alternativn&iacute; kryptoměny k Bitcoinu. Jedn&aacute; se o všechny kryptoměny kromě Bitcoinu.
+*Altcoiny:* Alternativn&iacute; kryptoměny k Bitcoinu. Jedn&aacute; se o všechny kryptoměny kromě Bitcoinu.
 
 &nbsp;
 
@@ -372,7 +344,7 @@ Každ&yacute; algoritmus je popsan&yacute; počtem s konečn&yacute;m množstv&i
 
 &nbsp;
 
-1\. Co a kolik se bude vyr&aacute;bět?
+1\.Co a kolik se bude vyr&aacute;bět?
 
 2\. Jak&yacute;m způsobem a za jakou cenu se bude vyr&aacute;bět?
 
@@ -420,11 +392,7 @@ Každ&yacute; algoritmus je popsan&yacute; počtem s konečn&yacute;m množstv&i
 
 &nbsp;
 
-Fiat: Nejen italsk&aacute; automobilka, ale i pen&iacute;ze s nucen&yacute;m oběhem, z&aacute;konné platidlo; spadaj&iacute; sem všechny n&aacute;rodn&iacute;/st&aacute;tn&iacute; měny (z latinského fiat, budiž, staniž se). Fiat jsou z&aacute;roveň nič&iacute;m nekryté měny, tedy označen&iacute; měny zde nen&iacute; &uacute;plně vhodné.
-
-&nbsp;
-
-*Fiat*\: Nejen italsk&aacute; automobilka, ale i pen&iacute;ze s nucen&yacute;m oběhem, z&aacute;konné platidlo; spadaj&iacute; sem všechny n&aacute;rodn&iacute;/st&aacute;tn&iacute; měny (z latinského fiat, budiž, staniž se). Fiat jsou z&aacute;roveň nič&iacute;m nekryté měny, tedy označen&iacute; měny zde nen&iacute; &uacute;plně vhodné.
+*Fiat*\: Nejen italsk&aacute; automobilka, ale i pen&iacute;ze s nucen&yacute;m oběhem, z&aacute;konné platidlo; spadaj&iacute; sem všechny n&aacute;rodn&iacute;/st&aacute;tn&iacute; měny (z latinského fiat, budiž, staniž se). Fiat jsou nič&iacute;m nekryté měny, tedy označen&iacute; měny zde nen&iacute; &uacute;plně vhodné.
 
 &nbsp;
 
@@ -548,7 +516,7 @@ Fiat: Nejen italsk&aacute; automobilka, ale i pen&iacute;ze s nucen&yacute;m ob�
 
 &nbsp;
 
-*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad…
+*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad...
 
 &nbsp;
 
@@ -565,8 +533,6 @@ Fiat: Nejen italsk&aacute; automobilka, ale i pen&iacute;ze s nucen&yacute;m ob�
 &nbsp;
 
 *Konsenzu&aacute;ln&iacute; algoritmus*\: Konsenzus je v decentralizovaném systému způsob, jak dos&aacute;hnout vz&aacute;jemné dohody, bez toho, aby si &uacute;častn&iacute;ci museli navz&aacute;jem důvěřovat. Je totiž podstatné, aby se v takovémto systému komunita vz&aacute;jemně dohodla na tom, co je pravda. Mezi nejzn&aacute;mějš&iacute; konsenzu&aacute;ln&iacute; mechanismy patř&iacute; třeba Proof of Work nebo Proof of Stake. O obou těchto algoritmech konsenzu si pov&iacute;me v&iacute;ce v technologické č&aacute;sti.
-
-&nbsp;
 
 Komerčn&iacute; banka: Komerčn&iacute; banka s mal&yacute;m „k“ je instituce, kter&aacute; m&aacute; legislativn&iacute; pravomoc emitovat pen&iacute;ze.
 
@@ -585,8 +551,6 @@ Komerčn&iacute; banka: Komerčn&iacute; banka s mal&yacute;m „k“ je institu
 &nbsp;
 
 *Kupn&iacute; s&iacute;la*\: Ekonomick&yacute; term&iacute;n, kter&yacute; označuje s&iacute;lu peněz či měn. Č&iacute;m větš&iacute; m&aacute; určité platidlo svoji kupn&iacute; s&iacute;lu, t&iacute;m v&iacute;ce zbož&iacute; či služeb si za něj koup&iacute;te. A naopak, č&iacute;m menš&iacute; kupn&iacute; s&iacute;lu m&aacute; jisté platidlo, t&iacute;m méně statků si za něj obstar&aacute;te.
-
-&nbsp;
 
 *KYC*\: Know your customer, nutnost prok&aacute;z&aacute;n&iacute; totožnosti při n&aacute;kupu bitcoinu na směn&aacute;rn&aacute;ch.
 
@@ -612,9 +576,7 @@ Komerčn&iacute; banka: Komerčn&iacute; banka s mal&yacute;m „k“ je institu
 
 &nbsp;
 
-```
-LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXYHKCMN4WFKZ7VFSX5USE22VHN :)
-```
+> `LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXYHKCMN4WFKZ7VFSX5USE22VHN :)`
 
 &nbsp;
 
@@ -682,7 +644,7 @@ LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXY
 
 &nbsp;
 
-*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor…).
+*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor...).
 
 &nbsp;
 
@@ -728,7 +690,11 @@ LNURL1DP68GURN8GHJ7AMPD3KX2APWWPSHYCTVV4KXU6TSDAKXJUEWVDAZ7MRWW4EXCUP0V9CXJTMKXY
 
 *On-chain anal&yacute;za*\: On-chain anal&yacute;za je anal&yacute;za dat v určitém blockchainu. Mezi tyto data může nepař&iacute;klad patřit množstv&iacute; bitcoinů na jednotliv&yacute;ch adres&aacute;ch.
 
+&nbsp;
+
 Open source software: Takov&yacute; software, kter&yacute; m&aacute; svůj zdrojov&yacute; k&oacute;d veřejně př&iacute;stupn&yacute;. Tento zdrojov&yacute; k&oacute;d může kdokoliv upravovat, nebo navrhovat &uacute;pravy tohoto softwaru.
+
+&nbsp;
 
 *Orphan block:* Osiřel&yacute; blok. Důsledek přirozeného rozštěpen&iacute; s&iacute;tě, kvůli vytěžen&iacute; bloku v&iacute;ce různ&yacute;mi těžaři ve stejnou chv&iacute;li. Jedn&aacute; se o zam&iacute;tnut&yacute; blok, jehož těžař nez&iacute;sk&aacute; odměnu v podobě nov&yacute;ch bitcoinů. Osiřel&yacute; blok je blok, kter&yacute; je souč&aacute;st&iacute; kratš&iacute;ho řetězce důkazu vykonané pr&aacute;ce, tedy nen&iacute; dle Nakamotova konsenzu validn&iacute;.
 
@@ -1062,7 +1028,7 @@ Open source software: Takov&yacute; software, kter&yacute; m&aacute; svůj zdroj
 
 &nbsp;
 
-*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy…). Pro některé je Wall Street symbolem kapitalismu.
+*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy...). Pro některé je Wall Street symbolem kapitalismu.
 
 &nbsp;
 
