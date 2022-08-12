@@ -120,6 +120,8 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 *Bitcoin Core:* Bitcoinové j&aacute;dro. Nejobl&iacute;benějš&iacute; software použ&iacute;van&yacute; k připojen&iacute; k Bitcoinové s&iacute;ti a provozov&aacute;n&iacute; vlastn&iacute;ho uzlu.
 
+&nbsp;
+
 *Bitcoin maximalismus:* Filosofie, kter&aacute; automaticky zavrhuje veškeré altcoiny. A to jednak kvůli jejich technick&yacute;m, ale i ekonomick&yacute;m problémům. Přeci jenom naprost&aacute; většina altcoinů je podvod a ten zbytek neřeš&iacute; tak z&aacute;sadn&iacute; problém jako Bitcoin (nutno si uvědomit, že bitcoin je jedin&yacute;mi vz&aacute;cn&yacute;mi nest&aacute;tn&iacute;mi penězi svého druhu), respektive dle slov Bitcoinov&yacute;ch maximalistů altcoiny neřeš&iacute; vůbec ž&aacute;dné problémy a jsou pro společnost naprosto zbytečné.
 
 &nbsp;
@@ -342,9 +344,7 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 *Ekonomika*\: souhrn hospodařen&iacute; daného subjektu – st&aacute;t, jednotlivec, organizace, kdy si každ&yacute; hospodař&iacute;c&iacute; subjekt klade n&aacute;sleduj&iacute;c&iacute; ot&aacute;zky:
 
-&nbsp;
-
-1\.Co a kolik se bude vyr&aacute;bět?
+1\. Co a kolik se bude vyr&aacute;bět?
 
 2\. Jak&yacute;m způsobem a za jakou cenu se bude vyr&aacute;bět?
 
@@ -492,7 +492,7 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 &nbsp;
 
-*Hyperbitcoinizace:* Masivn&iacute; adopce bitcoinu, jakožto peněz.
+*Hyperbitcoinizace:* Masov&aacute; adopce bitcoinu, jakožto peněz.
 
 &nbsp;
 
@@ -516,7 +516,7 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 
 &nbsp;
 
-*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad...
+*Integer Overflow:* Chyba ve špatné validitě transakce. Této chyby si ale bohužel (nebo možn&aacute; bohud&iacute;k) někdo všimnul a zneužil ji k sestaven&iacute; transakce generuj&iacute;c&iacute; 184 miliard BTC\! Této chyby &uacute;točn&iacute;k zneužil v ř&iacute;jnu roku 2010 a do 5 hodin od tohoto incidentu byla téhož dne opravena pomoc&iacute; Soft Forku. Bitcoin byl ve sv&yacute;ch zač&aacute;tc&iacute;ch (a č&aacute;stečně i dodnes) zkr&aacute;tka divok&yacute; z&aacute;pad…
 
 &nbsp;
 
@@ -533,6 +533,8 @@ Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&i
 &nbsp;
 
 *Konsenzu&aacute;ln&iacute; algoritmus*\: Konsenzus je v decentralizovaném systému způsob, jak dos&aacute;hnout vz&aacute;jemné dohody, bez toho, aby si &uacute;častn&iacute;ci museli navz&aacute;jem důvěřovat. Je totiž podstatné, aby se v takovémto systému komunita vz&aacute;jemně dohodla na tom, co je pravda. Mezi nejzn&aacute;mějš&iacute; konsenzu&aacute;ln&iacute; mechanismy patř&iacute; třeba Proof of Work nebo Proof of Stake. O obou těchto algoritmech konsenzu si pov&iacute;me v&iacute;ce v technologické č&aacute;sti.
+
+&nbsp;
 
 Komerčn&iacute; banka: Komerčn&iacute; banka s mal&yacute;m „k“ je instituce, kter&aacute; m&aacute; legislativn&iacute; pravomoc emitovat pen&iacute;ze.
 
@@ -551,6 +553,8 @@ Komerčn&iacute; banka: Komerčn&iacute; banka s mal&yacute;m „k“ je institu
 &nbsp;
 
 *Kupn&iacute; s&iacute;la*\: Ekonomick&yacute; term&iacute;n, kter&yacute; označuje s&iacute;lu peněz či měn. Č&iacute;m větš&iacute; m&aacute; určité platidlo svoji kupn&iacute; s&iacute;lu, t&iacute;m v&iacute;ce zbož&iacute; či služeb si za něj koup&iacute;te. A naopak, č&iacute;m menš&iacute; kupn&iacute; s&iacute;lu m&aacute; jisté platidlo, t&iacute;m méně statků si za něj obstar&aacute;te.
+
+&nbsp;
 
 *KYC*\: Know your customer, nutnost prok&aacute;z&aacute;n&iacute; totožnosti při n&aacute;kupu bitcoinu na směn&aacute;rn&aacute;ch.
 
@@ -644,7 +648,7 @@ Komerčn&iacute; banka: Komerčn&iacute; banka s mal&yacute;m „k“ je institu
 
 &nbsp;
 
-*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor...).
+*N&aacute;klady obětované př&iacute;ležitosti:* Všechno, co obětujeme k z&iacute;sk&aacute;n&iacute; n&aacute;mi popt&aacute;vaného statku (pen&iacute;ze, čas, prostor…).
 
 &nbsp;
 
@@ -1028,7 +1032,7 @@ Open source software: Takov&yacute; software, kter&yacute; m&aacute; svůj zdroj
 
 &nbsp;
 
-*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy...). Pro některé je Wall Street symbolem kapitalismu.
+*Wall Street:* Ulice v jižn&iacute; č&aacute;sti ostrova Manhattan v New Yorku. Tato ulice je slavn&aacute; t&iacute;m, že se v n&iacute; nach&aacute;z&iacute; Newyorsk&aacute; burza a dalš&iacute; velmi v&yacute;znamné finančn&iacute; instituce (největš&iacute; banky, akciové burzy…). Pro některé je Wall Street symbolem kapitalismu.
 
 &nbsp;
 
