@@ -22,7 +22,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&iacute;ch term&iacute;nů/zkratek, kter&yacute;m bez vyhled&aacute;n&iacute; nebudete rozumět. Zde je slovn&iacute;k všech důležit&yacute;ch slov&iacute;ček z této oblasti, kter&yacute; by V&aacute;m mohl pomoci ve studio Bitcoinu a ekonomie. V př&iacute;padě, kdyby V&aacute;s napadl důležit&yacute; pojem/zkratka, na kter&yacute; jsem při psan&iacute; tohoto slovn&iacute;ku zapomněl, kontaktujte mě pros&iacute;m na email [ekonomie-jednoduse@proton.me](applewebdata://461EF8D3-32A4-4555-812D-1D6B65ADD781/ekonomie-jednoduse@proton.me) :)
+Při studiu Bitcoinu a ekonomie pravděpodobně naraz&iacute;te na spoustu ciz&iacute;ch term&iacute;nů/zkratek, kter&yacute;m bez vyhled&aacute;n&iacute; nebudete rozumět. Zde je slovn&iacute;k všech důležit&yacute;ch slov&iacute;ček z této oblasti, kter&yacute; by V&aacute;m mohl pomoci ve studio Bitcoinu a ekonomie. V př&iacute;padě, kdyby V&aacute;s napadl důležit&yacute; pojem/zkratka, na kter&yacute; jsem při psan&iacute; tohoto slovn&iacute;ku zapomněl, kontaktujte mě pros&iacute;m na email [ekonomie-jednoduse@proton.me](ekonomie-jednoduse@proton.me){: target="_blank" rel="noopener"} :)
 
 &nbsp;
 
