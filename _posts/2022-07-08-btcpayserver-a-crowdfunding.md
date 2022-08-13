@@ -24,11 +24,47 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-[BtcPayServer](https://btcpayserver.org/){: target="_blank" rel="noopener"} je služba, pomoc&iacute; které je možné přij&iacute;mat bitcoin (*on-chain* i *Lightning Network*) bez jakékoliv třet&iacute; strany (stač&iacute; si pouze st&aacute;hnout software na vlastn&iacute; *node*). *Crowdfunding* je způsob kolektivn&iacute;ho financov&aacute;n&iacute;, kter&yacute; může eliminovat problém černého pasažéra u veřejn&yacute;ch statků pomoc&iacute; selektivn&iacute;ch podnětů (v&iacute;ce viz&nbsp;[zde](https://ekonomie-jednoduse.com/posts/2022/verejne-statky){: target="_blank" rel="noopener"}&nbsp;).
+[<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BtcPayServer</font></font>](https://btcpayserver.org/){: target="_blank" rel="noopener"}
 
-> Dnes nen&iacute; možné ve *spendovac&iacute;m skriptu* bitcoinové transakce nastavit, že když se v crowdfundingové kampani nevybere dostatek peněz, *sats* se vr&aacute;t&iacute; zpět k lidem, kteř&iacute; se rozhodli pomoci financovat onen projekt.
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> je služba, kter&aacute; je možn&eacute; přij&iacute;mat bitcoin </font></font>
 
-Téměř všechny crowdundingové platformy jsou založeny na technologii *all or nothing*, spoč&iacute;vaj&iacute;c&iacute; v tom, že když se v dané kampani nevybere požadovan&aacute; c&iacute;lov&aacute; č&aacute;stka, pen&iacute;ze se vr&aacute;t&iacute; zpět k jednotliv&yacute;m přispěvatelům. T&iacute;m miz&iacute; n&aacute;klady v podobě nedostatku informac&iacute; spojen&yacute;ch s volbou ostatn&iacute;ch. V momentě, kdy o &uacute;spěšnosti kampaně nerozhoduje pouze Vaše volba přispět, ale i volba ostatn&iacute;ch, které nezn&aacute;te, je z hlediska [teorie her](https://cs.wikipedia.org/wiki/Teorie_her){: target="_blank" rel="noopener"} [dominantn&iacute; strategi&iacute;](https://cs.wikipedia.org/wiki/Dominantn%C3%AD_strategie){: target="_blank" rel="noopener"} i [Shellingov&yacute;m (ohniskov&yacute;m) bodem](https://en.wikipedia.org/wiki/Focal_point_&#40;game_theory&#41;){: target="_blank" rel="noopener"} na dan&yacute; projekt nepřispět. Strategie all or nothing n&aacute;klady spojené s t&iacute;mto problémem eliminuje.
+*<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">on-chain</font></font>*
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Lightning </font></font>
+
+*<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Network</font></font>*
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ) bez použit&iacute; třet&iacute; strany (stač&iacute; pouze st&aacute;hnout software na vlastn&iacute; </font></font>
+
+*<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">node</font></font>*
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ). </font></font>
+
+*<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Crowdfunding</font></font>*
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> je způsob kolektivn&iacute;ho financov&aacute;n&iacute;, kter&yacute; může eliminovat probl&eacute;m čern&eacute;ho pasaž&eacute;ra u veřejn&yacute;ch statků pomoc&iacute; selektivn&iacute;ch podnětů (v&iacute;ce viz&nbsp; </font></font>[<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zde</font></font>](https://ekonomie-jednoduse.com/posts/2022/verejne-statky){: target="_blank" rel="noopener"}
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">).</font></font>
+
+> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dnes nen&iacute; možn&eacute; ve </font></font>
+>
+> *<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">v&yacute;dajov&eacute;m skriptu</font></font>*
+>
+> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> bitcoinov&eacute; transakce nastavit, že když se v crowdfundingov&eacute; nevybere dostatek peněz, </font></font>
+>
+> *<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">vr&aacute;t&iacute;</font></font>*
+>
+> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> se zpět k lidem, kteř&iacute; se rozhodli pomoci financovat kampaň onen projekt.</font></font>
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jako v&scaron;echny crowdundingov&eacute; platformy jsou založeny na technologii </font></font>
+
+*<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">v&scaron;e nebo nic</font></font>*
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , spoč&iacute;vaj&iacute;c&iacute; v tom, že když se v dan&eacute; kampani nevybere požadovan&aacute; c&iacute;lov&aacute; č&aacute;stka, pen&iacute;ze se vr&aacute;t&iacute; zpět k jednotliv&yacute;m přispěvatelům. </font><font style="vertical-align: inherit;">T&iacute;m miz&iacute; n&aacute;klady v podobě nedostatku informac&iacute; spojen&yacute;ch s volbou ostatn&iacute;ch. </font><font style="vertical-align: inherit;">V momentě, kdy o &uacute;spě&scaron;nosti kampaně nerozhoduje pouze Va&scaron;e volba přispět, ale i volba ostatn&iacute;ch, kter&eacute; nezn&aacute;te, je z hlediska </font></font>[<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">teorie jej&iacute; </font></font>](https://cs.wikipedia.org/wiki/Teorie_her){: target="_blank" rel="noopener"} [<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dominantn&iacute; strategie</font></font>](https://cs.wikipedia.org/wiki/Dominantn%C3%AD_strategie){: target="_blank" rel="noopener"}
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> nepřich&aacute;z&iacute; i </font></font>[<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Shellingov&yacute;m (ohniskov&yacute;m) bodem</font></font>](https://en.wikipedia.org/wiki/Focal_point_&#40;game_theory&#41;){: target="_blank" rel="noopener"}
+
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> na dan&yacute; projektspět. </font><font style="vertical-align: inherit;">Strategie or nic n&aacute;klady spojen&eacute; s t&iacute;mto probl&eacute;mem all.</font></font>
 
 Proč je to ale u Bitcoinu problém? Bitcoin jako takov&yacute; umožnuje vytv&aacute;řet pouze velmi jednoduché *smart kontrakty* (*multisig* či *timelock* transakce). Dnes nen&iacute; možné ve *spendovac&iacute;m skriptu* bitcoinové transakce nastavit, že když se v crowdfundingové kampani nevybere dostatek peněz, *sats* se vr&aacute;t&iacute; zpět k lidem, kteř&iacute; se rozhodli pomoci financovat onen projekt. A smart kontrakty tento problém ani vyřešit nelze, protože nedok&aacute;ž&iacute; komunikovat s re&aacute;ln&yacute;m světem (viz [the oracle problem](https://en.wikipedia.org/wiki/Test_oracle){: target="_blank" rel="noopener"}). Kvůli tomu, že maj&iacute; jednotliv&iacute; uživatelé v decentralizovaném světě tendenci si vz&aacute;jemně nedůvěřovat, pokud prospěch z jejich rozhodnut&iacute; př&iacute;mo z&aacute;vis&iacute; na rozhodnut&iacute;ch ostatn&iacute;ch, vybere se v těchto kampan&iacute;ch méně peněz (*ceteris paribus*) než při stejném způsobu financov&aacute;n&iacute; s technologi&iacute; all or nothing.
 
