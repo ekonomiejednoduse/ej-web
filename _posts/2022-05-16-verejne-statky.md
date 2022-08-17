@@ -89,7 +89,7 @@ A to jsem ani nezm&iacute;nil, že většina dan&iacute; neslouž&iacute; k fina
 
 &nbsp;
 
-Řada zn&aacute;m&yacute;ch ekonomů dělala tu chybu, že spr&aacute;vně odhalili tržn&iacute; selh&aacute;n&iacute; ve formě v&yacute;skytu čern&yacute;ch pasažérů u veřejn&yacute;ch statků, avšak hned volali po st&aacute;tn&iacute;m řešen&iacute;, bez toho, aby se zamysleli nad t&iacute;m, zda nemůže i st&aacute;t selhat při poskytov&aacute;n&iacute; čistě veřejn&yacute;ch statků. Daně jsou extrémně neefektivn&iacute; (o mor&aacute;ln&iacute; str&aacute;nce vym&aacute;h&aacute;n&iacute; peněz n&aacute;sil&iacute;m zde raději ani nebudu pojedn&aacute;vat) způsob nakl&aacute;d&aacute;n&iacute; s prostředky a n&aacute;sledné alokace zdrojů (připomeňme, že daně způsobuj&iacute; ztr&aacute;tu mrtvé v&aacute;hy; měn&iacute; pob&iacute;dky a deformuj&iacute; tržn&iacute; mechanismy).
+Řada zn&aacute;m&yacute;ch ekonomů dělala tu chybu, že spr&aacute;vně odhalila tržn&iacute; selh&aacute;n&iacute; ve formě v&yacute;skytu čern&yacute;ch pasažérů u veřejn&yacute;ch statků, avšak hned volali po st&aacute;tn&iacute;m řešen&iacute;, bez toho, aby se zamysleli nad t&iacute;m, zda nemůže i st&aacute;t selhat při poskytov&aacute;n&iacute; čistě veřejn&yacute;ch statků. Daně jsou extrémně neefektivn&iacute; (o mor&aacute;ln&iacute; str&aacute;nce vym&aacute;h&aacute;n&iacute; peněz n&aacute;sil&iacute;m zde raději ani nebudu pojedn&aacute;vat) způsob nakl&aacute;d&aacute;n&iacute; s prostředky a n&aacute;sledné alokace zdrojů (připomeňme, že daně způsobuj&iacute; ztr&aacute;tu mrtvé v&aacute;hy; měn&iacute; pob&iacute;dky a deformuj&iacute; tržn&iacute; mechanismy).
 
 &nbsp;
 
