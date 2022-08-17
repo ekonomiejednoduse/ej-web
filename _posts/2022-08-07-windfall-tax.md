@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/windfall-tax.png
-download: windfall-tax.pdf
+download: Windfall-tax.pdf
 seo:
   title: Windfall tax
   description: >-
