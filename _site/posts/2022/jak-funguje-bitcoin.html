@@ -196,13 +196,11 @@
 
 <p> </p>
 
-<p>V minulém článku jsem zmínil, že <em>problém dvojí útraty</em> byl u Bitcoinu vyřešen pomocí toho, že je mezi všemi uživateli veřejná účetní kniha, avšak to není úplně pravda. A to, jelikož blockchain samotný neřeší problém dvojí útraty, řeší jej v kombinaci s <em>konsenzuálním algoritmem</em>. Blockchain je zkrátka pouze veřejná databáze, ale musíme ještě nějak zajistit, aby do ní nemohl data psát každý, aby kdokoliv nemohl vyhrát loterii.<strong>¹</strong></p>
+<p>V minulém článku jsem zmínil, že <em>problém dvojí útraty</em> byl u Bitcoinu vyřešen pomocí toho, že je mezi všemi uživateli veřejná účetní kniha, avšak to není úplně pravda. A to, jelikož blockchain samotný neřeší problém dvojí útraty, řeší jej v kombinaci s <em>konsenzuálním algoritmem</em>. Blockchain je zkrátka pouze veřejná databáze, ale musíme ještě nějak zajistit, aby do ní nemohl data psát každý, aby kdokoliv nemohl vyhrát loterii.(<strong>1</strong>)</p>
 
 <p> </p>
 
 <p>Bitcoin k tomu používá algoritmus <em>Proof of Work</em>. U Bitcoinu totiž onu loterii vyhrává ten, kdo k tomu obětuje nejvíce, kdo utopí největší množství nákladů, a to v podobě elektřiny. K získání odměny je potřeba zahashovat veškeré údaje v <em>bloku</em>. Blok je datová struktura, ve které se nachází jednotlivé transakce, časové razítko (<em>timestamp</em>), nonce a hash předchozího bloku. Tyto bloky jsou na sebe <em>kryptograficky</em> navázány, každý blok potvrzuje blok předchozí, a tím ztěžuje jeho změnu, a tvoří řetězec bloků – Blockchain. Ten je právě díky kryptografické návaznosti jednotlivých bloků nezměnitelný (respektive tak tomu je, kvůli možnosti <em>reorgu</em>, pouze od určité hloubky <em>transakce</em> v Bitcoinovém blockchainu). Kdybychom chtěli změnit transakci ve vůbec prvním bloku, který vytěžil samotný <em>Satoshi Nakamoto, </em><a href="https://commons.wikimedia.org/wiki/File:Bitcoin-Genesis-block.jpg" target="_blank" rel="noopener"><em>genesis bloku</em></a><em>,</em> hash celého bloku by byl naprosto odlišný od hashe původního, správného bloku (vzpomeňme si, že sebemenší změna ve vstupu hashovací funkce vede k zcela jinému výstupu). Co by to znamenalo? Tento blok by nenavazoval na ostatní bloky a byl by neplatným. Proč? Součástí bloků je hash předchozího bloku, pomocí kterého jsou jednotlivé bloky na sebe navázány. Ve chvíli, kdyby se tento hash změnil, blok by k ostatním blokům jednoduše neseděl.</p>
-
-<p> </p>
 
 <p><img src="/uploads/blockchain-4.png" alt="Řetězec bloků – Blockchain" title="Řetězec bloků – Blockchain" class="small-centered-image" width="1993" height="1155" /></p>
 
@@ -260,7 +258,7 @@
 
 <p> </p>
 
-<p>Navíc dnes celou Bitcoinovou síť spravují desítky, ne-li i stovky tisíc (přesná čísla nejsou veřejně známá, protože velká část nodů nemá zveřejněnou IP adresu a zůstává tak v anonymitě) uzlů.<strong>²</strong> Tudíž i kdyby se našlo pár neposlušných nodů, které by chtěli ostatní podvést, většina uzlů by tyto transakce ověřila jako neplatné a nezařadila do mempoolu, potažmo těžaři neumístili do bloku. Falešné transakce by tak byly neplatné. Bitcoin je totiž systém, kde každý kontroluje každého a snaží se zabránit jakýmkoliv podvodům.</p>
+<p>Navíc dnes celou Bitcoinovou síť spravují desítky, ne-li i stovky tisíc (přesná čísla nejsou veřejně známá, protože velká část nodů nemá zveřejněnou IP adresu a zůstává tak v anonymitě) uzlů.(<strong>2</strong>) Tudíž i kdyby se našlo pár neposlušných nodů, které by chtěli ostatní podvést, většina uzlů by tyto transakce ověřila jako neplatné a nezařadila do mempoolu, potažmo těžaři neumístili do bloku. Falešné transakce by tak byly neplatné. Bitcoin je totiž systém, kde každý kontroluje každého a snaží se zabránit jakýmkoliv podvodům.</p>
 
 <p> </p>
 
@@ -295,8 +293,6 @@
 </blockquote>
 
 <p><strong>1</strong> Respektive blockchain je výsledkem ekonomických motivací tuto databázi zabezpečovat (<em>security budget – block subsidy</em> + transakční poplatky), náročností přepsání transakční historie (<em>PoW</em>) a kryptografickou návazností jednotlivých digitálních souborů – bloků (<em>Merkle tree</em> hashování). Jeho implementace dává smysl pouze s využitím těchto technologií. Bohužel se ze slova <strong>blockchain</strong> stal v posledních letech obrovský <em>buzzword</em>, téměř vždy se jedná pouze o marketing. Blockchain sám o sobě nedává smysl a je to pouze neefektivní, vysoce nákladná databáze (výjimkou jsou projekty, které využívají technologií, jež jsem zmiňoval výše).</p>
-
-<p> </p>
 
 <p><strong>2</strong> Takto obrovským množstvím nodů je zajištěna decentralizace Bitcoinové sítě. Stačí, aby byla na jednom jediném nodu uchována transakční historie a Bitcoin může fungovat (sice nedobře, ale přece). Vzhledem ke geografické různorodosti nodů není možné Bitcoin „vypnout“. Musela by se totiž celosvětově vypnout elektřina (čímž by dále nemohla pokračovat těžba), což je ale v dnešním relativně svobodném světě takřka nemožné, pokud by se nepřihodila obrovské přírodní katastrofa. Výpadek elektřiny by však zničil i současný bankovní systém (přes 92 % všech peněz je v podobě bankovních depozit [digitální peníze] a pouze zlomek peněžní zásoby tvoří oběživo neboli hotovost [fyzické peníze]) a celou spoustu dalších, pro dnešní nastavení společnosti naprosto klíčových odvětví. Navíc hned, co by elektrická energie začala na libovolném území opět fungovat, Bitcoin by byla ta první síť, která by byla obnovena. Dokud bude Bitcoin decentralizovaný, nebude možné jej zničit jakýmikoliv (státními) zásahy.</p>
 
