@@ -11,11 +11,7 @@ featured: true
 featured_image: /uploads/návrh-bez-názvu.png
 categories: dalsi tvorba
 download:
-video-url: >-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/uPdMFrApQGU" title="YouTube video player"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+video-url:
 seo:
   title: Kryptoplebs podcast
   description:
