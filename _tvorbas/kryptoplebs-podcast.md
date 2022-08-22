@@ -8,7 +8,7 @@ description: >-
   PoW vs PoS a spoustu dalších zajímavých témat.
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/návrh-bez-názvu.png
+featured_image: /uploads/kryptoplebs.png
 categories: dalsi tvorba
 download:
 video-url: uPdMFrApQGU
