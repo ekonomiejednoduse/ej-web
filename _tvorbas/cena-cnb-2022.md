@@ -10,7 +10,7 @@ featured: true
 featured_image: /uploads/cena-cnb.jpeg
 categories: dalsi tvorba
 download:
-video-url:
+video-url: v=kFEnGY93Hs8
 seo:
   title: 'Ekonomická olympiáda '
   description:
@@ -24,4 +24,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Česká národní banka pro semifinalisty [Ekonomické olympiády](https://ekonomickaolympiada.cz){: target="_blank" rel="noopener"} (pro střední školy) každoročně pořádá soutěž o [Cenu ČNB](https://www.cnb.cz/cs/o_cnb/cena_cnb_2022/soutez-cena-cnb-2022/index.html){: target="_blank" rel="noopener"}. Letošní úkol byl natočit maximálně 3 minutové video na téma: "Mají se centrální banky angažovat v ochraně klimatu?" Video jsem kvůli časovému omezení bohužel musel hodně zkrátit a vynechal jsem spoustu důležitých informací. Každopádně mé video je zde:
+Česk&aacute; n&aacute;rodn&iacute; banka pro semifinalisty [Ekonomické olympi&aacute;dy](https://ekonomickaolympiada.cz){: target="_blank" rel="noopener"} (pro středn&iacute; školy) každoročně poř&aacute;d&aacute; soutěž o [Cenu ČNB](https://www.cnb.cz/cs/o_cnb/cena_cnb_2022/soutez-cena-cnb-2022/index.html){: target="_blank" rel="noopener"}. Letošn&iacute; &uacute;kol byl natočit maxim&aacute;lně 3 minutové video na téma: "Maj&iacute; se centr&aacute;ln&iacute; banky angažovat v ochraně klimatu?" Video jsem kvůli časovému omezen&iacute; bohužel musel hodně zkr&aacute;tit a vynechal jsem spoustu důležit&yacute;ch informac&iacute;. Každop&aacute;dně mé video je zde:
