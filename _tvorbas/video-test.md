@@ -20,6 +20,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m4hWvu0RGA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&nbsp;{% raw %} &nbsp; &nbsp; &nbsp; &nbsp; &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m4hWvu0RGA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-&nbsp;
+{% endraw %}
