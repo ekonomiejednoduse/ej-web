@@ -9,6 +9,7 @@ featured: true
 featured_image: /uploads/eo.jpeg
 categories: dalsi tvorba
 download:
+video-url:
 seo:
   title: 'Ekonomická olympiáda '
   description:

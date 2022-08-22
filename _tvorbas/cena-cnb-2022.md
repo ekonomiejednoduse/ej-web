@@ -10,6 +10,7 @@ featured: true
 featured_image: /uploads/cena-cnb.jpeg
 categories: dalsi tvorba
 download:
+video-url:
 seo:
   title: 'Ekonomická olympiáda '
   description:
