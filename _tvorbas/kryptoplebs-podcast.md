@@ -23,3 +23,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+Měl jsem tu čest b&yacute;t t&iacute;m vůbec prvn&iacute;m hostem v novém podcastu&nbsp;[Kryptoplebs](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA){: target="_blank" rel="noopener"}, kter&yacute; se zab&yacute;v&aacute; prim&aacute;rně filozofi&iacute; peněz a Bitcoinem.&nbsp;
