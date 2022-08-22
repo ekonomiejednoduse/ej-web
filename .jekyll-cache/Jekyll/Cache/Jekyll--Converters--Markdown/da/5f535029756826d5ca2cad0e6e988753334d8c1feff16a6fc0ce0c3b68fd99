@@ -1,0 +1,32 @@
+I"�<p><a href="https://btcpayserver.org/">BtcPayServer</a> je služba, pomocí které je možné přijímat bitcoin (<em>on-chain</em> i <em>Lightning Network</em>) bez jakékoliv třetí strany (stačí si pouze stáhnout software na vlastní <em>node</em>). <em>Crowdfunding</em> je způsob kolektivního financování, který může eliminovat problém černého pasažéra u veřejných statků pomocí selektivních podnětů (viz <a href="https://ekonomie-jednoduse.com/posts/2022/verejne-statky" target="_blank" rel="noopener">zde</a>).</p>
+
+<p> </p>
+
+<p>Téměř všechny crowdundingové platformy jsou založeny na technologii <em>all or nothing</em>, spočívající v tom, že když se v dané kampani nevybere požadovaná cílová částka, peníze se vrátí zpět k jednotlivým přispěvatelům. Tím mizí náklady v podobě nedostatku informací spojených s volbou ostatních. V momentě, kdy o úspěšnosti kampaně nerozhoduje pouze Vaše volba přispět, ale i volba ostatních, které neznáte, je z hlediska <a href="https://cs.wikipedia.org/wiki/Teorie_her">teorie her</a> <a href="https://cs.wikipedia.org/wiki/Dominantn%C3%AD_strategie">dominantní strategií</a> i <a href="https://en.wikipedia.org/wiki/Focal_point_&#40;game_theory&#41;">Shellingovým (ohniskovým) bodem</a> na daný projekt nepřispět. Strategie all or nothing náklady spojené s tímto problémem eliminuje.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Dnes není možné ve <em>spendovacím skriptu</em> bitcoinové transakce nastavit, že když se v crowdfundingové kampani nevybere dostatek peněz, <em>sats</em> se vrátí zpět k lidem, kteří se rozhodli pomoci financovat onen projekt.</p>
+</blockquote>
+
+<p> </p>
+
+<p>Proč je to ale u Bitcoinu problém? Bitcoin jako takový umožnuje vytvářet pouze velmi jednoduché <em>smart kontrakty</em> (<em>multisig</em> či <em>timelock</em> transakce). Dnes není možné ve <em>spendovacím skriptu</em> bitcoinové transakce nastavit, že když se v crowdfundingové kampani nevybere dostatek peněz, <em>sats</em> se vrátí zpět k lidem, kteří se rozhodli pomoci financovat onen projekt. A smart kontrakty tento problém ani vyřešit nelze, protože nedokáží komunikovat s reálným světem (viz <a href="https://en.wikipedia.org/wiki/Test_oracle">the oracle problem</a>). Kvůli tomu, že mají jednotliví uživatelé v decentralizovaném světě tendenci si vzájemně nedůvěřovat, pokud prospěch z jejich rozhodnutí přímo závisí na rozhodnutích ostatních, vybere se v těchto kampaních méně peněz (<em>ceteris paribus</em>) než při stejném způsobu financování s technologií all or nothing.</p>
+
+<p> </p>
+
+<blockquote>
+  <p>Řešením může být větší škála různých způsobů realizace projektu, ovšem tu nelze implementovat u veškerých projektů.</p>
+</blockquote>
+
+<p> </p>
+
+<p>Řešení? <em>Multisig</em>, <em>escrow</em>. Tedy vytvoření adresy, z níž bude možné utrácet <em>UTXOs</em> pouze s poskytnutím více než jednoho <em>digitálního podpisu</em>. <em>Privátní klíč</em> k <em>adrese</em> by tak měl jak člověk, který se snaží vybrat dostatek finančních zdrojů, každý jeden přispěvatel, tak i samotná platforma (v tomto případě BtcPayServer). Ovšem to jde proti hlavní myšlence BtcPayServeru, tedy <em>P2P</em> službě přijímání btc bez jakékoliv třetí strany. Tudy tedy cesta nevede… Dalším možným řešením je v crowdfundingové kampani nastavit větší rozsah jednotlivých cílů, například, pokud se vybere 10 sats, tyto peníze budou využity na X, pokud 100 sats, tak na Y, pokud 1000, tak na Z… A to by skutečně mohlo být řešením toho problému, že se v případě neúspěchu kolektivního financování u BtcPayServer nevrátí bitcoiny zpět na adresy přispěvatelů, a tato <em>informační asymetrie</em> demotivuje některé potenciální přispěvatele projektu finančně pomoci. Ale má to jeden háček, ne všechny projekty lze takto škálovat. Pokud potřebuji na realizaci určité činnosti vybrat (minimálně) přesně 100 sats, 10 sats mi v uskutečnění tohoto projektu nepomůže a bylo by žádoucí, kdyby se tyto prostředky vrátily zpět k přispěvatelům.</p>
+
+<p> </p>
+
+<p>BtcPayServer je skvělá služba, která výrazně snižuje náklady na přijímání bitcoinu bez jakéhokoliv prostředníka, zkrátka tak, jak byl Bitcoin navržen – P2P digitální peníze. Služba crowdfundingu, kterou BtcPayServer poskytuje však neřeší jeden z hlavních problémů, co crowdfunding řešit má – eliminovat náklady spojené se závislostí rozhodnutí jednotlivce na rozhodnutích ostatních lidí, které nezná a přirozeně nemá sklon k tomu, jim důvěřovat. Řešením může být větší škála různých způsobů realizace projektu, ovšem tu nelze implementovat u veškerých projektů. BtcPayServer může ale skvěle sloužit k charitativním účelům (viz třeba <a href="https://bitcoinsmiles.org/">https://bitcoinsmiles.org/</a>), kde není nutné vybrat jednu konkrétní sumu, s pomocí využití Lightning Network je totiž možné na charitu přispět již od pár satoshi, tedy opravdu malé sumy (v řádech jednotek haléřů).</p>
+
+<p> </p>
+:ET
