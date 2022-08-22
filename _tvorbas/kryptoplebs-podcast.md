@@ -11,7 +11,7 @@ featured: true
 featured_image: /uploads/návrh-bez-názvu.png
 categories: dalsi tvorba
 download:
-video-url:
+video-url: uPdMFrApQGU
 seo:
   title: Kryptoplebs podcast
   description:
