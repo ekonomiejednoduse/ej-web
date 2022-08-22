@@ -578,6 +578,8 @@ background:#809ce2;
 @media(max-width:48em) {
     .mob-hide { display: none; }
     .mob-show { display: block; }
+    .sm-shrink{max-width: 84vw;
+    height: auto;}
 }
 
 @media(max-width: 36em){
