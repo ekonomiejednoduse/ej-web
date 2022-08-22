@@ -9,7 +9,7 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-  - selhani-trhu
+  - selhani trhu
 featured_image: /uploads/verejnestatky3.png
 download: verejne-statky.pdf
 seo:
