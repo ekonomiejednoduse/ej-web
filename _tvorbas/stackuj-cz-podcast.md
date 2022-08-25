@@ -8,7 +8,7 @@ description: >-
   kterých čerpám informace a  problémy Bitcoinu.
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/stackuj-podcast.jpeg
+featured_image: /uploads/stackuj-podcast.png
 categories: dalsi tvorba
 download:
 video-url: zK2flWuZbzo&
