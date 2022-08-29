@@ -55,6 +55,9 @@ max-width: 100%;
 p{
     font-size: 1.2rem;
     line-height: 1.5;
+}
+
+.postText p{
     margin-bottom: 0.8rem;
 }
 
