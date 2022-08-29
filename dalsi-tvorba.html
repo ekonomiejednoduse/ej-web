@@ -14,8 +14,9 @@ title: Tvorba
     </div>
 
     <div class="capped-width grid">
-
-        {% for tvorba in site.tvorbas limit:100 %}
+        <!-- do this for every collection except for posts -->
+        {% assign sorted = site.tvorbas | sort: 'date' | reverse %}
+        {% for tvorba in sorted limit:100 %}
     <div class="col-4_md-6_sm-12 post-item padded-2 sm-padded-1">
         <a href="{{ tvorba.url }}" class="bg-image square" style="background-image:url('{{tvorba.featured_image}}'); display: block;"></a>
                 <div class="padded-1">
