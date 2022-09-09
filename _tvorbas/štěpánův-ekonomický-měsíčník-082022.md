@@ -1,7 +1,7 @@
 ---
 layout: tvorba
 title: Štěpánův ekonomický měsíčník 08/2022
-date: 2022-05-30 00:00:00
+date: 2022-08-31 00:00:00
 description: >-
   Tento text reprezentuje shrnutí těch nejdůležitějších ekonomických událostí za
   měsíc srpen roku 2022, a to jak formou krátkého videa, tak i obsáhlejšího
@@ -13,11 +13,11 @@ categories: dalsi tvorba
 download:
 video-url: pyq97TadcOA
 seo:
-  title: 'Ekonomická olympiáda '
-  description:
+  title: Štěpánův ekonomický měsíčník 08/2022
+  description: Štěpánův ekonomický měsíčník 08/2022, Braiins, Bitperia, Ekonomie Jednoduše
   social_image:
   twitter_card:
-  keywords: Ekonomická olympiáda, EO, EO 2022, EO22
+  keywords: Štěpánův ekonomický měsíčník 08/2022, Braiins, Bitperia, Ekonomie Jednoduše
   hide-from-google: false
 _comments:
   title: Max 70 characters
@@ -64,11 +64,8 @@ Souč&aacute;st&iacute; z&aacute;kladn&iacute;ho scén&aacute;ře letn&iacute; p
 
 &nbsp;
 
-![](/uploads/prognoza-cnb-kurz.jpeg){: .small-centered-image width="1006" height="622"}
-
-&nbsp;
-
-*Obr. 2: V&yacute;voj kurzu české koruny vůči euru dle progn&oacute;zy České n&aacute;rodn&iacute; banky. Zdroj: ČNB *
+![](/uploads/prognoza-cnb-kurz.jpeg){: .small-centered-image width="1006" height="622"}*Obr. 2: V&yacute;voj kurzu české koruny vůči euru dle progn&oacute;zy České n&aacute;rodn&iacute; banky. Zdroj: ČNB *
+{: .center}
 
 &nbsp;
 
@@ -84,8 +81,6 @@ Rychlost růstu cen spotřebn&iacute;ch statků zpomalila o **0,3 %**&nbsp;z če
 
 ![](/uploads/inflace-cr-graf.png){: .small-centered-image width="1920" height="1080"}
 
-&nbsp;
-
 *Obr. 3: Inflace v meziročn&iacute;m a meziměs&iacute;čn&iacute;m vyj&aacute;dřen&iacute; ČR. Zdroj: Vlastn&iacute; zpracov&aacute;n&iacute;*
 
 &nbsp;
@@ -95,8 +90,6 @@ Rychlost růstu cen spotřebn&iacute;ch statků zpomalila o **0,3 %**&nbsp;z če
 &nbsp;
 
 ![](/uploads/cervencova-inflace-eurostat.png){: .small-centered-image width="757" height="416"}
-
-&nbsp;
 
 *Obr. 4: Červencov&aacute; HICP inflace v zem&iacute;ch EU. Zdroj: Eurostat, Petr Bartoň*
 
@@ -118,79 +111,71 @@ Dle aktu&aacute;ln&iacute; progn&oacute;zy České n&aacute;rodn&iacute; banky i
 
 ![](/uploads/sap500.jpg){: .small-centered-image width="1390" height="598"}
 
-&nbsp;
-
 *Obr. 5: Reakce indexu **SaP 500** na data o inflaci v USA. Zdroj: Yahoo Finance*
 
 &nbsp;
 
 **4\. Mzdově-cenov&aacute; spir&aacute;la v Německu**
 
-Tahoun Euroz&oacute;ny a země s největš&iacute;m HDP v Evropě, Německo, zaž&iacute;v&aacute; ekonomické problémy. Nejenže byla tato jedna z největš&iacute;ch exportn&iacute;ch ekonomik na celém světě v červu poprvé od roku **1991** v obchodn&iacute;m deficitu**27** (z&aacute;porn&aacute; obchodn&iacute; bilance), ale Německu hroz&iacute; také riziko vzniku mzdově-cenové spir&aacute;ly. Ceny v supermarketech zde rostou rychleji než v jin&yacute;ch zem&iacute;ch Euroz&oacute;ny. Index spotřebitelsk&yacute;ch cen (CPI) potravin v červenci meziročně vzrostl na vysok&yacute;ch **14,8 %**, což je vůbec největš&iacute; n&aacute;růst od zač&aacute;tku této statistiky.**28 **
+Tahoun Euroz&oacute;ny a země s největš&iacute;m HDP v Evropě, Německo, zaž&iacute;v&aacute; ekonomické problémy. Nejenže byla tato jedna z největš&iacute;ch exportn&iacute;ch ekonomik na celém světě v červu poprvé od roku **1991** v obchodn&iacute;m deficitu (**27**) (z&aacute;porn&aacute; obchodn&iacute; bilance), ale Německu hroz&iacute; také riziko vzniku mzdově-cenové spir&aacute;ly. Ceny v supermarketech zde rostou rychleji než v jin&yacute;ch zem&iacute;ch Euroz&oacute;ny. Index spotřebitelsk&yacute;ch cen (CPI) potravin v červenci meziročně vzrostl na vysok&yacute;ch **14,8 %**, což je vůbec největš&iacute; n&aacute;růst od zač&aacute;tku této statistiky.(**28**) ​​​​​
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
+![](/uploads/nemecko-cena-jidla.png){: .small-centered-image width="1200" height="634"}
 
 *Obr. 6: Německ&yacute; CPI potravin, červenec 2022. Zdroj: Bloomberg *
 
 &nbsp;
 
-Červencov&aacute; HICP inflace je přitom v meziročn&iacute;m vyj&aacute;dřen&iacute; na &uacute;rovni **8,5 %**, což je n&aacute;růst o **0,3 %** oproti té červnové (**8,2 %**).**29** V tom meziměs&iacute;čn&iacute;m dos&aacute;hla červencov&aacute; HICP inflace hranice **0,8 %**, což je n&aacute;růst o **0,9 %** vzhledem k červnové **–0,1%** meziměs&iacute;čn&iacute; inflaci.**30** Inflace, jak v tom meziměs&iacute;čn&iacute;m, tak i v tom meziročn&iacute;m vyj&aacute;dřen&iacute; v červenci v Německu **rostla**. Důležité je se rovněž pod&iacute;vat na v&yacute;voj indexu cen v&yacute;robců, kter&yacute; může sloužit jako relativně dobr&yacute; predikčn&iacute; model indexu spotřebitelsk&yacute;ch cen. PPI se v červenci meziročně zv&yacute;šil o neuvěřiteln&yacute;ch **37,2 %**, což je ten vůbec nejvyšš&iacute; n&aacute;růst. V červnu byl PPI meziročně na &uacute;rovni **32,7 %**, tud&iacute;ž v červenci vyrostl PPI oproti tomuto měs&iacute;ci v Německu o **4,5 %**.**31**Důležit&aacute; jsou i meziměs&iacute;čn&iacute; č&iacute;sla. Meziměs&iacute;čn&iacute; PPI se v červenci dostal na obrovskou &uacute;roveň **5,3 %**, to je také ten vůbec nejvyšš&iacute; n&aacute;růst v porovn&aacute;n&iacute; s předešl&yacute;m měs&iacute;cem (**4,7 %**), kdy byl index cen v&yacute;robců **0,6 %**.**32**,**33**
+Červencov&aacute; HICP inflace je přitom v meziročn&iacute;m vyj&aacute;dřen&iacute; na &uacute;rovni **8,5 %**, což je n&aacute;růst o **0,3 %** oproti té červnové (**8,2 %**).(**29**) V tom meziměs&iacute;čn&iacute;m dos&aacute;hla červencov&aacute; HICP inflace hranice **0,8 %**, což je n&aacute;růst o **0,9 %** vzhledem k červnové **–0,1%** meziměs&iacute;čn&iacute; inflaci.(**30**)**&nbsp;**Inflace, jak v tom meziměs&iacute;čn&iacute;m, tak i v tom meziročn&iacute;m vyj&aacute;dřen&iacute; v červenci v Německu **rostla**. Důležité je se rovněž pod&iacute;vat na v&yacute;voj indexu cen v&yacute;robců, kter&yacute; může sloužit jako relativně dobr&yacute; predikčn&iacute; model indexu spotřebitelsk&yacute;ch cen. PPI se v červenci meziročně zv&yacute;šil o neuvěřiteln&yacute;ch **37,2 %**, což je ten vůbec nejvyšš&iacute; n&aacute;růst. V červnu byl PPI meziročně na &uacute;rovni **32,7 %**, tud&iacute;ž v červenci vyrostl PPI oproti tomuto měs&iacute;ci v Německu o **4,5 %**.(**31**)**&nbsp;**Důležit&aacute; jsou i meziměs&iacute;čn&iacute; č&iacute;sla. Meziměs&iacute;čn&iacute; PPI se v červenci dostal na obrovskou &uacute;roveň **5,3 %**, to je také ten vůbec nejvyšš&iacute; n&aacute;růst v porovn&aacute;n&iacute; s předešl&yacute;m měs&iacute;cem (**4,7 %**), kdy byl index cen v&yacute;robců **0,6 %**.(**32**)(**33**)
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
+![](/uploads/nemecko-ppi-cervenec.png){: .small-centered-image width="1200" height="663"}
 
 *Obr. 7: Obrovsk&yacute; n&aacute;růst Červencového PPI v Německu. Zdroj: Bloomberg*
+{: .center}
 
 &nbsp;
 
-Z&aacute;roveň ale v Německu také doch&aacute;z&iacute; k růstu nomin&aacute;ln&iacute;ch platů a mezd zaměstnanců.**34**
+Z&aacute;roveň ale v Německu také doch&aacute;z&iacute; k růstu nomin&aacute;ln&iacute;ch platů a mezd zaměstnanců.(**34**)
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
+![](/uploads/nemecko-mzdovecenovaspirala.png){: .small-centered-image width="1200" height="678"}
 
 *Obr. 8: Růst nomin&aacute;ln&iacute;ch platů a mezd v Německu. Zdroj: Bloomberg *
+{: .center}
 
 &nbsp;
 
-Rychl&yacute; růst spotřebitelsk&yacute;ch cen v této zemi v kombinaci s popt&aacute;vkou po kompenzaci ztr&aacute;ty kupn&iacute; s&iacute;ly dlouhodob&yacute;ch &uacute;spor a poklesu re&aacute;ln&yacute;ch př&iacute;jmů m&aacute; potenci&aacute;l roztočit nebezpečnou *mzdově-cenovou spir&aacute;lu* (spir&aacute;la mezi rostouc&iacute;mi cenami a zvyšuj&iacute;c&iacute;mi se nomin&aacute;ln&iacute;mi mzdami). Mnoho zaměstnanců uzav&iacute;r&aacute; se sv&yacute;mi zaměstnavateli smlouvy o nav&yacute;šen&iacute; sv&yacute;ch nomin&aacute;ln&iacute;ch př&iacute;jmů. Ačkoli je indexace mezd na inflaci *dominantn&iacute; strategi&iacute;* každého jednoho zaměstnance, kter&yacute; se snaž&iacute; maximalizovat svůj zisk, z pohledu celé společnosti může m&iacute;t takové jedn&aacute;n&iacute; neblah&yacute; efekt, neboť tlač&iacute; na dalš&iacute; růst agreg&aacute;tn&iacute; popt&aacute;vky, zvyšuje rychlost oběhu peněžn&iacute;ch jednotek a vytv&aacute;ř&iacute; nové inflačn&iacute; tlaky (samozřejmě ale z&aacute;lež&iacute; na mezn&iacute;m sklonu ke spotřebě jednotliv&yacute;ch ekonomick&yacute;ch aktérů, pokud by si lidé všechny nově nabyté peněžn&iacute; prostředky ušetřili, nedošlo by ke vzniku onoho inflačn&iacute;ho tlaku). Jakmile se jednou mzdově-cenov&aacute; spir&aacute;la roztoč&iacute; a dojde k odukotven&iacute; inflačn&iacute;ch oček&aacute;v&aacute;n&iacute; Němců od inflačn&iacute;ho c&iacute;le ECB, bude velmi n&aacute;ročné stabilizovat růst cenové hladiny na &uacute;roveň, kterou tato centr&aacute;ln&iacute; banka považuje za optim&aacute;ln&iacute; (**2 %** ročně) a to, o to v&iacute;c v euroz&oacute;ně, kde je m&iacute;ra restrikce měnové politiky omezena na takovou &uacute;roveň, při které by nedoch&aacute;zelo ke krachu zadlužen&yacute;ch ekonomick&yacute;ch subjektů, a to jak dom&aacute;cnost&iacute;, tak i firem, ale zejména pak st&aacute;tů jižn&iacute;ho kř&iacute;dla Evropské měnové unie (takzvané *PIIGS* země**35**). Pro lepš&iacute; představu toho, jak by mzdově-cenov&aacute; spir&aacute;la mohla v praxi vypadat, jsem zhotovil jednoduch&yacute; obr&aacute;zek:
+Rychl&yacute; růst spotřebitelsk&yacute;ch cen v této zemi v kombinaci s popt&aacute;vkou po kompenzaci ztr&aacute;ty kupn&iacute; s&iacute;ly dlouhodob&yacute;ch &uacute;spor a poklesu re&aacute;ln&yacute;ch př&iacute;jmů m&aacute; potenci&aacute;l roztočit nebezpečnou *mzdově-cenovou spir&aacute;lu* (spir&aacute;la mezi rostouc&iacute;mi cenami a zvyšuj&iacute;c&iacute;mi se nomin&aacute;ln&iacute;mi mzdami). Mnoho zaměstnanců uzav&iacute;r&aacute; se sv&yacute;mi zaměstnavateli smlouvy o nav&yacute;šen&iacute; sv&yacute;ch nomin&aacute;ln&iacute;ch př&iacute;jmů. Ačkoli je indexace mezd na inflaci *dominantn&iacute; strategi&iacute;* každého jednoho zaměstnance, kter&yacute; se snaž&iacute; maximalizovat svůj zisk, z pohledu celé společnosti může m&iacute;t takové jedn&aacute;n&iacute; neblah&yacute; efekt, neboť tlač&iacute; na dalš&iacute; růst agreg&aacute;tn&iacute; popt&aacute;vky, zvyšuje rychlost oběhu peněžn&iacute;ch jednotek a vytv&aacute;ř&iacute; nové inflačn&iacute; tlaky (samozřejmě ale z&aacute;lež&iacute; na mezn&iacute;m sklonu ke spotřebě jednotliv&yacute;ch ekonomick&yacute;ch aktérů, pokud by si lidé všechny nově nabyté peněžn&iacute; prostředky ušetřili, nedošlo by ke vzniku onoho inflačn&iacute;ho tlaku). Jakmile se jednou mzdově-cenov&aacute; spir&aacute;la roztoč&iacute; a dojde k odukotven&iacute; inflačn&iacute;ch oček&aacute;v&aacute;n&iacute; Němců od inflačn&iacute;ho c&iacute;le ECB, bude velmi n&aacute;ročné stabilizovat růst cenové hladiny na &uacute;roveň, kterou tato centr&aacute;ln&iacute; banka považuje za optim&aacute;ln&iacute; (**2 %** ročně) a to, o to v&iacute;c v euroz&oacute;ně, kde je m&iacute;ra restrikce měnové politiky omezena na takovou &uacute;roveň, při které by nedoch&aacute;zelo ke krachu zadlužen&yacute;ch ekonomick&yacute;ch subjektů, a to jak dom&aacute;cnost&iacute;, tak i firem, ale zejména pak st&aacute;tů jižn&iacute;ho kř&iacute;dla Evropské měnové unie (takzvané *PIIGS* země (**35**)). Pro lepš&iacute; představu toho, jak by mzdově-cenov&aacute; spir&aacute;la mohla v praxi vypadat, jsem zhotovil jednoduch&yacute; obr&aacute;zek:
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
+![](/uploads/mzdove-cenova-spirala.png){: .small-centered-image width="2126" height="1320"}
 
 *Obr. 9: Mzdově-cenov&aacute; spir&aacute;la. Zdroj: Vlastn&iacute; zpracov&aacute;n&iacute;.*
+{: .center}
 
 &nbsp;
 
-Ekonomick&aacute; situace v Německu tak vzhledem k těmto skutečnostem nevypad&aacute; vůbec dobře. A zejména kvůli hroz&iacute;c&iacute; energetické krizi a vysoké pravděpodobnosti př&iacute;chodu ekonomické recese (poklesu hrubého dom&aacute;c&iacute;ho produktu po dobu minim&aacute;lně dvou po sobě jdouc&iacute;ch čtvrtlet&iacute;), začala v této zemi v&yacute;razn&yacute;m tempem růst inflačn&iacute; oček&aacute;v&aacute;n&iacute; producentů i spotřebitelů (nutno podotknout, že opr&aacute;vněně; německé ceny elektřiny a ostatn&iacute;ch energi&iacute; dosahuj&iacute; sv&yacute;ch maxim a konec jejich růstu je zat&iacute;m bohužel v nedohledu**36**,**37**). **10let&aacute;** inflačn&iacute; oček&aacute;v&aacute;n&iacute;, kter&aacute; jsou odvozena z dluhopisů, v&aacute;zan&yacute;ch na inflaci, vzrostla na vysok&yacute;ch **2,48 %**.**38 **
+Ekonomick&aacute; situace v Německu tak vzhledem k těmto skutečnostem nevypad&aacute; vůbec dobře. A zejména kvůli hroz&iacute;c&iacute; energetické krizi a vysoké pravděpodobnosti př&iacute;chodu ekonomické recese (poklesu hrubého dom&aacute;c&iacute;ho produktu po dobu minim&aacute;lně dvou po sobě jdouc&iacute;ch čtvrtlet&iacute;), začala v této zemi v&yacute;razn&yacute;m tempem růst inflačn&iacute; oček&aacute;v&aacute;n&iacute; producentů i spotřebitelů (nutno podotknout, že opr&aacute;vněně; německé ceny elektřiny a ostatn&iacute;ch energi&iacute; dosahuj&iacute; sv&yacute;ch maxim a konec jejich růstu je zat&iacute;m bohužel v nedohledu (**36**)(**37**)). **10let&aacute;** inflačn&iacute; oček&aacute;v&aacute;n&iacute;, kter&aacute; jsou odvozena z dluhopisů, v&aacute;zan&yacute;ch na inflaci, vzrostla na vysok&yacute;ch **2,48 %**.(**38**)
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
+![](/uploads/inflacni-ocekavani-nemecko.png){: .small-centered-image width="1200" height="644"}
 
 *Obr. 10: 10y inflačn&iacute; oček&aacute;v&aacute;n&iacute; v Německu, červenec 2022. Zdroj: Bloomberg*
+{: .center}
 
 &nbsp;
 
-Z&aacute;kladn&iacute; &uacute;rokov&aacute; sazba Evropské centr&aacute;ln&iacute; banky je přitom na **0 %**.**39** A kvůli riziku krachu jižn&iacute;ch st&aacute;tů Euroz&oacute;ny, způsoben&yacute;m vyšš&iacute;mi n&aacute;klady na spl&aacute;cen&iacute; st&aacute;tn&iacute;ch dluhopisů, pravděpodobně nedojde k dostatečnému růstu &uacute;rokov&yacute;ch sazeb ECB, které by mohlo v dohledné době inflaci sn&iacute;žit a t&iacute;m zabr&aacute;nit vzniku v&yacute;še zm&iacute;něn&yacute;m problémům. Se ztr&aacute;tou monet&aacute;rn&iacute; suverenity se zkr&aacute;tka poj&iacute; obrovské n&aacute;klady. Č&iacute;m je měnov&aacute; politika autonomnějš&iacute;, t&iacute;m je jej&iacute; ř&iacute;zen&iacute; efektivnějš&iacute; (*ceteris paribus*; autonomita rozhodně nen&iacute; v měnové politice jedin&yacute; důležit&yacute; faktor). Ani, když by ECB neměla ž&aacute;dné politické z&aacute;jmy (které, vzhledem k jej&iacute;m krokům v oblasti měnové politiky dnes nepochybně m&aacute;**40**) a jednala pouze v z&aacute;jmu cenové stability člensk&yacute;ch st&aacute;tů této unie, měla by to dost n&aacute;ročné. Protože tyto země maj&iacute; často naprosto odlišnou strukturu ekonomiky a cenov&aacute; hladina v nich roste rozd&iacute;ln&yacute;m tempem. Inu, spojen&iacute; měnové unie a rozpočtové autonomie nemůže fungovat tak dobře jako suverenita obou těchto politik.
+Z&aacute;kladn&iacute; &uacute;rokov&aacute; sazba Evropské centr&aacute;ln&iacute; banky je přitom na **0 %**.(**39**)**&nbsp;**A kvůli riziku krachu jižn&iacute;ch st&aacute;tů Euroz&oacute;ny, způsoben&yacute;m vyšš&iacute;mi n&aacute;klady na spl&aacute;cen&iacute; st&aacute;tn&iacute;ch dluhopisů, pravděpodobně nedojde k dostatečnému růstu &uacute;rokov&yacute;ch sazeb ECB, které by mohlo v dohledné době inflaci sn&iacute;žit a t&iacute;m zabr&aacute;nit vzniku v&yacute;še zm&iacute;něn&yacute;m problémům. Se ztr&aacute;tou monet&aacute;rn&iacute; suverenity se zkr&aacute;tka poj&iacute; obrovské n&aacute;klady. Č&iacute;m je měnov&aacute; politika autonomnějš&iacute;, t&iacute;m je jej&iacute; ř&iacute;zen&iacute; efektivnějš&iacute; (*ceteris paribus*; autonomita rozhodně nen&iacute; v měnové politice jedin&yacute; důležit&yacute; faktor). Ani, když by ECB neměla ž&aacute;dné politické z&aacute;jmy (které, vzhledem k jej&iacute;m krokům v oblasti měnové politiky dnes nepochybně m&aacute; (**40**)) a jednala pouze v z&aacute;jmu cenové stability člensk&yacute;ch st&aacute;tů této unie, měla by to dost n&aacute;ročné. Protože tyto země maj&iacute; často naprosto odlišnou strukturu ekonomiky a cenov&aacute; hladina v nich roste rozd&iacute;ln&yacute;m tempem. Inu, spojen&iacute; měnové unie a rozpočtové autonomie nemůže fungovat tak dobře jako suverenita obou těchto politik.
 
 &nbsp;
 
-V ekonomii existuje *teorie nemožné trojice měnové unie***41**,**42**, „trilema“, které ř&iacute;k&aacute;, že nen&iacute; možné, aby se v nedobrovolné**43** měnové unii dodržovaly všechny tyto 3 z&aacute;vazky:
+V ekonomii existuje *teorie nemožné trojice měnové unie* (**41**)(**42**), „trilema“, které ř&iacute;k&aacute;, že nen&iacute; možné, aby se v nedobrovolné (**43**) měnové unii dodržovaly všechny tyto 3 z&aacute;vazky:
 
 &nbsp;
 
@@ -206,11 +191,10 @@ V ekonomii existuje *teorie nemožné trojice měnové unie***41**,**42**, „tr
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
+![](/uploads/nemozna-trojice.png){: .small-centered-image width="1980" height="1168"}
 
 *Obr. 11: Nemožn&aacute; trojice měnové unie. Zdroj: Vlastn&iacute; zpracov&aacute;n&iacute;*
+{: .center}
 
 &nbsp;
 
