@@ -10,7 +10,7 @@ author: Štěpán Drábek
 featured: true
 featured_image: /uploads/082022.png
 categories: dalsi tvorba
-download:
+download: Braiins-srpen.pdf
 video-url: pyq97TadcOA
 seo:
   title: Štěpánův ekonomický měsíčník 08/2022
@@ -82,6 +82,7 @@ Rychlost růstu cen spotřebn&iacute;ch statků zpomalila o **0,3 %**&nbsp;z če
 ![](/uploads/inflace-cr-graf.png){: .small-centered-image width="1920" height="1080"}
 
 *Obr. 3: Inflace v meziročn&iacute;m a meziměs&iacute;čn&iacute;m vyj&aacute;dřen&iacute; ČR. Zdroj: Vlastn&iacute; zpracov&aacute;n&iacute;*
+{: .center}
 
 &nbsp;
 
@@ -92,6 +93,7 @@ Rychlost růstu cen spotřebn&iacute;ch statků zpomalila o **0,3 %**&nbsp;z če
 ![](/uploads/cervencova-inflace-eurostat.png){: .small-centered-image width="757" height="416"}
 
 *Obr. 4: Červencov&aacute; HICP inflace v zem&iacute;ch EU. Zdroj: Eurostat, Petr Bartoň*
+{: .center}
 
 &nbsp;
 
@@ -112,6 +114,7 @@ Dle aktu&aacute;ln&iacute; progn&oacute;zy České n&aacute;rodn&iacute; banky i
 ![](/uploads/sap500.jpg){: .small-centered-image width="1390" height="598"}
 
 *Obr. 5: Reakce indexu **SaP 500** na data o inflaci v USA. Zdroj: Yahoo Finance*
+{: .center}
 
 &nbsp;
 
@@ -124,6 +127,7 @@ Tahoun Euroz&oacute;ny a země s největš&iacute;m HDP v Evropě, Německo, za�
 ![](/uploads/nemecko-cena-jidla.png){: .small-centered-image width="1200" height="634"}
 
 *Obr. 6: Německ&yacute; CPI potravin, červenec 2022. Zdroj: Bloomberg *
+{: .center}
 
 &nbsp;
 
@@ -215,6 +219,7 @@ Při prvn&iacute; krizi v euroz&oacute;ně došlo k zachov&aacute;n&iacute; fisk
 &nbsp;
 
 *Obr. 12: 5 scén&aacute;řů v&yacute;voje budouc&iacute; inflace v roce 2022. Zdroj:*[*https://twitter.com/petr\_barton/status/1559165086002036736?s=20&t=wfnrM9w-zOOYcZIPlTTE0w*](https://twitter.com/petr_barton/status/1559165086002036736?s=20&amp;t=wfnrM9w-zOOYcZIPlTTE0w){: target="_blank" rel="noopener"}
+{: .center}
 
 &nbsp;
 
