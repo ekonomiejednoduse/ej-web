@@ -29,10 +29,13 @@ Bitcoinov&aacute; těžebn&iacute; firma&nbsp;**[Braiins](https://cs.braiins.com
 
 V **[srpnovém vyd&aacute;n&iacute;](https://www.bitperia.cz/clanky/stepanuv-ekonomicky-mesicnik-srpen-2022.html){: target="_blank" rel="noopener"}**&nbsp;jsou zastoupena zejména tato témata:
 
-1. **ČNB a &uacute;rokové sazby**
-2. **Inflace v ČR**
-3. **Inflace v USA**
-4. **Ekonomické problémy Německa**
+**1\. ČNB a &uacute;rokové sazby**
+
+**2\. Inflace v ČR**
+
+**3\. Inflace v USA**
+
+**4\. Ekonomické problémy Německa**
 
 &nbsp;
 
