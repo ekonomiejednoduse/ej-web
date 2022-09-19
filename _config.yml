@@ -33,4 +33,8 @@ _options:
     underline: true
     strike: true
     image: true
+
+plugins: 
+  - jekyll-feed
+  
     
