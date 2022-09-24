@@ -66,80 +66,44 @@ Windfall tax by mohl m&iacute;rně zv&yacute;šit st&aacute;tn&iacute; př&iacut
 
 &nbsp;
 
-Pojďme si na z&aacute;věr shrnout všechny nev&yacute;hody, které windfall tax přin&aacute;š&iacute;, a srovnat je s možn&yacute;mi pozitivn&iacute;mi dopady této daně. Prvn&iacute; nev&yacute;hodou je samotn&aacute; nebezpečn&aacute; definice nezasloužen&yacute;ch zisků. Těmi dalš&iacute;mi jsou jednoznačně podp&aacute;sov&aacute; r&aacute;na pro česk&yacute; kapit&aacute;lov&yacute; trh a možné prolomen&iacute; důvěry v česk&yacute; daňov&yacute; systém a v důsledku toho i sn&iacute;žen&iacute; množstv&iacute; (nejen) zahraničn&iacute;ch investic do energetického sektoru v České republice. Zat&iacute;mco jediné zat&iacute;m zn&aacute;mé pozitivum implementace windfall tax by bylo zv&yacute;šen&iacute; př&iacute;jmů do st&aacute;tn&iacute;ho rozpočtu o nižš&iacute; des&iacute;tky miliard korun (samozřejmě by z&aacute;leželo na velikosti daňové sazby), které by však nijak nevyřešilo obrovsk&yacute; struktur&aacute;ln&iacute; deficit, jenž n&aacute;š st&aacute;tn&iacute; rozpočet tr&aacute;p&iacute; a nejsp&iacute;še i do budoucna nem&aacute;lo tr&aacute;pit bude. Současnou vl&aacute;dnouc&iacute; koalici volili předevš&iacute;m pravicově sm&yacute;šlej&iacute;c&iacute; lidé, jejichž sympatie s touto vl&aacute;du (v jej&iacute;mž poltickém programu bylo mimo jiné i to, že daně zvyšovat nebude) by mohly b&yacute;t zaveden&iacute;m daně z „nezasloužen&yacute;ch“ zisků značně ohroženy. Tud&iacute;ž, i kdyby vl&aacute;da jednala čistě politicky, nikoli ekonomicky, windfall tax by nebyla tou spr&aacute;vnou volbou.
+Pojďme si na z&aacute;věr shrnout všechny nev&yacute;hody, které windfall tax přin&aacute;š&iacute;, a srovnat je s možn&yacute;mi pozitivn&iacute;mi dopady této daně. Prvn&iacute; nev&yacute;hodou je samotn&aacute; nebezpečn&aacute; definice nezasloužen&yacute;ch zisků. Těmi dalš&iacute;mi jsou jednoznačně podp&aacute;sov&aacute; r&aacute;na pro česk&yacute; kapit&aacute;lov&yacute; trh a možné prolomen&iacute; důvěry v česk&yacute; daňov&yacute; systém a v důsledku toho i sn&iacute;žen&iacute; množstv&iacute; (nejen) zahraničn&iacute;ch investic do energetického sektoru v České republice. Zat&iacute;mco jediné zat&iacute;m zn&aacute;mé pozitivum implementace windfall tax by bylo zv&yacute;šen&iacute; př&iacute;jmů do st&aacute;tn&iacute;ho rozpočtu o nižš&iacute; des&iacute;tky miliard korun (samozřejmě by z&aacute;leželo na velikosti daňové sazby), které by však nijak nevyřešilo obrovsk&yacute; struktur&aacute;ln&iacute; deficit, jenž n&aacute;š st&aacute;tn&iacute; rozpočet tr&aacute;p&iacute; a nejsp&iacute;še i do budoucna nem&aacute;lo tr&aacute;pit bude. Současnou vl&aacute;dnouc&iacute; koalici volili předevš&iacute;m pravicově sm&yacute;šlej&iacute;c&iacute; lidé, jejichž sympatie s touto vl&aacute;du (v jej&iacute;mž politickém programu bylo mimo jiné i to, že nebude zav&aacute;dět nové daně a zvyšovat sazby těch st&aacute;vaj&iacute;c&iacute;ch) by mohly b&yacute;t zaveden&iacute;m daně z „nezasloužen&yacute;ch“ zisků značně ohroženy. Tud&iacute;ž, i kdyby vl&aacute;da jednala čistě politicky, nikoli ekonomicky, windfall tax by nebyla tou nejlepš&iacute; volbou.
 
 > &nbsp;
 
 **1** [https://www.bankofengland.co.uk/boeapps/database/Bank-Rate.asp](https://www.bankofengland.co.uk/boeapps/database/Bank-Rate.asp)
 
-&nbsp;
-
 **2** [https://www.inflation.eu/en/inflation-rates/great-britain/historic-inflation/cpi-inflation-great-britain-1980.aspx](https://www.inflation.eu/en/inflation-rates/great-britain/historic-inflation/cpi-inflation-great-britain-1980.aspx)
-
-&nbsp;
 
 **3** [https://iamkate.com/data/uk-inflation/](https://iamkate.com/data/uk-inflation/)
 
-&nbsp;
-
 **4** Jak by ale jeden z nejv&yacute;znamnějš&iacute;ch ekonomů všech dob – **Milton Friedman** – v tuto chv&iacute;li jistě spr&aacute;vně podotknul: „Nen&iacute; nic trvalejš&iacute;ho než dočasn&yacute; st&aacute;tn&iacute; program.“ Př&iacute;kladem může b&yacute;t „dočasné“ pozastaven&iacute; možnosti př&iacute;mé směny (ač pouze pro st&aacute;ty, které byly souč&aacute;st&iacute; tzv. [Brettonwoodského systému](https://www.youtube.com/watch?v=ixaoEcdQUyY&amp;t=103s)) amerického dolaru za zlato a jakékoliv jiné rezervn&iacute; aktivum.
-
-&nbsp;
 
 **5** 3. 8. 2022, tj. den před měnovopolitick&yacute;m zased&aacute;n&iacute;m bankovn&iacute; rady České n&aacute;rodn&iacute; banky
 
-&nbsp;
-
 **6** V&iacute;ce viz třeba [https://www.penize.cz/terminovane-vklady/430032-nejlepsi-terminovane-vklady-banky-prisly-o-velkou-konkurenci](https://www.penize.cz/terminovane-vklady/430032-nejlepsi-terminovane-vklady-banky-prisly-o-velkou-konkurenci). Důležité je ale také podotknout, že u dlouhodob&yacute;ch term&iacute;novan&yacute;ch vkladů jsou &uacute;rokové sazby vyšš&iacute; (pohybuj&iacute; se až mezi 5 a 5,5 %), tud&iacute;ž zde je rozd&iacute;l s 2T repo sazbou menš&iacute;.
-
-&nbsp;
 
 **7** Takzvan&aacute; [hra s nenulov&yacute;m součtem](https://cs.wikipedia.org/wiki/Teorie_her#Hry_s_nulov%C3%BDm_sou%C4%8Dtem_a_hry_s_nenulov%C3%BDm_sou%C4%8Dtem)
 
-&nbsp;
-
 **8** Marxovu pracovn&iacute; teorii hodnoty, kter&aacute; vych&aacute;zela z Ricardovy n&aacute;kladové teorie hodnoty (**David Ricard**přitom nav&aacute;zal na odlišen&iacute; užitné a směnné hodnoty statků samotného otce zakladatele ekonomie **Adama Smitha**), souběžně vyvr&aacute;til britsk&yacute; ekonom **William Stanley Jevons** a jeden ze zakladatelů *rakouské ekonomické školy* a také jeden z hlavn&iacute;ch představitelů *marginalistické revoluce* **Carl Menger**. Ti přišli s novou, *subjektivn&iacute; teori&iacute; hodnoty*, kter&aacute; jednoduše tvrd&iacute;, že hodnota nen&iacute; ž&aacute;dnou explicitn&iacute; vlastnost&iacute; statků. Veškerou hodnotu statkům podle n&iacute; přiřazuj&iacute; až samotn&iacute; lidé, a to na z&aacute;kladě toho, jak kvalitně uspokojuj&iacute; jejich individu&aacute;ln&iacute; preference.
-
-&nbsp;
 
 **9**[https://www.fio.cz/zpravodajstvi/zpravy-z-burzy/270794-cez-tema-specialniho-zdaneni-energetickych-firem-stale-silne-rezonuje-kapitalovym-trhem](https://www.fio.cz/zpravodajstvi/zpravy-z-burzy/270794-cez-tema-specialniho-zdaneni-energetickych-firem-stale-silne-rezonuje-kapitalovym-trhem)
 
-&nbsp;
-
 **10**[https://www.cez.cz/cs/o-cez/cez/akcionari](https://www.cez.cz/cs/o-cez/cez/akcionari)
-
-&nbsp;
 
 **11** [https://www.cez.cz/cs/pro-investory/akcie/vyvoj-cen-akcii](https://www.cez.cz/cs/pro-investory/akcie/vyvoj-cen-akcii)
 
-&nbsp;
-
 **12**[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970)
-
-&nbsp;
 
 **13** <u>To konec konců tvrd&iacute; i předseda N&aacute;rodn&iacute; rozpočtov&eacute; rady <strong>Mojm&iacute;r Hampl</strong> (viz třeba </u>[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-hampl-extra-dani-pro-cez-a-banky-to-zacne-pak-vlada-zdani-i-lidi-207701](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-hampl-extra-dani-pro-cez-a-banky-to-zacne-pak-vlada-zdani-i-lidi-207701)<u>)</u>
 
-&nbsp;
-
 **14** [https://unrr.cz/nrr-vydala-pravidelne-ctvrtletni-stanovisko-k-vyvoji-hospodareni-sektoru-verejnych-instituci-a-k-nastaveni-fiskalni-a-rozpoctove-politiky-5/](https://unrr.cz/nrr-vydala-pravidelne-ctvrtletni-stanovisko-k-vyvoji-hospodareni-sektoru-verejnych-instituci-a-k-nastaveni-fiskalni-a-rozpoctove-politiky-5/)
-
-&nbsp;
 
 **15**[https://cs.wikipedia.org/wiki/St&aacute;tn&iacute;\_rozpočet\_České\_republiky](https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_rozpo%C4%8Det_%C4%8Cesk%C3%A9_republiky)
 
-&nbsp;
-
 **16** [https://twitter.com/mmister/status/1549426595210960896?t=A0fAwiK4fpOJ970nmjcsxQ&s=19](https://twitter.com/mmister/status/1549426595210960896?t=A0fAwiK4fpOJ970nmjcsxQ&amp;s=19)
-
-&nbsp;
 
 **17**[https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/](https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2022/snemovna-schvalila-novy-rozpocet-s-defic-46455/)
 
-&nbsp;
-
 **18**[https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970](https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-nejen-banky-nikdo-si-nemuze-byt-jist-vlada-vymysli-kde-zdani-necekany-zisk-207970)
-
-&nbsp;
 
 **19** [https://archiv.hn.cz/c1-67096280-je-za-minutu-dvanact-10-rad-fialove-vlade-od-kalouska-a-topolanka?utm\_source=www.seznam.cz&utm\_medium=sekce-z-internetu](https://archiv.hn.cz/c1-67096280-je-za-minutu-dvanact-10-rad-fialove-vlade-od-kalouska-a-topolanka?utm_source=www.seznam.cz&amp;utm_medium=sekce-z-internetu)
