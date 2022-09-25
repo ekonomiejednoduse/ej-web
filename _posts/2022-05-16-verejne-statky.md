@@ -65,7 +65,7 @@ Kvůli tomu, že určit&yacute; statek může spotřebov&aacute;vat i spotřebit
 
 &nbsp;
 
-To je však velmi odv&aacute;žn&yacute; normarativn&iacute; z&aacute;věr z pozitivn&iacute; anal&yacute;zy vlastnost&iacute; veřejn&yacute;ch statků. Ano, trh skutečně může poskytovat méně veřejn&yacute;ch statků, než kolik jich společnost popt&aacute;v&aacute; (tuto „chybnou“ alokaci zdrojů klidně můžeme označit selh&aacute;n&iacute;m trhu). Ovšem řada ekonomů obhajuj&iacute;c&iacute;ch postoj, že st&aacute;t m&aacute; tuto neefektivitu trhu řešit poskytov&aacute;n&iacute;m větš&iacute;ho množstv&iacute; veřejn&yacute;ch statků, se nijak nezam&yacute;šlela nad t&iacute;m, zda nemůže i st&aacute;t v řešen&iacute; problému černého pasažéra a negativn&iacute;ch dopadů z tohoto problému plynouc&iacute;ch selhat (respektive, zda i st&aacute;t nemůže způsobit chybnou, neefektivn&iacute; alokaci zdrojů).
+To je však velmi odv&aacute;žn&yacute; normativn&iacute; z&aacute;věr z pozitivn&iacute; anal&yacute;zy vlastnost&iacute; veřejn&yacute;ch statků. Ano, trh skutečně může poskytovat méně veřejn&yacute;ch statků, než kolik jich společnost popt&aacute;v&aacute; (tuto „chybnou“ alokaci zdrojů klidně můžeme označit selh&aacute;n&iacute;m trhu). Ovšem řada ekonomů obhajuj&iacute;c&iacute;ch postoj, že st&aacute;t m&aacute; tuto neefektivitu trhu řešit poskytov&aacute;n&iacute;m větš&iacute;ho množstv&iacute; veřejn&yacute;ch statků, se nijak nezam&yacute;šlela nad t&iacute;m, zda nemůže i st&aacute;t v řešen&iacute; problému černého pasažéra a negativn&iacute;ch dopadů z tohoto problému plynouc&iacute;ch selhat (respektive, zda i st&aacute;t nemůže způsobit chybnou, neefektivn&iacute; alokaci zdrojů).
 
 &nbsp;
 
