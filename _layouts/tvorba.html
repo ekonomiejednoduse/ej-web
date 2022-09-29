@@ -14,17 +14,20 @@ layout: default
          
         </div>
 
+
+        {%if page.video-url %}
+        <div class="center">
+        <iframe class="sm-shrink" width="560" height="315" src="https://www.youtube.com/embed/{{page.video-url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        {%endif%}  
+
         <div class="padded-1">
 
             {{content}}
 
         </div>
 
-        {%if page.video-url %}
-        <div class="center">
-        <iframe class="sm-shrink" width="560" height="315" src="https://www.youtube.com/embed/{{page.video-url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-        {%endif%}     
+    
 
         {% include social-share.html %}
 
