@@ -7,7 +7,7 @@ description: >-
   politiky za září roku 2022.
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/nahledovka.png
+featured_image: /uploads/nahled-na-web.png
 categories: dalsi tvorba
 download:
 video-url: '-ieY__AQJLw'
