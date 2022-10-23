@@ -231,6 +231,8 @@ Dle metodologického př&iacute;stupu ekonomie blahobytu může trh při poskyto
 
 **15** Pozorn&yacute; čten&aacute;ř by si možn&aacute; všiml, že reklamy u internetov&yacute;ch služeb, kter&yacute;mi jsme se zab&yacute;vali v&yacute;še, funguj&iacute; na stejném principu; např&iacute;klad televizn&iacute; či rozhlasové vys&iacute;l&aacute;n&iacute; jsou čistě veřejn&yacute;mi statky, ovšem možnost inzerovat v těchto služb&aacute;ch je naopak statkem čistě soukrom&yacute;m; televizn&iacute; a rozhlasové vys&iacute;l&aacute;n&iacute; tyto dva statky spojily do jednoho, č&iacute;mž umožnily jeho efektivn&iacute; soukromé poskytov&aacute;n&iacute;.
 
+> &nbsp;
+
 **Zdroje:**
 
 Mojm&iacute;r Hampl – [Troj&iacute; př&iacute;stup k veřejn&yacute;m statkům](http://journal.fsv.cuni.cz/storage/146_004_111_125.pdf){: target="_blank" rel="noopener"}
