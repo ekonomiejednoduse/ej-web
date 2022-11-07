@@ -26,4 +26,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Vytvořil jsem prezentaci pro předn&aacute;šku ve své škole na téma **Jak vznikaj&iacute; pen&iacute;ze**?&nbsp;[Odkaz na prezentaci](https://www.canva.com/design/DAFQRdnXmbU/view?utm_content=DAFQRdnXmbU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink)
+Vytvořil jsem prezentaci pro předn&aacute;šku ve své škole na téma **Jak vznikaj&iacute; pen&iacute;ze**?&nbsp;[Odkaz na prezentaci](https://www.canva.com/design/DAFQRdnXmbU/view?utm_content=DAFQRdnXmbU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink){: target="_blank" rel="noopener"}
