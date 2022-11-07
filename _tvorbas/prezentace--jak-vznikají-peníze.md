@@ -73,3 +73,27 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 ![](/uploads/11.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
+
+![](/uploads/12.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/13.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/14.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/15.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/16.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/17.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
