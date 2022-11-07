@@ -30,16 +30,46 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
-![](/uploads/1.png){: width="1920" height="1080"}
+![](/uploads/1.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
 
-![](/uploads/2.png){: width="1920" height="1080"}
+![](/uploads/2.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
 
-![](/uploads/3.png){: width="1920" height="1080"}
+![](/uploads/3.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
+
+![](/uploads/4.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/5.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/6.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/7.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/8.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/9.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/10.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+![](/uploads/11.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
