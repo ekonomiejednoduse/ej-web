@@ -34,7 +34,15 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/2.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -42,7 +50,15 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/4.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -50,7 +66,15 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/6.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -58,7 +82,15 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/8.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -66,7 +98,15 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/10.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -74,7 +114,15 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/12.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -82,7 +130,15 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/14.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -90,10 +146,74 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/16.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![](/uploads/17.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/18.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/19.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/20.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/21.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/22.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/23.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/24.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
