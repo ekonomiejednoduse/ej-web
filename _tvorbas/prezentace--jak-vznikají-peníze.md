@@ -217,3 +217,75 @@ Vytvořil jsem prezentaci k předn&aacute;šce pro své spoluž&aacute;ky v r&aa
 ![](/uploads/24.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/25.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/26.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/27.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/28.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/29.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/30.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/31.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/32.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/33.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
