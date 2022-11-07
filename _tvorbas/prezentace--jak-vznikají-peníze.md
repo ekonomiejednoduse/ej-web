@@ -1,7 +1,7 @@
 ---
 layout: tvorba
 title: Prezentace – Jak vznikají peníze?
-date: 2022-11-07 00:00:00
+date: 2022-10-28 00:00:00
 description: |-
   Vytvořil jsem prezentaci na témata:
   1. podstata peněz
