@@ -9,7 +9,7 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-featured_image: /uploads/ej9-libya-coin.webp
+featured_image: /uploads/ej10-maple-leaf-gold.png
 download: greshamuv-zakon.pdf
 seo:
   title: Nejasnosti okolo Greshamova zákona
@@ -74,9 +74,7 @@ Jedině za př&iacute;tomnosti této vl&aacute;dn&iacute; intervence lze hovoři
 
 Inu, když hodnot&iacute;me různé systémy či metody, mus&iacute;me srovn&aacute;vat i motivace, které v nich mohou b&yacute;t odlišně nastavené. Zat&iacute;mco arbitr&aacute;rn&iacute; stanoven&iacute; fixn&iacute;ho kurzu př&iacute;mo podněcuje a vyb&iacute;z&iacute; k tomu použ&iacute;vat pen&iacute;ze s obecně horš&iacute;mi vlastnostmi, na trhu bychom podobnou n&aacute;klonnost jen stěž&iacute; shledali. D&aacute;vejme si proto pozor na to, zda je určit&aacute; nedokonalost nespornou vlastnost&iacute; a neodmyslitelnou souč&aacute;st&iacute; tržn&iacute;ho prostřed&iacute;, anebo je v&yacute;hradně způsobena vl&aacute;dn&iacute;m z&aacute;sahem do něj, ať už zrovna zauj&iacute;m&aacute; jakoukoli podobu.
 
-&nbsp;
-
-&nbsp;
+> &nbsp;
 
 **Použité zdroje:**
 
