@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/ej9-libya-coin.webp
-download: kapitalismus-a-ekologie.pdf
+download: greshamuv-zakon.pdf
 seo:
   title: Nejasnosti okolo Greshamova zákona
   description: >-
