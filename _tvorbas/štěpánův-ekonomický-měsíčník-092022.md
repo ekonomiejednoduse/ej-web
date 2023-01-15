@@ -102,31 +102,25 @@ Zároveň ale v Německu také dochází k růstu nominálních platů
 
 Rychlý růst spotřebitelských cen v této zemi v kombinaci s poptávkou po kompenzaci ztráty kupní síly dlouhodobých úspor a poklesu reálných příjmů má potenciál roztočit nebezpečnou&nbsp;*mzdově-cenovou spirálu&nbsp;*(spirála mezi rostoucími cenami a zvyšujícími se nominálními mzdami). Mnoho zaměstnanců uzavírá se svými zaměstnavateli smlouvy o navýšení svých nominálních příjmů. Ačkoli je indexace mezd na inflaci&nbsp;*dominantní strategií&nbsp;*každého jednoho zaměstnance, který se snaží maximalizovat svůj zisk, z pohledu celé společnosti může mít takové jednání neblahý efekt, neboť tlačí na další růst agregátní poptávky, zvyšuje rychlost oběhu peněžních jednotek a vytváří nové inflační tlaky (samozřejmě ale záleží na mezním sklonu ke spotřebě jednotlivých ekonomických aktérů, pokud by si lidé všechny nově nabyté peněžní prostředky ušetřili, nedošlo by ke vzniku onoho inflačního tlaku). Jakmile se jednou mzdově-cenová spirála roztočí a dojde k odukotvení inflačních očekávání Němců od inflačního cíle ECB, bude velmi náročné stabilizovat růst cenové hladiny na úroveň, kterou tato centrální banka považuje za optimální (**2 %&nbsp;**ročně) a to, o to víc v eurozóně, kde je míra restrikce měnové politiky omezena na takovou úroveň, při které by nedocházelo ke krachu zadlužených ekonomických subjektů, a to jak domácností, tak i firem, ale zejména pak států jižního křídla Evropské měnové unie (takzvané&nbsp;*PIIGS&nbsp;*země**35**). Pro lepší představu toho, jak by mzdově- cenová spirála mohla v praxi vypadat, jsem zhotovil jednoduchý obrázek:
 
-8
+&nbsp;
 
-Rychlejší růst cenové hladiny
+![](/uploads/mzdove-cenova-spirala.png){: .small-centered-image width="2126" height="1320"}
 
-&nbsp;&nbsp;&nbsp;
-
-Vyšší poptávka po spotřebě (nominální iluze bohatství)
-
-Růst nominálních příjmů
-
-Pokles reálných příjmů
-
-Poptávka po kompenzaci této ztráty
-
-&nbsp; &nbsp;&nbsp;
+&nbsp;
 
 *Obr. 9: Mzdově-cenová spirála. Zdroj: Vlastní zpracování.*
 
-Ekonomická situace v Německu tak vzhledem k těmto skutečnostem nevypadá vůbec dobře. A zejména kvůli hrozící energetické krizi a vysoké pravděpodobnosti příchodu ekonomické recese (poklesu hrubého domácího produktu po dobu minimálně dvou po sobě jdoucích čtvrtletí), začala vtéto zemi výrazným tempem růst inflační očekávání producentů i spotřebitelů (nutno podotknout, že oprávněně; německé ceny elektřiny a ostatních energií dosahují svých maxim a konec jejich růstu je zatím bohužel v nedohledu**36**,**37**).&nbsp;**10letá&nbsp;**inflační očekávání, která jsou odvozena z dluhopisů, vázaných na inflaci, vzrostla na vysokých&nbsp;**2,48 %**.**38**
+Ekonomická situace v Německu tak vzhledem k těmto skutečnostem nevypadá vůbec dobře. A zejména kvůli hrozící energetické krizi a vysoké pravděpodobnosti příchodu ekonomické recese (poklesu hrubého domácího produktu po dobu minimálně dvou po sobě jdoucích čtvrtletí), začala vtéto zemi výrazným tempem růst inflační očekávání producentů i spotřebitelů (nutno podotknout, že oprávněně; německé ceny elektřiny a ostatních energií dosahují svých maxim a konec jejich růstu je zatím bohužel v nedohledu(**36)**(**37)**).&nbsp;**10letá&nbsp;**inflační očekávání, která jsou odvozena z dluhopisů, vázaných na inflaci, vzrostla na vysokých&nbsp;**2,48 %**.(**38)**
 
-9
+&nbsp;
+
+![](/uploads/inflacni-ocekavani-nemecko.png){: .small-centered-image width="1200" height="644"}
+
+&nbsp;
 
 *Obr. 10: 10y inflační očekávání v Německu, červenec 2022. Zdroj: Bloomberg*
 
-Základní úroková sazba Evropské centrální banky je přitom na&nbsp;**0 %**.**39&nbsp;**A kvůli riziku krachu jižních států Eurozóny, způsobeným vyššími náklady na splácení státních dluhopisů, pravděpodobně nedojde kdostatečnému růstu úrokových sazeb ECB, které by mohlo v dohledné době inflaci snížit a tím zabránit vzniku výše zmíněným problémům. Se ztrátou monetární suverenity se zkrátka pojí obrovské náklady. Čím je měnová politika autonomnější, tím je její řízení efektivnější (*ceteris paribus*; autonomita rozhodně není v měnové politice jediný důležitý faktor). Ani, když by ECB neměla žádné politické zájmy (které, vzhledem k jejím krokům v oblasti měnové politiky dnes nepochybně má**40**) a jednala pouze v zájmu cenové stability členských států této unie, měla by to dost náročné. Protože tyto země mají často naprosto odlišnou strukturu ekonomiky a cenová hladina v nich roste rozdílným tempem. Inu, spojení měnové unie a rozpočtové autonomie nemůže fungovat tak dobře jako suverenita obou těchto politik.
+Základní úroková sazba Evropské centrální banky je přitom na&nbsp;**0 %**.(**39)&nbsp;**A kvůli riziku krachu jižních států Eurozóny, způsobeným vyššími náklady na splácení státních dluhopisů, pravděpodobně nedojde kdostatečnému růstu úrokových sazeb ECB, které by mohlo v dohledné době inflaci snížit a tím zabránit vzniku výše zmíněným problémům. Se ztrátou monetární suverenity se zkrátka pojí obrovské náklady. Čím je měnová politika autonomnější, tím je její řízení efektivnější (*ceteris paribus*; autonomita rozhodně není v měnové politice jediný důležitý faktor). Ani, když by ECB neměla žádné politické zájmy (které, vzhledem k jejím krokům v oblasti měnové politiky dnes nepochybně má (**40)**) a jednala pouze v zájmu cenové stability členských států této unie, měla by to dost náročné. Protože tyto země mají často naprosto odlišnou strukturu ekonomiky a cenová hladina v nich roste rozdílným tempem. Inu, spojení měnové unie a rozpočtové autonomie nemůže fungovat tak dobře jako suverenita obou těchto politik.
 
 V ekonomii existuje&nbsp;*teorie nemožné trojice měnové unie&nbsp;*(**41**,**42),**&nbsp;„trilema“, které říká, že není možné, aby se v nedobrovolné (**43)&nbsp;**měnové unii dodržovaly všechny tyto 3 závazky:
 
@@ -149,7 +143,7 @@ Při první krizi v eurozóně došlo k zachování fiskální suvereni
 
 &nbsp;
 
-![](/uploads/inflace-mm-cervenec.png){: width="828" height="452"}
+![](/uploads/inflace-mm-cervenec.png){: .small-centered-image width="828" height="452"}
 
 &nbsp;
 
