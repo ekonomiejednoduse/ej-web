@@ -14,10 +14,19 @@ featured_image: /uploads/demonopolizace.jpg
 download: kapitalismus-a-ekologie.pdf
 seo:
   title: Demonopolizace peněz – aneb proč by všichni ekonomové měli milovat bitcoin
-  description:
+  description: >-
+    Bitcoin není jen další investiční instrument. Je to pokus o vytvoření
+    nového, decentralizovaného měnového uspořádání nebo alespoň konkurence toho
+    stávajícího. Proto by jej měli všichni správní ekonomové přímo milovat.
   social_image:
-  twitter_card: Kapitalismus, ekologie, anarchokapitalismus, stát, regulace
-  keywords:
+  twitter_card: >-
+    Bitcoin, peníze, monopol, demonopolizace peněz, Štěpán Drábek, ekonomie,
+    ekonomika, Ekonomie Jednoduše, ekonomové by měli milovat bitcoin, Hayek,
+    rakouská škola
+  keywords: >-
+    Bitcoin, peníze, monopol, demonopolizace peněz, Štěpán Drábek, ekonomie,
+    ekonomika, Ekonomie Jednoduše, ekonomové by měli milovat bitcoin, Hayek,
+    rakouská škola
   hide-from-google: false
 _comments:
   title: Max 70 characters
