@@ -135,8 +135,6 @@ Inflace již třet&iacute; měs&iacute;c v řadě klesla (ze [srpnového vyd&aac
 
 &nbsp;
 
-&nbsp;
-
 *Obr. 7: Srpnov&aacute; meziměs&iacute;čn&iacute; a meziročn&iacute; inflace v ČR (03–08/2022). Zdroj: Vlastn&iacute; zpracov&aacute;n&iacute;*
 
 &nbsp;
@@ -148,8 +146,6 @@ Přestože meziročn&iacute; inflace k srpnu roku **2022** klesla, průměrné s
 &nbsp;
 
 ![](/uploads/mesicni-inflace-cr-2022.png){: width="679" height="457"}
-
-&nbsp;
 
 &nbsp;
 
@@ -171,8 +167,6 @@ Bohužel však mnoh&aacute; média maj&iacute; st&aacute;le obrovsk&yacute; prob
 
 &nbsp;
 
-&nbsp;
-
 *Obr. 9: Průvodce spr&aacute;vn&yacute;m popisov&aacute;n&iacute;m meziročn&iacute; inflace. Zdroj:*[*Twitter*](https://twitter.com/petr_barton/status/1569243410942271488?s=20&amp;t=jn4OpMne_OcCXLnGJe69Eg)
 
 &nbsp;
@@ -182,10 +176,6 @@ Bohužel však mnoh&aacute; média maj&iacute; st&aacute;le obrovsk&yacute; prob
 &nbsp;
 
 ![](/uploads/mezimesicni-inflace-popis.jpeg){: .small-centered-image width="1108" height="713"}
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -208,8 +198,6 @@ Trh je kouzelné m&iacute;sto koordinuj&iacute;c&iacute; ekonomickou aktivitu je
 &nbsp;
 
 ![](/uploads/rovnovaha.jpeg){: .small-centered-image width="1246" height="1029"}
-
-&nbsp;
 
 &nbsp;
 
