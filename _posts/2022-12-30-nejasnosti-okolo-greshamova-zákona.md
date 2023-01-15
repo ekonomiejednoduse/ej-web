@@ -28,62 +28,40 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-&Uacute;čelem tohoto kr&aacute;tkého čl&aacute;nku je pouk&aacute;zat na někter&aacute; z&aacute;sadn&iacute; zmaten&iacute;, kter&aacute; panuj&iacute; kolem tzv. **Greshamova z&aacute;kona** a objasnit je.
+Účelem tohoto krátkého článku je poukázat na některá zásadní zmatení, která panují kolem tzv. **Greshamova zákona** a objasnit je.
 
-&nbsp;
+Základní definice onoho konceptu zní následovně: „*Na trhu vytlačují špatné peníze ty dobré z oběhu.*“ Tato velmi zjednodušená formulace však bohužel svádí mnohé skvělé ekonomy na scestí. Tak třeba *W. S. Jevons* tvrdí, že zatímco u všech ostatních statků lidé ve vlastním zájmu preferují lepší alternativy před těmi horšími, u peněz je tomu, paradoxně, naopak – člověk si dobrovolně volí horší variantu a zavrhuje ty lepší. Ona, jak se záhy dozvíme, chybná interpretace této teorie způsobuje, že ti, kdo ji zastávají a následují, skoro až bezhlavě zavrhují myšlenku soukromými subjekty emitovaných vzájemně si konkurujících měn jako takovou, a naopak neochvějně a bez jakékoli pochybnosti obhajují nezbytnost výsadní pozice centrální banky coby měnové autority s monopolním postavením v kontrole peněžního oběhu.
 
-Z&aacute;kladn&iacute; definice onoho konceptu zn&iacute; n&aacute;sledovně: „*Na trhu vytlačuj&iacute; špatné pen&iacute;ze ty dobré z oběhu.*“ Tato velmi zjednodušen&aacute; formulace však bohužel sv&aacute;d&iacute; mnohé skvělé ekonomy na scest&iacute;. Tak třeba *W. S. Jevons* tvrd&iacute;, že zat&iacute;mco u všech ostatn&iacute;ch statků lidé ve vlastn&iacute;m z&aacute;jmu preferuj&iacute; lepš&iacute; alternativy před těmi horš&iacute;mi, u peněz je tomu, paradoxně, naopak – člověk si dobrovolně vol&iacute; horš&iacute; variantu a zavrhuje ty lepš&iacute;. Ona, jak se z&aacute;hy dozv&iacute;me, chybn&aacute; interpretace této teorie způsobuje, že ti, kdo ji zast&aacute;vaj&iacute; a n&aacute;sleduj&iacute;, skoro až bezhlavě zavrhuj&iacute; myšlenku soukrom&yacute;mi subjekty emitovan&yacute;ch vz&aacute;jemně si konkuruj&iacute;c&iacute;ch měn jako takovou, a naopak neochvějně a bez jakékoli pochybnosti obhajuj&iacute; nezbytnost v&yacute;sadn&iacute; pozice centr&aacute;ln&iacute; banky coby měnové autority s monopoln&iacute;m postaven&iacute;m v kontrole peněžn&iacute;ho oběhu.
+> Působí-li souběžně více peněz, jednající aktéři na trhu svým konáním určují jejich vzájemný kurz.
 
-&nbsp;
+Správnější znění Greshamova zákona by mělo mít následující podobu: *Stanovuje-li vláda mezi dvěma kovy či obecně platidly fixní směnný poměr, jež neodpovídá neustálým fluktuacím v jejich tržních cenách, dojde k silné tendenci, kdy uměle nadhodnocené peníze vytlačí z oběhu ty podhodnocené*. Ač to nemusí být patrné, jde o rozdíl vskutku markantní. Jelikož při onom prvním znění se z favorizování obecně horších peněz viní iracionálně jednající jednotlivci, u druhé definice spočívá problém v cenové regulaci, tedy jevu tržním strukturám na míle vzdáleném.
 
-> Působ&iacute;-li souběžně v&iacute;ce peněz, jednaj&iacute;c&iacute; aktéři na trhu sv&yacute;m kon&aacute;n&iacute;m určuj&iacute; jejich vz&aacute;jemn&yacute; kurz.
+> Nejedná se o nic jiného než formu cenové regulace.
 
-&nbsp;
+Působí-li souběžně vícero prostředků směny (peněz), jednající aktéři na trhu svým konáním určují jejich vzájemný kurz. Ten je, stejně jako každá jiná cena, určen průsečíkem křivek nabídky a poptávky. Plovoucí směnný kurz těchto měn zajišťuje, že jejich relativní cena může soustavně nalézat svůj neustále se měnící rovnovážný stav a přibližovat se k němu. Když lidé začnou upřednostňovat jedny peníze před těmi druhými, jediné, co se v praxi nevyhnutelně stane, (není-li tomu nějak bráněno) je, že se obmění směnný poměr mezi těmito dvěma měnami. Žádný větší problém změna v preferencích lidí či v relativní vzácnosti dané komodity nepředstavuje, trh se pouze přizpůsobuje těmto nepřetržitým změnám.
 
-Spr&aacute;vnějš&iacute; zněn&iacute; Greshamova z&aacute;kona by mělo m&iacute;t n&aacute;sleduj&iacute;c&iacute; podobu: *Stanovuje-li vl&aacute;da mezi dvěma kovy či obecně platidly fixn&iacute; směnn&yacute; poměr, jež neodpov&iacute;d&aacute; neust&aacute;l&yacute;m fluktuac&iacute;m v jejich tržn&iacute;ch cen&aacute;ch, dojde k silné tendenci, kdy uměle nadhodnocené pen&iacute;ze vytlač&iacute; z oběhu ty podhodnocené*. Ač to nemus&iacute; b&yacute;t patrné, jde o rozd&iacute;l vskutku markantn&iacute;. Jelikož při onom prvn&iacute;m zněn&iacute; se z favorizov&aacute;n&iacute; obecně horš&iacute;ch peněz vin&iacute; iracion&aacute;lně jednaj&iacute;c&iacute; jednotlivci, u druhé definice spoč&iacute;v&aacute; problém v cenové regulaci, tedy jevu tržn&iacute;m struktur&aacute;m na m&iacute;le vzd&aacute;leném.
+Ovšem co když do hry vstoupí stát jako jediná instituce, jež utváří a vymáhá pravidla, která by nevznikla spontánními procesy, a arbitrárně určí vzájemný kurz mezi dvěma měnami? Musíme si nejprve uvědomit, že se nejedná o nic jiného než formu cenové regulace. Stát totiž stanovuje maximální cenu peněz vyjádřenou v penězích druhých. Tento případ, ač je svojí povahou dosti specifický, se nijak neliší od cenového stropu, kdy maximální prodejní cena určitého statku neodpovídající jeho vyšší tržní úrovni způsobuje převis poptávaného množství nad tím nabízeným, tj. **nedostatek**.
 
-&nbsp;
+> Jedině za přítomnosti této vládní intervence lze hovořit o tom, že *špatné peníze vytlačují ty lepší z oběhu.*
 
-> Nejedn&aacute; se o nic jiného než formu cenové regulace.
+Uveďme si pro snazší pochopení a nižší míru abstrakce prostý příklad. Povězme, že je legislativou definován cenový poměr mezi zlatými a stříbrnými mincemi. Jeden zlatý dukát má „hodnotu“ tuctu stříbrných. Tržní kurz však činí 14 stříbrných mincí za jednu zlatou, tudíž bylo monetární zlato uměle podhodnoceno, respektive stříbro nadhodnoceno. Jaké budou praktické důsledky? Zcela logické je z pohledu běžného uživatele peněz utrácet přeceněné stříbrné dukáty a tezaurovat ty podceněné zlaté (velmi zjednodušeně řečeno, proč by člověk nevyužil jedinečné možnosti, kdy může platit něčím, co má ve skutečnosti mnohem menší hodnotu; a naopak proč by, u všech všudy, používal jako prostředek směny něco, co má mít správně hodnotu vyšší?). Pokud vláda nezohlední tuto přirozenou tendenci lidí a náležitě nezmění směnný poměr mezi mincemi, stříbro bude postupně nahrazovat zlato a vytlačovat jednotlivé mince z tohoto kovu z peněžního oběhu. Zlato budou lidé hromadit, potažmo jej používat k obchodu v zahraničí, kdežto ze stříbra se brzy stanou jediné hojně používané peníze.
 
-&nbsp;
+> Když hodnotíme různé systémy či metody, musíme srovnávat i motivace, které v nich mohou být odlišně nastavené.
 
-Působ&iacute;-li souběžně v&iacute;cero prostředků směny (peněz), jednaj&iacute;c&iacute; aktéři na trhu sv&yacute;m kon&aacute;n&iacute;m určuj&iacute; jejich vz&aacute;jemn&yacute; kurz. Ten je, stejně jako každ&aacute; jin&aacute; cena, určen průseč&iacute;kem křivek nab&iacute;dky a popt&aacute;vky. Plovouc&iacute; směnn&yacute; kurz těchto měn zajišťuje, že jejich relativn&iacute; cena může soustavně nalézat svůj neust&aacute;le se měn&iacute;c&iacute; rovnov&aacute;žn&yacute; stav a přibližovat se k němu. Když lidé začnou upřednostňovat jedny pen&iacute;ze před těmi druh&yacute;mi, jediné, co se v praxi nevyhnutelně stane, (nen&iacute;-li tomu nějak br&aacute;něno) je, že se obměn&iacute; směnn&yacute; poměr mezi těmito dvěma měnami. Ž&aacute;dn&yacute; větš&iacute; problém změna v preferenc&iacute;ch lid&iacute; či v relativn&iacute; vz&aacute;cnosti dané komodity nepředstavuje, trh se pouze přizpůsobuje těmto nepřetržit&yacute;m změn&aacute;m.
+Jedině za přítomnosti této vládní intervence lze hovořit o tom, že *špatné peníze vytlačují ty lepší z oběhu*. Na druhou stranu, v čistě tržním prostředí by byla podřadná kvalita jedněch peněz oceněna nižším kurzem a je velmi obtížné najít rozumný důvod, proč by měly horší (jakkoli si onu kvalitu uspokojování potřeb spotřebitelů definujeme) peníze obstát v nemilosrdné konkurenční soutěži, natož v ní úplně zvítězit. Kdo by na trhu za své služby (dobré skutky) dobrovolně přijímal peníze, jež jsou nevhodné anebo dokonce bezcenné, když by dotyčnému stát negarantoval možnost splácení dluhů v nich denominovaných a nedonutil-li by věřitele tuto platbu akceptovat, a to ještě při jejich neúměrně vysoké relativní ceně?
 
-&nbsp;
+Inu, když hodnotíme různé systémy či metody, musíme srovnávat i motivace, které v nich mohou být odlišně nastavené. Zatímco arbitrární stanovení fixního kurzu přímo podněcuje a vybízí k tomu používat peníze s obecně horšími vlastnostmi, na trhu bychom podobnou náklonnost jen stěží shledali. Dávejme si proto pozor na to, zda je určitá nedokonalost nespornou vlastností a neodmyslitelnou součástí tržního prostředí, anebo je výhradně způsobena vládním zásahem do něj, ať už zrovna zaujímá jakoukoli podobu.
 
-Ovšem co když do hry vstoup&iacute; st&aacute;t jako jedin&aacute; instituce, jež utv&aacute;ř&iacute; a vym&aacute;h&aacute; pravidla, kter&aacute; by nevznikla spont&aacute;nn&iacute;mi procesy, a arbitr&aacute;rně urč&iacute; vz&aacute;jemn&yacute; kurz mezi dvěma měnami? Mus&iacute;me si nejprve uvědomit, že se nejedn&aacute; o nic jiného než formu cenové regulace. St&aacute;t totiž stanovuje maxim&aacute;ln&iacute; cenu peněz vyj&aacute;dřenou v peněz&iacute;ch druh&yacute;ch. Tento př&iacute;pad, ač je svoj&iacute; povahou dosti specifick&yacute;, se nijak neliš&iacute; od cenového stropu, kdy maxim&aacute;ln&iacute; prodejn&iacute; cena určitého statku neodpov&iacute;daj&iacute;c&iacute; jeho vyšš&iacute; tržn&iacute; &uacute;rovni způsobuje převis popt&aacute;vaného množstv&iacute; nad t&iacute;m nab&iacute;zen&yacute;m, tj. **nedostatek**.
-
-&nbsp;
-
-> Jedině za př&iacute;tomnosti této vl&aacute;dn&iacute; intervence lze hovořit o tom, že *špatné pen&iacute;ze vytlačuj&iacute; ty lepš&iacute; z oběhu.*
-
-&nbsp;
-
-Uveďme si pro snazš&iacute; pochopen&iacute; a nižš&iacute; m&iacute;ru abstrakce prost&yacute; př&iacute;klad. Povězme, že je legislativou definov&aacute;n cenov&yacute; poměr mezi zlat&yacute;mi a stř&iacute;brn&yacute;mi mincemi. Jeden zlat&yacute; duk&aacute;t m&aacute; „hodnotu“ tuctu stř&iacute;brn&yacute;ch. Tržn&iacute; kurz však čin&iacute; 14 stř&iacute;brn&yacute;ch minc&iacute; za jednu zlatou, tud&iacute;ž bylo monet&aacute;rn&iacute; zlato uměle podhodnoceno, respektive stř&iacute;bro nadhodnoceno. Jaké budou praktické důsledky? Zcela logické je z pohledu běžného uživatele peněz utr&aacute;cet přeceněné stř&iacute;brné duk&aacute;ty a tezaurovat ty podceněné zlaté (velmi zjednodušeně řečeno, proč by člověk nevyužil jedinečné možnosti, kdy může platit něč&iacute;m, co m&aacute; ve skutečnosti mnohem menš&iacute; hodnotu; a naopak proč by, u všech všudy, použ&iacute;val jako prostředek směny něco, co m&aacute; m&iacute;t spr&aacute;vně hodnotu vyšš&iacute;?). Pokud vl&aacute;da nezohledn&iacute; tuto přirozenou tendenci lid&iacute; a n&aacute;ležitě nezměn&iacute; směnn&yacute; poměr mezi mincemi, stř&iacute;bro bude postupně nahrazovat zlato a vytlačovat jednotlivé mince z tohoto kovu z peněžn&iacute;ho oběhu. Zlato budou lidé hromadit, potažmo jej použ&iacute;vat k obchodu v zahranič&iacute;, kdežto ze stř&iacute;bra se brzy stanou jediné hojně použ&iacute;vané pen&iacute;ze.
-
-&nbsp;
-
-> Když hodnot&iacute;me různé systémy či metody, mus&iacute;me srovn&aacute;vat i motivace, které v nich mohou b&yacute;t odlišně nastavené.
-
-&nbsp;
-
-Jedině za př&iacute;tomnosti této vl&aacute;dn&iacute; intervence lze hovořit o tom, že *špatné pen&iacute;ze vytlačuj&iacute; ty lepš&iacute; z oběhu*. Na druhou stranu, v čistě tržn&iacute;m prostřed&iacute; by byla podřadn&aacute; kvalita jedněch peněz oceněna nižš&iacute;m kurzem a je velmi obt&iacute;žné naj&iacute;t rozumn&yacute; důvod, proč by měly horš&iacute; (jakkoli si onu kvalitu uspokojov&aacute;n&iacute; potřeb spotřebitelů definujeme) pen&iacute;ze obst&aacute;t v nemilosrdné konkurenčn&iacute; soutěži, natož v n&iacute; &uacute;plně zv&iacute;tězit. Kdo by na trhu za své služby (dobré skutky) dobrovolně přij&iacute;mal pen&iacute;ze, jež jsou nevhodné anebo dokonce bezcenné, když by dotyčnému st&aacute;t negarantoval možnost spl&aacute;cen&iacute; dluhů v nich denominovan&yacute;ch a nedonutil-li by věřitele tuto platbu akceptovat, a to ještě při jejich ne&uacute;měrně vysoké relativn&iacute; ceně?
-
-&nbsp;
-
-Inu, když hodnot&iacute;me různé systémy či metody, mus&iacute;me srovn&aacute;vat i motivace, které v nich mohou b&yacute;t odlišně nastavené. Zat&iacute;mco arbitr&aacute;rn&iacute; stanoven&iacute; fixn&iacute;ho kurzu př&iacute;mo podněcuje a vyb&iacute;z&iacute; k tomu použ&iacute;vat pen&iacute;ze s obecně horš&iacute;mi vlastnostmi, na trhu bychom podobnou n&aacute;klonnost jen stěž&iacute; shledali. D&aacute;vejme si proto pozor na to, zda je určit&aacute; nedokonalost nespornou vlastnost&iacute; a neodmyslitelnou souč&aacute;st&iacute; tržn&iacute;ho prostřed&iacute;, anebo je v&yacute;hradně způsobena vl&aacute;dn&iacute;m z&aacute;sahem do něj, ať už zrovna zauj&iacute;m&aacute; jakoukoli podobu.
-
-> &nbsp;
+>
 
 **Použité zdroje:**
 
-Rothbard, Murray Newton: *Ekonomie st&aacute;tn&iacute;ch z&aacute;sahů*. Vydal *Liber&aacute;ln&iacute; Institut* v Praze roku 2005
+Rothbard, Murray Newton: *Ekonomie státních zásahů*. Vydal *Liberální Institut* v Praze roku 2005
 
-Rothbard, Murray Newton: *Pen&iacute;ze v rukou st&aacute;tu*. Vydal *Fish&Rabbit* v Plzni roku 2021
+Rothbard, Murray Newton: *Peníze v rukou státu*. Vydal *Fish&Rabbit* v Plzni roku 2021
 
-Hayek, Friedrich August von: *Soukromé pen&iacute;ze: Potřebujeme centr&aacute;ln&iacute; banku?* Vydal *Liber&aacute;ln&iacute;* Institut v Praze roku 1999
+Hayek, Friedrich August von: *Soukromé peníze: Potřebujeme centrální banku?* Vydal *Liberální* Institut v Praze roku 1999
 
-Jevons, William Stanley: *Money and the mechanism of Exchange*. Vydal *Kegan Paul* v Lond&yacute;ně roku 1875
+Jevons, William Stanley: *Money and the mechanism of Exchange*. Vydal *Kegan Paul* v Londýně roku 1875
 
-# &nbsp;
+#
