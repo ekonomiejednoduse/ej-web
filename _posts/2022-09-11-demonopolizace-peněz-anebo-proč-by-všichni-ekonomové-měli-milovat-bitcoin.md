@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demonopolizace peněz – anebo proč by všichni ekonomové měli milovat bitcoin
+title: Demonopolizace peněz – aneb proč by všichni ekonomové měli milovat bitcoin
 date: 2022-09-11 00:00:00
 description: >-
   Bitcoin není jen další investiční instrument. Je to pokus o vytvoření nového,
