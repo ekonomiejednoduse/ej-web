@@ -28,7 +28,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Tento text shrnuje ty nejdůležitějš&iacute; ud&aacute;losti ze světa ekonomiky a fisk&aacute;ln&iacute; a měnové politiky za měs&iacute;c **z&aacute;ř&iacute;**roku **2022**.
+Tento text shrnuje ty nejdůležitějš&iacute; ud&aacute;losti ze světa ekonomiky a fisk&aacute;ln&iacute; a měnové politiky za měs&iacute;c **z&aacute;ř&iacute;&nbsp;**roku **2022**.
 
 &nbsp;
 
@@ -129,13 +129,25 @@ Inflace již třet&iacute; měs&iacute;c v řadě klesla (ze [srpnového vyd&aac
 
 &nbsp;
 
+![](/uploads/inflace-cr.png){: .small-centered-image width="1920" height="1080"}
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 *Obr. 7: Srpnov&aacute; meziměs&iacute;čn&iacute; a meziročn&iacute; inflace v ČR (03–08/2022). Zdroj: Vlastn&iacute; zpracov&aacute;n&iacute;*
 
 &nbsp;
 
-Přestože meziročn&iacute; inflace k srpnu roku **2022** klesla, průměrné spotřebitelské ceny nad&aacute;le rostou. Jak je to možné? Meziročn&iacute; inflace (vyj&aacute;dřen&aacute; př&iacute;růstkem indexu spotřebitelsk&yacute;ch cen ke stejnému měs&iacute;ci předchoz&iacute;ho roku) totiž vyjadřuje procentn&iacute; změnu průměrné cenové hladiny za posledn&iacute;ch **12** měs&iacute;ců proti průměru **12** předchoz&iacute;ch měs&iacute;ců. V srpnu roku **2022** vzrostly běžné spotřebitelské ceny tempem **0,4 %**, což je méně než minul&yacute; měs&iacute;c (**1,3 %**), ale i (a to je moc **důležité**\!) méně než v srpnu roku **2021** (**0,7 %**). Když se tedy uděl&aacute; průměr př&iacute;růstků indexu spotřebitelsk&yacute;ch cen jednotliv&yacute;ch **12** měs&iacute;ců, je patrné, že jakmile byla loňsk&aacute; srpnov&aacute; inflace o **0,3 %** vyšš&iacute; než ta letošn&iacute; (respektive letošn&iacute; nižš&iacute; než ta loňsk&aacute;), dojde i k poklesu srpnové **12M** inflace (z **17,5 %** na **17,2 %**), neboť měs&iacute;c s nižš&iacute; inflac&iacute; vytlačil z 12měs&iacute;čn&iacute; statistiky měs&iacute;c s inflac&iacute; vyšš&iacute;.**18 **
+Přestože meziročn&iacute; inflace k srpnu roku **2022** klesla, průměrné spotřebitelské ceny nad&aacute;le rostou. Jak je to možné? Meziročn&iacute; inflace (vyj&aacute;dřen&aacute; př&iacute;růstkem indexu spotřebitelsk&yacute;ch cen ke stejnému měs&iacute;ci předchoz&iacute;ho roku) totiž vyjadřuje procentn&iacute; změnu průměrné cenové hladiny za posledn&iacute;ch **12** měs&iacute;ců proti průměru **12** předchoz&iacute;ch měs&iacute;ců. V srpnu roku **2022** vzrostly běžné spotřebitelské ceny tempem **0,4 %**, což je méně než minul&yacute; měs&iacute;c (**1,3 %**), ale i (a to je moc **důležité**\!) méně než v srpnu roku **2021** (**0,7 %**). Když se tedy uděl&aacute; průměr př&iacute;růstků indexu spotřebitelsk&yacute;ch cen jednotliv&yacute;ch **12** měs&iacute;ců, je patrné, že jakmile byla loňsk&aacute; srpnov&aacute; inflace o **0,3 %** vyšš&iacute; než ta letošn&iacute; (respektive letošn&iacute; nižš&iacute; než ta loňsk&aacute;), dojde i k poklesu srpnové **12M** inflace (z **17,5 %** na **17,2 %**), neboť měs&iacute;c s nižš&iacute; inflac&iacute; vytlačil z 12měs&iacute;čn&iacute; statistiky měs&iacute;c s inflac&iacute; vyšš&iacute;.(**18)**
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/mesicni-inflace-cr-2022.png){: width="679" height="457"}
 
 &nbsp;
 
@@ -147,7 +159,7 @@ Přestože meziročn&iacute; inflace k srpnu roku **2022** klesla, průměrné s
 
 &nbsp;
 
-Bohužel však mnoh&aacute; média maj&iacute; st&aacute;le obrovsk&yacute; problém s interpretac&iacute; této zpr&aacute;vy a kupodivu chybu v n&iacute; udělalo i Ministerstvo financ&iacute; ČR.**19** Inflace nezpomalila, n&yacute;brž klesla. Zpomalen&iacute; znamen&aacute; nižš&iacute; tempo **růstu**. Ovšem inflace v srpnu poklesla, nikoli vzrostla pozvolnějš&iacute;m tempem. Ačkoli se to na prvn&iacute; pohled někter&yacute;m čten&aacute;řům nemus&iacute; zd&aacute;t, rozd&iacute;l mezi *poklesem tempa růstu* (zpomalen&iacute;m) inflace a skutečn&yacute;m *sn&iacute;žen&iacute;m inflace* je vskutku z&aacute;sadn&iacute; a nejedn&aacute; se o zbytečné „slov&iacute;čkařen&iacute;“. Pro lepš&iacute; pochopen&iacute; tohoto rozd&iacute;lu jsem si zde dovolil přidat dvě prosté ilustrace:
+Bohužel však mnoh&aacute; média maj&iacute; st&aacute;le obrovsk&yacute; problém s interpretac&iacute; této zpr&aacute;vy a kupodivu chybu v n&iacute; udělalo i Ministerstvo financ&iacute; ČR.(**19)&nbsp;**Inflace nezpomalila, n&yacute;brž klesla. Zpomalen&iacute; znamen&aacute; nižš&iacute; tempo **růstu**. Ovšem inflace v srpnu poklesla, nikoli vzrostla pozvolnějš&iacute;m tempem. Ačkoli se to na prvn&iacute; pohled někter&yacute;m čten&aacute;řům nemus&iacute; zd&aacute;t, rozd&iacute;l mezi *poklesem tempa růstu* (zpomalen&iacute;m) inflace a skutečn&yacute;m *sn&iacute;žen&iacute;m inflace* je vskutku z&aacute;sadn&iacute; a nejedn&aacute; se o zbytečné „slov&iacute;čkařen&iacute;“. Pro lepš&iacute; pochopen&iacute; tohoto rozd&iacute;lu jsem si zde dovolil přidat dvě prosté ilustrace:
 
 &nbsp;
 
@@ -315,23 +327,23 @@ Abych zde pouze nekritizoval, uvedu i jedno možné pozitivum, které by mohl ce
 
 &nbsp;
 
-<u><strong>9 </strong></u>[https://ekonomie-jednoduse.com/posts/2022/windfall-tax](https://ekonomie-jednoduse.com/posts/2022/windfall-tax){: target="_blank" rel="noopener"}
+**9**[https://ekonomie-jednoduse.com/posts/2022/windfall-tax](https://ekonomie-jednoduse.com/posts/2022/windfall-tax){: target="_blank" rel="noopener"}
 
 &nbsp;
 
-<u><strong>10 </strong></u>[https://www.cnb.cz/cs/financni-stabilita/publikace-o-financni-stabilite/Zprava-o-financni-stabilite-jaro-2022-00002/](https://www.cnb.cz/cs/financni-stabilita/publikace-o-financni-stabilite/Zprava-o-financni-stabilite-jaro-2022-00002/){: target="_blank" rel="noopener"}
+**10**<u><strong> </strong></u>[https://www.cnb.cz/cs/financni-stabilita/publikace-o-financni-stabilite/Zprava-o-financni-stabilite-jaro-2022-00002/](https://www.cnb.cz/cs/financni-stabilita/publikace-o-financni-stabilite/Zprava-o-financni-stabilite-jaro-2022-00002/){: target="_blank" rel="noopener"}
 
 &nbsp;
 
-<u><strong>11</strong></u> [https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi\_2022.pdf](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf){: target="_blank" rel="noopener"}
+**11** [https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi\_2022.pdf](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf){: target="_blank" rel="noopener"}
 
 &nbsp;
 
-<u><strong>12 </strong></u>[https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi\_2022.pdf](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf){: target="_blank" rel="noopener"}
+**12**[https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi\_2022.pdf](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf){: target="_blank" rel="noopener"}
 
 &nbsp;
 
-<u><strong>13 </strong></u>Projekce NRR z roku 2021 n&aacute;m ukazovala, že bychom tuto hranici měli prolomit již v roce 2024, tud&iacute;ž je zde alespoň m&iacute;rné zlepšen&iacute;, za které může prim&aacute;rně lepš&iacute; než oček&aacute;vané hospodařen&iacute; české ekonomiky v roce 2021 a tlumen&iacute; n&aacute;růstu dluhu k HDP vlivem inflac&iacute; zvyšuj&iacute;c&iacute;ho nomin&aacute;ln&iacute;ho HDP. V&iacute;ce viz skvěl&aacute; tiskov&aacute; konference s předsedou a členem N&aacute;rodn&iacute; rozpočtové rady Mojm&iacute;rem Hamplem a Janem Pavlem: [https://www.youtube.com/watch?v=U7L-yN05FAM](https://www.youtube.com/watch?v=U7L-yN05FAM){: target="_blank" rel="noopener"}
+**13** Projekce NRR z roku 2021 n&aacute;m ukazovala, že bychom tuto hranici měli prolomit již v roce 2024, tud&iacute;ž je zde alespoň m&iacute;rné zlepšen&iacute;, za které může prim&aacute;rně lepš&iacute; než oček&aacute;vané hospodařen&iacute; české ekonomiky v roce 2021 a tlumen&iacute; n&aacute;růstu dluhu k HDP vlivem inflac&iacute; zvyšuj&iacute;c&iacute;ho nomin&aacute;ln&iacute;ho HDP. V&iacute;ce viz skvěl&aacute; tiskov&aacute; konference s předsedou a členem N&aacute;rodn&iacute; rozpočtové rady Mojm&iacute;rem Hamplem a Janem Pavlem: [https://www.youtube.com/watch?v=U7L-yN05FAM](https://www.youtube.com/watch?v=U7L-yN05FAM){: target="_blank" rel="noopener"}
 
 &nbsp;
 
@@ -339,19 +351,19 @@ Abych zde pouze nekritizoval, uvedu i jedno možné pozitivum, které by mohl ce
 
 &nbsp;
 
-<u><strong>15 </strong></u>[https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi\_2022.pdf](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf){: target="_blank" rel="noopener"}
+**15**<u><strong> </strong></u>[https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi\_2022.pdf](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf){: target="_blank" rel="noopener"}
 
 &nbsp;
 
-<u><strong>16 </strong></u>[https://twitter.com/petr\_barton/status/1569224096939999233?s=20&t=1-oIjRl41s48aYBnOKZvhA](https://twitter.com/petr_barton/status/1569224096939999233?s=20&amp;t=1-oIjRl41s48aYBnOKZvhA){: target="_blank" rel="noopener"}
+**16**<u><strong> </strong></u>[https://twitter.com/petr\_barton/status/1569224096939999233?s=20&t=1-oIjRl41s48aYBnOKZvhA](https://twitter.com/petr_barton/status/1569224096939999233?s=20&amp;t=1-oIjRl41s48aYBnOKZvhA){: target="_blank" rel="noopener"}
 
 &nbsp;
 
-<u><strong>17</strong></u> [https://www.czso.cz/csu/czso/inflace\_spotrebitelske\_ceny](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny){: target="_blank" rel="noopener"}
+**17** [https://www.czso.cz/csu/czso/inflace\_spotrebitelske\_ceny](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny){: target="_blank" rel="noopener"}
 
 &nbsp;
 
-<u><strong>18</strong></u> [https://twitter.com/petr\_barton/status/1569221814911471617?s=20&t=1-oIjRl41s48aYBnOKZvhA](https://twitter.com/petr_barton/status/1569221814911471617?s=20&amp;t=1-oIjRl41s48aYBnOKZvhA){: target="_blank" rel="noopener"}
+**18** [https://twitter.com/petr\_barton/status/1569221814911471617?s=20&t=1-oIjRl41s48aYBnOKZvhA](https://twitter.com/petr_barton/status/1569221814911471617?s=20&amp;t=1-oIjRl41s48aYBnOKZvhA){: target="_blank" rel="noopener"}
 
 &nbsp;
 
@@ -407,4 +419,4 @@ Abych zde pouze nekritizoval, uvedu i jedno možné pozitivum, které by mohl ce
 
 &nbsp;
 
-<u><strong>32</strong></u> [https://youtu.be/XN407I1zCCc?t=1587](https://youtu.be/XN407I1zCCc?t=1587){: target="_blank" rel="noopener"}
+**32** [https://youtu.be/XN407I1zCCc?t=1587](https://youtu.be/XN407I1zCCc?t=1587){: target="_blank" rel="noopener"}
