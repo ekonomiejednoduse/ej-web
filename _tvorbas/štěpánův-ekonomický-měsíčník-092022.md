@@ -42,9 +42,15 @@ Na &uacute;plném konci srpna letošn&iacute;ho roku zveřejnil *N&aacute;rodn&i
 
 &nbsp;
 
-Česk&aacute; republika byla v roce **2021** ve vztahu k&nbsp;*HDP* nejrychleji se zadlužuj&iacute;c&iacute; zem&iacute; v celé Evropské unii (**4,2 %1**). *Schodek veřejn&yacute;ch financ&iacute;* loni (téměř **420 mld. Kč2**) dokonce překonal n&aacute;š do té doby nejhorš&iacute; v&yacute;sledek z roku **2020** (necel&yacute;ch **370 mld Kč3**), a to navzdory tomu, že *ekonomické restrikce*, spojené se snahou vl&aacute;dy o zm&iacute;rněn&iacute; devastuj&iacute;c&iacute;ch dopadů pandemie covid-19 na zdrav&iacute; sv&yacute;ch občanů**4**, nebyly zdaleka tak r&aacute;zné jako minul&yacute; rok.**5** Přestože si v *celkovém st&aacute;tn&iacute;m dluhu* ve vtahu k HDP naš&iacute; země (**42,8 %6**), vedeme téměř nejlépe z celé EU, to, co je opravdu děsivé, je *tempo zadlužov&aacute;n&iacute;* ČR (tud&iacute;ž ne bod na křivce, kter&yacute; reflektuje současn&yacute; stav, n&yacute;brž směr, kter&yacute;m se cel&aacute; křivka ub&iacute;r&aacute;).
+Česk&aacute; republika byla v roce **2021** ve vztahu k&nbsp;*HDP* nejrychleji se zadlužuj&iacute;c&iacute; zem&iacute; v celé Evropské unii (**4,2 %(1)**). *Schodek veřejn&yacute;ch financ&iacute;* loni (téměř **420 mld. Kč2**) dokonce překonal n&aacute;š do té doby nejhorš&iacute; v&yacute;sledek z roku **2020** (necel&yacute;ch **370 mld Kč(3)**), a to navzdory tomu, že *ekonomické restrikce*, spojené se snahou vl&aacute;dy o zm&iacute;rněn&iacute; devastuj&iacute;c&iacute;ch dopadů pandemie covid-19 na zdrav&iacute; sv&yacute;ch občanů(**4)**, nebyly zdaleka tak r&aacute;zné jako minul&yacute; rok.(**5)&nbsp;**Přestože si v *celkovém st&aacute;tn&iacute;m dluhu* ve vtahu k HDP naš&iacute; země (**42,8 %(6)**), vedeme téměř nejlépe z celé EU, to, co je opravdu děsivé, je *tempo zadlužov&aacute;n&iacute;* ČR (tud&iacute;ž ne bod na křivce, kter&yacute; reflektuje současn&yacute; stav, n&yacute;brž směr, kter&yacute;m se cel&aacute; křivka ub&iacute;r&aacute;).
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/zadluzeni-vuci-hdp-1.png){: .small-centered-image width="1000" height="538"}
 
 &nbsp;
 
@@ -55,6 +61,12 @@ Na &uacute;plném konci srpna letošn&iacute;ho roku zveřejnil *N&aacute;rodn&i
 *&nbsp;*
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![](/uploads/zmena-zadluzeni-verejnych-financi-cr.png){: .small-centered-image width="1200" height="675"}
 
 &nbsp;
 
@@ -72,7 +84,7 @@ Jsme na tom nejhůře v celé EU nejen ve v&yacute;ši schodku veřejn&yacute;ch
 
 &nbsp;
 
-&nbsp;
+![](/uploads/zmena-zadluzeni-vuci-celkovemu-dluhu-cr.png){: .small-centered-image width="737" height="377"}
 
 &nbsp;
 
@@ -169,7 +181,7 @@ Přestože meziročn&iacute; inflace k srpnu roku **2022** klesla, průměrné s
 
 &nbsp;
 
-![](/uploads/mesicni-inflace-cr-2022.png){: width="679" height="457"}
+![](/uploads/mesicni-inflace-cr-2022.png){: .small-centered-image width="679" height="457"}
 
 &nbsp;
 
