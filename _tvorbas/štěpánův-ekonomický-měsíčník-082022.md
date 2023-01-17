@@ -41,6 +41,8 @@ Tento z&aacute;kladn&iacute; scén&aacute;ř, kter&yacute; popisuje důvody pro 
 
 &nbsp;
 
+&nbsp;
+
 ![](/uploads/alternativni-inflacni-ocekavani.png){: .small-centered-image width="1248" height="684"}
 
 &nbsp;
@@ -67,6 +69,8 @@ Souč&aacute;st&iacute; z&aacute;kladn&iacute;ho scén&aacute;ře letn&iacute; p
 
 &nbsp;
 
+&nbsp;
+
 ![](/uploads/prognoza-cnb-kurz.jpeg){: .small-centered-image width="1006" height="622"}
 
 &nbsp;
@@ -87,6 +91,8 @@ Rychlost růstu cen spotřebn&iacute;ch statků zpomalila o **0,3 %**&nbsp;z če
 
 &nbsp;
 
+&nbsp;
+
 ![](/uploads/inflace-cr-graf.png){: .small-centered-image width="1920" height="1080"}
 
 &nbsp;
@@ -98,6 +104,8 @@ Rychlost růstu cen spotřebn&iacute;ch statků zpomalila o **0,3 %**&nbsp;z če
 &nbsp;
 
 Červencov&aacute; inflace (y/y) skončila pod odhadem trhu (**17,9 %**) i analytiků České n&aacute;rodn&iacute; banky(**14)** (**18,8 %**).(**15)&nbsp;**Inflace (tempo růstu cen) **kles&aacute;**, a dokonce se i zrychluje tempo tohoto poklesu(přesto doch&aacute;z&iacute; k růstu cen**\***). Někteř&iacute; by ale mohli nam&iacute;tat, že tempo růstu cen v meziročn&iacute;m vyj&aacute;dřen&iacute; st&aacute;le roste, což je nepochybně pravdivé tvrzen&iacute;. Ovšem v tak dynamické době plné nejistoty, v prostřed&iacute;, kde souběžně &uacute;činkuje mnoho různ&yacute;ch inflačn&iacute;ch tlaků a kde důvěra lid&iacute; v n&aacute;vrat k cenové stabilitě kles&aacute;, je mnohem relevantnějš&iacute; &uacute;daj meziměs&iacute;čn&iacute; inflace, kter&aacute; ud&aacute;v&aacute; jasn&yacute; trend té meziročn&iacute;. V časech „norm&aacute;ln&iacute;ch“, kdy se skutečn&aacute; inflace tak moc neodchyluje od inflačn&iacute;ho c&iacute;le centr&aacute;ln&iacute; banky a kde popt&aacute;vka nen&iacute; tak heterogenn&iacute; jako dnes, skutečně ned&aacute;v&aacute; moc smysl se na inflaci d&iacute;vat pohledem meziměs&iacute;čn&iacute;ch změn (v desetin&aacute;ch či dokonce setin&aacute;ch procentn&iacute;ho bodu). Dnes je ale doba jin&aacute;. K důležit&yacute;m změn&aacute;m v ekonomickém chov&aacute;n&iacute; lid&iacute; doch&aacute;z&iacute; mnohem častěji a rychleji než dř&iacute;ve. Proto je pro n&aacute;s nyn&iacute; důležitějš&iacute; &uacute;daj meziměs&iacute;čn&iacute; inflace, a ta podruhé v řadě **klesla**.To je vskutku pozitivn&iacute; zpr&aacute;va. Ovšem ještě by zdaleka nebylo spr&aacute;vné radovat se. V celkové inflaci jsme si oproti červnu vůči ostatn&iacute;m st&aacute;tům Evropské unie polepšili. Už u n&aacute;s nen&iacute; inflace nejvyšš&iacute; hned za zeměmi Pobalt&iacute; (Lotyšsko, Litva a Estonsko), n&yacute;brž se před n&aacute;s dostaly **4** nové země (přičemž v Litvě byla červencov&aacute; inflace nižš&iacute; než u n&aacute;s, tud&iacute;ž fakticky jen **3**). Ale st&aacute;le zdaleka nejsme mezi těmi nejlepš&iacute;mi.(**16)&nbsp;**A j&aacute;drov&aacute; inflace (tj. inflace očištěna o sez&oacute;nn&iacute; vlivy a změny regulovan&yacute;ch cen) je u n&aacute;s st&aacute;le jedna z těch &uacute;plně nejvyšš&iacute;ch v celé EU.
+
+&nbsp;
 
 &nbsp;
 
@@ -125,6 +133,8 @@ Dle aktu&aacute;ln&iacute; progn&oacute;zy České n&aacute;rodn&iacute; banky i
 
 &nbsp;
 
+&nbsp;
+
 ![](/uploads/sap500.jpg){: .small-centered-image width="1390" height="598"}
 
 *Obr. 5: Reakce indexu **SaP 500** na data o inflaci v USA. Zdroj: Yahoo Finance*
@@ -136,6 +146,8 @@ Dle aktu&aacute;ln&iacute; progn&oacute;zy České n&aacute;rodn&iacute; banky i
 **4\. Mzdově-cenov&aacute; spir&aacute;la v Německu**
 
 Tahoun Euroz&oacute;ny a země s největš&iacute;m HDP v Evropě, Německo, zaž&iacute;v&aacute; ekonomické problémy. Nejenže byla tato jedna z největš&iacute;ch exportn&iacute;ch ekonomik na celém světě v červu poprvé od roku **1991** v obchodn&iacute;m deficitu(**27)** (z&aacute;porn&aacute; obchodn&iacute; bilance), ale Německu hroz&iacute; také riziko vzniku mzdově-cenové spir&aacute;ly. Ceny v supermarketech zde rostou rychleji než v jin&yacute;ch zem&iacute;ch Euroz&oacute;ny. Index spotřebitelsk&yacute;ch cen (CPI) potravin v červenci meziročně vzrostl na vysok&yacute;ch **14,8 %**, což je vůbec největš&iacute; n&aacute;růst od zač&aacute;tku této statistiky.(**28)**
+
+&nbsp;
 
 &nbsp;
 
@@ -153,6 +165,8 @@ Tahoun Euroz&oacute;ny a země s největš&iacute;m HDP v Evropě, Německo, za�
 
 &nbsp;
 
+&nbsp;
+
 ![](/uploads/nemecko-ppi-cervenec.png){: .small-centered-image width="1200" height="663"}
 
 &nbsp;
@@ -164,6 +178,8 @@ Tahoun Euroz&oacute;ny a země s největš&iacute;m HDP v Evropě, Německo, za�
 &nbsp;
 
 Z&aacute;roveň ale v Německu také doch&aacute;z&iacute; k růstu nomin&aacute;ln&iacute;ch platů a mezd zaměstnanců.(**34)**
+
+&nbsp;
 
 &nbsp;
 
@@ -181,6 +197,8 @@ Rychl&yacute; růst spotřebitelsk&yacute;ch cen v této zemi v kombinaci s popt
 
 &nbsp;
 
+&nbsp;
+
 ![](/uploads/mzdove-cenova-spirala.png){: .small-centered-image width="2126" height="1320"}
 
 &nbsp;
@@ -192,6 +210,8 @@ Rychl&yacute; růst spotřebitelsk&yacute;ch cen v této zemi v kombinaci s popt
 &nbsp;
 
 Ekonomick&aacute; situace v Německu tak vzhledem k těmto skutečnostem nevypad&aacute; vůbec dobře. A zejména kvůli hroz&iacute;c&iacute; energetické krizi a vysoké pravděpodobnosti př&iacute;chodu ekonomické recese (poklesu hrubého dom&aacute;c&iacute;ho produktu po dobu minim&aacute;lně dvou po sobě jdouc&iacute;ch čtvrtlet&iacute;), začala v této zemi v&yacute;razn&yacute;m tempem růst inflačn&iacute; oček&aacute;v&aacute;n&iacute; producentů i spotřebitelů (nutno podotknout, že opr&aacute;vněně; německé ceny elektřiny a ostatn&iacute;ch energi&iacute; dosahuj&iacute; sv&yacute;ch maxim a konec jejich růstu je zat&iacute;m bohužel v nedohledu(**36)**(**37)**). **10let&aacute;** inflačn&iacute; oček&aacute;v&aacute;n&iacute;, kter&aacute; jsou odvozena z dluhopisů, v&aacute;zan&yacute;ch na inflaci, vzrostla na vysok&yacute;ch **2,48 %**.(**38)**
+
+&nbsp;
 
 &nbsp;
 
@@ -225,6 +245,8 @@ V ekonomii existuje *teorie nemožné trojice měnové unie* (**41)**(**42)**, �
 
 &nbsp;
 
+&nbsp;
+
 ![](/uploads/nemozna-trojice.png){: .small-centered-image width="1980" height="1168"}
 
 &nbsp;
@@ -244,6 +266,8 @@ Při prvn&iacute; krizi v euroz&oacute;ně došlo k zachov&aacute;n&iacute; fisk
 &nbsp;
 
 **\***Mnoho běžn&yacute;ch lid&iacute;, ale i zkušen&yacute;ch ekonomů bohužel zaměňuje term&iacute;ny, jako jsou *růst cen*, *růst inflace* a *zrychlen&iacute; růstu inflace*. Inflace je tempo růstu spotřebitelsk&yacute;ch cen, kvůli tomu se může inflace snižovat, navzdory tomu, že cenov&aacute; hladiny nad&aacute;le roste. Zrychlen&iacute; inflace pak znamen&aacute;, že doch&aacute;z&iacute; k rychlejš&iacute;mu zvyšov&aacute;n&iacute; tempa růstu cen. V červenci je situace takov&aacute;, že i kdyby nepokračoval růst měs&iacute;čn&iacute; inflace, byla by na konci roku celkov&aacute; ročn&iacute; inflace nad psychologicky důležitou &uacute;rovn&iacute; **22 %**.
+
+&nbsp;
 
 &nbsp;
 
