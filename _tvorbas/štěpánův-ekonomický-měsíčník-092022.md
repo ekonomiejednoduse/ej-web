@@ -70,8 +70,6 @@ Na &uacute;plném konci srpna letošn&iacute;ho roku zveřejnil *N&aacute;rodn&i
 
 &nbsp;
 
-&nbsp;
-
 *Obr. 2: Změna zadlužen&iacute; veřejn&yacute;ch financ&iacute; zem&iacute; EU mezi lety 2020 a 2021. Zdroj: Ministerstvo financ&iacute; ČR*
 
 &nbsp;
@@ -85,8 +83,6 @@ Jsme na tom nejhůře v celé EU nejen ve v&yacute;ši schodku veřejn&yacute;ch
 &nbsp;
 
 ![](/uploads/zmena-zadluzeni-vuci-celkovemu-dluhu-cr.png){: .small-centered-image width="737" height="377"}
-
-&nbsp;
 
 &nbsp;
 
@@ -126,18 +122,16 @@ Mezi dom&aacute;c&iacute;mi držiteli m&aacute; naprosto dominantn&iacute; pod&i
 
 &nbsp;
 
-&nbsp;
-
 *Obr. 5: Struktura držby veřejného dluhu ČR mezi rezidenty. Zdroj*[*NRR*](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf)
 
 &nbsp;
 
-Pokud by bylo do budoucna zachov&aacute;no stejné nastaven&iacute; daňov&yacute;ch a v&yacute;dajov&yacute;ch politik, jako je dnes, již v roce **2028(13)&nbsp;**by pravděpodobně došlo k prolomen&iacute; osudové hranice *dluhové brzdy* a v&nbsp;**50letém** horizontu projekce NRR by veřejn&yacute; dluh ČR vůči HDP představoval dnes těžko představiteln&yacute;ch a pro naši malou otevřenou ekonomiku naprosto devastuj&iacute;c&iacute;ch **296 %**. Dluhov&aacute; brzda je jist&aacute; pojistka, kter&aacute; je souč&aacute;st&iacute; z&aacute;kona o pravidlech rozpočtové odpovědnosti (Z&aacute;kon č. 23/2017 Sb.), jež nut&iacute; vl&aacute;du při překročen&iacute; hranice salda veřejného rozpočtu **–55 %** nomin&aacute;ln&iacute;ho HDP přikročit k tvrd&yacute;m opatřen&iacute;m s c&iacute;lem navr&aacute;cen&iacute; veřejn&yacute;ch financ&iacute; do dlouhodobě udržitelného stavu:
+Pokud by bylo do budoucna zachov&aacute;no stejné nastaven&iacute; daňov&yacute;ch a v&yacute;dajov&yacute;ch politik, jako je dnes, již v roce **2028(13)&nbsp;**by pravděpodobně došlo k prolomen&iacute; osudové hranice *dluhové brzdy* a v&nbsp;**50letém** horizontu projekce NRR by veřejn&yacute; dluh ČR vůči HDP představoval dnes těžko představiteln&yacute;ch a pro naši malou otevřenou ekonomiku naprosto devastuj&iacute;c&iacute;ch **296 %**. Dluhov&aacute; brzda je jist&aacute; pojistka, kter&aacute; je souč&aacute;st&iacute; z&aacute;kona o pravidlech rozpočtové odpovědnosti (Z&aacute;kon č. 23/2017 Sb.), jež nut&iacute; vl&aacute;du při překročen&iacute; hranice salda veřejného rozpočtu **–55 %** nomin&aacute;ln&iacute;ho HDP přikročit k tvrd&yacute;m opatřen&iacute;m s c&iacute;lem navr&aacute;cen&iacute; veřejn&yacute;ch financ&iacute; do dlouhodobě udržitelného stavu:
 
-1. Vláda České republiky schválí a předloží Poslanecké sněmovně ČR návrh a střednědobý výhled státního rozpočtu a rozpočtu státních fondů, které vedou k dlouhodobě udržitelnému stavu veřejných financí.
-2. Vláda ČR schválí a předloží návrhy vyrovnaných rozpočtů zdravotních pojišťoven.
-3. Jednotlivé územní samosprávné celky schválí svůj rozpočet na následující rok jako vyrovnaný, nebo přebytkový.
-4. Veřejné instituce, které nespadají pod předchozí body, nesmí v období, ve kterém výše dluhu dosahuje více než **55 % HDP** zřizovat nové závazky ze smluv.(**14)**
+1. Vl&aacute;da České republiky schv&aacute;l&iacute; a předlož&iacute; Poslanecké sněmovně ČR n&aacute;vrh a střednědob&yacute; v&yacute;hled st&aacute;tn&iacute;ho rozpočtu a rozpočtu st&aacute;tn&iacute;ch fondů, které vedou k dlouhodobě udržitelnému stavu veřejn&yacute;ch financ&iacute;.
+2. Vl&aacute;da ČR schv&aacute;l&iacute; a předlož&iacute; n&aacute;vrhy vyrovnan&yacute;ch rozpočtů zdravotn&iacute;ch pojišťoven.
+3. Jednotlivé &uacute;zemn&iacute; samospr&aacute;vné celky schv&aacute;l&iacute; svůj rozpočet na n&aacute;sleduj&iacute;c&iacute; rok jako vyrovnan&yacute;, nebo přebytkov&yacute;.
+4. Veřejné instituce, které nespadaj&iacute; pod předchoz&iacute; body, nesm&iacute; v obdob&iacute;, ve kterém v&yacute;še dluhu dosahuje v&iacute;ce než **55 % HDP** zřizovat nové z&aacute;vazky ze smluv.(**14)**
 
 Veřejn&yacute; dluh ČR nepřes&aacute;hne hranici dluhové brzdy na konci **50letého** horizontu projekce, pouze pokud bude struktur&aacute;ln&iacute; saldo sektoru veřejn&yacute;ch instituc&iacute; od letošn&iacute;ho roku do roku 2072 každoročně lepš&iacute; o neuvěřitelně vysok&yacute;ch **6 % HDP**.(**15)**
 
@@ -148,8 +142,6 @@ Veřejn&yacute; dluh ČR nepřes&aacute;hne hranici dluhové brzdy na konci **50
 &nbsp;
 
 ![](/uploads/dluh-sektoru-verejnych-financi.png){: .small-centered-image width="2448" height="1014"}
-
-&nbsp;
 
 &nbsp;
 
@@ -169,8 +161,6 @@ Inflace již třet&iacute; měs&iacute;c v řadě klesla (ze [srpnového vyd&aac
 
 &nbsp;
 
-&nbsp;
-
 *Obr. 7: Srpnov&aacute; meziměs&iacute;čn&iacute; a meziročn&iacute; inflace v ČR (03–08/2022). Zdroj: Vlastn&iacute; zpracov&aacute;n&iacute;*
 
 &nbsp;
@@ -182,8 +172,6 @@ Přestože meziročn&iacute; inflace k srpnu roku **2022** klesla, průměrné s
 &nbsp;
 
 ![](/uploads/mesicni-inflace-cr-2022.png){: .small-centered-image width="679" height="457"}
-
-&nbsp;
 
 &nbsp;
 
@@ -237,8 +225,6 @@ Trh je kouzelné m&iacute;sto koordinuj&iacute;c&iacute; ekonomickou aktivitu je
 
 &nbsp;
 
-&nbsp;
-
 *Obr. 11: Tržn&iacute; rovnov&aacute;ha. Zdroj:*[*Libinst*](https://libinst.cz/potrebujeme-aby-cenovy-system-fungoval-svobodne-zejmena-v-dobe-krize/)
 
 &nbsp;
@@ -257,13 +243,11 @@ Nyn&iacute; se už ale vraťme k samotnému aktu&aacute;ln&iacute;mu tématu –
 
 &nbsp;
 
-&nbsp;
-
 *Obr. 12: Převis popt&aacute;vaného množstv&iacute; nad nab&iacute;zen&yacute;m množstv&iacute;m (nedostatek) vlivem cenového stropu. Zdroj:*[*Libinst*](https://libinst.cz/potrebujeme-aby-cenovy-system-fungoval-svobodne-zejmena-v-dobe-krize/)
 
 &nbsp;
 
-Členové vl&aacute;dy si tyto negativn&iacute; důsledky cenové regulace zcela jistě uvědomuj&iacute; a snaž&iacute; se doc&iacute;lit cenového stropu energi&iacute; pro spotřebitele a z&aacute;roveň zamezit vzniku nedostatku tohoto zbož&iacute;. Netřeba si tak pod t&iacute;m představovat v&yacute;še obsažené mikroekonomické ilustrace.(**25)&nbsp;**Jenomže jak dos&aacute;hnout obou těchto z&aacute;měrů? Odpověď je až kupodivu jednoduch&aacute; – je zapotřeb&iacute; v&yacute;robcům kompenzovat ztr&aacute;tu plynouc&iacute; z rozd&iacute;lu mezi cenou determinovanou cenov&yacute;m stropem a původn&iacute; tržn&iacute; cenou, a t&iacute;m je motivovat dod&aacute;vat na trh stejné množstv&iacute; zbož&iacute; jako při tržn&iacute; ceně. Cenov&yacute; strop tak v tomto př&iacute;padě znamen&aacute; dotaci (subvenci) energetick&yacute;ch společnost&iacute;.(**26)** Ano, zrak V&aacute;s, mil&yacute; čten&aacute;ři, nijak neš&aacute;l&iacute;, st&aacute;t bude energetické firmy dotovat při současném stavu veřejn&yacute;ch financ&iacute;... Toto opatřen&iacute; by mělo pro st&aacute;tn&iacute; rozpočet znamenat až naprosto devastuj&iacute;c&iacute;ch **130 miliard Kč**.(**27)&nbsp;**Tyto mimoř&aacute;dné v&yacute;daje by měly b&yacute;t, dle slov pana ministra financ&iacute; (alespoň z č&aacute;sti), financov&aacute;ny mimoř&aacute;dn&yacute;mi př&iacute;jmy. Ty rozdělil na tři hlavn&iacute; kategorie: **1)** windfall tax na bankovn&iacute; a energetick&yacute; sektor **2)** mobilizace př&iacute;jmů a vyplacen&iacute; dividend ze všech st&aacute;tn&iacute;ch firem, kde to bude možné. **3)&nbsp;**př&iacute;jmy, které souvis&iacute; se zv&yacute;šenou cenou emisn&iacute;ch povolenek.
+Členové vl&aacute;dy si tyto negativn&iacute; důsledky cenové regulace zcela jistě uvědomuj&iacute; a snaž&iacute; se doc&iacute;lit cenového stropu energi&iacute; pro spotřebitele a z&aacute;roveň zamezit vzniku nedostatku tohoto zbož&iacute;. Netřeba si tak pod t&iacute;m představovat v&yacute;še obsažené mikroekonomické ilustrace.(**25)&nbsp;**Jenomže jak dos&aacute;hnout obou těchto z&aacute;měrů? Odpověď je až kupodivu jednoduch&aacute; – je zapotřeb&iacute; v&yacute;robcům kompenzovat ztr&aacute;tu plynouc&iacute; z rozd&iacute;lu mezi cenou determinovanou cenov&yacute;m stropem a původn&iacute; tržn&iacute; cenou, a t&iacute;m je motivovat dod&aacute;vat na trh stejné množstv&iacute; zbož&iacute; jako při tržn&iacute; ceně. Cenov&yacute; strop tak v tomto př&iacute;padě znamen&aacute; dotaci (subvenci) energetick&yacute;ch společnost&iacute;.(**26)** Ano, zrak V&aacute;s, mil&yacute; čten&aacute;ři, nijak neš&aacute;l&iacute;, st&aacute;t bude energetické firmy dotovat při současném stavu veřejn&yacute;ch financ&iacute;… Toto opatřen&iacute; by mělo pro st&aacute;tn&iacute; rozpočet znamenat až naprosto devastuj&iacute;c&iacute;ch **130 miliard Kč**.(**27)&nbsp;**Tyto mimoř&aacute;dné v&yacute;daje by měly b&yacute;t, dle slov pana ministra financ&iacute; (alespoň z č&aacute;sti), financov&aacute;ny mimoř&aacute;dn&yacute;mi př&iacute;jmy. Ty rozdělil na tři hlavn&iacute; kategorie: **1)** windfall tax na bankovn&iacute; a energetick&yacute; sektor **2)** mobilizace př&iacute;jmů a vyplacen&iacute; dividend ze všech st&aacute;tn&iacute;ch firem, kde to bude možné. **3)&nbsp;**př&iacute;jmy, které souvis&iacute; se zv&yacute;šenou cenou emisn&iacute;ch povolenek.
 
 &nbsp;
 
@@ -274,8 +258,6 @@ Pro zachov&aacute;n&iacute; jednoduchosti a kr&aacute;tkosti tohoto textu se nyn
 &nbsp;
 
 ![](/uploads/ziskovost-bank.png){: .small-centered-image width="641" height="479"}
-
-&nbsp;
 
 &nbsp;
 
@@ -290,8 +272,6 @@ Pro zaveden&iacute; windfall tax na bankovn&iacute; instituce je nezbytně nutn�
 &nbsp;
 
 ![](/uploads/zisky-bank.png){: .small-centered-image width="650" height="466"}
-
-&nbsp;
 
 &nbsp;
 
@@ -335,7 +315,7 @@ Abych zde pouze nekritizoval, uvedu i jedno možné pozitivum, které by mohl ce
 
 &nbsp;
 
-**5**[https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021:-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/](https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021:-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/){: target="_blank" rel="noopener"}
+**5**[https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021:-rekordni-schodek-statniho-rozpoctu–nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/](https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021:-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/){: target="_blank" rel="noopener"}
 
 &nbsp;
 
@@ -347,7 +327,7 @@ Abych zde pouze nekritizoval, uvedu i jedno možné pozitivum, které by mohl ce
 
 &nbsp;
 
-**8**[https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021:-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/](https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021:-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/){: target="_blank" rel="noopener"}
+**8**[https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021:-rekordni-schodek-statniho-rozpoctu–nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/](https://www.nku.cz/cz/pro-media/tiskove-zpravy/hospodareni-cr-v-roce-2021:-rekordni-schodek-statniho-rozpoctu--nejrychleji-se-zadluzujici-zeme-v-eu-a-ekonomicky-rust-jeden-z-nejnizsich-id12710/){: target="_blank" rel="noopener"}
 
 &nbsp;
 
