@@ -54,8 +54,6 @@ Na &uacute;plném konci srpna letošn&iacute;ho roku zveřejnil *N&aacute;rodn&i
 
 &nbsp;
 
-&nbsp;
-
 *Obr. 1: Celkov&yacute; dluh k HDP zem&iacute; Evropské unie za rok 2020 a 2021. Zdroj: Eurostat*
 
 *&nbsp;*
@@ -74,6 +72,8 @@ Na &uacute;plném konci srpna letošn&iacute;ho roku zveřejnil *N&aacute;rodn&i
 
 &nbsp;
 
+&nbsp;
+
 Jsme na tom nejhůře v celé EU nejen ve v&yacute;ši schodku veřejn&yacute;ch financ&iacute; k HDP, ale i v poměru minulého vl&aacute;dn&iacute;ho deficitu k celkovému veřejnému dluhu. Zde je odchylka od ostatn&iacute;ch st&aacute;tů EU dokonce ještě **vyšš&iacute;**.**7** Je ale nutno podotknout, že takto vysok&yacute; n&aacute;růst tempa zadlužov&aacute;n&iacute; je způsoben i skutečnost&iacute;, že celkov&yacute; dluh – *z&aacute;kladna* – vůči n&iacute;ž je u n&aacute;s rostouc&iacute; trend odchylky vl&aacute;dn&iacute;ch př&iacute;jmů od v&yacute;dajů nejhorš&iacute; z celé EU, je vzhledem k ostatn&iacute;m zem&iacute;m Evropské unie na velmi n&iacute;zké &uacute;rovni (tud&iacute;ž v oné děsivé m&iacute;ře zadlužov&aacute;n&iacute; hraje v&yacute;znamnou roli tzv. *efekt doh&aacute;něn&iacute;*).
 
 &nbsp;
@@ -86,7 +86,9 @@ Jsme na tom nejhůře v celé EU nejen ve v&yacute;ši schodku veřejn&yacute;ch
 
 &nbsp;
 
-*Obr. 3: Saldo veřejn&yacute;ch financ&iacute; za rok 2021 vůči celkovému naakumulovanému vl&aacute;dn&iacute;mu dluhu v jednotliv&yacute;ch zem&iacute;ch EU. Zdroj:*[*Twitter*](https://twitter.com/petr_barton/status/1517483828381687808?s=20&amp;t=Hcu9F5JcBM4VRWl5NnexDg)
+*Obr. 3: Saldo veřejn&yacute;ch financ&iacute; za rok 2021 vůči celkovému naakumulovanému vl&aacute;dn&iacute;mu dluhu v jednotliv&yacute;ch zem&iacute;ch EU. Zdroj:&nbsp;*[*Twitter*](https://twitter.com/petr_barton/status/1517483828381687808?s=20&amp;t=Hcu9F5JcBM4VRWl5NnexDg)
+
+&nbsp;
 
 &nbsp;
 
@@ -110,6 +112,8 @@ Z pohledu dlouhodobé udržitelnosti veřejn&yacute;ch financ&iacute; nen&iacute
 
 &nbsp;
 
+&nbsp;
+
 Mezi dom&aacute;c&iacute;mi držiteli m&aacute; naprosto dominantn&iacute; pod&iacute;l na držbě česk&yacute;ch st&aacute;tn&iacute;ch dluhopisů finančn&iacute; sektor (a v něm bankovn&iacute; instituce). Ony bankovn&iacute; instituce v posledn&iacute;ch letech v&yacute;razně zvyšuj&iacute; množstv&iacute; akumulovan&yacute;ch vl&aacute;dn&iacute;ch dluhopisů (drž&iacute; dluh převyšuj&iacute;c&iacute; v&yacute;ši **1 bilion Kč**, což čin&iacute; **41,8 %** celkové rezidentn&iacute; držby) a tak v mezin&aacute;rodn&iacute;m srovn&aacute;n&iacute; značně roste pod&iacute;l st&aacute;tn&iacute;ch dluhopisů na celkov&yacute;ch aktivech bank. Vzhledem k této propojenosti bankovn&iacute;ho sektoru se st&aacute;tem, by se problémy veřejn&yacute;ch financ&iacute; mohly negativně propsat i do finančn&iacute;ho systému.(**12)**
 
 &nbsp;
@@ -122,16 +126,18 @@ Mezi dom&aacute;c&iacute;mi držiteli m&aacute; naprosto dominantn&iacute; pod&i
 
 &nbsp;
 
-*Obr. 5: Struktura držby veřejného dluhu ČR mezi rezidenty. Zdroj*[*NRR*](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf)
+*Obr. 5: Struktura držby veřejného dluhu ČR mezi rezidenty. Zdroj:&nbsp;*[*NRR*](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf)
+
+&nbsp;
 
 &nbsp;
 
 Pokud by bylo do budoucna zachov&aacute;no stejné nastaven&iacute; daňov&yacute;ch a v&yacute;dajov&yacute;ch politik, jako je dnes, již v roce **2028(13)&nbsp;**by pravděpodobně došlo k prolomen&iacute; osudové hranice *dluhové brzdy* a v&nbsp;**50letém** horizontu projekce NRR by veřejn&yacute; dluh ČR vůči HDP představoval dnes těžko představiteln&yacute;ch a pro naši malou otevřenou ekonomiku naprosto devastuj&iacute;c&iacute;ch **296 %**. Dluhov&aacute; brzda je jist&aacute; pojistka, kter&aacute; je souč&aacute;st&iacute; z&aacute;kona o pravidlech rozpočtové odpovědnosti (Z&aacute;kon č. 23/2017 Sb.), jež nut&iacute; vl&aacute;du při překročen&iacute; hranice salda veřejného rozpočtu **–55 %** nomin&aacute;ln&iacute;ho HDP přikročit k tvrd&yacute;m opatřen&iacute;m s c&iacute;lem navr&aacute;cen&iacute; veřejn&yacute;ch financ&iacute; do dlouhodobě udržitelného stavu:
 
-1. Vl&aacute;da České republiky schv&aacute;l&iacute; a předlož&iacute; Poslanecké sněmovně ČR n&aacute;vrh a střednědob&yacute; v&yacute;hled st&aacute;tn&iacute;ho rozpočtu a rozpočtu st&aacute;tn&iacute;ch fondů, které vedou k dlouhodobě udržitelnému stavu veřejn&yacute;ch financ&iacute;.
-2. Vl&aacute;da ČR schv&aacute;l&iacute; a předlož&iacute; n&aacute;vrhy vyrovnan&yacute;ch rozpočtů zdravotn&iacute;ch pojišťoven.
-3. Jednotlivé &uacute;zemn&iacute; samospr&aacute;vné celky schv&aacute;l&iacute; svůj rozpočet na n&aacute;sleduj&iacute;c&iacute; rok jako vyrovnan&yacute;, nebo přebytkov&yacute;.
-4. Veřejné instituce, které nespadaj&iacute; pod předchoz&iacute; body, nesm&iacute; v obdob&iacute;, ve kterém v&yacute;še dluhu dosahuje v&iacute;ce než **55 % HDP** zřizovat nové z&aacute;vazky ze smluv.(**14)**
+1. *Vl&aacute;da České republiky schv&aacute;l&iacute; a předlož&iacute; Poslanecké sněmovně ČR n&aacute;vrh a střednědob&yacute; v&yacute;hled st&aacute;tn&iacute;ho rozpočtu a rozpočtu st&aacute;tn&iacute;ch fondů, které vedou k dlouhodobě udržitelnému stavu veřejn&yacute;ch financ&iacute;.*
+2. *Vl&aacute;da ČR schv&aacute;l&iacute; a předlož&iacute; n&aacute;vrhy vyrovnan&yacute;ch rozpočtů zdravotn&iacute;ch pojišťoven.*
+3. *Jednotlivé &uacute;zemn&iacute; samospr&aacute;vné celky schv&aacute;l&iacute; svůj rozpočet na n&aacute;sleduj&iacute;c&iacute; rok jako vyrovnan&yacute;, nebo přebytkov&yacute;.*
+4. *Veřejné instituce, které nespadaj&iacute; pod předchoz&iacute; body, nesm&iacute; v obdob&iacute;, ve kterém v&yacute;še dluhu dosahuje v&iacute;ce než **55 % HDP** zřizovat nové z&aacute;vazky ze smluv.(**14)***
 
 Veřejn&yacute; dluh ČR nepřes&aacute;hne hranici dluhové brzdy na konci **50letého** horizontu projekce, pouze pokud bude struktur&aacute;ln&iacute; saldo sektoru veřejn&yacute;ch instituc&iacute; od letošn&iacute;ho roku do roku 2072 každoročně lepš&iacute; o neuvěřitelně vysok&yacute;ch **6 % HDP**.(**15)**
 
@@ -145,7 +151,9 @@ Veřejn&yacute; dluh ČR nepřes&aacute;hne hranici dluhové brzdy na konci **50
 
 &nbsp;
 
-*Obr. 6: Překon&aacute;n&iacute; dluhové brzdy ČR. Zdroj:*[*NRR*](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf)
+*Obr. 6: Překon&aacute;n&iacute; dluhové brzdy ČR. Zdroj:&nbsp;*[*NRR*](https://unrr.cz/wp-content/uploads/2022/09/Zprava-o-dlouhodobe-udrzitelnosti-verejnych-financi_2022.pdf)
+
+&nbsp;
 
 &nbsp;
 
@@ -165,6 +173,8 @@ Inflace již třet&iacute; měs&iacute;c v řadě klesla (ze [srpnového vyd&aac
 
 &nbsp;
 
+&nbsp;
+
 Přestože meziročn&iacute; inflace k srpnu roku **2022** klesla, průměrné spotřebitelské ceny nad&aacute;le rostou. Jak je to možné? Meziročn&iacute; inflace (vyj&aacute;dřen&aacute; př&iacute;růstkem indexu spotřebitelsk&yacute;ch cen ke stejnému měs&iacute;ci předchoz&iacute;ho roku) totiž vyjadřuje procentn&iacute; změnu průměrné cenové hladiny za posledn&iacute;ch **12** měs&iacute;ců proti průměru **12** předchoz&iacute;ch měs&iacute;ců. V srpnu roku **2022** vzrostly běžné spotřebitelské ceny tempem **0,4 %**, což je méně než minul&yacute; měs&iacute;c (**1,3 %**), ale i (a to je moc **důležité**\!) méně než v srpnu roku **2021** (**0,7 %**). Když se tedy uděl&aacute; průměr př&iacute;růstků indexu spotřebitelsk&yacute;ch cen jednotliv&yacute;ch **12** měs&iacute;ců, je patrné, že jakmile byla loňsk&aacute; srpnov&aacute; inflace o **0,3 %** vyšš&iacute; než ta letošn&iacute; (respektive letošn&iacute; nižš&iacute; než ta loňsk&aacute;), dojde i k poklesu srpnové **12M** inflace (z **17,5 %** na **17,2 %**), neboť měs&iacute;c s nižš&iacute; inflac&iacute; vytlačil z 12měs&iacute;čn&iacute; statistiky měs&iacute;c s inflac&iacute; vyšš&iacute;.(**18)**
 
 &nbsp;
@@ -175,7 +185,9 @@ Přestože meziročn&iacute; inflace k srpnu roku **2022** klesla, průměrné s
 
 &nbsp;
 
-*Obr. 8: Měs&iacute;čn&iacute; inflace v ČR za rok 2022 (o kolik % vzrostly ceny v jednotliv&yacute;ch měs&iacute;c&iacute;ch). Zdroj:*[*Twitter*](https://twitter.com/petr_barton/status/1569389315456700419?s=20&amp;t=jn4OpMne_OcCXLnGJe69Eg)
+*Obr. 8: Měs&iacute;čn&iacute; inflace v ČR za rok 2022 (o kolik % vzrostly ceny v jednotliv&yacute;ch měs&iacute;c&iacute;ch). Zdroj:&nbsp;*[*Twitter*](https://twitter.com/petr_barton/status/1569389315456700419?s=20&amp;t=jn4OpMne_OcCXLnGJe69Eg)
+
+&nbsp;
 
 &nbsp;
 
@@ -186,8 +198,6 @@ Bohužel však mnoh&aacute; média maj&iacute; st&aacute;le obrovsk&yacute; prob
 &nbsp;
 
 ![](/uploads/pruvodce-inflaci.jpeg){: .small-centered-image width="1055" height="678"}
-
-&nbsp;
 
 &nbsp;
 
@@ -203,13 +213,15 @@ Bohužel však mnoh&aacute; média maj&iacute; st&aacute;le obrovsk&yacute; prob
 
 &nbsp;
 
-*Obr. 10: Průvodce spr&aacute;vn&yacute;m popisov&aacute;n&iacute;m meziměs&iacute;čn&iacute; inflace. Zdroj:*[*Twitter*](https://twitter.com/petr_barton/status/1569942884996063233?s=20&amp;t=BMWrE7FsUmxb3kLjy9CsIw)
+*Obr. 10: Průvodce spr&aacute;vn&yacute;m popisov&aacute;n&iacute;m meziměs&iacute;čn&iacute; inflace. Zdroj:&nbsp;*[*Twitter*](https://twitter.com/petr_barton/status/1569942884996063233?s=20&amp;t=BMWrE7FsUmxb3kLjy9CsIw)
+
+&nbsp;
 
 &nbsp;
 
 **3\. Cenov&yacute; strop energi&iacute;**
 
-Vl&aacute;da ČR se po dlouhém odm&iacute;t&aacute;n&iacute; zaveden&iacute; cenového stropu na elektrickou energii a zemn&iacute; plyn nakonec k tomuto kroku ned&aacute;vno odhodlala. Rozhodla se pro z&aacute;konem stanovenou maxim&aacute;ln&iacute; prodejn&iacute; cenu silové elektřiny **6 Kč/kWh** včetně DPH pro maloodběratele (dom&aacute;cnosti, živnostn&iacute;ky, podnikatele) a veřejné instituce, respektive **6000 Kč/MWh**. Pokud bychom k tomu připočetli různé distribučn&iacute; poplatky, bude se cena pro dom&aacute;cnosti pohybovat maxim&aacute;lně v rozmez&iacute; **7** až **9 Kč** za **kilowatthodinu**.(**20)&nbsp;**A cenov&yacute; strop zemn&iacute;ho plynu je určen na hranici **3 Kč/kWh**, respektive **3000 Kč/MWh**.**21** Pojďme nyn&iacute; využ&iacute;t z&aacute;kladn&iacute; poznatky mikroekonomie pro nalezen&iacute; možn&yacute;ch dopadů této politiky.
+Vl&aacute;da ČR se po dlouhém odm&iacute;t&aacute;n&iacute; zaveden&iacute; cenového stropu na elektrickou energii a zemn&iacute; plyn nakonec k tomuto kroku ned&aacute;vno odhodlala. Rozhodla se pro z&aacute;konem stanovenou maxim&aacute;ln&iacute; prodejn&iacute; cenu silové elektřiny **6 Kč/kWh** včetně DPH pro maloodběratele (dom&aacute;cnosti, živnostn&iacute;ky, podnikatele) a veřejné instituce, respektive **6000 Kč/MWh**. Pokud bychom k tomu připočetli různé distribučn&iacute; poplatky, bude se cena pro dom&aacute;cnosti pohybovat maxim&aacute;lně v rozmez&iacute; **7** až **9 Kč** za **kilowatthodinu**.(**20)&nbsp;**A cenov&yacute; strop zemn&iacute;ho plynu je určen na hranici **3 Kč/kWh**, respektive **3000 Kč/MWh**.(**21)** Pojďme nyn&iacute; využ&iacute;t z&aacute;kladn&iacute; poznatky mikroekonomie pro nalezen&iacute; možn&yacute;ch dopadů této politiky.
 
 &nbsp;
 
@@ -225,7 +237,9 @@ Trh je kouzelné m&iacute;sto koordinuj&iacute;c&iacute; ekonomickou aktivitu je
 
 &nbsp;
 
-*Obr. 11: Tržn&iacute; rovnov&aacute;ha. Zdroj:*[*Libinst*](https://libinst.cz/potrebujeme-aby-cenovy-system-fungoval-svobodne-zejmena-v-dobe-krize/)
+*Obr. 11: Tržn&iacute; rovnov&aacute;ha. Zdroj:&nbsp;*[*Libinst*](https://libinst.cz/potrebujeme-aby-cenovy-system-fungoval-svobodne-zejmena-v-dobe-krize/)
+
+&nbsp;
 
 &nbsp;
 
@@ -243,7 +257,9 @@ Nyn&iacute; se už ale vraťme k samotnému aktu&aacute;ln&iacute;mu tématu –
 
 &nbsp;
 
-*Obr. 12: Převis popt&aacute;vaného množstv&iacute; nad nab&iacute;zen&yacute;m množstv&iacute;m (nedostatek) vlivem cenového stropu. Zdroj:*[*Libinst*](https://libinst.cz/potrebujeme-aby-cenovy-system-fungoval-svobodne-zejmena-v-dobe-krize/)
+*Obr. 12: Převis popt&aacute;vaného množstv&iacute; nad nab&iacute;zen&yacute;m množstv&iacute;m (nedostatek) vlivem cenového stropu. Zdroj:&nbsp;*[*Libinst*](https://libinst.cz/potrebujeme-aby-cenovy-system-fungoval-svobodne-zejmena-v-dobe-krize/)
+
+&nbsp;
 
 &nbsp;
 
@@ -265,6 +281,8 @@ Pro zachov&aacute;n&iacute; jednoduchosti a kr&aacute;tkosti tohoto textu se nyn
 
 &nbsp;
 
+&nbsp;
+
 Pro zaveden&iacute; windfall tax na bankovn&iacute; instituce je nezbytně nutné určit také srovn&aacute;vac&iacute; z&aacute;kladnu, nad kterou bude specifikov&aacute;n onen „nadměrn&yacute;“ zisk, jenž bude zdaněn definovanou daňovou sazbu. Mezi roky, z nichž se m&aacute; poč&iacute;tat průměrn&aacute; ziskovost tohoto odvětv&iacute;, patř&iacute; i ty covidové, tedy **2020** a **2021**, během kter&yacute;ch v&yacute;razně poklesly tržby obchodn&iacute;ch bank. Toto fragiln&iacute; a volatiln&iacute; obdob&iacute;, kdy téměř kolabovala agreg&aacute;tn&iacute; popt&aacute;vka a &uacute;věrov&aacute; činnost bank, rozhodně nelze považovat za typické a zajisté nem&aacute; b&yacute;t souč&aacute;st&iacute; srovn&aacute;vac&iacute; z&aacute;kladny. Když se pod&iacute;v&aacute;me na empirick&aacute; data, ta n&aacute;m jasně ukazuj&iacute;, že z pohledu posledn&iacute;ch několika let nejsou nynějš&iacute; zisky bank jakkoli nadprůměrné a už vůbec ne mimoř&aacute;dně vysoké.
 
 &nbsp;
@@ -276,6 +294,8 @@ Pro zaveden&iacute; windfall tax na bankovn&iacute; instituce je nezbytně nutn�
 &nbsp;
 
 *Obr. 14: Ziskovost bankovn&iacute;ho sektoru. Zdroj:&nbsp;*[*ČNB*](https://www.cnb.cz/cnb/STAT.ARADY_PKG.STROM_DRILL?p_strid=BA&amp;p_lang=CS){: target="_blank" rel="noopener"}
+
+&nbsp;
 
 &nbsp;
 
