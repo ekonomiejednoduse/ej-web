@@ -27,4 +27,4 @@ _comments:
 ---
 Kamarád a kolega z&nbsp;[ECONETu](https://eco-net.cz){: target="_blank" rel="noopener"}&nbsp;**Martin Kylar** udělal rozhovor pro [Roklen24](https://roklen24.cz/viceguverner-cnb-mora-se-sazbami-bych-pritvrdil-intervence-bychom-meli-opustit/){: target="_blank" rel="noopener"}&nbsp;s končícím viceguvernérem ČNB, **Marekem Morou**. Na tvorbě dotazů na pana viceguvernéra jsem se z části podílel. Ústředním tématem rozhovoru byla inflace a současná měnová politika ČNB.
 
-Odkaz na rozhovor je zde:&nbsp;[https://roklen24.cz/viceguverner-cnb-marek-mora-se-sazbami-bych-pritvrdil-intervence-bychom-meli-opustit/](https://roklen24.cz/viceguverner-cnb-mora-se-sazbami-bych-pritvrdil-intervence-bychom-meli-opustit/){: target="_blank" rel="noopener"}
+Odkaz na rozhovor je zde:&nbsp;[https://roklen24.cz/viceguverner-cnb-mora-se-sazbami-bych-pritvrdil-intervence-bychom-meli-opustit/](https://roklen24.cz/viceguverner-cnb-mora-se-sazbami-bych-pritvrdil-intervence-bychom-meli-opustit/){: target="_blank" rel="noopener"}
