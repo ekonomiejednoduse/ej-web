@@ -5,7 +5,7 @@ date: 2023-01-24 00:00:00
 description: >
   Kolega Martin Kylar udělal rozhovor s končícím viceguvernérem ČNB Markem
   Morou. Z části jsem se podílel na tvorbě dotazů.
-author: Štěpán Drábek
+author: Martin Kylar, Štěpán Drábek
 featured: true
 featured_image: /uploads/mora.jpeg
 categories: dalsi tvorba
