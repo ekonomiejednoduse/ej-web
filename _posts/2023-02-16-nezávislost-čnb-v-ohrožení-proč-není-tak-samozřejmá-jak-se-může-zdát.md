@@ -32,8 +32,6 @@ _comments:
 ---
 Článek v upravené verzi vyšel pro&nbsp;**[Finmag.cz](https://finmag.penize.cz/penize/439736-nezavislost-cnb-v-ohrozeni-proc-neni-tak-samozrejma-jak-se-muze-zdat#rating){: target="_blank" rel="noopener"}**
 
->
-
 Nezávislost centrální banky. To je ta zdaleka nejdůležitější podmínka úspěšné realizace měnové politiky. Přesto však u nás může být ohrožena. Kámen úrazu leží ve způsobu volby členů bankovní rady, který má v rukou jediný člověk v zemi. Jako ukázkový příklad nebezpečí koncentrace moci nám poslouží loňské jmenování nového guvernéra ČNB.
 
 Předtím, než se pustíme do zkoumání možných rizik ztráty nezávislosti centrální banky, si prvně povězme něco o tom, proč je ona nezávislost tak důležitá. To, že je centrální banka nezávislá, znamená, že je její měnová politika zcela nedotčena proměnlivým politickým rozhodováním. To je kvůli ne příliš dlouhému mandátu představitelů vlády a jejich motivaci být znovuzvolen orientováno na krátkodobý horizont. V něm je možné si získat přízeň voličů pomocí umělé podpory ekonomického růstu, která se záhy bolestně projeví na pádivé inflaci. Mezi zavedením takových opatření a příchodem jejich následků je totiž značná časová prodleva – politici tak v očích občanů nemusí být odpovědni za své chyby. A ten, kdo není přímo vystaven nepříjemným doprovodným účinkům vlastních činů, má motivace dost pokřivené – je schopen podstupovat daleko větší potenciální rizika, protože případná cena za neúspěch není hrazena z jeho kapsy.
