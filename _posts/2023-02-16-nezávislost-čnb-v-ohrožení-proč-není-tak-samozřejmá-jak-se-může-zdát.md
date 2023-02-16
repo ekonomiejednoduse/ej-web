@@ -11,7 +11,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/440174.jpg
-download:
+download: finmag-nezavislost-cnb.pdf
 seo:
   title: Nezávislost ČNB v ohrožení. Proč není tak samozřejmá, jak se může zdát?
   description: >-
