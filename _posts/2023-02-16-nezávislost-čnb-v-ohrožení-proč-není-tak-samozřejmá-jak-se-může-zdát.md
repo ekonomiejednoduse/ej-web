@@ -60,13 +60,13 @@ Aby inflačních tlaků nebylo málo, tak se vyrojil další v podobě slabší 
 
 ![](/uploads/cnb.jpeg){: .small-centered-image width="598" height="290"}
 
-*Devizové obchody ČNB. Zdroj:*[*ČNB*](https://www.cnb.cz/cs/financni-trhy/devizovy-trh/devizove-obchody-cnb/){: target="_blank" rel="noopener"}
+*Devizové obchody ČNB. Zdroj: &nbsp;*[*ČNB*](https://www.cnb.cz/cs/financni-trhy/devizovy-trh/devizove-obchody-cnb/){: target="_blank" rel="noopener"}
 
 Jen málokdo by si dovolil rozporovat, že hlavním důvodem oslabení koruny a následného vyššího objemu provedených devizových obchodů bylo právě dosazení Aleše Michla do čela ČNB. Nemyslím, že je jakkoli přehnané říci, že jeho osoba nás (resp. centrální banku) stála „majlant“. Náš guvernér je vskutku drahocenný, ale nejspíš ne v tom významu slova, který by si přál.
 
 ![](/uploads/cnb1.png){: .small-centered-image width="696" height="468"}
 
-*Devizové rezervy ČNB, stavová data (CZK). Zdroj:*[*ČNB, ARAD*](https://www.cnb.cz/cnb/STAT.ARADY_PKG.VYSTUP?p_period=1&amp;p_sort=2&amp;p_des=50&amp;p_sestuid=42949&amp;p_uka=2&amp;p_strid=FCB&amp;p_od=202001&amp;p_do=202212&amp;p_lang=CS&amp;p_format=4&amp;p_decsep=%2C){: target="_blank" rel="noopener"}
+*Devizové rezervy ČNB, stavová data (CZK). Zdroj: &nbsp;*[*ČNB, ARAD*](https://www.cnb.cz/cnb/STAT.ARADY_PKG.VYSTUP?p_period=1&amp;p_sort=2&amp;p_des=50&amp;p_sestuid=42949&amp;p_uka=2&amp;p_strid=FCB&amp;p_od=202001&amp;p_do=202212&amp;p_lang=CS&amp;p_format=4&amp;p_decsep=%2C){: target="_blank" rel="noopener"}
 
 Nehledě na to, co si kdo myslí o guvernérově profesní kariéře, některých nevšedních postojích či jeho dosavadnímu počínání v České národní bance, je nespornou pravdou, že [slovy](https://archiv.hn.cz/c1-67070640-holub-z-cnb-novy-guverner-dostal-od-investoru-zlutou-%20%20kartu-meli-bychom-je-ujistit-ze-inflaci-zkrotime-za-kazdou-cenu){: target="_blank" rel="noopener"} stávajícího zkušeného radního ČNB **Tomáše Holuba**\: *„Finanční trh, jakožto jakýsi nestranný rozhodčí, ukázal novému kapitánovi týmu žlutou kartu ještě dřív, než nastoupil na hřiště.“*
 
