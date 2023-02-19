@@ -22,3 +22,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+Vojta Žižka si do svého investičního podcastu pozval samotnou viceguvernérku ČNB **Evu Zamrazilovou**, aby společně probrali zajímavá témata jako jsou měnová politika České národní banky či hypoteční trh. Z velké části jsem se přitom podílel na tvorbě dotazů.
