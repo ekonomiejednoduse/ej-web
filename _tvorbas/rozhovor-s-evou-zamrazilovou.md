@@ -12,11 +12,19 @@ categories: dalsi tvorba
 download:
 video-url: n6J6NYscS_g
 seo:
-  title: 'Ekonomická olympiáda '
-  description:
+  title: Rozhovor s Evou Zamrazilovou
+  description: >-
+    Vojta Žižka ve svém podcastu vyzpovídal viceguvernérku ČNB Evu Zamrazilovou.
+    Velkou měrou jsem přispěl k tvorbě dotazů.
   social_image:
-  twitter_card:
-  keywords: Ekonomická olympiáda, EO, EO 2022, EO22
+  twitter_card: >-
+    Eva Zamrazilová, ČNB, rozhovor, Vojta Žižka, podcast, Štěpán Drábek,
+    Ekonomie Jednoduše, měnová politika, inflace, hypotéky, nemovitosti,
+    investice
+  keywords: >-
+    Eva Zamrazilová, ČNB, rozhovor, Vojta Žižka, podcast, Štěpán Drábek,
+    Ekonomie Jednoduše, měnová politika, inflace, hypotéky, nemovitosti,
+    investice
   hide-from-google: false
 _comments:
   title: Max 70 characters
