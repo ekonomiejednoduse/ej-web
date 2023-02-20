@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/cnb-1.png
-download: kapitalismus-a-ekologie.pdf
+download: nezavislost-centralnich-bank.pdf
 seo:
   title: Riziko ztráty nezávislosti centrální banky
   description: >-
@@ -70,4 +70,4 @@ Bastiat, Frédéric: **Co je vidět a co není vidět** a jiné práce. Praha: L
 
 Hazlitt, Henry: Ekonomie v jedné lekci. Praha: Alfa Nakladatelství a Liberální institut, 2008
 
-**1** Abych věci uvedl na pravou míru, je zde záhodno říci, že výběr členů bankovní rady ČNB byl plně v rukou prezidenta již před zavedením přímé volby. Ovšem ta zavinila to, že se, slovy *P. Potužáka: „...*prezidentem stal takový člověk, jaký se prezidentem nakonec stal, a jmenoval takového guvernéra, jaký byl jmenován.“
+**1** Abych věci uvedl na pravou míru, je zde záhodno říci, že výběr členů bankovní rady ČNB byl plně v rukou prezidenta již před zavedením přímé volby. Ovšem ta zavinila to, že se, slovy *P. Potužáka: „…*prezidentem stal takový člověk, jaký se prezidentem nakonec stal, a jmenoval takového guvernéra, jaký byl jmenován.“
