@@ -44,13 +44,13 @@ Proto, abychom porozuměli tomu, jak křehký takový systém může být, nemus
 
 ![](/uploads/michl.png){: .small-centered-image width="696" height="468"}
 
-*Devizové rezervy ČNB (Stavová data) (CZK). Zdroj:*[*ČNB, ARAD*](https://www.cnb.cz/cnb/STAT.ARADY_PKG.VYSTUP?p_period=1&amp;p_sort=2&amp;p_des=50&amp;p_sestuid=42949&amp;p_uka=2&amp;p_strid=FCB&amp;p_od=201201&amp;p_do=202211&amp;p_lang=CS&amp;p_format=4&amp;p_decsep=%2C)
+*Devizové rezervy ČNB (Stavová data) (CZK). Zdroj: &nbsp;*[*ČNB, ARAD*](https://www.cnb.cz/cnb/STAT.ARADY_PKG.VYSTUP?p_period=1&amp;p_sort=2&amp;p_des=50&amp;p_sestuid=42949&amp;p_uka=2&amp;p_strid=FCB&amp;p_od=201201&amp;p_do=202211&amp;p_lang=CS&amp;p_format=4&amp;p_decsep=%2C)
 
 Takové oslabení domácí měny si největší tuzemská měnová autorita v prostředí tolika neutlumujících a nově vznikajících inflačních tlaků nemohla dovolit. Kurzový kanál transmisního mechanismu měnové politiky je totiž pro malou otevřenou ekonomiku, jakou jsme my, naprosto klíčový. A nižší kurz české koruny by měl významný proinflační efekt. ČNB proto musela začít intervenovat na forexovém trhu a rozprodat část svých z dob kurzového závazku závratně vysokých devizových rezerv. Dohromady se naše centrální banka na obranu koruny vzdala necelých 3,5 miliard eur, což je pro srovnání zhruba více než sedmkrát tolik, co předchozí měsíc. A to, jakým dílem k tomu přispěl právě nový pan guvernér, je už na posouzení váženého čtenáře.
 
 ![](/uploads/cnb-1.jpeg){: .small-centered-image width="598" height="290"}
 
-*Devizové obchody ČNB. Zdroj:*[*ČNB*](https://www.cnb.cz/cs/financni-trhy/devizovy-trh/devizove-obchody-cnb/)
+*Devizové obchody ČNB. Zdroj: &nbsp;*[*ČNB*](https://www.cnb.cz/cs/financni-trhy/devizovy-trh/devizove-obchody-cnb/)
 
 Inu, trh nám tímto rázně vyslal zřetelný varovný signál, který by nebylo radno přehlédnout. Signál, jež nás upozorňuje na křehkost instituce ČNB. Signál, který jasně poukazuje na absenci brzd a protiváh v našem právním systému.
 
@@ -66,8 +66,8 @@ Použité zdroje:
 
 [https://www.cnb.cz/cnb/STAT.ARADY\_PKG.PARAMETRY\_SESTAVY?p\_sestuid=42949&p\_strid=FCB&p\_lang=CS](https://www.cnb.cz/cnb/STAT.ARADY_PKG.PARAMETRY_SESTAVY?p_sestuid=42949&amp;p_strid=FCB&amp;p_lang=CS)
 
-<u>Bastiat, Frédéric: <strong><em>Co je vidět a co není vidět</em></strong><em> a jiné práce. </em>Praha: <em>Liberální Institut</em> a <em>Centrum liberálních studií</em>, 1998</u>
+Bastiat, Frédéric: **Co je vidět a co není vidět** a jiné práce. Praha: Liberální Institut a Centrum liberálních studií, 1998
 
-<u>Hazlitt, Henry: <em>Ekonomie v jedné lekci</em>. Praha: <em>Alfa Nakladatelství</em> a <em>Liberální institut</em>, 2008</u>
+Hazlitt, Henry: Ekonomie v jedné lekci. Praha: Alfa Nakladatelství a Liberální institut, 2008
 
 **1** Abych věci uvedl na pravou míru, je zde záhodno říci, že výběr členů bankovní rady ČNB byl plně v rukou prezidenta již před zavedením přímé volby. Ovšem ta zavinila to, že se, slovy *P. Potužáka: „...*prezidentem stal takový člověk, jaký se prezidentem nakonec stal, a jmenoval takového guvernéra, jaký byl jmenován.“
