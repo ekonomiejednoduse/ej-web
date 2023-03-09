@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/michl-1.jpeg
-download: kapitalismus-a-ekologie.pdf
+download: kylar-drabek-polemika-s-michlem.pdf
 seo:
   title: Polemika s guvernérem Michlem
   description: >-
