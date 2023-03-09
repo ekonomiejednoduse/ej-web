@@ -28,4 +28,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-ECB nedávno zveřejnila svůj nový postoj k bitcoinu a krptoaktivům. V tomto článku jej rozeberu a podrobím kritice. Článek vyšel pro Liberální Institut, odkaz je zde:&nbsp;[https://libinst.cz/v-cem-se-ecb-myli/#prettyPhoto](https://libinst.cz/v-cem-se-ecb-myli/#prettyPhoto){: target="_blank" rel="noopener"}
+Evropská centrální banka nedávno zveřejnila svůj nový postoj k bitcoinu a kryptoaktivům. Ve své studii pro Liberální Institut některé teze ECB kritizuji. Text je doplněn o apendix pojednávající o Rakouské teorii hospodářského cyklu (ABCT) v souvislosti s bitcoinem. Odkaz:&nbsp;[https://libinst.cz/studie-v-cem-se-evropska-centralni-banka-myli-ohledne-bitcoinu/](https://libinst.cz/studie-v-cem-se-evropska-centralni-banka-myli-ohledne-bitcoinu/){: target="_blank" rel="noopener"}
