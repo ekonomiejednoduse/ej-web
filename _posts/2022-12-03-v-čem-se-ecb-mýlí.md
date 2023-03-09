@@ -10,7 +10,7 @@ featured: true
 categories:
   - bitcoin
 featured_image: /uploads/ecb-proc-se-myli.png
-download: kapitalismus-a-ekologie.pdf
+download: btc_ecb-(1).pdf
 seo:
   title: V čem se ECB mýlí?
   description: >-
