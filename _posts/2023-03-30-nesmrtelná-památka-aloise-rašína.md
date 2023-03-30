@@ -11,7 +11,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/rasin-michl-1.jpeg
-download: kapitalismus-a-ekologie.pdf
+download: rasin-100-let.pdf
 seo:
   title: Nesmrtelná památka Aloise Rašína
   description: >-
