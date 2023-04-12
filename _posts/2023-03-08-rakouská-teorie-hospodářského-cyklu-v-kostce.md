@@ -12,17 +12,19 @@ categories:
 featured_image: /uploads/hayek-swag.jpeg
 download: drabek-kryptomeny.pdf
 seo:
-  title: Kapitalismus a ekologie
+  title: Rakouská teorie hospodářského cyklu v kostce
   description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+    Článek shrnuje nejdůležitější aspekty Rakouské teorie hospodářského cyklu
+    (ABCT).
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, rakouská teorie hospodářského cyklu,
+    Liberální institut, Pavel Potužák, ekonomické krize, recese, inflace, F. A.
+    Hayek
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, rakouská teorie hospodářského cyklu,
+    Liberální institut, Pavel Potužák, ekonomické krize, recese, inflace, F. A.
+    Hayek
   hide-from-google: false
 _comments:
   title: Max 70 characters
