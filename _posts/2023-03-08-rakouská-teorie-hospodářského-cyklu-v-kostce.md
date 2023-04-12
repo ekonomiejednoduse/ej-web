@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/hayek-swag.jpeg
-download: drabek-kryptomeny.pdf
+download: btc_ecb-(1).pdf
 seo:
   title: Rakouská teorie hospodářského cyklu v kostce
   description: >-
