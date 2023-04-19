@@ -62,7 +62,7 @@ Právě ta představují pomyslnou důvěru (ať už domácností nebo
 
 ![](/uploads/infl-oc.png){: .small-centered-image width="1344" height="900"}
 
-Inflační očekávání nefinančních korporací a firem s výhledem na 1 rok (modrá křivka) a 3 roky (červená křivka), čtvrtletní data. Zdroj:&nbsp;[ČNB, ARAD](https://www.cnb.cz/cnb/STAT.ARADY_PKG.VYSTUP?p_period=1&amp;p_sort=2&amp;p_des=50&amp;p_sestuid=21937&amp;p_uka=1%2C2&amp;p_strid=ACAB&amp;p_od=199906&amp;p_do=202212&amp;p_lang=CS&amp;p_format=4&amp;p_decsep=%2C){: target="_blank" rel="noopener"}
+*Obr. 1: Inflační očekávání nefinančních korporací a firem s výhledem na 1 rok (modrá křivka) a 3 roky (červená křivka), čtvrtletní data. Zdroj:&nbsp;[ČNB, ARAD](https://www.cnb.cz/cnb/STAT.ARADY_PKG.VYSTUP?p_period=1&amp;p_sort=2&amp;p_des=50&amp;p_sestuid=21937&amp;p_uka=1%2C2&amp;p_strid=ACAB&amp;p_od=199906&amp;p_do=202212&amp;p_lang=CS&amp;p_format=4&amp;p_decsep=%2C){: target="_blank" rel="noopener"}*
 
 Ona inflační očekávání nás přitom rozhodně nepotěší. Ať už se díváme na roční nebo tříletý horizont, data nám jasně ukazují, že jsou inflační očekávání nefinančních podniků poměrně vysoko nad dvouprocentním cílem ČNB.
 
