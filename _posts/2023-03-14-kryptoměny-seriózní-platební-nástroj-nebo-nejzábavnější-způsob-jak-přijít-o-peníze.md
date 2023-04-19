@@ -74,7 +74,7 @@ Na dvojcifernou inflaci si nesmíme začít zvykat a brát jako samozřejme
 
 Bohužel situaci moc nezlepšuje verbální komunikace představitelů ČNB. Ta spíše zamlžuje, než osvětluje kroky, které centrální banka provádí (to, proč jsou nejen správné, ale i nutné, a k čemu prospěšnému vedou).
 
-**Sliby-chyby? **
+**Sliby-chyby?**
 
 Říká se, že mnoho slibů oslabuje důvěru. A vystupování členů bankovní rady, kteří pokaždé tak sebejistě deklarují, že se centrální bance inflační mor brzy podaří přemoci, když tyto výroky následně shledáváme ne úplně pravdivými, důvěře mohou ubližovat.
 
