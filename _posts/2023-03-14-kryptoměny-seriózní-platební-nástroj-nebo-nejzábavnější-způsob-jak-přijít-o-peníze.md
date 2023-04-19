@@ -7,7 +7,6 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-  - bitcoin
 featured_image: /uploads/cnb-budova.jpeg
 download: 3cnb-muze-prijit-o-vse.png
 seo:
