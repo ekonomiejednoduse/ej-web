@@ -30,6 +30,8 @@ _comments:
 ---
 Účastnil jsem se soutěže [Čapkoviny 2023](https://www.ssnahorni.cz/literarni-soutez-capkoviny-2023/){: target="_blank" rel="noopener"}, jejímž úkolem bylo napsat povídku na téma "Kdybych tolik nepospíchal, možná bych to stihl". Mým cílem nebylo vyhrát, ale spíše se zamyslet nad fenoménem času, a tak jsem ani nesplnil některé z kritérií soutěže. Můj text si můžete přečíst níže:
 
+>
+
 Říká se, že nic se nemá přehánět. Od určité míry totiž dodatečné zvýšení naší činnosti či úsilí přináší více škody než užitku. A to platí také pro časový horizont vlastního uvažování.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jeví se přímo uchvacujícím, že se lidstvo dostalo na takový stupeň vyspělosti, že si jedinci mohou dovolit ten přepych nevěnovat se pouze přítomnosti a jejím bezprostředním následkům, ale i dlouhodobým či případně druhotným dopadům vlastního počínání, jež se objeví až s dalekým odstupem.
