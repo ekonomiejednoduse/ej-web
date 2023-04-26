@@ -7,9 +7,9 @@ description: >
   "Kdybych tolik nepospíchal, možná bych to stihl".
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/eo.jpeg
+featured_image: /uploads/time.jpeg
 categories: dalsi tvorba
-download:
+download: capkoviny.pdf
 video-url:
 seo:
   title: 'Ekonomická olympiáda '
