@@ -12,11 +12,17 @@ categories: dalsi tvorba
 download: capkoviny.pdf
 video-url:
 seo:
-  title: 'Ekonomická olympiáda '
-  description:
+  title: Soutěž Čapkoviny 2023
+  description: >
+    Čapkoviny 2023 a napsal esej na téma "Kdybych tolik nepospíchal, možná bych
+    to stihl".
   social_image:
-  twitter_card:
-  keywords: Ekonomická olympiáda, EO, EO 2022, EO22
+  twitter_card: >-
+    Štěpán Drábek, Ekonomie Jednoduše, Čapkoviny, Čapkoviny 2023, literární
+    soutěž, čas, časová preference
+  keywords: >-
+    Štěpán Drábek, Ekonomie Jednoduše, Čapkoviny, Čapkoviny 2023, literární
+    soutěž, čas, časová preference
   hide-from-google: false
 _comments:
   title: Max 70 characters
