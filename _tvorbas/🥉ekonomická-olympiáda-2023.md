@@ -15,8 +15,12 @@ seo:
   description: |
     Skončil jsem na 3. místě v celostátním kole Ekonomické olympiády.
   social_image:
-  twitter_card:
-  keywords: 'Ekonomická olympiáda, EO, EO 2023, '
+  twitter_card: >-
+    Ekonomická olympiáda, Štěpán Drábek, 2023, třetí místo, 3. místo, finále,
+    EO, EO 2023, 
+  keywords: >-
+    Ekonomická olympiáda, Štěpán Drábek, 2023, třetí místo, 3. místo, finále,
+    EO, EO 2023, 
   hide-from-google: false
 _comments:
   title: Max 70 characters
