@@ -28,7 +28,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-[V této analýze pro Liberální institut](https://libinst.cz/wp-content/uploads/2023/05/cnb_drabek_v11.pdf){: target="_blank" rel="noopener"}podrobuji kritice některé výroky guvernéra České národní banky Aleše Michla, které – nejsou-li zcela chybné – pak alespoň obsahují jisté prvky, jež jsou v přímém rozporu s jeho jinými tvrzeními anebo působí zavádějícím dojmem.
+[V této analýze pro Liberální institut](https://libinst.cz/wp-content/uploads/2023/05/cnb_drabek_v11.pdf){: target="_blank" rel="noopener"}&nbsp;podrobuji kritice některé výroky guvernéra České národní banky Aleše Michla, které – nejsou-li zcela chybné – pak alespoň obsahují jisté prvky, jež jsou v přímém rozporu s jeho jinými tvrzeními anebo působí zavádějícím dojmem.
 
 Součástí analýzy je i osvětlení jednotlivých druhů inflace a rovněž zodpovězení zásadní otázky, zda nynější inflace v ČR – potažmo ve světě – vykazuje známky spíše poptávkového, nebo nákladovéhocharakteru, a jaká by vzhledem k tomu měla být odezva měnových autorit.
 
