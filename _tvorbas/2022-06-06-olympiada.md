@@ -21,5 +21,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-
-V roce 2022 jsem ve finále [Ekonomické olympiády](https://ekonomickaolympiada.cz/eo-pro-zs/o-soutezi/){: target="_blank" rel="noopener"} skončil na 2. místě. Ekonomická olympiáda je skvělá soutěž, která umožňuje studentům otestovat si své ekonomické znalosti. Všem bych ji doporučil a moc se těším na další (doufám, že pro mě vítězný) ročník\! :)
+V roce 2022 jsem ve finále [Ekonomické olympiády](https://ekonomickaolympiada.cz/eo-pro-zs/o-soutezi/){: target="_blank"} skončil na 2. místě. Ekonomická olympiáda je skvělá soutěž, která umožňuje studentům otestovat si své ekonomické znalosti. Všem bych ji doporučil a moc se těším na další (doufám, že pro mě vítězný) ročník! :)

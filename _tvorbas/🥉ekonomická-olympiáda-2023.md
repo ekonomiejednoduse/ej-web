@@ -6,7 +6,7 @@ description: |
   Skončil jsem na 3. místě v celostátním kole Ekonomické olympiády.
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/eo23-1.jpeg
+featured_image: /uploads/eo-212.jpg
 categories: dalsi tvorba
 download:
 video-url:
@@ -26,4 +26,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Skončil jsem letos na 3. místě v celostátním kole [Ekonomické olympiády](https://ekonomickaolympiada.cz){: target="_blank" rel="noopener"}&nbsp;pro ZŠ. Bohužel se mi nepovedla jedna úloha v písemné části soutěže, a tak jsem nakonec dopadl hůře než minulý rok.
+Skončil jsem letos na 3. místě v celostátním kole [Ekonomické olympiády](https://ekonomickaolympiada.cz){: target="_blank"}&nbsp;pro ZŠ. Bohužel se mi nepovedla jedna úloha v písemné části soutěže, a tak jsem nakonec dopadl hůře než minulý rok.
