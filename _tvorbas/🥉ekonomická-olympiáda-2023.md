@@ -28,4 +28,6 @@ _comments:
 ---
 Skončil jsem letos na 3. místě v celostátním kole [Ekonomické olympiády](https://ekonomickaolympiada.cz){: target="_blank"}&nbsp;pro ZŠ. Bohužel se mi nepovedla jedna úloha v písemné části soutěže, a tak jsem nakonec dopadl hůře než minulý rok.
 
+
+
 ![](/uploads/eo-88.jpg){: .small-centered-image width="3600" height="2400"}
