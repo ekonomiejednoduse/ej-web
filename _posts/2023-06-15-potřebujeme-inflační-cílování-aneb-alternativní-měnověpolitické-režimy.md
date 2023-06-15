@@ -11,7 +11,7 @@ featured: false
 categories:
   - ekonomie
 featured_image: /uploads/budova-cnb.jpeg
-download:
+download: zrusme-inflaci.pdf
 seo:
   title: Potřebujeme inflační cílování? Aneb alternativní měnověpolitické režimy
   description: >-
