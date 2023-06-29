@@ -28,4 +28,8 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Tento článek je mým prvním textem pro **Centrum ekonomických a tržních analýz** (CETA), kde jsem nově nastoupil na pozici junior analytika. Odkaz na článek:&nbsp;[https://e-news.cz/seznam-cz/inflace-klesa-duvod-k-oslavam/](https://e-news.cz/seznam-cz/inflace-klesa-duvod-k-oslavam/){: target="_blank" rel="noopener"}.&nbsp;
+Tento článek je mým prvním textem pro **Centrum ekonomických a tržních analýz** (CETA), kde jsem nově nastoupil na pozici junior analytika. Odkaz:&nbsp;
+
+[https://e-news.cz/seznam-cz/inflace-klesa-duvod-k-oslavam/](https://e-news.cz/seznam-cz/inflace-klesa-duvod-k-oslavam/){: target="_blank"}.&nbsp;
+
+Článek si můžete rovněž níže **stáhnout ve formátu .pdf** a přečíst v jeho původní verzi.
