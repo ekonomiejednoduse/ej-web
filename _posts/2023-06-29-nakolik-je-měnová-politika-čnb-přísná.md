@@ -11,7 +11,7 @@ featured: false
 categories:
   - ekonomie
 featured_image: /uploads/2.jpeg
-download:
+download: nakolik-je-menova-politika-cnb-prisna.pdf
 seo:
   title: Nakolik je měnová politika ČNB přísná?
   description: >-
@@ -34,6 +34,6 @@ _comments:
 ---
 Článek vyšel pro **Centrum ekonomických a tržních analýz (CETA)**. Odkaz:
 
-[https://e-news.cz/seznam-cz/ceta-nakolik-je-menova-politika-cnb-prisna/](https://e-news.cz/seznam-cz/ceta-nakolik-je-menova-politika-cnb-prisna/){: target="_blank" rel="noopener"}
+[https://e-news.cz/seznam-cz/ceta-nakolik-je-menova-politika-cnb-prisna/](https://e-news.cz/seznam-cz/ceta-nakolik-je-menova-politika-cnb-prisna/){: target="_blank"}
 
 Článek si můžete rovněž níže **stáhnout ve formátu .pdf** a přečíst v jeho původní verzi.
