@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/capitalist.jpeg
-download:
+download: budoucnost-kapitalismu.pdf
 seo:
   title: Temná budoucnost kapitalismu
   description: >-
