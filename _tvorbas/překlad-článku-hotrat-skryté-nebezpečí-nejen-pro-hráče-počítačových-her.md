@@ -5,7 +5,7 @@ date: 2023-07-25 00:00:00
 description: >-
   V rámci projektu CyberBlog.cz jsem do češtiny přeložil anglický článek HotRat:
   Skryté nebezpečí nejen pro hráče počítačových her.
-author: Štěpán Drábek
+author: Štěpán Drábek; Jakub Drábek
 featured: true
 featured_image: /uploads/taton-moise-om8epxgswso-unsplash.jpg
 categories: dalsi tvorba
