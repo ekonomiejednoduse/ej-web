@@ -12,7 +12,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/peltzman.jpeg
-download:
+download: peltzmanuv-efekt.pdf
 seo:
   title: >-
     Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
