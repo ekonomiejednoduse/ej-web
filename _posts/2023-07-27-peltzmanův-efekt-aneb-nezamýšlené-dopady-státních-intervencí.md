@@ -14,19 +14,21 @@ categories:
 featured_image: /uploads/peltzman.jpeg
 download: peltzmanuv-efekt.pdf
 seo:
-  title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
+  title: Peltzmanův efekt aneb nezamýšlené dopady státních intervencí
   description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+    Proč se tak často nenaplňují očekávání ohledně dopadů vládních regulací?
+    Proč se nesčetněkrát rozcházejí skutečné důsledky státních intervencí se
+    záměry politiků, kteří je prosazují? Ekonomie zná na tyto podnětné otázky
+    elegantní odpovědi. 
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Peltzmanův efekt, Centrum ekonomických a
+    tržních analýz, CETA, vládní regulace, Sam Peltzman, státní intervence,
+    nesmýšlené dopady státních intervencí
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Peltzmanův efekt, Centrum ekonomických a
+    tržních analýz, CETA, vládní regulace, Sam Peltzman, státní intervence,
+    nesmýšlené dopady státních intervencí
   hide-from-google: false
 _comments:
   title: Max 70 characters
