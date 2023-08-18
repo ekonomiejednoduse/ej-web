@@ -78,7 +78,7 @@ Ale co výdaje? Nejsou snad státem poskytované služby jako „neplacené“ �
 
 
 
-Stát je však nenasytný. Jeho chamtivá chapadla již dnes sahají do nejširších sfér lidského života, a to nesrovnatelně více a častěji, než kolik by bylo rozumně obhajitelné. Ačkoli státy přerozdělují bezmála polovinu veškerého bohatství, které ekonomika vyprodukuje (a to by pro nás mělo být naprosto úděsné zjištění), stále je řeč o údajném nedostatku prostředků pro financování jejich aktivit. Proto můžeme – slovy Josefa Šímy – pořád slýchat o problémech vyvolaných neudržitelným životem na dluh. Jak komické!
+Stát je však nenasytný. Jeho chamtivá chapadla již dnes sahají do nejširších sfér lidského života, a to nesrovnatelně více a častěji, než kolik by bylo rozumně obhajitelné. Ačkoli státy přerozdělují bezmála polovinu veškerého bohatství, které ekonomika vyprodukuje (a to by pro nás mělo být znepokojující zjištění), stále je řeč o údajném nedostatku prostředků pro financování jejich aktivit. Proto můžeme – slovy Josefa Šímy – pořád slýchat o problémech vyvolaných neudržitelným životem na dluh. Jak komické!
 
 
 
