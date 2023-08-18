@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Je vyrovnaný státní rozpočet nezbytností
+title: Je vyrovnaný státní rozpočet nezbytností?
 date: 2023-08-15 00:00:00
 description: >-
   Je vyrovnaný státní rozpočet smysluplným cílem hospodářské politiky? A za
@@ -28,6 +28,10 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+Článek v upravené verzi vyšel na&nbsp;[Finmag.cz](https://finmag.penize.cz/politika/443896-vyrovnany-statni-rozpocet-neni-nutnosti-rekneme-vam-proc){: target="_blank" rel="noopener"}
+
+
+
 Dennodenně slýcháme od ekonomů varovné fráze, jak je tempo zadlužování našeho státu neudržitelně vysoké a pomalu se blížící nechvalně proslulé „řecké cestě“. Z každého rohu se na nás valí strašlivé informace o tom, kam by naše země spěla, kdybychom dnes nepřikročili k nekompromisním krokům, jež by měly stabilizovat veřejné finance. Tento článek však bude pomyslný protipól k této diskuzi a možná obecněji k myšlenkám hlavního ekonomického proudu. Vysvětlíme si totiž, proč není vyrovnaný státní rozpočet nutně smysluplným cílem hospodářské politiky a proč může být i deficit vítaný.
 
 
