@@ -11,7 +11,7 @@ categories:
   - ekonomie
   - bitcoin
 featured_image: /uploads/e15-nahled-halving.webp
-download:
+download: halving.pdf
 seo:
   title: Halving se blíží – dosáhne bitcoin nových vrcholů?
   description: >-
@@ -35,7 +35,7 @@ _comments:
 ---
 Článek v upravené verzi vyšel dne 13. 8. na webu&nbsp;[e15.cz](https://www.e15.cz/nazory-a-analyzy/puleni-bitcoinu-se-blizi-pribyva-bludu-proc-pochybovat-ze-cena-kryptomeny-urcite-poroste-1399858){: target="_blank" rel="noopener"}.
 
-&nbsp;
+
 
 Rok se s rokem sešel a již se neúprosně blíží doba, kdy se opět vyrojí nadšení zastánci bitcoinu, kteří začnou – s horlivostí sobě vlastní – ostatní přesvědčovat o tom, že cenu jejich oblíbené kryptoměny znova čeká vzestupná tendence, při níž by mohla překonat své historické vrcholy. Jaký důležitý okamžik svět kryptoměn čeká a co může přinést?
 
