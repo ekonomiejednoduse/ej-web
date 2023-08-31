@@ -28,7 +28,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-**Kvantitativní uvolňování aneb tisknou centrální banky peníze?**
+Článek v upravené verzi vyšel na webu&nbsp;[Finmag.cz](https://finmag.penize.cz/penize/444832-ze-centralni-banky-tisknou-penize-neverte-bludum-je-tomu-jinak){: target="_blank" rel="noopener"}.
 
 
 
