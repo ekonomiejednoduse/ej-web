@@ -70,7 +70,7 @@ Ty „peníze“, za něž centrální banka během kvantitativního uvolňován
 
 Centrální banky nezřídka provádějí QE proto, aby stabilizovaly bankovní či obecněji finanční sektor. Činí to tak, že určitým (systémově důležitým) subjektům dodávají potřebnou likviditu. A když se tak děje, můžeme být svědky toho, jak někteří bijí na poplach, že bude kvůli tomu obrovská inflace brzy hlasitě klepat na dveře. Ti, kdo takto argumentují, se však mýlí.
 
-![](/uploads/inflace-a-bilace-cnb.png){: .small-centered-image width="1460" height="680"}
+![](/uploads/inflace-a-bilace-cnb.png){: width="1460" height="680"}
 
 *Rozvaha České národní banky a míra inflace v letech 2012–2018. Zdroj:* [*Trading Economics*](https://tradingeconomics.com/czech-republic/central-bank-balance-sheet){: target="_blank" rel="noopener"}
 
