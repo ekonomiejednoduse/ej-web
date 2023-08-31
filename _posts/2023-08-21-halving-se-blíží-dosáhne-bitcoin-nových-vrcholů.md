@@ -69,7 +69,7 @@ Pro faktický důkaz, který by S2F vyvracel, věru nemusíme chodit příliš d
 
 Když se podíváme na graf, který je zkonstruován podle modelu Stock-to-Flow, s údivem pozorujeme, že bitcoin měl dosáhnout velké mety 100 000 amerických dolarů již zhruba v polovině roku 2021. Asi není třeba zmiňovat, že se tato predikce nenaplnila. Je namístě připomenout, že dnes by měla být cena bitcoinu na základě tohoto konceptu více než trojnásobná. Tudíž v živém čase můžeme sledovat, jak se tato scestná teorie vlivem zcela odlišné skutečnosti hroutí jako domeček z karet.
 
-![](/uploads/stock-to-flow.png){: .small-centered-image width="2448" height="1290"}
+![](/uploads/stock-to-flow.png){: width="2448" height="1290"}
 {: .center}
 
 Na druhou stranu, jeden by mohl namítat, že cena bitcoinu se dříve opravdu pohybovala přibližně po stejných trajektoriích, jako které vytyčil model S2F. A tak se nabízí otázka – proč by jej cena bitcoinu neměla následovat i do budoucna? Prvně zmiňme, že z historického vývoje nelze vyvozovat žádné tendence, jimiž se svět bude **nevyhnutelně** řídit i v časech zítřejších. Jak totiž výstižně shrnuje jeden z nejvýznamnějších myslitelů 20. století Karl Popper v předmluvě ke své knize *Bída historicismu: „Nemůže existovat žádná vědecká teorie historického vývoje, která by sloužila za základ historické předpovědi.“* Laureát Nobelovy ceny za ekonomii Friedrich August von Hayek ve své knize *Cesta do otroctví* argumentuje velmi podobně: *„\[…\]na vývoji společnosti není nic nevyhnutelného. \[…\]nevyhnutelným jej činí pouze myšlení lidí.“*
