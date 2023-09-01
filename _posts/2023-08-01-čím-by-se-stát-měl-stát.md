@@ -13,7 +13,7 @@ categories:
   - ekonomie
   - selhani trhu
 featured_image: /uploads/stat-mel-stat.jpeg
-download:
+download: stat-trh_letterhead_sd_fin.pdf
 seo:
   title: Čím by se stát měl stát?
   description: >-
