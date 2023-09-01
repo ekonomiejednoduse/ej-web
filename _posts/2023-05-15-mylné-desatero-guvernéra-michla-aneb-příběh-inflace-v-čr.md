@@ -33,3 +33,5 @@ _comments:
 Součástí analýzy je i vysvětlení jednotlivých druhů inflace a rovněž zodpovězení zásadní otázky, zda nynější inflace v ČR – potažmo ve světě – vykazuje známky spíše poptávkového, nebo nákladovéhocharakteru, a jaká by vzhledem k tomu měla být odezva měnových autorit.
 
 Odkaz:&nbsp;[https://libinst.cz/wp-content/uploads/2023/05/cnb\_drabek\_v11.pdf](https://libinst.cz/wp-content/uploads/2023/05/cnb_drabek_v11.pdf){: target="_blank" rel="noopener"}
+
+Článek si můžete rovněž níže&nbsp;**stáhnout ve formátu .pdf**.
