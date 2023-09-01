@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/vyrovnany-rozpocet.jpeg
-download:
+download: rozpocet_letterhead_sd_fin.pdf
 seo:
   title: Vyrovnaný státní rozpočet, ale ne za každou cenu!
   description: >-
@@ -29,3 +29,5 @@ _comments:
   social_image: landscape 1200 x 600px
 ---
 V této&nbsp;[a](https://libinst.cz/vyrovnany-statni-rozpocet-ale-ne-za-kazdou-cenu/){: target="_blank" rel="noopener"}[nalýze Liberálního institutu](https://libinst.cz/vyrovnany-statni-rozpocet-ale-ne-za-kazdou-cenu/){: target="_blank" rel="noopener"}&nbsp;pojednávám ve stručnosti o tom, proč ne všechna řešení problému strukturálního deficitu ČR, která se nyní nabízejí, jsou vhodná. Odkaz:&nbsp;[https://libinst.cz/vyrovnany-statni-rozpocet-ale-ne-za-kazdou-cenu/](https://libinst.cz/vyrovnany-statni-rozpocet-ale-ne-za-kazdou-cenu/){: target="_blank" rel="noopener"}
+
+Článek si můžete rovněž níže&nbsp;**stáhnout ve formátu .pdf**.
