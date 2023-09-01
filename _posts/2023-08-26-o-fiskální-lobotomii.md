@@ -11,7 +11,7 @@ featured: false
 categories:
   - ekonomie
 featured_image: /uploads/fiskalni-lobotomie.png
-download:
+download: fiskalni-lobotomie.pdf
 seo:
   title: O „fiskální lobotomii“
   description: >-
