@@ -28,7 +28,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-V tomto článku na Roklen24 s kamarádem Martinem Kylarem podrobujeme některé výroky guvernéra ČNB Aleše Michla v rozhovoru pro *Dvacet minut Radiožurnálu&nbsp;*ze dne 13. 2. 2023. Odkaz:&nbsp;[https://roklen24.cz/polemika-s-guvernerem-michlem/](https://roklen24.cz/polemika-s-guvernerem-michlem/){: target="_blank" rel="noopener"}
+V tomto článku na Roklen24 s kolegou Martinem Kylarem podrobujeme kritice některé výroky guvernéra ČNB Aleše Michla v rozhovoru pro *Dvacet minut Radiožurnálu&nbsp;*ze dne 13. 2. 2023. Odkaz:&nbsp;[https://roklen24.cz/polemika-s-guvernerem-michlem/](https://roklen24.cz/polemika-s-guvernerem-michlem/){: target="_blank" rel="noopener"}
 
 Níže si můžete přečíst moji část kritiky:
 
