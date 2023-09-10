@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/ceta-vladni-zadluzovani-obrazek.png
-download:
+download: zadluzovani-vitezna-strategie-demokracie.pdf
 seo:
   title: Vládní zadlužování – vítězná strategie demokracie
   description: >-
