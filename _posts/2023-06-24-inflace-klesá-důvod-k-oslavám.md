@@ -78,7 +78,7 @@ Jak vidíme, mnoho faktorů nasvědčuje tomu, že jsme na dobré cestě, která
 
 
 
-![](/uploads/mzdove-inflacni-spirala-index-cnb.png){: width="2142" height="1599"}
+![](/uploads/mzdove-inflacni-spirala-index-cnb.png){: .small-centered-image width="2142" height="1599"}
 
 
 
