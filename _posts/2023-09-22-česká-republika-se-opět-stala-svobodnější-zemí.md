@@ -34,6 +34,8 @@ _comments:
 
 [https://e-news.cz/seznam-cz/ceta-ceska-republika-se-opet-stala-svobodnejsi-zemi/](https://e-news.cz/seznam-cz/ceta-ceska-republika-se-opet-stala-svobodnejsi-zemi/){: target="_blank" rel="noopener"}
 
+
+
 Dle letošního žebříčku *Economic Freedom of the World,* každoročně zveřejňovaného *Liberálním institutem*ve spolupráci s kanadským think-tankem *Fraser Institute,* je Česká republika 17. nejsvobodnější zemí na světě (toto umístění ČR sdílí společně s dvěma Skandinávskými zeměmi, a sice Finskou republikou a Dánským královstvím), což je znatelné zlepšení oproti loňskému umístění na 22. místě. ČR se přitom stala svobodnější nejen v porovnání s ostatními zeměmi, ale i v absolutním vyjádření. Dodejme, že je tento index vždy sestavován s dvouletým zpožděním, a proto letošní data ve skutečnosti odpovídají roku 2021.
 
 
