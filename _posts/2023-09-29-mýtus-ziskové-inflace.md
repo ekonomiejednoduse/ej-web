@@ -10,19 +10,17 @@ categories:
 featured_image: /uploads/ceta-ziskova-inflace.jpeg
 download: ceta-ziskova-inflace.pdf
 seo:
-  title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
-  description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+  title: Mýtus ziskové inflace
+  description: "„Zisková inflace“. To je termín, který jednoznačně dominuje tuzemské měnověpolitické debatě (alespoň v\_posledních měsících). Je však skutečně pravdou, že za dvojcifernou inflaci mohou zvyšující se zisky firem?"
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Inflace, Zisková inflace, mzdová inflace,
+    ČNB, Česká národní banka, CETA, Centrum ekonomických a tržních analýz, Pavel
+    Potužák, Nominální HDP
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Inflace, Zisková inflace, mzdová inflace,
+    ČNB, Česká národní banka, CETA, Centrum ekonomických a tržních analýz, Pavel
+    Potužák, Nominální HDP
   hide-from-google: false
 _comments:
   title: Max 70 characters
