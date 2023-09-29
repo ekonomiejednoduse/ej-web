@@ -38,7 +38,7 @@ Americký ekonom Arthur Laffer roku 1974 zkonstruoval prostý grafický model vy
 
 Hlavní myšlenka za tímto modelem stojící je jednoduchá a – jak sám Laffer [uvádí](https://www.youtube.com/watch?v=FCk2-QVqCck){: target="_blank" rel="noopener"} – rozhodně se nedá říci, že by byla nějakým novým, převratným objevem, nýbrž je velmi stará. Je evidentní, že jsou-li daňové sazby nulové, pak i celkový příjem vlády z daní bude logicky nulový. Současně platí, že jestli je míra zdanění stoprocentní, pak stát od svých občanů na daních rovněž nevybere žádné prostředky. Důvodem je, že by za takovýchto podmínek nebyl zřejmě nikdo ochoten pracovat, a navíc by tímto vláda sice (čistě hypoteticky) mohla jednorázově odčerpat veškeré finanční zdroje z ekonomiky, ale tím by již na trzích nemohla vznikat žádná hodnota, kterou by stát následně mohl zdanit. Je tudíž očividné, že optimální míra zdanění, přinášející do státního rozpočtu nejvíce příjmů, se nachází někde mezi těmito dvěma krajními body.
 
-![](/uploads/lafferova-krivka.png){: .wide-image width="1668" height="1398"}
+![](/uploads/lafferova-krivka.png){: .small-centered-image width="1668" height="1398"}
 
 *Grafické vyobrazení Lafferovy křivky. Zdroj: Vlastní zpracování*
 
