@@ -11,7 +11,7 @@ categories:
   - ekonomie
   - penize
 featured_image: /uploads/finmag-last.jpeg
-download: jak-vznikaje-penize.pdf
+download: jak-vznikaji-penize.pdf
 seo:
   title: Jak doopravdy vznikají peníze?
   description: >-
