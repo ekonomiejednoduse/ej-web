@@ -105,7 +105,7 @@ Na závěr vyjasněme jeden velmi důležitý poznatek. Centrální banky dnes n
 
 
 
-Dle moderních teoretických poznatků jsou peníze tzv. endogenní. ** ** Bývalý přední český ekonom Milan Sojka [vysvětluje](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwj65NSOvviAAxWz7rsIHffMD8kQFnoECA0QAQ&amp;url=https%3A%2F%2Fies.fsv.cuni.cz%2Fdefault%2Ffile%2Fdownload%2Fid%2F683&amp;usg=AOvVaw3C8EpqJu2m3iFnFCRrvRhK&amp;opi=89978449){: target="_blank" rel="noopener"}: *„Peníze jsou determinovány rozhodováním ekonomických subjektů, jsou determinovány endogenně a každé opatření peněžních autorit může být negováno chováním ekonomických subjektů.“*
+Dle moderních teoretických poznatků jsou peníze tzv. endogenní. Bývalý přední český ekonom Milan Sojka [vysvětluje](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwj65NSOvviAAxWz7rsIHffMD8kQFnoECA0QAQ&amp;url=https%3A%2F%2Fies.fsv.cuni.cz%2Fdefault%2Ffile%2Fdownload%2Fid%2F683&amp;usg=AOvVaw3C8EpqJu2m3iFnFCRrvRhK&amp;opi=89978449){: target="_blank" rel="noopener"}: *„Peníze jsou determinovány rozhodováním ekonomických subjektů, jsou determinovány endogenně a každé opatření peněžních autorit může být negováno chováním ekonomických subjektů.“*
 
 
 
