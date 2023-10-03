@@ -38,7 +38,7 @@ Dle letošního žebříčku *Economic Freedom of the World,* každoročně zve�
 
 Index ekonomické svobody vychází z řady ukazatelů, které měří jednotlivé faktory, jakými jsou velikost vlády dané země, svoboda mezinárodního obchodu, státní regulace, nedotknutelnost vlastnických práv, nezávislost a nestrannost soudů, míra zdanění a veřejné výdaje státu. Situaci (resp. meziroční změny) v České republice vyobrazuje tabulka, v níž větší číselná hodnota odpovídá vyšší míře svobody.
 
-![](/uploads/index-ekon-svobody.png){: .wide-image width="1407" height="468"}
+![](/uploads/index-ekon-svobody.png){: .small-centered-image width="1407" height="468"}
 
 *Index ekonomické svobody v ČR. Zdroj:* [*Liberální institut*](https://libinst.cz/ekonomicka-svoboda-v-cr-stoupla-hongkong-po-sedesati-letech-ztratil-prvenstvi/#prettyPhoto)
 
@@ -46,7 +46,7 @@ Jak je z tabulky vidno, ve všech souhrnných ukazatelích kromě položky ozna�
 
 Následující mapa porovnává jednotlivé země dle míry svobody měřené tímto indexem a člení je do 4 kategorií, přičemž ČR se může pyšnit umístěním v kvartilu nejvyšším.
 
-![](/uploads/mapa-indexu-svobody.png){: .wide-image width="1128" height="939"}
+![](/uploads/mapa-indexu-svobody.png){: .small-centered-image width="1128" height="939"}
 
 *Index ekonomické svobody napříč zeměmi celého světa. Zdroj:* [*Fraser Institute*](https://libinst.cz/wp-content/uploads/2023/09/economic-freedom-of-the-world-2023.pdf){: target="_blank" rel="noopener"}
 
