@@ -4,7 +4,7 @@ title: Jak doopravdy vznikají peníze?
 date: 2023-10-03 00:00:00
 description: >-
   Jakým mechanismem v současném měnovém uspořádání vznikají peníze? A má nad
-  objemem peněz v ekonomice centrální banka kontrolu?
+  objemem peněz v ekonomice centrální banka dokonalou kontrolu?
 author: Štěpán Drábek
 featured: true
 categories:
