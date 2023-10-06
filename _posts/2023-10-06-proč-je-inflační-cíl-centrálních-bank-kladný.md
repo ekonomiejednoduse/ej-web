@@ -13,20 +13,20 @@ categories:
 featured_image: /uploads/cnb-tolerancni-pasmo.png
 download: ceta-inflacni-cilovani.pdf
 seo:
-  title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
+  title: Proč je inflační cíl centrálních bank kladný?
   description: >-
     Čím to je, že většina centrálních bank cílí kladnou, nikoli však nulovou
     míru inflace? Pročpak činí inflační cíl centrální banky zpravidla 2 %?
     Důvodů je hned několik, ty nejdůležitější vysvětluji v tomto článku.
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Inflace, inflační cíl, Zero lower bound,
+    ZLB, Krugman, Svensson, Boskin, Boskinova komise, substituční vychýlení,
+    CPI, 2 %, ČNB, Česká národní banka, centrální banky
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Inflace, inflační cíl, Zero lower bound,
+    ZLB, Krugman, Svensson, Boskin, Boskinova komise, substituční vychýlení,
+    CPI, 2 %, ČNB, Česká národní banka, centrální banky
   hide-from-google: false
 _comments:
   title: Max 70 characters
