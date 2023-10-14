@@ -1,6 +1,6 @@
 ---
 layout: tvorba
-title: Třetí místo Talent Olomouckého kraje 2023
+title: 3. místo Talent Olomouckého kraje 2023
 date: 2023-10-14 00:00:00
 description: >-
   Skončil jsem na 3. místě v technickém a dovednostním oboru při vyhlášení ceny
