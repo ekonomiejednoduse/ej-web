@@ -43,7 +43,7 @@ Přesto se naštěstí najdou vyhlídky na zlepšení. ČNB považuje za zásadn
 
 
 
-![](/uploads/cnb-rozpeti-prognozy.png){: .small-centered-image width="657" height="564"}
+![](blob:https://app.cloudcannon.com/85308401-8b36-4043-bbb5-fa8c9dd1cf5f){: .small-centered-image width="657" height="564"}
 
 
 
@@ -55,7 +55,7 @@ Přesto se naštěstí najdou vyhlídky na zlepšení. ČNB považuje za zásadn
 
 
 
-![](/uploads/arad-cnb-inflacni-ocekavani-financniho-trhu-1-a-3-roky.png){: .small-centered-image width="1622" height="399"}
+![](blob:https://app.cloudcannon.com/07ff2666-34e5-47ee-b69a-debb92810368){: width="1622" height="399"}
 
 Inflační očekávání finančního trhu na jednoletém a tříletém horizontu, měsíční data. Zdroj:&nbsp;[.ČNB, ARAD..](https://www.cnb.cz/arad/#/cs/home){: target="_blank" rel="noopener"}
 
