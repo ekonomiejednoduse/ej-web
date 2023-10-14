@@ -35,13 +35,14 @@ Srpnová míra inflace dle výpočtu ČSÚ čítá 8,5 %, a jedná se tak oproti
 
 Přesto se naštěstí najdou vyhlídky na zlepšení. ČNB považuje za zásadní začátek příštího roku, kdy by již měl konečně nastat klíčový okamžik, při němž by se inflace dostala velmi blízko ke své cílované dvouprocentní hodnotě (či dokonce přímo na ni). S touto prognózou se však pojí jistá úskalí. Jak totiž ukazuje následující obrázek, v posledních letech byly odchylky Českou národní bankou prognózované inflace od její skutečné, naměřené výše značné. A to zejména proto, že modely centrálních bank jsou nastaveny především na doby běžné (tzv. steady state) a v tak mimořádně turbulentních dobách, jakými byly poslední roky, poskytují výsledky, jež jsou poněkud zkreslené.
 
-![](blob:https://app.cloudcannon.com/85308401-8b36-4043-bbb5-fa8c9dd1cf5f){: .small-centered-image width="657" height="564"}
+![](/uploads/cnb-rozpeti-prognozy-1.png){: .small-centered-image width="657" height="564"}
+{: .center}
 
 *Průměr a rozpětí prognóz České národní banky. Zdroj:* [*ČNB*](https://www.cnb.cz/export/sites/cnb/cs/financni-trhy/.galleries/inflacni_ocekavani_ft/inflacni_ocekavani_ft_2023/C_inflocek_09_2023.pdf){: target="_blank" rel="noopener"}
 
 ČNB rovněž zveřejnila zářijové šetření inflačních očekávání analytiků finančního trhu, jehož se zúčastnilo dohromady 18 respondentů (z toho 16 domácích a 2 zahraniční). V ročním horizontu analytici v průměru očekávají, že inflace vykáže hodnotu 2,7 %. V tříletém horizontu jsou inflační očekávání finančního trhu na úrovni 2,4 %.
 
-![](blob:https://app.cloudcannon.com/07ff2666-34e5-47ee-b69a-debb92810368){: width="1622" height="399"}
+![](/uploads/arad-cnb-inflacni-ocekavani-financniho-trhu-1-a-3-roky-1.png){: width="1622" height="399"}
 
 Inflační očekávání finančního trhu na jednoletém a tříletém horizontu, měsíční data. Zdroj:&nbsp;[.ČNB, ARAD..](https://www.cnb.cz/arad/#/cs/home){: target="_blank" rel="noopener"}
 
