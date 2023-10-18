@@ -9,7 +9,7 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-featured_image: /uploads/lafferova-krivka-obrazek-na-miniaturu.jpeg
+featured_image: /uploads/lafferova-krivka.png
 download: lafferova-krivka.pdf
 seo:
   title: Lafferova křivka aneb proč nelze daně zvyšovat věčně?
