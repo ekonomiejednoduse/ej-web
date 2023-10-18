@@ -54,6 +54,10 @@ Režim kvantitativního uvolňování byl BoJ dočasně ukončen v roce 2006, kd
 
 Po několika dekádách trvajícím boji BoJ s deflací (či alespoň hrozbou jejího návratu) se inflace v Japonsku vloni konečně dostala na úroveň 2 %, což je aktuální inflační cíl Bank of Japan, platný od roku 2013. Ba co víc, v lednu letošního roku se tamější inflace vyšplhala dokonce až na 4 % – to je sice ve srovnání s ostatními zeměmi nezvykle nízká hodnota, ale v komparaci s historickým vývojem tempa růstu cenové hladiny v Japonsku za poslední desetiletí se jedná o nesmírně vysokou míru inflace. A nejen to – inflační očekávání nefinančních podniků rovněž překonala hranici inflačního cíle. Otázkou ale zůstává, zda BoJ bude schopna stabilizovat inflaci na podobných hodnotách i v letech následujících, anebo zda se míra inflace vrátí zpět ke svému dlouhodobému klesajícímu trendu ve chvíli, kdy nynější zvýšená inflace z globálního pohledu pomine.
 
+
+
+![](/uploads/japan-inflation-cpi-1.png){: width="850" height="400"}
+
 ![](blob:https://app.cloudcannon.com/5d8bc443-cb97-46aa-bd4d-062e1dfac734){: width="850" height="400"}
 
 *Inflace a inflační očekávání v Japonsku za posledních 5 let. Zdroj:* [*Trading Economics*](https://tradingeconomics.com/japan/inflation-cpi){: target="_blank" rel="noopener"}
