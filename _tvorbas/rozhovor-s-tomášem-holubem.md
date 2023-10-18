@@ -1,11 +1,11 @@
 ---
 layout: tvorba
-title: Rozhovor s Tomášem Holubem
+title: Rozhovor s radním ČNB Tomášem Holubem
 date: 2023-10-18 00:00:00
 description: >-
   Kolega Martin Kylar udělal rozhovor s členem bankovní rady ČNB Tomášem
   Holubem. Z části jsem se podílel na tvorbě dotazů.
-author: Štěpán Drábek
+author: 'Martin Kylar & Štěpán Drábek '
 featured: true
 featured_image: /uploads/tomas-holub.jpeg
 categories: dalsi tvorba
