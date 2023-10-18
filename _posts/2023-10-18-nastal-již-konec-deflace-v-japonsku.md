@@ -38,7 +38,7 @@ Větší makroekonomické problémy se v Japonsku začínají objevovat již na 
 
 
 
-![](/uploads/vyvoj-inflace-a-hdp-v-japonsku.png){: width="1379" height="633"}
+![](blob:https://app.cloudcannon.com/1dbd6e01-6955-4668-8f47-3fd111767245){: width="1379" height="633"}
 
 
 
@@ -54,7 +54,7 @@ Režim kvantitativního uvolňování byl BoJ dočasně ukončen v roce 2006, kd
 
 
 
-![](/uploads/boj-balance-sheet-struktura.png){: width="1371" height="513"}
+![](blob:https://app.cloudcannon.com/0fd6c669-ff01-4019-b775-64f8be62d3e8){: width="1371" height="513"}
 
 
 
@@ -66,7 +66,7 @@ Po několika dekádách trvajícím boji BoJ s deflací (či alespoň hrozbou je
 
 
 
-![](/uploads/japan-inflation-cpi.png){: width="850" height="400"}
+![](blob:https://app.cloudcannon.com/5d8bc443-cb97-46aa-bd4d-062e1dfac734){: width="850" height="400"}
 
 
 
