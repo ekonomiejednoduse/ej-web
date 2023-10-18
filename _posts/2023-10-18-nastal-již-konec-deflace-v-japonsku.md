@@ -34,11 +34,9 @@ Větší makroekonomické problémy se v Japonsku začínají objevovat již na 
 
 
 
-![](/uploads/vyvoj-inflace-a-hdp-v-japonsku-1.png){: width="1379" height="633"}
+![](/uploads/vyvoj-inflace-a-hdp-v-japonsku-1.png){: .small-centered-image width="1379" height="633"}
 
-![](blob:https://app.cloudcannon.com/1dbd6e01-6955-4668-8f47-3fd111767245){: width="1379" height="633"}
-
-*Vývoj míry inflace a tempo růstu reálného HDP v Japonsku. Zdroj:* [*ČNB*](https://www.cnb.cz/cs/o_cnb/cnblog/Bank-of-Japan-Trnita-cesta-k-inflacnimu-cili/){: target="_blank" rel="noopener"}
+![](blob:https://app.cloudcannon.com/1dbd6e01-6955-4668-8f47-3fd111767245){: width="1379" height="633"}*Vývoj míry inflace a tempo růstu reálného HDP v Japonsku. Zdroj:* [*ČNB*](https://www.cnb.cz/cs/o_cnb/cnblog/Bank-of-Japan-Trnita-cesta-k-inflacnimu-cili/){: target="_blank" rel="noopener"}
 
 Nelze říci, že by japonská centrální banka (Bank of Japan – BoJ) tuto ponurou situaci jen nečinně pozorovala. Dokonce je spíše přesný opak pravdou – BoJ byla ve své měnové politice velmi aktivní a řídila se doporučeními vyplývajícími ze závěrů moderní literatury, ale bohužel ani přesto ve své snaze nebyla úspěšná. Bank of Japan stlačila své úrokové sazby na technickou nulu již v roce 1999, a tím narazila na tzv. Zero lower bound (ZLB – nulová mez nominálních úrokových sazeb). Jelikož nebyl ani tento krok dostatečný pro odvrácení deflačních tlaků, nezbývalo jí nic jiného než uvažovat o aplikaci nových, dosud neozkoušených nástrojů měnové politiky. Japonsko se tím stalo pro ostatní centrální banky užitečným pionýrem, který prvně zavedl nekonvenční nástroje měnové politiky, jakým je především kvantitativní uvolňování (QE).
 
@@ -46,19 +44,15 @@ Režim kvantitativního uvolňování byl BoJ dočasně ukončen v roce 2006, kd
 
 
 
-![](/uploads/boj-balance-sheet-struktura-1.png){: width="1371" height="513"}
+![](/uploads/boj-balance-sheet-struktura-1.png){: .small-centered-image width="1371" height="513"}
 
-![](blob:https://app.cloudcannon.com/0fd6c669-ff01-4019-b775-64f8be62d3e8){: width="1371" height="513"}
-
-*Bilance Bank of Japan. Zdroj:* *[Banco de España](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/21/Files/do2116e.pdf){: target="_blank" rel="noopener"}*&nbsp;[**\[3\]**](#_ftn3)
+![](blob:https://app.cloudcannon.com/0fd6c669-ff01-4019-b775-64f8be62d3e8){: width="1371" height="513"}*Bilance Bank of Japan. Zdroj:* *[Banco de España](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/21/Files/do2116e.pdf){: target="_blank" rel="noopener"}*&nbsp;[**\[3\]**](#_ftn3)
 
 Po několika dekádách trvajícím boji BoJ s deflací (či alespoň hrozbou jejího návratu) se inflace v Japonsku vloni konečně dostala na úroveň 2 %, což je aktuální inflační cíl Bank of Japan, platný od roku 2013. Ba co víc, v lednu letošního roku se tamější inflace vyšplhala dokonce až na 4 % – to je sice ve srovnání s ostatními zeměmi nezvykle nízká hodnota, ale v komparaci s historickým vývojem tempa růstu cenové hladiny v Japonsku za poslední desetiletí se jedná o nesmírně vysokou míru inflace. A nejen to – inflační očekávání nefinančních podniků rovněž překonala hranici inflačního cíle. Otázkou ale zůstává, zda BoJ bude schopna stabilizovat inflaci na podobných hodnotách i v letech následujících, anebo zda se míra inflace vrátí zpět ke svému dlouhodobému klesajícímu trendu ve chvíli, kdy nynější zvýšená inflace z globálního pohledu pomine.
 
 
 
-![](/uploads/japan-inflation-cpi-1.png){: width="850" height="400"}
-
-![](blob:https://app.cloudcannon.com/5d8bc443-cb97-46aa-bd4d-062e1dfac734){: width="850" height="400"}
+![](/uploads/japan-inflation-cpi-1.png){: .small-centered-image width="850" height="400"}
 
 *Inflace a inflační očekávání v Japonsku za posledních 5 let. Zdroj:* [*Trading Economics*](https://tradingeconomics.com/japan/inflation-cpi){: target="_blank" rel="noopener"}
 
