@@ -12,19 +12,18 @@ categories:
 featured_image: /uploads/1-1.png
 download: inflace-rijen.pdf
 seo:
-  title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
+  title: Inflace v říjnu vzroste, přestože ceny rostou pořád pomaleji
   description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+    Čím je způsoben statistický paradox spočívající v tom, že v říjnu roku 2023
+    míra inflace v meziročním vyjádření vzroste, i kdyby se už dále
+    nezdražovalo?
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, inflace, říjen 2023, inflační paradox,
+    ARAD, ČNB, Tomáš Adam, Jiří Schwarz, čnBlog, Petr Sklenář
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, inflace, říjen 2023, inflační paradox,
+    ARAD, ČNB, Tomáš Adam, Jiří Schwarz, čnBlog, Petr Sklenář
   hide-from-google: false
 _comments:
   title: Max 70 characters
@@ -38,7 +37,7 @@ Míra inflace v září v meziročním vyjádření klesla až na 6,9 %. Oproti 
 
 
 
-![](/uploads/vyvoj-inflace-zari-2021-2023-1.png){: width="1670" height="395"}
+![](blob:https://app.cloudcannon.com/4d967aff-538f-4e01-974d-7475b769a867){: width="1670" height="395"}
 
 
 
@@ -54,7 +53,7 @@ A jak se bude inflace vyvíjet v následujících měsících? Hned od října n
 
 
 
-![](/uploads/inflacni-paradox-rijen-2023.png){: width="1235" height="834"}
+![](blob:https://app.cloudcannon.com/1fe4f363-8843-43b1-9d45-273c321fde7b){: width="1235" height="834"}
 
 
 
