@@ -37,7 +37,7 @@ Míra inflace v září v meziročním vyjádření klesla až na 6,9 %. Oproti 
 
 
 
-![](blob:https://app.cloudcannon.com/4d967aff-538f-4e01-974d-7475b769a867){: .small-centered-image width="1670" height="395"}
+![](blob:https://app.cloudcannon.com/4d967aff-538f-4e01-974d-7475b769a867){: width="1670" height="395"}
 
 
 
@@ -53,7 +53,7 @@ A jak se bude inflace vyvíjet v následujících měsících? Hned od října n
 
 
 
-![](blob:https://app.cloudcannon.com/1fe4f363-8843-43b1-9d45-273c321fde7b){: .small-centered-image width="1235" height="834"}
+![](blob:https://app.cloudcannon.com/1fe4f363-8843-43b1-9d45-273c321fde7b){: width="1235" height="834"}
 
 
 
