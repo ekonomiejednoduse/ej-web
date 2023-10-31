@@ -35,7 +35,7 @@ _comments:
 
 [Ve své prezentaci](https://www.cnb.cz/export/sites/cnb/cs/verejnost/.galleries/pro_media/konference_projevy/vystoupeni_projevy/download/20231017_kubicek_diskusni_forum_zlin.pdf){: target="_blank" rel="noopener"} člen bankovní rady uváděl, co považuje za normální (makroekonomický) stav. Neutrální výše úrokových sazeb, která je slučitelná s tímto stavem, by dle něj měla čítat 3 %. Vysvětleme, že tato nominální úroková sazba (i) je považována za neutrální proto, že efektivní úroková míra centrální banky (r\[CB\]) odpovídá přirozené úrokové míře (r\*):
 
-![](blob:https://app.cloudcannon.com/0ed7379b-c823-4d42-978d-2c568d0fb83e){: width="1143" height="159"}
+![](blob:https://app.cloudcannon.com/0ed7379b-c823-4d42-978d-2c568d0fb83e){: .small-centered-image width="1143" height="159"}
 
 Dosadíme-li si do tohoto obecného algebraického zápisu konkrétní čísla, vyjde nám – za předpokladu, že jsou inflační očekávání ukotvena na úrovni inflačního cíle centrální banky (E\[π\] = π\[CB\] = 2 %) a že hodnota přirozené úrokové míry (r\*) je 1 % – že neutrální úroková sazba centrální banky by byla následující:
 
@@ -46,7 +46,7 @@ Neutrální úroková míra nám tedy za výše popsaných předpokladů skuteč
 
 Jan Kubíček ve své prezentaci označuje období nulových nominálních úrokových sazeb ČNB v letech 2012–2017 za nenormální stav. Je nicméně třeba přihlédnout k tomu, že během těchto let byla míra inflace velmi nízká, a tudíž by pro zachování efektivní reálné úrokové míry (r\[CB\]) odpovídající přirozené úrokové míře (r\*) měly být i nominální úrokové sazby centrální banky velmi nízké, ne-li nulové. Obrázek níže zachycuje míru inflace v tomto období, která – jak je z něj vidno – byla po drtivou většinu těchto let pod 2% inflačním cílem ČNB, a to často i poměrně výrazně.
 
-![](blob:https://app.cloudcannon.com/defc99ea-49c9-40dd-97c3-ec60739d5605){: width="1623" height="397"}
+![](blob:https://app.cloudcannon.com/defc99ea-49c9-40dd-97c3-ec60739d5605){: .small-centered-image width="1623" height="397"}
 
 *Míra inflace v ČR v letech 2012–2017. Zdroj:* [*ČNB, ARAD*](https://www.cnb.cz/arad/#/cs/indicators)*. Pozn: měsíční data; metodika 2005; stejné období předchozího roku = 100.*
 
