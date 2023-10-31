@@ -52,7 +52,7 @@ Jan Kubíček ve své prezentaci označuje období nulových nominálních úrok
 
 Další antitezí k pojetí 3% nominální úrokové sazby jako neutrální míry, jež je v souladu s „normálním stavem“, může být fakt, že přirozená úroková míra dlouhodobě značně klesá (ačkoli dodejme, že její měření nikdy není zcela spolehlivé). Její výši přitom centrální banka nedokáže (až na některé myslitelné krajní případy) jakkoli ovlivnit, neboť je determinována ryze nemonetárními faktory, jakými jsou časové preference ekonomických subjektů, produktivita výrobních faktorů, demografický vývoj, technologický pokrok atd.
 
-![](blob:https://app.cloudcannon.com/823f2eb8-edd3-49d1-b26d-d735ca7ae890){: width="1281" height="652"}
+![](blob:https://app.cloudcannon.com/823f2eb8-edd3-49d1-b26d-d735ca7ae890){: .small-centered-image width="1281" height="652"}
 
 *Projekce budoucího vývoje přirozené úrokové míry v jednotlivých zemích. Zdroj:* [*IMF*](https://www.imf.org/-/media/Files/Publications/WEO/2023/April/English/text.ashx)
 
