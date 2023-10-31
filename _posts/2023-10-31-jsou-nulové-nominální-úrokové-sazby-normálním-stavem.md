@@ -10,7 +10,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/eura.jpeg
-download: nulove-sazby.pf
+download: nulove-sazby.pdf
 seo:
   title: Jsou nulové nominální úrokové sazby „normálním stavem“?
   description: >-
