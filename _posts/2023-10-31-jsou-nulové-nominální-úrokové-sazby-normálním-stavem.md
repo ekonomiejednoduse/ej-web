@@ -19,11 +19,13 @@ seo:
     úrovně?
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, reálná úroková míra, úrokové sazby,
+    neutrální úroková míra, ČNB, IMF, přirozená úroková míra, r*, Jan Kubíček,
+    kurzový závazek, inflace
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, reálná úroková míra, úrokové sazby,
+    neutrální úroková míra, ČNB, IMF, přirozená úroková míra, r*, Jan Kubíček,
+    kurzový závazek, inflace
   hide-from-google: false
 _comments:
   title: Max 70 characters
@@ -37,7 +39,7 @@ _comments:
 
 
 
-![](/uploads/r.png){: width="1143" height="159"}
+![](blob:https://app.cloudcannon.com/0ed7379b-c823-4d42-978d-2c568d0fb83e){: width="1143" height="159"}
 
 
 
@@ -58,7 +60,7 @@ Jan Kubíček ve své prezentaci označuje období nulových nominálních úrok
 
 
 
-![](/uploads/arad-mira-inflace-behem-kurzoveho-zavazku.png){: width="1623" height="397"}
+![](blob:https://app.cloudcannon.com/defc99ea-49c9-40dd-97c3-ec60739d5605){: width="1623" height="397"}
 
 
 
@@ -70,7 +72,7 @@ Další antitezí k pojetí 3% nominální úrokové sazby jako neutrální mír
 
 
 
-![](/uploads/imf-predikce-r.png){: width="1281" height="652"}
+![](blob:https://app.cloudcannon.com/823f2eb8-edd3-49d1-b26d-d735ca7ae890){: width="1281" height="652"}
 
 
 
