@@ -33,7 +33,7 @@ _comments:
 
 Míra inflace v září v meziročním vyjádření klesla až na 6,9 %. Oproti srpnu se tak jedná o 1,6% pokles, což je o dost více, než kolik očekávali analytici finančního trhu. Jak [popisuje](https://www.jtbank.cz/clanky/insight/mira-inflace-v-zari-klesla-na-6-9){: target="_blank" rel="noopener"} Petr Sklenář, za touto změnou stojí výlučně zlevňující potraviny a energie.
 
-![](/uploads/vyvoj-inflace-zari-2021-2023-2.png){: .small-centered-image width="1670" height="395"}
+![](/uploads/vyvoj-inflace-zari-2021-2023-2.png){: width="1670" height="395"}
 
 *Vývoj spotřebitelských cen. Zdroj:* [*ČNB, ARAD*](https://www.cnb.cz/arad/#/cs/home){: target="_blank" rel="noopener"}*. Pozn.: měsíční data; stejné období předchozího roku = 100.*
 
