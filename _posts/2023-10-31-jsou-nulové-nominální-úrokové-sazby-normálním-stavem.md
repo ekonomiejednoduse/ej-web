@@ -39,7 +39,7 @@ _comments:
 
 
 
-![](blob:https://app.cloudcannon.com/0ed7379b-c823-4d42-978d-2c568d0fb83e){: .small-centered-image width="1143" height="159"}
+![](blob:https://app.cloudcannon.com/0ed7379b-c823-4d42-978d-2c568d0fb83e){: width="1143" height="159"}
 
 
 
@@ -60,7 +60,7 @@ Jan Kubíček ve své prezentaci označuje období nulových nominálních úrok
 
 
 
-![](blob:https://app.cloudcannon.com/defc99ea-49c9-40dd-97c3-ec60739d5605){: .small-centered-image width="1623" height="397"}
+![](blob:https://app.cloudcannon.com/defc99ea-49c9-40dd-97c3-ec60739d5605){: width="1623" height="397"}
 
 
 
@@ -72,7 +72,7 @@ Další antitezí k pojetí 3% nominální úrokové sazby jako neutrální mír
 
 
 
-![](blob:https://app.cloudcannon.com/823f2eb8-edd3-49d1-b26d-d735ca7ae890){: .small-centered-image width="1281" height="652"}
+![](blob:https://app.cloudcannon.com/823f2eb8-edd3-49d1-b26d-d735ca7ae890){: width="1281" height="652"}
 
 
 
