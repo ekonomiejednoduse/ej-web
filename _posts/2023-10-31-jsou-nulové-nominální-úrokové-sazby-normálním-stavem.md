@@ -35,7 +35,7 @@ _comments:
 
 [Ve své prezentaci](https://www.cnb.cz/export/sites/cnb/cs/verejnost/.galleries/pro_media/konference_projevy/vystoupeni_projevy/download/20231017_kubicek_diskusni_forum_zlin.pdf){: target="_blank" rel="noopener"} člen bankovní rady uváděl, co považuje za normální (makroekonomický) stav. Neutrální výše úrokových sazeb, která je slučitelná s tímto stavem, by dle něj měla čítat 3 %. Vysvětleme, že tato nominální úroková sazba (i) je považována za neutrální proto, že efektivní úroková míra centrální banky (r\[CB\]) odpovídá přirozené úrokové míře (r\*):
 
-![](blob:https://app.cloudcannon.com/0ed7379b-c823-4d42-978d-2c568d0fb83e){: width="1143" height="159"}
+![](/uploads/r-1.png){: width="1143" height="159"}![](blob:https://app.cloudcannon.com/0ed7379b-c823-4d42-978d-2c568d0fb83e){: width="1143" height="159"}
 
 Dosadíme-li si do tohoto obecného algebraického zápisu konkrétní čísla, vyjde nám – za předpokladu, že jsou inflační očekávání ukotvena na úrovni inflačního cíle centrální banky (E\[π\] = π\[CB\] = 2 %) a že hodnota přirozené úrokové míry (r\*) je 1 % – že neutrální úroková sazba centrální banky by byla následující:
 
@@ -46,13 +46,13 @@ Neutrální úroková míra nám tedy za výše popsaných předpokladů skuteč
 
 Jan Kubíček ve své prezentaci označuje období nulových nominálních úrokových sazeb ČNB v letech 2012–2017 za nenormální stav. Je nicméně třeba přihlédnout k tomu, že během těchto let byla míra inflace velmi nízká, a tudíž by pro zachování efektivní reálné úrokové míry (r\[CB\]) odpovídající přirozené úrokové míře (r\*) měly být i nominální úrokové sazby centrální banky velmi nízké, ne-li nulové. Obrázek níže zachycuje míru inflace v tomto období, která – jak je z něj vidno – byla po drtivou většinu těchto let pod 2% inflačním cílem ČNB, a to často i poměrně výrazně.
 
-![](blob:https://app.cloudcannon.com/defc99ea-49c9-40dd-97c3-ec60739d5605){: width="1623" height="397"}
+![](/uploads/arad-mira-inflace-behem-kurzoveho-zavazku-1.png){: width="1623" height="397"}![](blob:https://app.cloudcannon.com/defc99ea-49c9-40dd-97c3-ec60739d5605){: width="1623" height="397"}
 
 *Míra inflace v ČR v letech 2012–2017. Zdroj:* [*ČNB, ARAD*](https://www.cnb.cz/arad/#/cs/indicators){: target="_blank" rel="noopener"}*. Pozn: měsíční data; metodika 2005; stejné období předchozího roku = 100.*
 
 Další antitezí k pojetí 3% nominální úrokové sazby jako neutrální míry, jež je v souladu s „normálním stavem“, může být fakt, že přirozená úroková míra dlouhodobě značně klesá (ačkoli dodejme, že její měření nikdy není zcela spolehlivé). Její výši přitom centrální banka nedokáže (až na některé myslitelné krajní případy) jakkoli ovlivnit, neboť je determinována ryze nemonetárními faktory, jakými jsou časové preference ekonomických subjektů, produktivita výrobních faktorů, demografický vývoj, technologický pokrok atd.
 
-![](blob:https://app.cloudcannon.com/823f2eb8-edd3-49d1-b26d-d735ca7ae890){: width="1281" height="652"}
+![](/uploads/imf-predikce-r-1.png){: width="1281" height="652"}![](blob:https://app.cloudcannon.com/823f2eb8-edd3-49d1-b26d-d735ca7ae890){: width="1281" height="652"}
 
 *Projekce budoucího vývoje přirozené úrokové míry v jednotlivých zemích. Zdroj:* [*IMF*](https://www.imf.org/-/media/Files/Publications/WEO/2023/April/English/text.ashx){: target="_blank" rel="noopener"}
 
