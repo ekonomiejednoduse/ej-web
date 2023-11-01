@@ -32,7 +32,7 @@ Pro Liberální institut jsem přeložil Hayekův článek "Types of Mind" do č
 
 
 
-**F. A. Hayek – Druhy mysli (1975)[**\[1\]**](#_ftn1)**
+**F. A. Hayek – Druhy mysli (1975)[\[1\]](#_ftn1)**
 
 
 
