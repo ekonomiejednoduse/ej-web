@@ -30,6 +30,10 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+Článek vyšel pro&nbsp;[Liberální institut](https://libinst.cz/fata-morgana-cenove-stability/){: target="_blank" rel="noopener"}
+
+
+
 Udržování cenové stability představuje ústřední poslání všech měnových autorit. Ačkoli je právě cenová stabilita obecně považována za ideální cíl měnové politiky, v tomto článku uvádím hned několik důvodů, proč se může jednat o účel inferiorní a proč může být i mírná inflace, jíž je dosahováno činností centrální banky, zcela oprávněně označována zlem.
 
 
