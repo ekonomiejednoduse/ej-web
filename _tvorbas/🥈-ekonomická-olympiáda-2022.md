@@ -1,6 +1,6 @@
 ---
 layout: tvorba
-title: Překlad Hayekova článku "How to deal with inflation"
+title: Překlad Hayekova článku "How to deal with inflation?"
 date: 2023-11-14 00:00:00
 description: >
   Přeložil jsem z angličtiny Hayekův krátký článek "How to deal with inflation?"
