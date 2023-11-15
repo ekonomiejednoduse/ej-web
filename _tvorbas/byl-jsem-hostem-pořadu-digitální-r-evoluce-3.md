@@ -10,7 +10,7 @@ featured: true
 featured_image: /uploads/snimek-obrazovky-2023-11-15-v-21-49-09.png
 categories: dalsi tvorba
 download:
-video-url: ZHSry2dY2N8
+video-url: ZHSry2dY2N8?si=l4_h0DWTlqmSJ0WN&t=612
 seo:
   title: 'Byl jsem hostem pořadu Digitální (R)evoluce #3'
   description: >-
