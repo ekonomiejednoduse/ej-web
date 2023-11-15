@@ -9,7 +9,7 @@ author: Štěpán Drábek
 featured: true
 featured_image: /uploads/snimek-obrazovky-2023-11-15-v-21-49-09.png
 categories: dalsi tvorba
-download: iGAVkDZ_6GSfTiJD
+download: ZHSry2dY2N8
 video-url:
 seo:
   title: 'Byl jsem hostem pořadu Digitální (R)evoluce #3'
