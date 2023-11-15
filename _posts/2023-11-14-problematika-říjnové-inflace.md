@@ -8,7 +8,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/prispevky-rustu-rijnove-inflace.png
-download:
+download: rijnova-inflace.pdf
 seo:
   title: Problematika říjnové inflace
   description: "Český statistický úřad (ČSÚ) dne 10. 11. zveřejnil data o říjnové inflaci. Ta v\_meziročním vyjádření čítá 8,5 %, tedy o 1,6 % více než zářijových 6,9 %. Co za tímto „růstem“ míry inflace stojí?"
