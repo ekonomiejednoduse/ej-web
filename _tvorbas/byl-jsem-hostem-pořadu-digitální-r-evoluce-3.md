@@ -17,11 +17,15 @@ seo:
     Byl jsem hostem třetího dílu pořadu Digitální (R)evoluce, projektu, za nímž
     stojí můj kamarád Jan Kohout (Kryptoplebs)
   social_image:
-  twitter_card:
-  keywords: Ekonomická olympiáda, EO, EO 2022, EO22
+  twitter_card: >-
+    Štěpán Drábek, Kryptoplebs, Bitcoin, digitální revoluce, nestátní peníze,
+    Hayek, denacionalizace peněz
+  keywords: >-
+    Štěpán Drábek, Kryptoplebs, Bitcoin, digitální revoluce, nestátní peníze,
+    Hayek, denacionalizace peněz
   hide-from-google: false
 _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Byl jsem hostem třetího dílu pořadu [Digitální (R)evoluce](https://youtu.be/ZHSry2dY2N8?si=GtEDQFBEnM-Iu2oe){: target="_blank" rel="noopener"}, projektu, za nímž stojí můj kamarád Jan Kohout (Kryptoplebs). Objevuji se zde v čase 10:14–10:30 a hovořím o bitcoinu ve smyslu "[Hayekovy denacionalizace peněz](https://www.bitperia.cz/clanek/moznost-volby-meny-hayek){: target="_blank" rel="noopener"}".
+Byl jsem hostem třetího dílu pořadu [Digitální (R)evoluce](https://youtu.be/ZHSry2dY2N8?si=GtEDQFBEnM-Iu2oe){: target="_blank" rel="noopener"}, projektu, za nímž stojí můj kamarád Jan Kohout (Kryptoplebs). Objevuji se zde v čase 10:14–10:30 a hovořím o bitcoinu ve smyslu [Hayekova pojetí denacionalizace peněz](https://www.bitperia.cz/clanek/moznost-volby-meny-hayek){: target="_blank" rel="noopener"}.
