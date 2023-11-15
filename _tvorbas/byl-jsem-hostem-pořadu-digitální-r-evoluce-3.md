@@ -2,7 +2,7 @@
 layout: tvorba
 title: 'Byl jsem hostem pořadu Digitální (R)evoluce #3'
 date: 2023-11-15 00:00:00
-description: >
+description: >-
   Byl jsem hostem třetího dílu pořadu Digitální (R)evoluce, projektu, za nímž
   stojí můj kamarád Jan Kohout (Kryptoplebs)
 author: Štěpán Drábek
@@ -12,8 +12,10 @@ categories: dalsi tvorba
 download: iGAVkDZ_6GSfTiJD&t=612
 video-url:
 seo:
-  title: 'Ekonomická olympiáda '
-  description:
+  title: 'Byl jsem hostem pořadu Digitální (R)evoluce #3'
+  description: >-
+    Byl jsem hostem třetího dílu pořadu Digitální (R)evoluce, projektu, za nímž
+    stojí můj kamarád Jan Kohout (Kryptoplebs)
   social_image:
   twitter_card:
   keywords: Ekonomická olympiáda, EO, EO 2022, EO22
