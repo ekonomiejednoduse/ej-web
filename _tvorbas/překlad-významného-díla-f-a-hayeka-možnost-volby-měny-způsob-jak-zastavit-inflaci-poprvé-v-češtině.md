@@ -1,8 +1,8 @@
 ---
 layout: tvorba
 title: >-
-  Překlad významného díla F. A. Hayeka: Možnost volby měny - Způsob, jak
-  zastavit inflaci. Poprvé v češtině!
+  Překlad významného díla F. A. Hayeka: Možnost volby měny – Způsob, jak
+  zastavit inflaci. 
 date: 2023-11-16 00:00:00
 description: >-
   Jeden z nejvýznamnějších ekonomů všech dob F. A. Hayek se ve svém díle Možnost
