@@ -5,10 +5,9 @@ title: >-
   zastavit inflaci. 
 date: 2023-11-16 00:00:00
 description: >-
-  Jeden z nejvýznamnějších ekonomů všech dob F. A. Hayek se ve svém díle Možnost
-  volby měny zabývá příčinami a důsledky tzv. "Velké inflace" a prvně popisuje
-  svůj praktický návrh na odluku peněz od státu, která by mohla být konečným
-  řešením dlouholetých inflačních potíží. Z angličtiny přeložil Štěpán Drábek.
+  F. A. Hayek se ve svém díle "Možnost volby měny" zabývá příčinami a důsledky
+  tzv. "Velké inflace" a prvně popisuje svůj praktický návrh na odluku peněz od
+  státu, která by mohla být konečným řešením dlouholetých inflačních potíží.
 author: Štěpán Drábek
 featured: true
 featured_image: /uploads/hayek-bitperia.jpeg
