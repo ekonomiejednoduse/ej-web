@@ -7,7 +7,7 @@ description: >-
   stojí můj kamarád Jan Kohout (Kryptoplebs)
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/nahledovka-vox.jpeg
+featured_image: /uploads/nahledovka-vox-1.jpeg
 categories: dalsi tvorba
 download:
 video-url: unaT3sMp-CI
