@@ -28,4 +28,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Byl jsem hostem čtvrtého dílu pořadu&nbsp;[Digitální (R)evoluce](https://youtu.be/unaT3sMp-CI?si=CjY8sgrBdLaFJczZ){: target="_blank" rel="noopener"}, projektu, za nímž stojí můj kamarád Jan Kohout (Kryptoplebs). Objevuji se zde v časech 0:59–1:17; 5:03–5:21; 6:38–7:07. Odkaz:&nbsp;[https://youtu.be/unaT3sMp-CI?si=nsH8-NCmRHKxqMJV](https://youtu.be/unaT3sMp-CI?si=nsH8-NCmRHKxqMJV){: target="_blank" rel="noopener"}
+Byl jsem hostem čtvrtého dílu pořadu&nbsp;[Digitální (R)evoluce](https://youtu.be/unaT3sMp-CI?si=CjY8sgrBdLaFJczZ){: target="_blank" rel="noopener"}, projektu, za nímž stojí můj kamarád Jan Kohout (Kryptoplebs). Objevuji se zde v časech 0:59–1:17; 5:03–5:21; 6:38–7:07.&nbsp;
