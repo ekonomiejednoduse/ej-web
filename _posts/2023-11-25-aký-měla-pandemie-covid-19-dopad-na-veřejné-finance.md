@@ -11,16 +11,16 @@ featured_image: /uploads/covid-verejne-finance.jpeg
 download: covid-verejne-finance.pdf
 seo:
   title: Jaký měla pandemie covid-19 dopad na veřejné finance?
-  description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+  description: "Ačkoli již pár let uběhlo od doby, kdy celý svět postihla pandemie viru SARS-CoV-2, toto období zanechalo přinejmenším na ekonomiku mnoho velice nepříjemných dopadů. Co se z\_pohledu veřejných financí na počátku druhé dekády tohoto století tak změnilo a kdo nakonec zaplatí stále znepokojivě bobtnající dluh vlády?"
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Martin Kábrt, ČNB, NRR, Národní
+    rozpočtová rada, vládní zadlužování, vládní příjmy, vládní výdaje, deficit,
+    státní rozpočet, CETA, Centrum ekonomických a tržních analýz
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Martin Kábrt, ČNB, NRR, Národní
+    rozpočtová rada, vládní zadlužování, vládní příjmy, vládní výdaje, deficit,
+    státní rozpočet, CETA, Centrum ekonomických a tržních analýz
   hide-from-google: false
 _comments:
   title: Max 70 characters
