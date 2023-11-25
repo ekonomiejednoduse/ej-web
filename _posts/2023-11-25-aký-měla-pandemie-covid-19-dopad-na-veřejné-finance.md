@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jaký měla pandemie covid-19 dopad na veřejné finance?
+title: Jaký měla pandemie COVID-19 dopad na veřejné finance?
 date: 2023-11-25 00:00:00
 description: "Ačkoli již pár let uběhlo od doby, kdy celý svět postihla pandemie viru SARS-CoV-2, toto období zanechalo přinejmenším na ekonomiku mnoho velice nepříjemných dopadů. Co se z\_pohledu veřejných financí tak změnilo a kdo nakonec zaplatí stále znepokojivě bobtnající dluh vlády?"
 author: Štěpán Drábek
