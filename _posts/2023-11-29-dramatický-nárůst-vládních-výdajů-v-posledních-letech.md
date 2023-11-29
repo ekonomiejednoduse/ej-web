@@ -58,7 +58,7 @@ Zajímavá je rovněž dekompozice celkového nárůstu výdajů státního rozp
 
 
 
-
+![](/uploads/cerge-struktura-narustu-vydaju-statniho-rozpoctu-2019-2024-1.png){: width="728" height="549"}
 
 
 
