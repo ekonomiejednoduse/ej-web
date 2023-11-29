@@ -20,11 +20,13 @@ seo:
     Jaké jsou hlavní závěry této studie?
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, CERGE-EI, IDEA, CETA, Centrum
+    ekonomických a tržních analýz, veřejné výdaje, státní rozpočet, deficit,
+    2024
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, CERGE-EI, IDEA, CETA, Centrum
+    ekonomických a tržních analýz, veřejné výdaje, státní rozpočet, deficit,
+    2024
   hide-from-google: false
 _comments:
   title: Max 70 characters
