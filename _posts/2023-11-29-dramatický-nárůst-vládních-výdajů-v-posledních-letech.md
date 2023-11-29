@@ -46,7 +46,7 @@ Autoři dále ukazují, že při porovnání let 2019 a 2024 je nárůst výdaj�
 
 
 
-
+![](/uploads/narust-makrekon-velicin-od-roku-2019-cerge-1.png){: width="799" height="468"}
 
 
 
