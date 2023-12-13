@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Čeká nás znova scénář „The Great Inflation“?
-date: 2023-03-14 00:00:00
+date: 2023-12-13 00:00:00
 description: >-
   Jak vysoká je pravděpodobnost opakování scénáře The Great Inflation ze 70. let
   minulého století? Existují mezi touto dobou a současností určité paralely?
