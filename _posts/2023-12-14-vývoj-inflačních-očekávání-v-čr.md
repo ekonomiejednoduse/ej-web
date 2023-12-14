@@ -48,7 +48,7 @@ V říjnu z čistě statistických důvodů (tj. kvůli nízké srovnávací zá
 
 
 
-
+![](/uploads/tabulka-inflacnich-ocekavani-1.png){: width="642" height="465"}
 
 
 
