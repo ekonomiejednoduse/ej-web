@@ -18,9 +18,8 @@ seo:
   description: >-
     Česká národní banka (ČNB) nedávno zveřejnila výsledek svého statistického
     šetření zkoumajícího inflační očekávání analytiků finančního trhu v
-    listopadu letošního roku.  Z výsledků tohoto šetření vyplývá, že se inflační
-    očekávání analytiků finančního trhu v ročním ani tříletém horizontu nijak
-    nezměnila.
+    listopadu letošního roku.  Z výsledků vyplývá, že se inflační očekávání
+    analytiků finančního trhu nijak nezměnila.
   social_image:
   twitter_card: >-
     Štěpán Drábek, Ekonomie Jednoduše, inflační očekávání, inflace, ČNB, Česká
