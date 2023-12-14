@@ -40,7 +40,7 @@ _comments:
 
 
 
-![](/uploads/listopad-inflacni-ocekavani.png){: width="1801" height="401"}
+![](/uploads/listopad-inflacni-ocekavani.png){: .small-centered-image width="1801" height="401"}
 
 
 
@@ -52,7 +52,7 @@ V říjnu z čistě statistických důvodů (tj. kvůli nízké srovnávací zá
 
 
 
-![](/uploads/tabulka-inflacnich-ocekavani-1.png){: width="642" height="465"}
+![](/uploads/tabulka-inflacnich-ocekavani-1.png){: .small-centered-image width="642" height="465"}
 
 
 
