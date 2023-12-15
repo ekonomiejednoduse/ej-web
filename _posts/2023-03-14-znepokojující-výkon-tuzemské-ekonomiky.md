@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Znepokojující výkon tuzemské ekonomiky
-date: 2023-03-14 00:00:00
-description:
+date: 2023-12-15 00:00:00
+description: >-
+  Dle čerstvých dat Českého statistického úřadu (ČSÚ) činila změna tuzemského
+  hrubého domácího produktu očištěného o cenové, sezónní a kalendářní vlivy ve
+  třetím čtvrtletí letošního roku v meziročním vyjádření –0,7 %. Co za tímto
+  propadem HDP stojí?
 author: Štěpán Drábek
 featured: true
 categories:
@@ -10,25 +14,29 @@ categories:
 featured_image: /uploads/money-1685930-1920-840x440-jpg.webp
 download: vykon-tuzemske-ekonomiky.pdf
 seo:
-  title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
+  title: Znepokojující výkon tuzemské ekonomiky
   description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+    Dle čerstvých dat Českého statistického úřadu (ČSÚ) činila změna tuzemského
+    hrubého domácího produktu očištěného o cenové, sezónní a kalendářní vlivy ve
+    třetím čtvrtletí letošního roku v meziročním vyjádření –0,7 %. Co za tímto
+    propadem HDP stojí?
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, HDP, tuzemská ekonomika, česká ekonomika,
+    Hrubý domácí produkt
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, HDP, tuzemská ekonomika, česká ekonomika,
+    Hrubý domácí produkt
   hide-from-google: false
 _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Dle [čerstvých dat](https://www.czso.cz/csu/czso/hdp_narodni_ucty) Českého statistického úřadu (ČSÚ) činila změna tuzemského hrubého domácího produktu očištěného o cenové, sezónní a kalendářní vlivy ve třetím čtvrtletí letošního roku v meziročním vyjádření –0,7 %. Oproti předchozímu čtvrtletí je to pokles o 0,5 %. Co za tímto propadem HDP stojí a bude souhrnná ekonomické aktivita v ČR klesat i v čtvrtletích následujících?
+Článek vyšel pro&nbsp;**Centrum ekonomických a tržních analýz (CETA)**. Odkaz:&nbsp;[https://e-news.cz/aktuality/ceta-znepokojujici-vykon-tuzemske-ekonomiky/](https://e-news.cz/aktuality/ceta-znepokojujici-vykon-tuzemske-ekonomiky/){: target="_blank" rel="noopener"}
+
+
+
+Dle [čerstvých dat](https://www.czso.cz/csu/czso/hdp_narodni_ucty){: target="_blank" rel="noopener"} Českého statistického úřadu (ČSÚ) činila změna tuzemského hrubého domácího produktu očištěného o cenové, sezónní a kalendářní vlivy ve třetím čtvrtletí letošního roku v meziročním vyjádření –0,7 %. Oproti předchozímu čtvrtletí je to pokles o 0,5 %. Co za tímto propadem HDP stojí a bude souhrnná ekonomické aktivita v ČR klesat i v čtvrtletích následujících?
 
 
 
