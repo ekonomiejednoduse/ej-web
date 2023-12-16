@@ -7,7 +7,6 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-  - bitcoin
 featured_image: /uploads/1-1.png
 download: neni-inflace-jako-inflace.pdf
 seo:
@@ -15,11 +14,11 @@ seo:
   description: "Inflace je v\_ČR měřena pomocí indexu CPI, který u nás počítá Český statistický úřad (ČSÚ). ČSÚ se snaží zachycovat nákupní aktivitu průměrného českého spotřebitele. Jak však ukazuji v\_tomto článku, inflace se může značně lišit napříč jednotlivými domácnostmi."
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, inflace, ČNB, Česká národní banka,
+    čnBlog, domácnosti, důchodci, ČSÚ
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, inflace, ČNB, Česká národní banka,
+    čnBlog, domácnosti, důchodci, ČSÚ
   hide-from-google: false
 _comments:
   title: Max 70 characters
