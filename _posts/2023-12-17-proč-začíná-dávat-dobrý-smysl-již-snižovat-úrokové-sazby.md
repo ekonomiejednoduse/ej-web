@@ -18,12 +18,8 @@ seo:
     Česká národní banka (ČNB) stále drží svou základní úrokovou sazbu na 7 %.
     Dává již smysl uvažovat o začátku cyklu snižování úrokových sazeb v ČR?
   social_image:
-  twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
-  keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+  twitter_card: Štěpán Drábek, Ekonomie Jednoduše, Martin Kylar, CETA, ČNB, inflace
+  keywords: Štěpán Drábek, Ekonomie Jednoduše, Martin Kylar, CETA, ČNB, inflace
   hide-from-google: false
 _comments:
   title: Max 70 characters
