@@ -9,8 +9,7 @@ author: Štěpán Drábek & Martin Kylar
 featured: true
 categories:
   - ekonomie
-  - bitcoin
-featured_image: /uploads/btc-hezka-fotka.jpeg
+featured_image: /uploads/cnb-2.jpeg
 download: proc-dava-smysl-snizovat-sazby.pdf
 seo:
   title: Proč začíná dávat dobrý smysl již snižovat úrokové sazby?
