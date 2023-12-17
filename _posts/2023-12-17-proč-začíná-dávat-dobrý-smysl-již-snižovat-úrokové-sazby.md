@@ -13,9 +13,7 @@ categories:
 featured_image: /uploads/btc-hezka-fotka.jpeg
 download: proc-dava-smysl-snizovat-sazby.pdf
 seo:
-  title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
+  title: Proč začíná dávat dobrý smysl již snižovat úrokové sazby?
   description: >-
     Česká národní banka (ČNB) stále drží svou základní úrokovou sazbu na 7 %.
     Dává již smysl uvažovat o začátku cyklu snižování úrokových sazeb v ČR?
