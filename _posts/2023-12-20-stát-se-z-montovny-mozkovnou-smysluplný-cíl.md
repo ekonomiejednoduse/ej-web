@@ -3,28 +3,28 @@ layout: post
 title: Stát se z montovny mozkovnou – smysluplný cíl?
 date: 2023-12-20 00:00:00
 description: >-
-  Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma letošního
-  ročníku soutěže pro studenty SŠ.
+  Nikdo z nás se zřejmě neubránil konfrontaci s návrhy různých jedinců a
+  institucí, jak učinit z naší země, pejorativně nazývané „montovnou“, pomyslnou
+  „mozkovnu“. Je však takový cíl opodstatněný?
 author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
 featured_image: /uploads/pragensi-ponte-jpg.webp
-download: drabek-kryptomeny.pdf
+download: montovna-mozkovna.pdf
 seo:
-  title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
+  title: Stát se z montovny mozkovnou – smysluplný cíl?
   description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+    Nikdo z nás se zřejmě neubránil konfrontaci s návrhy různých jedinců a
+    institucí, jak učinit z naší země, pejorativně nazývané „montovnou“,
+    pomyslnou „mozkovnu“. Je však takový cíl opodstatněný?
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Hayek, montovna. mozkovna, ekonomika ČR,
+    vize, ČR, F. A. Hayek
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, Hayek, montovna. mozkovna, ekonomika ČR,
+    vize, ČR, F. A. Hayek
   hide-from-google: false
 _comments:
   title: Max 70 characters
