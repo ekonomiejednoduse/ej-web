@@ -45,7 +45,7 @@ A jak je tomu nyní v ČR? Kdo byl inflací nejméně, a kdo naopak nejvíce zas
 
 
 
-![](/uploads/kabrt.png){: width="899" height="714"}
+![](/uploads/kabrt.png){: .small-centered-image width="899" height="714"}
 
 
 
