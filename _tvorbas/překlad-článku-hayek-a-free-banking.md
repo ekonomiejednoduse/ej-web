@@ -31,7 +31,11 @@ Překlad vyšel pro&nbsp;[Liberální institut](https://libinst.cz/hayek-a-free-
 
 
 
+
+
 Friedrichu Hayekovi vděčím za mnohé. Nebýt jeho, možná bych se nikdy nedozvěděl o „svobodném bankovnictví“, tedy o [pravém bankovnictví, a ne o jeho falešné americké verzi z dob předminulého století](https://www.cato.org/blog/what-you-should-know-about-free-banking-history){: target="_blank" rel="noopener"}. Určitě bych o něm každopádně nikdy nepsal. A možná ani žádný jiný moderní ekonom.
+
+
 
 
 
@@ -39,7 +43,11 @@ Byly to až dvě brožury, které Hayek vydal v sedmdesátých letech – nejprv
 
 
 
+
+
 Hayek sám však nebyl žádným velkým přívržencem svobodného bankovnictví. Za prvé, jeho vlastní vize „volby měny“ měla jen málo (pokud vůbec) co dočinění s historickým uspořádáním svobodného bankovnictví. Banky v těchto režimech operovaly se zavedenými peněžními jednotkami z drahých kovů, jako byla britská libra nebo americký dolar, přijímaly vklady kovových peněz nebo pohledávky na ně a nabízely vlastní pohotově splatné závazky, včetně oběžných bankovek. V Hayekově schématu naproti tomu konkurenční firmy vydávají nesplatitelné papírové bankovky, přičemž každá z nich představuje samostatnou peněžní jednotku. Hayekovy „banky“ se zdaleka nepodobají běžným komerčním bankám, ale připomínají spíše mnohé moderní centrální banky, neboť emitují jakýsi druh „fiat“ peněz. Od skutečných centrálních bank se však liší tím, že nemají ani monopolní privilegia, ani moc nutit kohokoli přijímat jejich produkty.[\[3\]](#_ftn3)
+
+
 
 
 
@@ -47,7 +55,11 @@ Hayek tvrdil, že konkurence donutí soukromé emitenty nesměnitelných měn ud
 
 
 
+
+
 Hayek se však neodlišoval od zastánců svobodného bankovnictví pouze tím, že navrhoval formu měnové konkurence lišící se od svobodného bankovnictví. Výslovně se postavil proti svobodnému bankovnictví. Na otázku v rozhlasovém rozhovoru v roce 1945, zda považuje Federální rezervní systém za krok na „cestě do otroctví“, bez váhání odpověděl: *„Ne. To, že měnový systém musí být pod centrální kontrolou, podle mého názoru žádný rozumný člověk nikdy nepopíral.“[**\[5\]**](#_ftn5)* A přestože v sedmdesátých letech dospěl k přesvědčení, že je možné a žádoucí mít měnovou zásobu tvořenou nesměnitelnými papírovými penězi mnoha soukromých firem, nadále zastával názor, že dokud budou státní orgány dodávat národu standardní peníze, *neměly* *by* soukromé firmy mít možnost vydávat oběživo denominované a směnitelné v těchto penězích.
+
+
 
 
 
@@ -59,7 +71,11 @@ Nejzřetelněji se Hayek ke svobodnému bankovnictví vyjádřil později ve sv�
 
 
 
+
+
 Vlády si ve skutečnosti monopolizovaly ražbu zlata a dalších kovů nikoli z nějakých dobrých důvodů, nýbrž jednoduše proto, že jim to [dávalo možnost manipulovat se standardem drahých kovů za účelem dosažení fiskálních cílů](https://www.youtube.com/watch?v=-gn55fTRXZw){: target="_blank" rel="noopener"}. Ale právě poslední věta tohoto citátu je nejpřekvapivější, protože to, co Hayek prohlašuje za „nefunkční“, je uspořádání, které na mnoha místech, včetně Kanady, kde přetrvalo ještě za Hayekova života, [docela úspěšně fungovalo](https://www.cato.org/blog/hayek-free-banking-0){: target="_blank" rel="noopener"}. Kanadský bankovní a měnový systém byl ve skutečnosti pozoruhodně stabilní, zcela se [vyvaroval krizí, které postihly Spojené státy v desetiletích předcházejících založení Fedu](https://www.cato.org/blog/hayek-free-banking-0){: target="_blank" rel="noopener"}, a [přečkal Velkou hospodářskou krizi mnohem lépe než americký systém](https://www.cato.org/blog/hayek-free-banking-0){: target="_blank" rel="noopener"}, přestože až do konce této epizody neměl centrální banku.[\[7\]](#_ftn7)
+
+
 
 
 
@@ -67,7 +83,11 @@ To, že Hayek psal, jako by o kanadské zkušenosti nebo o ještě slavnější 
 
 
 
+
+
 Zapomněl snad Hayek na práci svého vlastního doktoranda, ba na některé své vlastní rané studie? Změnil jednoduše názor a vrátil se ke konvenčnímu pohledu po krátké pauze, během níž měl na svobodné bankovnictví kladnější názor? Anebo snad nikdy nepřijal argumenty školy svobodného bankovnictví?
+
+
 
 
 
@@ -75,7 +95,11 @@ Larry White, který před několika lety upozornil na Hayekův postoj proti svob
 
 
 
+
+
 Hayek se však mýlil. Oblíbený názor, podle něhož mohou banky expandovat úvěry, jak se jim jen zlíbí, [dokud je poskytují jednotně](https://www.jstor.org/stable/2673887?seq=1#page_scan_tab_contents){: target="_blank" rel="noopener"}, nesprávně ztotožňuje poptávku banky po rezervách s její čistou poptávkou po nich – tedy s její potřebou rezerv na pokrytí očekávaných nebo deterministických odlivů. To přehlíží potřebu bank po „preventivních“ rezervách neboli rezervách, které slouží k ochraně před nepřiměřeným rizikem stochastických nebo náhodných ztrát rezerv. Dokonce i dobře koordinovaná expanze bankovních úvěrů v celém odvětví bude znamenat určité zvýšení celkové poptávky bank po preventivních rezervách. Z tohoto důvodu není taková koordinovaná expanze udržitelná, není-li doprovázena zvýšením nominálního množství bankovních rezerv. Proto, [zkoumáme-li historii tzv. bankovních úvěrových „mánií“,](https://link.springer.com/article/10.1007/BF01046629){: target="_blank" rel="noopener"} zjišťujeme, že obvykle zahrnují nikoli výrazný pokles míry bankovních rezerv, nýbrž významné zvýšení nominálního množství bankovních rezerv.
+
+
 
 
 
