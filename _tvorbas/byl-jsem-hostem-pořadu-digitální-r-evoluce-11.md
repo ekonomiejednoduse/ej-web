@@ -9,8 +9,8 @@ author: Štěpán Drábek
 featured: true
 featured_image: /uploads/snimek-obrazovky-2024-01-18-v-19-34-52.png
 categories: dalsi tvorba
-download: YqT-UL8jw8A?si=P2KqWCfNDDid2xwx
-video-url:
+download:
+video-url: YqT-UL8jw8A?si=P2KqWCfNDDid2xwx
 seo:
   title: 'Byl jsem hostem pořadu Digitální (R)evoluce #11'
   description: >-
