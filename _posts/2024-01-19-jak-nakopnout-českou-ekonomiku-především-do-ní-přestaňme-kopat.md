@@ -8,7 +8,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/inflacni-ocekavani.webp
-download: jak-nakopnout-ekonomiku.pdf
+download: jak-nakoupnout-ekonomiku.pdf
 seo:
   title: Jak nakopnout českou ekonomiku? Především do ní přestaňme kopat!
   description: "V\_tuzemské veřejné diskuzi se již nějakou dobu skloňují návrhy, jak po letech stagnace opět nakopnout českou ekonomiku. Jaká opatření pro podporu hospodářského růstu naší země tedy prosadit, a od kterých se naopak držet co nejdál?"
