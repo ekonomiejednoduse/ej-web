@@ -32,12 +32,22 @@ Vytvořil jsem prezentaci na téma&nbsp;**Logika vědeckého bádání v pojetí
 
 ![](/uploads/1-2.png){: .small-centered-image width="1920" height="1080"}
 
+
+
 ![](/uploads/2-1.png){: .small-centered-image width="1920" height="1080"}
+
+
 
 ![](/uploads/3-1.png){: .small-centered-image width="1920" height="1080"}
 
+
+
 ![](/uploads/4-1.png){: .small-centered-image width="1920" height="1080"}
 
+
+
 ![](/uploads/5-1.png){: .small-centered-image width="1920" height="1080"}
+
+
 
 ![](/uploads/6-1.png){: .small-centered-image width="1920" height="1080"}
