@@ -51,3 +51,23 @@ Vytvořil jsem prezentaci na téma&nbsp;**Logika vědeckého bádání v pojetí
 
 
 ![](/uploads/6-1.png){: .small-centered-image width="1920" height="1080"}
+
+
+
+![](/uploads/7-1.png){: .small-centered-image width="1920" height="1080"}
+
+
+
+![](/uploads/8-1.png){: .small-centered-image width="1920" height="1080"}
+
+
+
+![](/uploads/9-1.png){: .small-centered-image width="1920" height="1080"}
+
+
+
+![](/uploads/10-1.png){: .small-centered-image width="1920" height="1080"}
+
+
+
+![](/uploads/11-1.png){: .small-centered-image width="1920" height="1080"}
