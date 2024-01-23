@@ -36,9 +36,11 @@ Jedním (nikoli však jediným) z důvodů, proč byla míra inflace v ČR v pos
 
 
 
+![](/uploads/nezamestnanost-cr-a-svet.png){: width="1228" height="843"}
 
 
-*Obecná míra nezaměstnanosti v jednotlivých zemích EU. Zdroj:* [*ČNB (Král, 2024*](https://www.cnb.cz/export/sites/cnb/cs/verejnost/.galleries/pro_media/konference_projevy/vystoupeni_projevy/download/kral_20240118_praha.pdf)*).*
+
+*Obecná míra nezaměstnanosti v jednotlivých zemích EU. Zdroj:* [*ČNB (Král, 2024*](https://www.cnb.cz/export/sites/cnb/cs/verejnost/.galleries/pro_media/konference_projevy/vystoupeni_projevy/download/kral_20240118_praha.pdf){: target="_blank" rel="noopener"}*).*
 
 
 
