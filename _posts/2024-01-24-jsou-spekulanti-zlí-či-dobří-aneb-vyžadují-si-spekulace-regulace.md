@@ -28,6 +28,10 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+Článek vyšel pro&nbsp;**Centrum ekonomických a tržních analýz (CETA)**. Odkaz:&nbsp;[https://e-news.cz/nazory/ceta-jsou-spekulanti-zli-ci-dobri-aneb-vyzaduji-si-spekulace-regulace/](https://e-news.cz/nazory/ceta-jsou-spekulanti-zli-ci-dobri-aneb-vyzaduji-si-spekulace-regulace/){: target="_blank" rel="noopener"}
+
+
+
 Asi jste to již slyšeli: „Nečestní spekulanti rozsáhle manipulují s cenami aktiv. Dosahují tak bezpracných, a proto nezasloužených zisků. Tito zlořečení jedinci se pouze nemravně obohacují na úkor celé společnosti, jejíž členové jsou na rozdíl od nich odkázáni obstarávat si vzácné zdroje poctivou prací. Nejenže nejsou pro společnost jakkoli přínosní, ba jsou přímo ztělesněním zla, neboť jejich chování je navýsost škodlivé a opovrženíhodné. Hanba jim!“ Jsou však spekulanti opravdu takovýmito vyvrheli, anebo jsou naopak pro společnost přínosní a nepostradatelní?
 
 
