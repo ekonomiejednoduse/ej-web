@@ -56,11 +56,11 @@ Spekulace tedy není žádnou redundantní, nepotřebnou, či dokonce přímo ne
 
 ---
 
-[\[1\]](applewebdata://B759EAF8-3459-487B-A730-9D4137093310#_ftnref1) Rothbard, M. N. (2005). *Zásady ekonomie: od lidského jednání k harmonii trhů*. Praha: Liberální institut. Str, **4**.
+[\[1\]](applewebdata://B759EAF8-3459-487B-A730-9D4137093310#_ftnref1) Rothbard, M. N. (2005). *Zásady ekonomie: od lidského jednání k harmonii trhů*. Praha: Liberální institut. Str.&nbsp;**4**.
 
 [\[2\]](applewebdata://B759EAF8-3459-487B-A730-9D4137093310#_ftnref2) Mises, L. (2018). *Lidské jednání: pojednání o ekonomii*. Praha: Liberální institut. Str. **232**.
 
-[\[3\]](applewebdata://B759EAF8-3459-487B-A730-9D4137093310#_ftnref3) Rothbard, M. N. (2005). *Zásady ekonomie: od lidského jednání k harmonii trhů*. Praha: Liberální institut. Str, **4**.
+[\[3\]](applewebdata://B759EAF8-3459-487B-A730-9D4137093310#_ftnref3) Rothbard, M. N. (2005). *Zásady ekonomie: od lidského jednání k harmonii trhů*. Praha: Liberální institut. Str.&nbsp;**4**.
 
 [\[4\]](applewebdata://B759EAF8-3459-487B-A730-9D4137093310#_ftnref4) Kirzner, I. M. (1998). *Jak fungují trhy*. Praha: Liberální institut. Str. **39**.
 
