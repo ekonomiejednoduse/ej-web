@@ -1,7 +1,7 @@
 ---
 layout: tvorba
 title: Překlad článku "Co je klíčovými vlastnostmi bitcoinu?" od Jamesona Loppa
-date: 2024-01-24 00:00:00
+date: 2024-01-22 00:00:00
 description: |
   Český překlad známého článku Jamesona Loppa o klíčových vlastnostech bitcoinu.
 author: Štěpán Drábek
