@@ -3,8 +3,9 @@ layout: post
 title: Jsou spekulanti zlí, či dobří? Aneb vyžadují si spekulace regulace?
 date: 2024-01-24 00:00:00
 description: >-
-  Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma letošního
-  ročníku soutěže pro studenty SŠ.
+  O spekulantech se často hovoří velmi negativně. Obohacují se však na úkor
+  společnost, jak se mnohdy říkává, anebo jsou naopak pro společnost přínosní,
+  či dokonce nepostradatelní?
 author: Štěpán Drábek
 featured: true
 categories:
@@ -14,15 +15,16 @@ download: spekulace.pdf
 seo:
   title: Jsou spekulanti zlí, či dobří? Aneb vyžadují si spekulace regulace?
   description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+    O spekulantech se často hovoří velmi negativně. Obohacují se však na úkor
+    společnost, jak se mnohdy říkává, anebo jsou naopak pro společnost přínosní,
+    či dokonce nepostradatelní?
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, spekulace, Nietzsche, Zarathustra, Mises,
+    Rothbard, Kirzner, Hayek
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    Štěpán Drábek, Ekonomie Jednoduše, spekulace, Nietzsche, Zarathustra, Mises,
+    Rothbard, Kirzner, Hayek
   hide-from-google: false
 _comments:
   title: Max 70 characters
