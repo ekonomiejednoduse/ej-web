@@ -23,6 +23,10 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+Překlad vyšel pro&nbsp;[Bitperii](https://www.bitperia.cz/clanek/preklad-klicove-vlastnosti-bitcoinu-lopp){: target="_blank" rel="noopener"}
+
+
+
 Co je to Bitcoin? Ačkoli se mnozí pokoušeli zodpovědět tuto otázku, domnívám se, že naše hledání je [odsouzeno k tomu, aby pokračovalo donekonečna](https://www.coindesk.com/markets/2017/03/11/nobody-understands-bitcoin-and-thats-ok/){: target="_blank" rel="noopener"}. Neustálý vývoj protokolu je místem, kde se odehrává vrcholný výzkum toho, co Bitcoin je, a diskuse o tom, čím by se měl vlastně snažit být.
 
 
