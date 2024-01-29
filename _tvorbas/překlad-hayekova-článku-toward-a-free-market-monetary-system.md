@@ -12,11 +12,17 @@ categories: dalsi tvorba
 download:
 video-url:
 seo:
-  title: 'Ekonomická olympiáda '
-  description:
+  title: Překlad Hayekova článku "Toward a Free Market Monetary System"
+  description: >-
+    Přeložil jsem z angličtiny Hayekův krátký článek "Toward a Free Market
+    Monetary System" věnující se problematice soukromých peněz
   social_image:
-  twitter_card:
-  keywords: Ekonomická olympiáda, EO, EO 2022, EO22
+  twitter_card: >-
+    Hayek, Toward a Free Market Monetary System, Liberální institut, soukromé
+    peníze, nestátní peníze, Menger
+  keywords: >-
+    Hayek, Toward a Free Market Monetary System, Liberální institut, soukromé
+    peníze, nestátní peníze, Menger
   hide-from-google: false
 _comments:
   title: Max 70 characters
