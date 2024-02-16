@@ -15,7 +15,7 @@ seo:
   social_image:
   twitter_card: >-
     Štěpán Drábek, Ekonomie Jednoduše, Popper, Hayek, Mises, Liberální institut,
-    studie 2024, metodologie, ekonomie, filozofie, fyzika
+    studie 2024, metodologie, ekonomie, filozofie, fyzika, Nietzsche
   keywords: >-
     Štěpán Drábek, Ekonomie Jednoduše, Popper, Hayek, Mises, Liberální institut,
     studie 2024, metodologie, ekonomie, filozofie, fyzika
