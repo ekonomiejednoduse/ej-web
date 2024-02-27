@@ -11,7 +11,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/studenti.jpeg
-download: zahranicni-studenti-nerv
+download: zahranicni-studenti-nerv.pdf
 seo:
   title: >-
     Zvyšme podíl zahraničních studentů na českých vysokých školách, navrhuje
