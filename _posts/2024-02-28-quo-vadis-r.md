@@ -12,7 +12,7 @@ featured: true
 categories:
   - ekonomie
 featured_image: /uploads/cnb-baw.jpeg
-download: quo-vadis-r
+download: quo-vadis-r.pdf
 seo:
   title: Quo vadis, r*?
   description: >-
