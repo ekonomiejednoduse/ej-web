@@ -30,7 +30,7 @@ Odkaz na 1. část dvoudílného rozhovoru s členem bankovní rady ČNB Tomáš
 
 &nbsp;
 
-Dle&nbsp;[<u>údajů</u>](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny)&nbsp;Českého statistického úřadu poklesla meziroční inflace v&nbsp;lednu letošního roku až na úroveň 2,3 %. Nachází se tak v&nbsp;rámci tolerančního pásma a je již velmi blízko 2% inflačního cíle ČNB. Považujete to za definitivní návrat k&nbsp;cenové stabilitě?
+**Dle**&nbsp;[**<u>údajů</u>**](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny)&nbsp;**Českého statistického úřadu poklesla meziroční inflace v&nbsp;lednu letošního roku až na úroveň 2,3 %. Nachází se tak v&nbsp;rámci tolerančního pásma a je již velmi blízko 2% inflačního cíle ČNB. Považujete to za definitivní návrat k&nbsp;cenové stabilitě?**
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Tyto věci tedy mohou mít tendenci zrychlovat. Asi nebudou ohrožovat cenovou s
 
 &nbsp;
 
-Lze kvantifikovat, nakolik stály za poměrně zdárnou dezinflační politikou ČNB úrokové sazby a do jaké míry působila na pokles míry inflace kurzová složka měnových podmínek?
+**Lze kvantifikovat, nakolik stály za poměrně zdárnou dezinflační politikou ČNB úrokové sazby a do jaké míry působila na pokles míry inflace kurzová složka měnových podmínek?**
 
 &nbsp;
 
@@ -70,7 +70,7 @@ Celkově však za mě tu hlavní práci v&nbsp;boji s&nbsp;inflací odpracoval n
 
 &nbsp;
 
-Předseda Národní rozpočtové rady (NRR) a někdejší viceguvernér ČNB Mojmír Hampl nedávno&nbsp;[<u>prohlásil</u>](https://www.youtube.com/watch?v=m3NX7sFTNwU), že inflace v&nbsp;posledních letech tak vysoká být nemusela. Naproti tomu viceguvernérka ČNB Eva Zamrazilová&nbsp;[<u>konstatovala</u>](https://www.cnb.cz/cs/verejnost/servis-pro-media/autorske-clanky-rozhovory-s-predstaviteli-cnb/Eva-Zamrazilova-Inflace-se-vyrazne-snizi-00001/), že&nbsp;*„inflace by teď nebyla nižší, kdybychom úrokové sazby zvýšili, byla by úplně stejná.“*&nbsp;Byla tedy ze zpětného pohledu stabilizace 2T repo sazby na 7 % optimální strategií, nebo měly podle Vás být úrokové sazby ještě vyšší?
+**Předseda Národní rozpočtové rady (NRR) a někdejší viceguvernér ČNB Mojmír Hampl nedávno**&nbsp;[**<u>prohlásil</u>**](https://www.youtube.com/watch?v=m3NX7sFTNwU)**, že inflace v&nbsp;posledních letech tak vysoká být nemusela. Naproti tomu viceguvernérka ČNB Eva Zamrazilová**&nbsp;[**<u>konstatovala</u>**](https://www.cnb.cz/cs/verejnost/servis-pro-media/autorske-clanky-rozhovory-s-predstaviteli-cnb/Eva-Zamrazilova-Inflace-se-vyrazne-snizi-00001/)**, že**&nbsp;***„inflace by teď nebyla nižší, kdybychom úrokové sazby zvýšili, byla by úplně stejná.“***&nbsp;**Byla tedy ze zpětného pohledu stabilizace 2T repo sazby na 7 % optimální strategií, nebo měly podle Vás být úrokové sazby ještě vyšší?**
 
 &nbsp;
 
@@ -98,7 +98,7 @@ Po pravdě řečeno, kdybych si tohle myslel – a já si tohle nemyslím –, v
 
 &nbsp;
 
-Vy jste již zmínil onu výhodu zpětného pohledu. Čím si tedy&nbsp;*ex post*&nbsp;vysvětlujete to, že byla míra inflace u nás v&nbsp;posledních letech setrvale jedna z&nbsp;nejvyšších v&nbsp;EU?
+**Vy jste již zmínil onu výhodu zpětného pohledu. Čím si tedy**&nbsp;***ex post***&nbsp;**vysvětlujete to, že byla míra inflace u nás v&nbsp;posledních letech setrvale jedna z&nbsp;nejvyšších v&nbsp;EU?**
 
 &nbsp;
 
@@ -122,7 +122,7 @@ Ale relativní váhu těch jednotlivých faktorů, myslím, bude potřeba ješt�
 
 &nbsp;
 
-Rétorikou světových centrálních bank při vzedmutí inflační vlny často bylo poukazování na to, že inflace je poháněna výhradně nákladovými šoky, a brzy tak odezní. Slavnými se stala například&nbsp;[<u>slova</u>](https://www.youtube.com/watch?v=EptF-KFGsss)&nbsp;Christine Lagardeové o tom, že zvýšená inflace bude pouze dočasnou záležitostí. Čím si vysvětlujete takovéto pochybení v&nbsp;komunikační strategii představitelů centrálních bank?
+**Rétorikou světových centrálních bank při vzedmutí inflační vlny často bylo poukazování na to, že inflace je poháněna výhradně nákladovými šoky, a brzy tak odezní. Slavnými se stala například**&nbsp;[**<u>slova</u>**](https://www.youtube.com/watch?v=EptF-KFGsss)&nbsp;**Christine Lagardeové o tom, že zvýšená inflace bude pouze dočasnou záležitostí. Čím si vysvětlujete takovéto pochybení v&nbsp;komunikační strategii představitelů centrálních bank?**
 
 &nbsp;
 
@@ -138,7 +138,7 @@ Zároveň, na rozdíl od nás, ECB ta vlna zastihla ve fázi, kdy ještě prová
 
 &nbsp;
 
-Navazující dotaz, jaký důvod podle Vás stál za tím, že centrální banky tolik podcenily setrvačnost inflace?
+**Navazující dotaz, jaký důvod podle Vás stál za tím, že centrální banky tolik podcenily setrvačnost inflace?**
 
 &nbsp;
 
