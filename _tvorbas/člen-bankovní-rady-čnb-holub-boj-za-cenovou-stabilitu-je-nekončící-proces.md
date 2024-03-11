@@ -149,7 +149,3 @@ Zároveň, na rozdíl od nás, ECB ta vlna zastihla ve fázi, kdy ještě prová
 &nbsp;
 
 Částečně jsem na to již odpověděl. To, čemu se zřejmě bude věnovat nějaké zpětné vyhodnocení, bude otázka, jestli se centrální banky po desetiletích nízké inflace nezačaly příliš věnovat jiným tématům, tzv. novým, typu ESG (environmental, social, governance – pozn. red.), gender a podobně, a trošku nepodcenily zaměření na svůj hlavní úkol. Protože ten se zdál dlouhou dobu být tak nějak vyřešený, a to se pak ukázalo jako mylný předpoklad, v&nbsp;realitě ten boj za cenovou stabilitou je nekončící proces.
-
-&nbsp;
-
-&nbsp;
