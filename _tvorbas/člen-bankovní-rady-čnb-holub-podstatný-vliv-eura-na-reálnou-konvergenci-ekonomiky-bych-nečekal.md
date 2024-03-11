@@ -34,7 +34,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Odkaz na 1. část dvoudílného rozhovoru s členem bankovní rady ČNB Tomášem Holubem:&nbsp;[https://roklen24.cz/clen-bankovni-rady-cnb-holub-podstatny-vliv-eura-na-realnou-konvergenci-ekonomiky-bych-necekal/]()
+Odkaz na 1. část dvoudílného rozhovoru s členem bankovní rady ČNB Tomášem Holubem:&nbsp;[https://roklen24.cz/clen-bankovni-rady-cnb-holub-podstatny-vliv-eura-na-realnou-konvergenci-ekonomiky-bych-necekal/](){: target="_blank" rel="noopener"}
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Odkaz na 1. část dvoudílného rozhovoru s členem bankovní rady ČNB Tomáš
 
 &nbsp;
 
-**Viceguvernér Jan Frait na své přednášce**&nbsp;[**<u>poznamenal</u>**](https://www.cnb.cz/cs/verejnost/servis-pro-media/vystoupeni-konference-seminare/prezentace-a-vystoupeni/Monetarni-makroekonomie-a-centralni-banky-v-turbulentnich-dobach/)**, že DSGE modely**&nbsp;***„představují značně nedokonalý popis ekonomiky a nejsou schopny si poradit se šoky nebo strukturálními změnami, které ji na delší dobu od těchto trendů vychýlí.“***&nbsp;**Do jaké míry se tedy lze v&nbsp;podobně turbulentních dobách spoléhat na prognostický aparát centrální banky?**
+**Viceguvernér Jan Frait na své přednášce**&nbsp;[**<u>poznamenal</u>**](https://www.cnb.cz/cs/verejnost/servis-pro-media/vystoupeni-konference-seminare/prezentace-a-vystoupeni/Monetarni-makroekonomie-a-centralni-banky-v-turbulentnich-dobach/){: target="_blank" rel="noopener"}**, že DSGE modely**&nbsp;***„představují značně nedokonalý popis ekonomiky a nejsou schopny si poradit se šoky nebo strukturálními změnami, které ji na delší dobu od těchto trendů vychýlí.“***&nbsp;**Do jaké míry se tedy lze v&nbsp;podobně turbulentních dobách spoléhat na prognostický aparát centrální banky?**
 
 &nbsp;
 
@@ -62,7 +62,7 @@ Kdybych zpětně hodnotil posledních několik let, myslím si, že kdyby býval
 
 &nbsp;
 
-**Loňská studie Banky pro mezinárodní platby (BIS)**&nbsp;[**<u>ukazuje</u>**](https://www.bis.org/publ/bisbull67.pdf)**, že růst peněžní zásoby a míry inflace šly v&nbsp;posledních letech ruku v&nbsp;ruce. V&nbsp;zásadě tatáž teze**&nbsp;[**<u>zazněla</u>**](https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230925_1~7ad8ef22e2.en.html)&nbsp;**i v&nbsp;proslovu Isabel Schnabelové z&nbsp;ECB. Jak důležitou roli sehrál v&nbsp;příběhu vysoké inflace strmý růst peněžních agregátů a platí známé**&nbsp;[**<u>tvrzení</u>**](https://miltonfriedman.hoover.org/internal/media/dispatcher/271018/full)&nbsp;**Miltona Friedmana, že inflace je „vždy a všude peněžní jev“?**
+**Loňská studie Banky pro mezinárodní platby (BIS)**&nbsp;[**<u>ukazuje</u>**](https://www.bis.org/publ/bisbull67.pdf){: target="_blank" rel="noopener"}**, že růst peněžní zásoby a míry inflace šly v&nbsp;posledních letech ruku v&nbsp;ruce. V&nbsp;zásadě tatáž teze**&nbsp;[**<u>zazněla</u>**](https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230925_1~7ad8ef22e2.en.html){: target="_blank" rel="noopener"}&nbsp;**i v&nbsp;proslovu Isabel Schnabelové z&nbsp;ECB. Jak důležitou roli sehrál v&nbsp;příběhu vysoké inflace strmý růst peněžních agregátů a platí známé**&nbsp;[**<u>tvrzení</u>**](https://miltonfriedman.hoover.org/internal/media/dispatcher/271018/full){: target="_blank" rel="noopener"}&nbsp;**Miltona Friedmana, že inflace je „vždy a všude peněžní jev“?**
 
 &nbsp;
 
@@ -98,7 +98,7 @@ Takže s&nbsp;tím problém nemám, s&nbsp;tím souhlasím. Vlastně princip cí
 
 &nbsp;
 
-**Ještě vyšší korelace je (jak vyplývá z&nbsp;loňské**&nbsp;[**<u>studie</u>**](https://www.nber.org/papers/w31838)&nbsp;**Barra a Bianchiho) však viditelná mezi excesivními vládními výdaji a mírou inflace na zkoumaném vzorku 21 ekonomik. Co si tedy myslíte o tzv. fiskální teorii cenové hladiny, jež se těší stále vzrůstající popularitě, a myslíte si, že je nezodpovědná fiskální politika vlády jedním z&nbsp;důležitých hybatelů vysoké míry inflace?**
+**Ještě vyšší korelace je (jak vyplývá z&nbsp;loňské**&nbsp;[**<u>studie</u>**](https://www.nber.org/papers/w31838){: target="_blank" rel="noopener"}&nbsp;**Barra a Bianchiho) však viditelná mezi excesivními vládními výdaji a mírou inflace na zkoumaném vzorku 21 ekonomik. Co si tedy myslíte o tzv. fiskální teorii cenové hladiny, jež se těší stále vzrůstající popularitě, a myslíte si, že je nezodpovědná fiskální politika vlády jedním z&nbsp;důležitých hybatelů vysoké míry inflace?**
 
 &nbsp;
 
@@ -114,7 +114,7 @@ To vysvětlení je pro mě takové, že došlo k&nbsp;nesouladu agregátní popt
 
 &nbsp;
 
-**Guvernér Aleš Michl na tiskové konferenci po skončení posledního měnověpolitického zasedání bankovní rady**&nbsp;[**<u>uvedl</u>**](https://www.youtube.com/live/6ULBMV03qNw?si=rHOZZ1u__0Ttn_Xj&amp;t=670)**, že panuje shoda ohledně toho, že přirozená úroková míra bude vyšší, než jakou hodnotu nyní očekává prognóza ČNB. Dodal také, že je možné, že byla r\* vyšší dokonce ještě před vypuknutím pandemie Covidu-19. Člen bankovní rady Jan Kubíček na setkání s&nbsp;analytiky zase**&nbsp;[**<u>konstatoval</u>**](https://www.youtube.com/live/lSYdjUo8tRs?si=VikEdNZTZIol2yVg)**, že důvodem stojícím za neočekávaným zvýšením r\* v předchozích letech mohly být bezprecedentně vysoké deficity veřejných financí. Jaká je aktuální podoba diskuze o výši přirozené úrokové míry na půdě ČNB a jaký je na ni Váš pohled?**
+**Guvernér Aleš Michl na tiskové konferenci po skončení posledního měnověpolitického zasedání bankovní rady**&nbsp;[**<u>uvedl</u>**](https://www.youtube.com/live/6ULBMV03qNw?si=rHOZZ1u__0Ttn_Xj&amp;t=670){: target="_blank" rel="noopener"}**, že panuje shoda ohledně toho, že přirozená úroková míra bude vyšší, než jakou hodnotu nyní očekává prognóza ČNB. Dodal také, že je možné, že byla r\* vyšší dokonce ještě před vypuknutím pandemie Covidu-19. Člen bankovní rady Jan Kubíček na setkání s&nbsp;analytiky zase**&nbsp;[**<u>konstatoval</u>**](https://www.youtube.com/live/lSYdjUo8tRs?si=VikEdNZTZIol2yVg){: target="_blank" rel="noopener"}**, že důvodem stojícím za neočekávaným zvýšením r\* v předchozích letech mohly být bezprecedentně vysoké deficity veřejných financí. Jaká je aktuální podoba diskuze o výši přirozené úrokové míry na půdě ČNB a jaký je na ni Váš pohled?**
 
 &nbsp;
 
