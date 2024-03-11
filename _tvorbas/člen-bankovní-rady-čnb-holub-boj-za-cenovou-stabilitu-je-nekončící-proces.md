@@ -2,8 +2,9 @@
 layout: tvorba
 title: 'Člen bankovní rady ČNB Holub: Boj za cenovou stabilitu je nekončící proces'
 date: 2024-03-05 00:00:00
-description: |+
-
+description: >-
+  Uskutečnil jsem rozhovor s členem bankovní rady ČNB a brilantním ekonomem
+  Tomášem Holubem. Toto je 1. ze dvou částí, věnující se zejména inflaci v ČR.
 author: Štěpán Drábek
 featured: true
 featured_image: /uploads/holub-04.jpg
