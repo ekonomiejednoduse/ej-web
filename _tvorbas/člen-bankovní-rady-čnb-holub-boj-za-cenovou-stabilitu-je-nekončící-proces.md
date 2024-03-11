@@ -54,7 +54,7 @@ To se bohužel úplně nedá, protože se nejedná o dvě izolované veličiny. 
 
 &nbsp;
 
-&nbsp;
+&nbsp;![](/uploads/rmci-1.png "RMCI"){: width="1434" height="1200"}
 
 &nbsp;
 
