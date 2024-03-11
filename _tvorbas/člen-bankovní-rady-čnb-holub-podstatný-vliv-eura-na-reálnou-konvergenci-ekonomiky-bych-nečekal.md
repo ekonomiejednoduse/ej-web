@@ -178,20 +178,4 @@ Kdybychom začali v&nbsp;polovině roku 2021, kdy ČNB začala zvyšovat sazby a
 
 &nbsp;
 
-Zároveň pokud by člověk šel dál do historie a našel by nějaké období, kdy naše měnová politika byla uvolněnější než ta ECB, mohl by samozřejmě tvrdit opak. Ale je to otázka, na kterou jednoznačnou odpověď nikdy mít nebudeme. Já osobně věřím tomu, že nástroj měnové politiky v&nbsp;boji s&nbsp;vysokou inflací byl užitečný a zafungoval, ale vidíme, že v&nbsp;eurozóně byly země s&nbsp;podobně vysokou inflací, které nezávislou měnovou politiku neměly. Ta odpověď není úplně jednoduchá (smích).
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Zároveň pokud by člověk šel dál do historie a našel by nějaké období, kdy naše měnová politika byla uvolněnější než ta ECB, mohl by samozřejmě tvrdit opak. Ale je to otázka, na kterou jednoznačnou odpověď nikdy mít nebudeme. Já osobně věřím tomu, že nástroj měnové politiky v&nbsp;boji s&nbsp;vysokou inflací byl užitečný a zafungoval, ale vidíme, že v&nbsp;eurozóně byly země s&nbsp;podobně vysokou inflací, které nezávislou měnovou politiku neměly. Ta odpověď není úplně jednoduchá (smích).&nbsp;
