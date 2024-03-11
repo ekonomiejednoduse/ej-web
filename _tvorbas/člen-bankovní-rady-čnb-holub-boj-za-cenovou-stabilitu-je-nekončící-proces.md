@@ -12,17 +12,23 @@ categories: dalsi tvorba
 download:
 video-url:
 seo:
-  title: 'Ekonomická olympiáda '
-  description:
+  title: 'Člen bankovní rady ČNB Holub: Boj za cenovou stabilitu je nekončící proces'
+  description: >-
+    Uskutečnil jsem rozhovor s členem bankovní rady ČNB a brilantním ekonomem
+    Tomášem Holubem. Toto je 1. ze dvou částí, věnující se zejména inflaci v ČR.
   social_image:
-  twitter_card:
-  keywords: Ekonomická olympiáda, EO, EO 2022, EO22
+  twitter_card: >-
+    Rozhovor s Tomášem Holubem, Roklen24, ČNB, Tomáš Holub, Štěpán Drábek, 2.
+    část, Ekonomie Jednoduše
+  keywords: >-
+    Rozhovor s Tomášem Holubem, Roklen24, ČNB, Tomáš Holub, Štěpán Drábek, 2.
+    část, Ekonomie Jednoduše
   hide-from-google: false
 _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Odkaz na 1. část dvoudílného rozhovoru s členem bankovní rady ČNB Tomášem Holubem: [https://roklen24.cz/clen-bankovni-rady-cnb-holub-boj-za-cenovou-stabilitu-je-nekoncici-proces/]()
+Odkaz na 1. část dvoudílného rozhovoru s členem bankovní rady ČNB Tomášem Holubem: [https://roklen24.cz/clen-bankovni-rady-cnb-holub-boj-za-cenovou-stabilitu-je-nekoncici-proces/](){: target="_blank" rel="noopener"}
 
 &nbsp;
 
@@ -30,7 +36,7 @@ Odkaz na 1. část dvoudílného rozhovoru s členem bankovní rady ČNB Tomáš
 
 &nbsp;
 
-**Dle**&nbsp;[**<u>údajů</u>**](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny)&nbsp;**Českého statistického úřadu poklesla meziroční inflace v&nbsp;lednu letošního roku až na úroveň 2,3 %. Nachází se tak v&nbsp;rámci tolerančního pásma a je již velmi blízko 2% inflačního cíle ČNB. Považujete to za definitivní návrat k&nbsp;cenové stabilitě?**
+**Dle**&nbsp;[**<u>údajů</u>**](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny){: target="_blank" rel="noopener"}&nbsp;**Českého statistického úřadu poklesla meziroční inflace v&nbsp;lednu letošního roku až na úroveň 2,3 %. Nachází se tak v&nbsp;rámci tolerančního pásma a je již velmi blízko 2% inflačního cíle ČNB. Považujete to za definitivní návrat k&nbsp;cenové stabilitě?**
 
 &nbsp;
 
@@ -58,7 +64,7 @@ To se bohužel úplně nedá, protože se nejedná o dvě izolované veličiny. 
 
 &nbsp;
 
-*Index reálných měnových podmínek (RMCI) v&nbsp;ČR. Zdroj:*&nbsp;[*<u>ČNB, ZoMP 2024/1</u>*](https://www.cnb.cz/export/sites/cnb/cs/menova-politika/.galleries/zpravy_o_menove_politice/2024/zima_2024/download/zomp_2024_zima.pdf)*. Pozn.: záporné hodnoty indikují restriktivní působení měnových podmínek; šedě vyznačená plocha představuje prognózovaný vývoj.*
+*Index reálných měnových podmínek (RMCI) v&nbsp;ČR. Zdroj:*&nbsp;[*<u>ČNB, ZoMP 2024/1</u>*](https://www.cnb.cz/export/sites/cnb/cs/menova-politika/.galleries/zpravy_o_menove_politice/2024/zima_2024/download/zomp_2024_zima.pdf){: target="_blank" rel="noopener"}*. Pozn.: záporné hodnoty indikují restriktivní působení měnových podmínek; šedě vyznačená plocha představuje prognózovaný vývoj.*
 
 &nbsp;
 
@@ -70,7 +76,7 @@ Celkově však za mě tu hlavní práci v&nbsp;boji s&nbsp;inflací odpracoval n
 
 &nbsp;
 
-**Předseda Národní rozpočtové rady (NRR) a někdejší viceguvernér ČNB Mojmír Hampl nedávno**&nbsp;[**<u>prohlásil</u>**](https://www.youtube.com/watch?v=m3NX7sFTNwU)**, že inflace v&nbsp;posledních letech tak vysoká být nemusela. Naproti tomu viceguvernérka ČNB Eva Zamrazilová**&nbsp;[**<u>konstatovala</u>**](https://www.cnb.cz/cs/verejnost/servis-pro-media/autorske-clanky-rozhovory-s-predstaviteli-cnb/Eva-Zamrazilova-Inflace-se-vyrazne-snizi-00001/)**, že**&nbsp;***„inflace by teď nebyla nižší, kdybychom úrokové sazby zvýšili, byla by úplně stejná.“***&nbsp;**Byla tedy ze zpětného pohledu stabilizace 2T repo sazby na 7 % optimální strategií, nebo měly podle Vás být úrokové sazby ještě vyšší?**
+**Předseda Národní rozpočtové rady (NRR) a někdejší viceguvernér ČNB Mojmír Hampl nedávno**&nbsp;[**<u>prohlásil</u>**](https://www.youtube.com/watch?v=m3NX7sFTNwU){: target="_blank" rel="noopener"}**, že inflace v&nbsp;posledních letech tak vysoká být nemusela. Naproti tomu viceguvernérka ČNB Eva Zamrazilová**&nbsp;[**<u>konstatovala</u>**](https://www.cnb.cz/cs/verejnost/servis-pro-media/autorske-clanky-rozhovory-s-predstaviteli-cnb/Eva-Zamrazilova-Inflace-se-vyrazne-snizi-00001/){: target="_blank" rel="noopener"}**, že**&nbsp;***„inflace by teď nebyla nižší, kdybychom úrokové sazby zvýšili, byla by úplně stejná.“***&nbsp;**Byla tedy ze zpětného pohledu stabilizace 2T repo sazby na 7 % optimální strategií, nebo měly podle Vás být úrokové sazby ještě vyšší?**
 
 &nbsp;
 
@@ -102,7 +108,7 @@ Po pravdě řečeno, kdybych si tohle myslel – a já si tohle nemyslím –, v
 
 &nbsp;
 
-To je dobrý dotaz. Myslím si, že na něj máme zatím jenom parciální odpovědi. Třeba nedávno jsme publikovali&nbsp;[<u>blog</u>](https://www.cnb.cz/cs/o_cnb/cnblog/Inflace-v-Evrope-vysvetleni-rozdilu-pomoci-ruzne-cenove-hladiny-a-energeticke-narocnosti/), který ukazuje, že větší nárůst cenové hladiny zaznamenaly země, které cenovou hladinu měly ve výchozím bodě nižší, což je částečně i čistě statistický argument – že když naroste menší číslo o stejnou absolutní hodnotu, je to v&nbsp;procentech více. Je to nepochybně jedno z&nbsp;vysvětlení.&nbsp;
+To je dobrý dotaz. Myslím si, že na něj máme zatím jenom parciální odpovědi. Třeba nedávno jsme publikovali&nbsp;[<u>blog</u>](https://www.cnb.cz/cs/o_cnb/cnblog/Inflace-v-Evrope-vysvetleni-rozdilu-pomoci-ruzne-cenove-hladiny-a-energeticke-narocnosti/){: target="_blank" rel="noopener"}, který ukazuje, že větší nárůst cenové hladiny zaznamenaly země, které cenovou hladinu měly ve výchozím bodě nižší, což je částečně i čistě statistický argument – že když naroste menší číslo o stejnou absolutní hodnotu, je to v&nbsp;procentech více. Je to nepochybně jedno z&nbsp;vysvětlení.&nbsp;
 
 &nbsp;
 
@@ -122,7 +128,7 @@ Ale relativní váhu těch jednotlivých faktorů, myslím, bude potřeba ješt�
 
 &nbsp;
 
-**Rétorikou světových centrálních bank při vzedmutí inflační vlny často bylo poukazování na to, že inflace je poháněna výhradně nákladovými šoky, a brzy tak odezní. Slavnými se stala například**&nbsp;[**<u>slova</u>**](https://www.youtube.com/watch?v=EptF-KFGsss)&nbsp;**Christine Lagardeové o tom, že zvýšená inflace bude pouze dočasnou záležitostí. Čím si vysvětlujete takovéto pochybení v&nbsp;komunikační strategii představitelů centrálních bank?**
+**Rétorikou světových centrálních bank při vzedmutí inflační vlny často bylo poukazování na to, že inflace je poháněna výhradně nákladovými šoky, a brzy tak odezní. Slavnými se stala například**&nbsp;[**<u>slova</u>**](https://www.youtube.com/watch?v=EptF-KFGsss){: target="_blank" rel="noopener"}&nbsp;**Christine Lagardeové o tom, že zvýšená inflace bude pouze dočasnou záležitostí. Čím si vysvětlujete takovéto pochybení v&nbsp;komunikační strategii představitelů centrálních bank?**
 
 &nbsp;
 
