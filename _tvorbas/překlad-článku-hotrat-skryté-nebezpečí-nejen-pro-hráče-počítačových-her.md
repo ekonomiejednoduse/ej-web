@@ -28,4 +28,6 @@ _comments:
 ---
 V rámci projektu [CyberBlog.cz](https://cyberblog.cz){: target="_blank" rel="noopener"} jsem do češtiny přeložil anglický článek [HotRat: Skryté nebezpečí nejen pro hráče počítačových her](https://cyberblog.cz/nejnovejsi/hotrat-skryte-nebezpeci-nejen-pro-hrace-pocitacovych-her/){: target="_blank" rel="noopener"}&nbsp;a doplnil jsem jej o vlastní, krátký komentář, který si můžete přečíst níže.
 
+&nbsp;
+
 *Ne nadarmo se v ekonomii říká, že nic není zadarmo. A zde to platí dvojnásob. Vidíte-li nějakou velmi lákavou nabídku na, jinak velmi drahý, software “zadarmo”, pak vězte, že cenou (která sice může působit neviditelně, přesto je však zcela zásadní) za vaše chování je obrovské riziko, které tím podstupujete a jež se vám může šeredně vymstít.*
