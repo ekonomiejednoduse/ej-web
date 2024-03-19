@@ -196,16 +196,30 @@ Keynes žil v iluzi, že malá inflace je prospěšná. Avšak příliš vysoká
 
 [\[1\]](applewebdata://BC4D6495-CFCA-48AE-9A4D-38AE9843CEAD#_ftnref1) Překlad z anglického originálu: HAYEK, Friedrich August von, BLANCHARD III, James U., ed. *Exclusive Interview with F. A. Hayek*. Policy Report \[online\]. Cato Institute, 1984 \[cit. 2023-10-20\]. Dostupné z: [https://www.cato.org/policy-report/may/june-1984/exclusive-interview-fa-hayek](https://www.cato.org/policy-report/may/june-1984/exclusive-interview-fa-hayek){: target="_blank" rel="noopener"}<u>.</u>
 
+&nbsp;
+
 [\[2\]](applewebdata://BC4D6495-CFCA-48AE-9A4D-38AE9843CEAD#_ftnref2) HAYEK, Friedrich August von. *Osudná domýšlivost: omyly socialismu*. Druhé vydání. Přeložila Jana OGROCKÁ. Praha: Liberální institut, 2022. ISBN 978-80-86389-71-4.
+
+&nbsp;
 
 [\[3\]](applewebdata://BC4D6495-CFCA-48AE-9A4D-38AE9843CEAD#_ftnref3) Dle Hayeka je trefnějším označením toho, co se běžně nazývá jako „kapitalismus“, pojem „rozšířený řád lidské spolupráce“. Viz *Ibid.*, str. 13. (Pozn. překl.)
 
+&nbsp;
+
 [\[4\]](applewebdata://BC4D6495-CFCA-48AE-9A4D-38AE9843CEAD#_ftnref4) Viz MENGER, Carl. *On The Origins of Money* \[online\]. Auburn, Alabama: Ludwig von Mises institute, 2009 \[cit. 2023-11-07\]. ISBN 978-1-933550-59-6. Dostupné z: [https://mises.org/library/origins-money-0](https://mises.org/library/origins-money-0){: target="_blank" rel="noopener"}. (Pozn. překl.)
+
+&nbsp;
 
 [\[5\]](applewebdata://BC4D6495-CFCA-48AE-9A4D-38AE9843CEAD#_ftnref5) Viz HAYEK, Friedrich August von. *Soukromé peníze: potřebujeme centrální banku?* Přeložil Miroslav ZAJÍČEK a Martin DVOŘÁČEK. Praha: Liberální institut, 1999. ISBN 80-902701-1-5. (Pozn. překl.)
 
+&nbsp;
+
 [\[6\]](applewebdata://BC4D6495-CFCA-48AE-9A4D-38AE9843CEAD#_ftnref6) Viz FRIEDMAN, Milton. *The Role of Monetary Policy*. The American Economic Review \[online\]. 1968, 58(1), 1–17 \[cit. 2023-11-8\]. Dostupné z: [https://www.aeaweb.org/aer/top20/58.1.1-17.pdf](https://www.aeaweb.org/aer/top20/58.1.1-17.pdf){: target="_blank" rel="noopener"}
 
+&nbsp;
+
 [\[7\]](applewebdata://BC4D6495-CFCA-48AE-9A4D-38AE9843CEAD#_ftnref7) Viz HAYEK, Friedrich August von. *Prices and Production and Other Works: F. A. Hayek on Money, the Business Cycle, and the Gold Standard* \[online\]. Auburn: Ludwig von Mises Institute, 2008 \[cit. 2023-11-07\]. ISBN 978-1-933550-22-0. Dostupné z: [https://mises.org/library/prices-and-production-and-other-works](https://mises.org/library/prices-and-production-and-other-works){: target="_blank" rel="noopener"}; str. 199: *„Jsem ochoten připustit, že (…) by z praktického hlediska bylo jednou z nejhorších věcí, které by se nám mohly stát, kdyby široká veřejnost znovu přestala věřit základním tvrzením kvantitativní teorie.“*
+
+&nbsp;
 
 [\[8\]](applewebdata://BC4D6495-CFCA-48AE-9A4D-38AE9843CEAD#_ftnref8) Srov. s HAYEK, Friedrich August von. *Choice in Currency: A Way to Stop Inflation* \[online\]. Londýn: The Institute of Economic Affairs & The Ludwig von Mises Institute, 2009 \[cit. 2023-11-8\]. ISBN 255 36078-9. Dostupné z: [https://mises.org/library/choice-currency-0](https://mises.org/library/choice-currency-0){: target="_blank" rel="noopener"}; str. 10: *„… John Maynard Keynes, muž s velkým intelektem, ale omezenými znalostmi ekonomické teorie …“*
