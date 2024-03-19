@@ -30,11 +30,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-**Exkluzivní rozhovor s F. A. Hayekem\[1\]**
-
-&nbsp;
-
-Překlad vyšel pro&nbsp;[Liberální institut](https://libinst.cz/exkluzivni-rozhovor-s-f-a-hayekem/){: target="_blank" rel="noopener"}
+Překlad vyšel pro&nbsp;[Liberální institut](https://libinst.cz/exkluzivni-rozhovor-s-f-a-hayekem/){: target="_blank" rel="noopener"}**\[1\]**
 
 &nbsp;
 
