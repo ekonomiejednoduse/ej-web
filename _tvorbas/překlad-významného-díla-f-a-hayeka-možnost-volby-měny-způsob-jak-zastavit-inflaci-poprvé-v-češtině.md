@@ -36,4 +36,4 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Pro [Bitperii](https://www.bitperia.cz/clanek/moznost-volby-meny-hayek){: target="_blank" rel="noopener"}, bitcoinový průvodce od Braiins, jsem z angličtiny přeložil významný Hayekův esej "Choice in Currency: A Way to Stop Inflation". Odkaz na překlad:&nbsp;[https://www.bitperia.cz/clanek/moznost-volby-meny-hayek](https://www.bitperia.cz/clanek/moznost-volby-meny-hayek){: target="_blank" rel="noopener"}
+Pro [Bitperii](https://www.bitperia.cz/clanek/moznost-volby-meny-hayek){: target="_blank" rel="noopener"}, bitcoinový průvodce od Braiins, jsem z angličtiny přeložil významný Hayekův esej "Choice in Currency: A Way to Stop Inflation". Odkaz na překlad: [https://www.bitperia.cz/clanek/moznost-volby-meny-hayek](https://www.bitperia.cz/clanek/moznost-volby-meny-hayek){: target="_blank" rel="noopener"}
