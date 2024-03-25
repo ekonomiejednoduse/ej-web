@@ -28,7 +28,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Článek vyšel dne 6. 3. 2024 v Hospodářských novinách. Odkaz na odemčenou verzi textu: [https://archiv.hn.cz/c7-67300520-14qo2d-32dbf85d69299dd](){: target="_blank" rel="noopener"}
+Článek vyšel dne 6. 3. 2024 v Hospodářských novinách. Odkaz na odemčenou verzi textu: [https://archiv.hn.cz/c7-67300520-14qo2d-32dbf85d69299dd](https://archiv.hn.cz/c7-67300520-14qo2d-32dbf85d69299dd){: target="_blank" rel="noopener"}
 
 &nbsp;
 
