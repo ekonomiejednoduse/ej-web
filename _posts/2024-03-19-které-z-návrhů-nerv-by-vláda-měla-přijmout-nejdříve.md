@@ -36,21 +36,21 @@ _comments:
 
 &nbsp;
 
-Pokud má Česko ekonomicky prosperovat, je potřeba provést řadu menších i větších reforem. Jak by měly vypadat? Seznam [37 návrhů](https://vlada.gov.cz/cz/ppov/nerv/aktuality/narodni-ekonomicka-rada-vlady-pripravila-navrhy-prorustovych-opatreni-211585/) zveřejnila Národní ekonomická rada vlády (NERV) letos v únoru. O řadě z nich se mluví už dlouhou dobu, ale minulé vlády ani ta současná se neodhodlaly je prosadit. Jakožto zástupci mladé generace, která není lhostejná k tomu, jak bude Česko vypadat v následujících desetiletích, žádáme, aby byla přijata alespoň ta nejnutnější a nejdůležitější opatření. Vysvětlujeme, která mezi ně patří a proč.
+Pokud má Česko ekonomicky prosperovat, je potřeba provést řadu menších i větších reforem. Jak by měly vypadat? Seznam [37 návrhů](https://vlada.gov.cz/cz/ppov/nerv/aktuality/narodni-ekonomicka-rada-vlady-pripravila-navrhy-prorustovych-opatreni-211585/){: target="_blank" rel="noopener"} zveřejnila Národní ekonomická rada vlády (NERV) letos v únoru. O řadě z nich se mluví už dlouhou dobu, ale minulé vlády ani ta současná se neodhodlaly je prosadit. Jakožto zástupci mladé generace, která není lhostejná k tomu, jak bude Česko vypadat v následujících desetiletích, žádáme, aby byla přijata alespoň ta nejnutnější a nejdůležitější opatření. Vysvětlujeme, která mezi ně patří a proč.
 
 &nbsp;
 
 **Dotace**
 
-Zcela klíčové je podle nás omezit množství národních dotačních titulů. Prezident Nejvyššího kontrolního úřadu (NKÚ) Miloslav Kala trefně [poznamenal](https://plus.rozhlas.cz/sef-nku-kala-nase-ekonomika-nerizene-a-plizive-presla-z-trzni-do-silne-zavisle-8964726), že *„naše ekonomika neřízeně a plíživě přešla z tržní do silně závislé na dotacích.“* Ministerstvo financí ČR dokonce [uvádí](https://www.mfcr.cz/cs/ministerstvo/media/ozdravny-balicek), že se z národních dotačních titulů postupně stal byznys, který prospívá hlavně některým velkým firmám, avšak to na úkor ostatních subjektů, jež v důsledku toho musejí operovat v pokřiveném tržním prostředí.
+Zcela klíčové je podle nás omezit množství národních dotačních titulů. Prezident Nejvyššího kontrolního úřadu (NKÚ) Miloslav Kala trefně [poznamenal](https://plus.rozhlas.cz/sef-nku-kala-nase-ekonomika-nerizene-a-plizive-presla-z-trzni-do-silne-zavisle-8964726){: target="_blank" rel="noopener"}, že *„naše ekonomika neřízeně a plíživě přešla z tržní do silně závislé na dotacích.“* Ministerstvo financí ČR dokonce [uvádí](https://www.mfcr.cz/cs/ministerstvo/media/ozdravny-balicek){: target="_blank" rel="noopener"}, že se z národních dotačních titulů postupně stal byznys, který prospívá hlavně některým velkým firmám, avšak to na úkor ostatních subjektů, jež v důsledku toho musejí operovat v pokřiveném tržním prostředí.
 
 &nbsp;
 
-Dotace často udržují při životě dlouhodobě neživotaschopná podnikání, jejichž vysoká ztrátovost by v tržním hospodářství měla přirozeně vést k jejich nemilosrdnému zániku. Umělá podpora takových projektů, které vzácnými zdroji v ekonomice plýtvají, žádné společnosti blahobyt nikdy přinést nemůže. Jak naopak [píše](https://cdn.mises.org/The%20Anti-Capitalistic%20Mentality_3.pdf)ekonom Ludwig von Mises: *„Dnešní prosperita určitého státu je tím větší, čím méně překážek se tento stát v minulosti snažil klást do cesty duchu svobodného podnikání a soukromé iniciativě.“*
+Dotace často udržují při životě dlouhodobě neživotaschopná podnikání, jejichž vysoká ztrátovost by v tržním hospodářství měla přirozeně vést k jejich nemilosrdnému zániku. Umělá podpora takových projektů, které vzácnými zdroji v ekonomice plýtvají, žádné společnosti blahobyt nikdy přinést nemůže. Jak naopak [píše](https://cdn.mises.org/The%20Anti-Capitalistic%20Mentality_3.pdf){: target="_blank" rel="noopener"} ekonom Ludwig von Mises: *„Dnešní prosperita určitého státu je tím větší, čím méně překážek se tento stát v minulosti snažil klást do cesty duchu svobodného podnikání a soukromé iniciativě.“*
 
 &nbsp;
 
-Z několika posledních [výročních zpráv](https://www.nku.cz/cz/publikace-a-dokumenty/vyrocni-zprava/) NKÚ vyplývá, že tím, jak strmým tempem roste počet nových národních dotačních titulů, narůstá také rozsah nákladné administrativy spojené s jejich poskytováním. NERV navíc zmiňuje celou řadu neefektivností úzce spjatých s veřejným financováním formou dotací. Vyzdvihli bychom především fakt, že není známý čistý přínos dotací.
+Z několika posledních [výročních zpráv](https://www.nku.cz/cz/publikace-a-dokumenty/vyrocni-zprava/){: target="_blank" rel="noopener"} NKÚ vyplývá, že tím, jak strmým tempem roste počet nových národních dotačních titulů, narůstá také rozsah nákladné administrativy spojené s jejich poskytováním. NERV navíc zmiňuje celou řadu neefektivností úzce spjatých s veřejným financováním formou dotací. Vyzdvihli bychom především fakt, že není známý čistý přínos dotací.
 
 &nbsp;
 
@@ -60,7 +60,7 @@ NERV, dle nás zcela správně, navrhuje dokončit propojení informačních sys
 
 **Trh práce**
 
-Tuzemský trh práce již řadu let trpí chronickou potíží příliš nízké nezaměstnanosti. Právě mimořádně napjatý trh práce představoval poslední roky významný inflační faktor, který do určité míry stál za tím, že v ČR byla míra inflace setrvale jedna z nejvyšších v celé EU. Zatímco sezónně očištěná míra nezaměstnanosti v EU činila k [lednu letošního roku](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-01032024-bp) 6 %, v ČR čítala pouze 3 %. Nenasycená poptávka po pracovní síle je přítomna ve většina odvětví a takřka u všech různých profesí.
+Tuzemský trh práce již řadu let trpí chronickou potíží příliš nízké nezaměstnanosti. Právě mimořádně napjatý trh práce představoval poslední roky významný inflační faktor, který do určité míry stál za tím, že v ČR byla míra inflace setrvale jedna z nejvyšších v celé EU. Zatímco sezónně očištěná míra nezaměstnanosti v EU činila k [lednu letošního roku](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-01032024-bp){: target="_blank" rel="noopener"} 6 %, v ČR čítala pouze 3 %. Nenasycená poptávka po pracovní síle je přítomna ve většina odvětví a takřka u všech různých profesí.
 
 &nbsp;
 
@@ -68,7 +68,7 @@ Jako jedno z možných řešení tohoto problému NERV navrhuje *„chytře regu
 
 &nbsp;
 
-Další doporučení NERV, které úzce souvisí s předchozím bodem, se týká zkrácení vízového procesu pro zahraniční studenty. Mnohé byrokratické překážky nebo administrativní bariéry v ČR způsobují to, že ačkoli by studenti ze zahraničí chtěli studovat na českých vysokých školách, jsou nuceni si pro své studium zvolit jinou zemi. Aby tedy byl vízový proces v ČR konkurenceschopný vůči zemím, jako je Polsko či Maďarsko, musí být dle NERV výrazně zkrácen (za optimální se považuje délka 15 dnů, přičemž [nyní](https://www.mvcr.cz/clanek/vizum-k-pobytu-nad-90-dnu-dlouhodobe.aspx) je tato lhůta standardně 90 dnů). Myslíme si, že je dále zapotřebí zjednodušit komplikovaný, nepřehledný a diskriminační proces nostrifikace, jenž vytváří pro zahraniční studenty přílišné administrativní bariéry.
+Další doporučení NERV, které úzce souvisí s předchozím bodem, se týká zkrácení vízového procesu pro zahraniční studenty. Mnohé byrokratické překážky nebo administrativní bariéry v ČR způsobují to, že ačkoli by studenti ze zahraničí chtěli studovat na českých vysokých školách, jsou nuceni si pro své studium zvolit jinou zemi. Aby tedy byl vízový proces v ČR konkurenceschopný vůči zemím, jako je Polsko či Maďarsko, musí být dle NERV výrazně zkrácen (za optimální se považuje délka 15 dnů, přičemž [nyní](https://www.mvcr.cz/clanek/vizum-k-pobytu-nad-90-dnu-dlouhodobe.aspx){: target="_blank" rel="noopener"} je tato lhůta standardně 90 dnů). Myslíme si, že je dále zapotřebí zjednodušit komplikovaný, nepřehledný a diskriminační proces nostrifikace, jenž vytváří pro zahraniční studenty přílišné administrativní bariéry.
 
 &nbsp;
 
@@ -82,7 +82,7 @@ Dle našeho soudu je jedním z dalších důležitých opatření navrhovaných 
 
 &nbsp;
 
-S podpořením investic do kapitálového trhu také souvisejí vhodnější podmínky pro private equity fondy a venture capital fondy. Pokud bychom se stali domicilem pro tyto fondy, s největší pravděpodobností by je to přimělo k investicím zde, v České republice. Jako jedno z potenciálních opatření se rovnou nabízí snížení sazby daně pro investiční fondy. Pro jeho případné zavedení však považujeme za žádoucí provést důkladnou analýzu o tom, jak tyto fondy dostat do tuzemska. Je každopádně nutné vyvarovat se oslabování kapitálového trhu delistingem některých společností z Pražské burzy, především těch s velkou tržní kapitalizací. Odchod největšího hráče na českém akciovém trhu, ČEZu, by dostal český kapitálový trh do velmi svízelné situace. Je naopak vhodné zdůraznit [tezi](https://www.kurzy.cz/zpravy/756353-petr-koblic-bcpp-odkup-akcii-cez-nedava-smysl-byt-statem-naopak-bych-prodal-dalsi-cenne-papiry/) generálního ředitele BCPP Petra Koblice o tom, že by se měl stát zbavit dalších akcií ČEZu. Dodejme, že i po tomto kroku by státu zůstal majoritní podíl akcií. Pražská burza může také sloužit jako místo pro privatizaci dalších státních podniků, např. České pošty nebo Budvaru.
+S podpořením investic do kapitálového trhu také souvisejí vhodnější podmínky pro private equity fondy a venture capital fondy. Pokud bychom se stali domicilem pro tyto fondy, s největší pravděpodobností by je to přimělo k investicím zde, v České republice. Jako jedno z potenciálních opatření se rovnou nabízí snížení sazby daně pro investiční fondy. Pro jeho případné zavedení však považujeme za žádoucí provést důkladnou analýzu o tom, jak tyto fondy dostat do tuzemska. Je každopádně nutné vyvarovat se oslabování kapitálového trhu delistingem některých společností z Pražské burzy, především těch s velkou tržní kapitalizací. Odchod největšího hráče na českém akciovém trhu, ČEZu, by dostal český kapitálový trh do velmi svízelné situace. Je naopak vhodné zdůraznit [tezi](https://www.kurzy.cz/zpravy/756353-petr-koblic-bcpp-odkup-akcii-cez-nedava-smysl-byt-statem-naopak-bych-prodal-dalsi-cenne-papiry/){: target="_blank" rel="noopener"} generálního ředitele BCPP Petra Koblice o tom, že by se měl stát zbavit dalších akcií ČEZu. Dodejme, že i po tomto kroku by státu zůstal majoritní podíl akcií. Pražská burza může také sloužit jako místo pro privatizaci dalších státních podniků, např. České pošty nebo Budvaru.
 
 &nbsp;
 
