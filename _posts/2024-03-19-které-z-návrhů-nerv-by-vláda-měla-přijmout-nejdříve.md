@@ -14,19 +14,19 @@ categories:
 featured_image: /uploads/vlada.jpeg
 download: navrhy-nerv.pdf
 seo:
-  title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
+  title: Které z návrhů NERV by vláda měla přijmout nejdříve?
   description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+    Pokud má Česko ekonomicky prosperovat, je potřeba provést řadu menších i
+    větších reforem. Jak by měly vypadat? Seznam 37 návrhů zveřejnila Národní
+    ekonomická rada vlády (NERV) letos v únoru. Vysvětlujeme, které z návrhů
+    NERV považujeme za prioritní.
   social_image:
   twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    NERV, hlas mladé generace, prosperita ČR, dotace, Martin Kylar, Štěpán
+    Drábek
   keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+    NERV, hlas mladé generace, prosperita ČR, dotace, Martin Kylar, Štěpán
+    Drábek
   hide-from-google: false
 _comments:
   title: Max 70 characters
