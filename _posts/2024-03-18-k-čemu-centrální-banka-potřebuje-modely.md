@@ -36,13 +36,19 @@ _comments:
 ---
 Článek vyšel pro [Liberální institut](https://libinst.cz/k-cemu-centralni-banka-potrebuje-modely/){: target="_blank" rel="noopener"}.
 
+&nbsp;
+
 Není tomu dávno, co v odborných kruzích probíhala debata o výpovědní hodnotě prognóz centrální banky. Ty totiž byly v posledních pár letech, době vážné cenové nestability, až zoufale nepřesné. Vyvstala proto otázka, zda jsou modely, o něž jsou tyto prognózy opřeny, dostatečně robustní a realistické. A právě tím se zabývá následující článek.
+
+&nbsp;
 
 **Chiméra realistických modelů**
 
 Úkolem [<u>vědy</u>](https://libinst.cz/wp-content/uploads/2024/02/scientism_letterhead.pdf){: target="_blank" rel="noopener"} je zkoumat a poté se pokusit podat vysvětlení jevů pozorovatelných v reálném světě. A to neplatí pouze pro velmi pokročilé obory přírodních věd, ale pro úplně každý vědní obor, ekonomii nevyjímaje. Žádný člověk, jakkoli inteligentní, není schopen takovým jevům porozumět v jejich plné komplexitě – vzít v potaz současně veškeré jejich aspekty. A proto nám nezbývá nic jiného než vytvářet pomyslné zjednodušené obrazy této nekonečně komplexní reality – konstruovat modely.
 
 Podstatou modelů je, že berou na zřetel určité, pouze omezené množství aspektů zkoumaných jevů a k ostatním záměrně nepřihlíží. Z toho vyplývá, že nutně realitu zjednodušují. A to zase znamená, že jsou již z definice nerealistické. Jediný naprosto realistický model by totiž musel být dokonalý odraz reality, jinými slovy realita sama. Tím bychom se však dostali k počátečnímu problému, a sice že realitu není schopen lidský mozek uchopit v její integrální podobě. Realistický model je proto pouhou chimérou.
+
+&nbsp;
 
 **Modely a prognózy centrálních bank**
 
