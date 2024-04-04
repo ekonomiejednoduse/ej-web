@@ -23,10 +23,8 @@ seo:
     akcelerace míry inflace v posledních letech sehrál růst peněžní zásoby. V
     tomto článku se podíváme právě na to, zda je takovéto mínění oprávněné.
   social_image:
-  twitter_card: 'peníze a inflace, '
-  keywords: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+  twitter_card: peníze a inflace, ČNB, Friedman, Hayek, Smith, King
+  keywords: peníze a inflace, ČNB, Friedman, Hayek, Smith, King
   hide-from-google: false
 _comments:
   title: Max 70 characters
