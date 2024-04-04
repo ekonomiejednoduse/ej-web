@@ -86,7 +86,7 @@ Nejpřesvědčivějším empirickým důkazem toho, že mezi bilancí centráln�
 
 &nbsp;
 
-&nbsp;
+![](/uploads/svycarsko-penezni-zasoba-obezivo-a-bilance-snb.jpeg){: width="481" height="289"}
 
 &nbsp;
 
