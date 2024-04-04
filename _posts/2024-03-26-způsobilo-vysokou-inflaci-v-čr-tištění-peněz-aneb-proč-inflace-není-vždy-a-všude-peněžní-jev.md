@@ -4,7 +4,10 @@ title: >-
   Způsobilo vysokou inflaci v ČR "tištění peněz"? Aneb proč inflace není vždy a
   všude peněžní jev
 date: 2024-03-25 00:00:00
-description:
+description: >-
+  Mezi laickou veřejností panuje přesvědčení, že dominantní roli v procesu
+  akcelerace míry inflace v posledních letech sehrál růst peněžní zásoby. V
+  tomto článku se podíváme právě na to, zda je takovéto mínění oprávněné.
 author: Štěpán Drábek
 featured: true
 categories:
