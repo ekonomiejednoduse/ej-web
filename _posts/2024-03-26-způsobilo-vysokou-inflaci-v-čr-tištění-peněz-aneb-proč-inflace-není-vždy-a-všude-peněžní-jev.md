@@ -70,7 +70,7 @@ Pokud bychom se dívali čistě na peněžní agregáty, nespatřili bychom jeji
 
 Popis byl vytvořen automaticky](blob:https://app.cloudcannon.com/a32b3cb8-74c9-433d-886c-990023f6fe96){: width="299" height="174"}
 
-*Vztah mezi excesivním nárůstem peněžní zásoby (růst peněžní zásoby očištěn o HDP) a mírou inflace v posledních 10 letech mezi různými zeměmi. Zdroj:* [*ČNB*](https://www.cnb.cz/export/sites/cnb/en/public/.galleries/media_service/conferences/speeches/download/holub_20240311_eefc.pdf)*.*
+*Vztah mezi excesivním nárůstem peněžní zásoby (růst peněžní zásoby očištěn o HDP) a mírou inflace v posledních 10 letech mezi různými zeměmi. Zdroj:* [*ČNB*](https://www.cnb.cz/export/sites/cnb/en/public/.galleries/media_service/conferences/speeches/download/holub_20240311_eefc.pdf){: target="_blank" rel="noopener"}*.*
 
 &nbsp;
 
