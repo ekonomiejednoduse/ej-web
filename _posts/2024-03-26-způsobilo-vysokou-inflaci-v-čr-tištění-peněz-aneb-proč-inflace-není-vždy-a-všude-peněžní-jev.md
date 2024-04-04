@@ -3,14 +3,14 @@ layout: post
 title: >-
   Způsobilo vysokou inflaci v ČR "tištění peněz"? Aneb proč inflace není vždy a
   všude peněžní jev
-date: 2024-03-26 00:00:00
+date: 2024-03-25 00:00:00
 description:
 author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
 featured_image: /uploads/cnb-roklen-fotka1.png
-download: drabek-kryptomeny.pdf
+download: penize-a-inflace.pdf
 seo:
   title: >-
     Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
@@ -30,6 +30,10 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
+Článek vyšel dne 25. 3. 2024 v Hospodářských novinách a dne 27.  3. i v jejich tištěné verzi. Odkaz na odemčenou verzi textu: [https://archiv.hn.cz/c7-67307640-o6u82-ffcb54846dda2f9](https://archiv.hn.cz/c7-67307640-o6u82-ffcb54846dda2f9){: target="_blank" rel="noopener"}
+
+&nbsp;
+
 Míra inflace v únoru letošního roku klesla na úroveň rovných 2 %. Nachází se tak přesně na cíli České národní banky (ČNB) a mnohé nasvědčuje tomu, že epizoda zvýšené inflace je již definitivně za námi. Díky tomu můžeme zpětně vyhodnotit, jaké síly tlačily míru inflace v posledních letech na její historická maxima a v ideálním případě si z toho do budoucna vzít také ponaučení. Mezi laickou veřejností přitom panuje přesvědčení, že dominantní roli sehrál růst peněžní zásoby. V tomto článku se podíváme právě na to, zda je takovéto mínění oprávněné.
 
 &nbsp;
@@ -66,9 +70,9 @@ Pokud bychom se dívali čistě na peněžní agregáty, nespatřili bychom jeji
 
 &nbsp;
 
-![Obsah obrázku text, snímek obrazovky, Písmo, diagram
+!\[Obsah obrázku text, snímek obrazovky, Písmo, diagram
 
-Popis byl vytvořen automaticky](blob:https://app.cloudcannon.com/a32b3cb8-74c9-433d-886c-990023f6fe96){: width="299" height="174"}
+Popis byl vytvořen automaticky\](blob:https://app.cloudcannon.com/a32b3cb8-74c9-433d-886c-990023f6fe96)\{: width="299" height="174"\}
 
 *Vztah mezi excesivním nárůstem peněžní zásoby (růst peněžní zásoby očištěn o HDP) a mírou inflace v posledních 10 letech mezi různými zeměmi. Zdroj:* [*ČNB*](https://www.cnb.cz/export/sites/cnb/en/public/.galleries/media_service/conferences/speeches/download/holub_20240311_eefc.pdf){: target="_blank" rel="noopener"}*.*
 
