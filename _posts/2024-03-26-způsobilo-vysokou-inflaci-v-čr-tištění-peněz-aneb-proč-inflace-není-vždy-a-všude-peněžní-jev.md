@@ -16,15 +16,14 @@ featured_image: /uploads/cnb-roklen-fotka1.png
 download: penize-a-inflace.pdf
 seo:
   title: >-
-    Kryptoměny – seriózní platební nástroj, nebo nejzábavnější způsob, jak
-    přijít o peníze?
+    Způsobilo vysokou inflaci v ČR "tištění peněz"? Aneb proč inflace není vždy
+    a všude peněžní jev
   description: >-
-    Kryptoměny jako možný platební prostředek budoucnosti. To bylo téma
-    letošního ročníku soutěže pro studenty SŠ.
+    Mezi laickou veřejností panuje přesvědčení, že dominantní roli v procesu
+    akcelerace míry inflace v posledních letech sehrál růst peněžní zásoby. V
+    tomto článku se podíváme právě na to, zda je takovéto mínění oprávněné.
   social_image:
-  twitter_card: >-
-    Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
-    soutěž
+  twitter_card: 'peníze a inflace, '
   keywords: >-
     Štěpán Drábek, Ekonomie Jednoduše, Kryptoměny, Bitcoin, budoucnost peněz,
     soutěž
@@ -73,9 +72,10 @@ Pokud bychom se dívali čistě na peněžní agregáty, nespatřili bychom jeji
 
 &nbsp;
 
-!\[Obsah obrázku text, snímek obrazovky, Písmo, diagram
+![](/uploads/m-a-pi-svet-1.png){: width="299" height="174"}
+{: .center}
 
-Popis byl vytvořen automaticky\](blob:https://app.cloudcannon.com/a32b3cb8-74c9-433d-886c-990023f6fe96)\{: width="299" height="174"\}
+&nbsp;
 
 *Vztah mezi excesivním nárůstem peněžní zásoby (růst peněžní zásoby očištěn o HDP) a mírou inflace v posledních 10 letech mezi různými zeměmi. Zdroj:* [*ČNB*](https://www.cnb.cz/export/sites/cnb/en/public/.galleries/media_service/conferences/speeches/download/holub_20240311_eefc.pdf){: target="_blank" rel="noopener"}*.*
 
