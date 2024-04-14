@@ -62,6 +62,7 @@ V dekádách následujících po tzv. „Velké inflaci“ (The Great Inflation)
 &nbsp;
 
 *![](/uploads/pokles-r.png){: width="680" height="357"}*
+{: .center}
 
 *Odhadovaný vývoj výše přirozené úrokové míry před pandemií v eurozóně (EA), Spojených státech (US) a Spojeném království (UK) v %. Zdroj:* [*Evropská centrální banka (ECB)*](https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240320_2_annex~8933dbb26b.en.pdf?405a7df491dc0bd1879c8997bb16d847){: target="_blank" rel="noopener"}*.*
 
