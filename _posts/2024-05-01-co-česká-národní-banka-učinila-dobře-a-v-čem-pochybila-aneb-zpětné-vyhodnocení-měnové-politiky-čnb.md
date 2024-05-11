@@ -87,7 +87,6 @@ Viceguvernér ČNB Jan Frait společně se svým tehdejším poradcem Jakubem Ma
 &nbsp;
 
 ![](/uploads/rmci-2.png){: width="1434" height="1200"}
-{: .center}
 
 &nbsp;
 
@@ -122,7 +121,6 @@ Následující graf ilustruje to, jak se reálná úroková míra v ČR liší v
 &nbsp;
 
 ![](/uploads/r-cr-2.png){: width="3597" height="1535"}
-{: .center}
 
 &nbsp;
 
