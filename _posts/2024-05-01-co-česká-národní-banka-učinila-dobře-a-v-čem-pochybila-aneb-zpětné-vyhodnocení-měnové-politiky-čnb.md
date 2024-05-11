@@ -86,9 +86,10 @@ Viceguvernér ČNB Jan Frait společně se svým tehdejším poradcem Jakubem Ma
 
 &nbsp;
 
-![Obsah obrázku text, snímek obrazovky, Písmo, Vykreslený graf
+![](/uploads/rmci-2.png){: width="1434" height="1200"}
+{: .center}
 
-Popis byl vytvořen automaticky](/uploads/rmci-1.png){: width="1434" height="1200"}
+&nbsp;
 
 *Index reálných měnových podmínek (RMCI) v ČR. Zdroj:* [*ČNB, ZoMP 2024/1*](https://www.cnb.cz/export/sites/cnb/cs/menova-politika/.galleries/zpravy_o_menove_politice/2024/zima_2024/download/zomp_2024_zima.pdf){: target="_blank" rel="noopener"}*. Pozn.: záporné hodnoty indikují restriktivní působení měnových podmínek; šedě vyznačená plocha představuje prognózovaný vývoj.*
 
@@ -120,9 +121,8 @@ Následující graf ilustruje to, jak se reálná úroková míra v ČR liší v
 
 &nbsp;
 
-![Obsah obrázku text, Vykreslený graf, řada/pruh, diagram
-
-Popis byl vytvořen automaticky](/uploads/r-cr.png){: width="3597" height="1535"}
+![](/uploads/r-cr-2.png){: width="3597" height="1535"}
+{: .center}
 
 &nbsp;
 
