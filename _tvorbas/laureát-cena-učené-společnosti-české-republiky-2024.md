@@ -1,6 +1,6 @@
 ---
 layout: tvorba
-title: Laureát Cena Učené společnosti České republiky 2024
+title: Laureát, Cena Učené společnosti České republiky 2024
 date: 2024-05-20 00:00:00
 description: >-
   Stal jsem se laureátem Ceny Učené společnosti České republiky za mimořádné
