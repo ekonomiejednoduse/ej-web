@@ -30,6 +30,8 @@ _comments:
 ---
 Článek vyšel dne 15. 5. 2024 pro Centrum ekonomických a tržních analýz na Seznamu (rubrika Očima byznysu). Odkaz: [https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-eu-vznikla-aby-dala-trhu-volnost-ted-ho-ale-sama-omezuje&nbsp;](https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-eu-vznikla-aby-dala-trhu-volnost-ted-ho-ale-sama-omezuje-251533#utm_content=ribbonnews&amp;utm_term=štěpán%20drábek&amp;utm_medium=hint&amp;utm_source=search.seznam.cz "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-komentar-eu-vznikla-aby-dala-trhu-volnost-ted-ho-ale-sama-omezuje-251533#utm_content=ribbonnews&amp;utm_term=štěpán%20drábek&amp;utm_medium=hint&amp;utm_source=search.seznam.cz")
 
+&nbsp;
+
 Česká republika letos 1. května slavila významné výročí. Přesně před dvaceti lety jsme v tento den vstoupili do Evropské unie, a tím se stali součástí jednotného evropského trhu. Vedle politických důsledků měl přitom vstup do EU i zásadní ekonomické dopady. Právě těmi se budeme nyní zabývat.
 
 &nbsp;
