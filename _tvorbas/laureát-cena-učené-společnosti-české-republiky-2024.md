@@ -38,6 +38,7 @@ Jsem hluboce vděčný panu Ing. Pavlu Potužákovi, Ph.D. za vedení mé práce
 &nbsp;
 
 ![](/uploads/diplom-ucena-spolecnost.jpeg){: width="800" height="1066"}
+{: .center}
 
 &nbsp;
 
