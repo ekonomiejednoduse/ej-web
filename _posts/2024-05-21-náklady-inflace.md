@@ -121,7 +121,7 @@ Již na základě toho, co bylo napsáno výše, se jeví být nade vši pochybn
 
 ---
 
-Tato studie pochází ze závěrečné kapitoly autorovy odborné práce v rámci Středoškolské odborné činnosti (SOČ) s názvem *Pojednání o podstatě a původu inflace v České republice (2020–2023)*.
+**Tato studie pochází ze závěrečné kapitoly autorovy odborné práce v rámci Středoškolské odborné činnosti (SOČ) s názvem** ***Pojednání o podstatě a původu inflace v České republice (2020–2023)*****.**
 
 [\[1\]](https://libinst.cz/naklady-inflace/#_ftnref1) Srov. s Hayek (2009; s. 9): *„Dějiny totiž byly z velké části dějinami inflace.“* a (Hayek, 1996; s. 105): „*Je do značné míry pravda, že světové dějiny jsou dějinami inflace.“*
 
