@@ -5,7 +5,8 @@ date: 2024-05-21 00:00:00
 description: >-
   Je inflace zlem? Jaké jsou vůbec negativní dopady inflace, ať už nad
   očekáváními zvýšené, nebo jen nízké? Co je to Cantillonův efekt a jedná se o
-  relevantní tezi?
+  relevantní tezi? Právě těmito otázkami se zabývám ve své studii pro Liberální
+  institut.
 author: Štěpán Drábek
 featured: true
 categories:
