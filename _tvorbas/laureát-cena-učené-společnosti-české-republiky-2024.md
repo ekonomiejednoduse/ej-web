@@ -4,7 +4,8 @@ title: Laureát Cena Učené společnosti České republiky 2024
 date: 2024-05-20 00:00:00
 description: >-
   Stal jsem se laureátem Ceny Učené společnosti České republiky za mimořádné
-  vědecké aktivity středoškolských studentů České republiky.
+  vědecké aktivity středoškolských studentů České republiky pro rok 2024 za
+  svoji odbornou práci "Pojedání o podstatě a původu inflace v ČR (2020–2023)".
 author: Štěpán Drábek
 featured: true
 featured_image: /uploads/foto-pred-karolinem.png
