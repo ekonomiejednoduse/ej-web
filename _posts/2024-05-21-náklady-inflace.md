@@ -119,110 +119,214 @@ Mnozí ekonomové se v souvislosti s inflací nebrání užití normativních so
 
 Již na základě toho, co bylo napsáno výše, se jeví být nade vši pochybnost fakt, že inflace nedopadá na všechny jedince identicky. A třebaže může být inflace pro některé subjekty dočasně prospěšná, je to nutně na úkor všech ostatních účastníků společnosti – jedná se pouze o hru s nulovým (ne-li dokonce záporným) součtem. Vysoká inflace nepředstavuje pouze čistě ekonomické, nýbrž také sociální či politické náklady. Je snadno představitelné, že inflace může prohlubovat sociální nerovnosti, když nejhůře postihuje právě ty, kteří jsou schopni se proti ní nejméně ochránit, jelikož nedisponují patřičnými nástroji sebeobrany. I proto J. A. Schumpeter (2004; s. 462) píše: „Jeden z nejmocnějších faktorů urychlujících sociální změny je inflace.“[\[17\]](https://libinst.cz/naklady-inflace/#_ftn17)
 
+&nbsp;
+
 ---
 
 **Tato studie pochází ze závěrečné kapitoly autorovy odborné práce v rámci Středoškolské odborné činnosti (SOČ) s názvem** ***Pojednání o podstatě a původu inflace v České republice (2020–2023)*****.**
 
+&nbsp;
+
 [\[1\]](https://libinst.cz/naklady-inflace/#_ftnref1) Srov. s Hayek (2009; s. 9): *„Dějiny totiž byly z velké části dějinami inflace.“* a (Hayek, 1996; s. 105): „*Je do značné míry pravda, že světové dějiny jsou dějinami inflace.“*
+
+&nbsp;
 
 [\[2\]](https://libinst.cz/naklady-inflace/#_ftnref2) Viz Hayek (2009; s. 10): *„Sir John Hicks dokonce navrhl, abychom třetí čtvrtinu tohoto století, tedy léta 1950 až 1975, nazvali Keynesovým věkem, podobně jako byla druhá čtvrtina věkem Hitlera. Nedomnívám se, že škody, které Keynes napáchal, jsou skutečně tak velké, aby tento popis ospravedlnily. Nicméně je pravda, že dokud se zdálo, že jeho recepty fungují, působily jako dogma, kterému se jevilo zbytečným odporovat.“*
 
+&nbsp;
+
 [\[3\]](https://libinst.cz/naklady-inflace/#_ftnref3) Viz třeba Mankiw (2009; s. 606), Revenda *et al.* (2004; s. 545) či Revenda (1999; s. 356).
+
+&nbsp;
 
 [\[4\]](https://libinst.cz/naklady-inflace/#_ftnref4) *„.Cantillon tvrdil, stejně jako později Hume, že změny v množství peněz převážně ovlivňují strukturu* relativních cen*spíše než všeobecnou cenovou úroveň.“* (Huerta de Soto, 2009; s. 600).
 
+&nbsp;
+
 [\[5\]](https://libinst.cz/naklady-inflace/#_ftnref5) Viz Drábek (2023).
+
+&nbsp;
 
 [\[6\]](https://libinst.cz/naklady-inflace/#_ftnref6) Citováno z Hayek (1995; s. 15).
 
+&nbsp;
+
 [\[7\]](https://libinst.cz/naklady-inflace/#_ftnref7) Viz Mises (2008; s. 103): *„Analogie a metafory vždy kulhají a jsou logicky neuspokojivé.“*
+
+&nbsp;
 
 [\[8\]](https://libinst.cz/naklady-inflace/#_ftnref8) Viz Karpiš (2021; s. 192): *„Nic jako cenová hladina neexistuje. Jsou jen ceny jednotlivých produktů, služeb, aktiv či výrobních faktorů. Průměr cen některých vybraných statků v ekonomice, který neříká nic o individuálních změnách nominálních cen statků v ekonomice, zakrývá dynamiku a variabilitu dopadů inflace.“*
 
+&nbsp;
+
 [\[9\]](https://libinst.cz/naklady-inflace/#_ftnref9) Srov. s Hayek (2008; s. 218): *„.Zdá se být zřejmé, že téměř jakákoli změna nabídky peněz, ať už ovlivňuje cenovou hladinu, či nikoli, musí vždy ovlivnit relativní ceny. A jelikož není pochyb o tom, že jsou to právě relativní ceny, které určují objem a směřování výroby, téměř každá změna množství peněz musí nutně ovlivnit i produkci.“*
+
+&nbsp;
 
 [\[10\]](https://libinst.cz/naklady-inflace/#_ftnref10) Pojmem „inflace“ Mises (1953; s. 240) mínil *„zvýšení množství peněz \[…\], které není kompenzováno odpovídajícím zvýšením potřeby po penězích“,* srov. s Rothbard (2005; s. 689): *„Proces vydávání falešných potvrzení o uskladnění peněz či přesněji proces vydávání peněz v množství přesahujícím zásobu peněžní komodity je nazýván inflace.“* Viz také Rothbard (2001; s. 54): *„Inflaci definujeme jako jakýkoli nárůst nabídky peněz v ekonomice, který nepředstavuje nárůst zásoby měnového kovu.“*
 
+&nbsp;
+
 [\[11\]](https://libinst.cz/naklady-inflace/#_ftnref11) Srov. s Hazlitt (2008; s. 147): *„Inflace je druhem daně, která není pod kontrolou daňových úřadů.“*
+
+&nbsp;
 
 [\[12\]](https://libinst.cz/naklady-inflace/#_ftnref12) Srov. s Mises (2018; s. 627).
 
+&nbsp;
+
 [\[13\]](https://libinst.cz/naklady-inflace/#_ftnref13) Viz také Horwitz (2023; s. 66): *„Zisk a ztráta jsou jako signály slasti a bolesti vysílané našimi nervovými zakončeními. \[…\] Bez skutečných signálů o ziscích a ztrátách jsou výrobci slepí a spotřebitelé v důsledku toho trpí.“*
+
+&nbsp;
 
 [\[14\]](https://libinst.cz/naklady-inflace/#_ftnref14) Pro detailní popis ABCT viz Potužák (2015) a Potužák (2022).
 
+&nbsp;
+
 [\[15\]](https://libinst.cz/naklady-inflace/#_ftnref15) Viz Rothbard (2001; s. 63): „*Vytvořením iluzorních zisků a narušením ekonomické kalkulace odstraní inflace schopnost svobodného trhu pokutovat neefektivní a odměňovat efektivní podnikatele.“*
+
+&nbsp;
 
 [\[16\]](https://libinst.cz/naklady-inflace/#_ftnref16) Viz Mises (2008; s. 8): *„Konečné rozhodnutí, hodnocení a volba cílů přesahují předmět jakékoli vědy. Věda nikdy neříká člověku, jak by měl jednat; pouze mu ukazuje, jak jednat musí, chce-li určitých cílů dosáhnout.“*
 
+&nbsp;
+
 [\[17\]](https://libinst.cz/naklady-inflace/#_ftnref17) Henry Hazlitt (2008; s. 147) dokonce tvrdí: *„Inflace rozbíjí pavučinu stabilních ekonomických vztahů. Její neomluvitelná nespravedlnost dohání lidi k zoufalým činům. Zasívá semena fašismu a komunismu a vede lidi k požadování totalitních řešení.“*
+
+&nbsp;
 
 ---
 
 ### **Použitá literatura**
 
+&nbsp;
+
 BASTIAT, Frédéric. *Co je vidět a co není vidět a jiné práce*. Praha: Liberální institut & Centrum liberálních studií, 1998. ISBN 80-902270-6-6.
+
+&nbsp;
 
 CANTILLON, Richard. *An Essay on Economic Theory* \[online\]. Auburn, Alabama: Ludwig von Mises Institute, 2010 \[cit. 2023-12-24\]. ISBN 978-1-61016-001-8. Dostupné z: [https://mises.org/library/essay-economic-theory-0](https://mises.org/library/essay-economic-theory-0)
 
+&nbsp;
+
 DRÁBEK, Štěpán. *Fata morgána cenové stability*. Online. 2023. Dostupné z: [https://libinst.cz/fata-morgana-cenove-stability/](https://libinst.cz/fata-morgana-cenove-stability/) \[cit. 2024-05-09\].
+
+&nbsp;
 
 FRIEDMAN, Milton. *Metodologie pozitivní ekonomie*. In FRIEDMAN, Milton. *Kapitalismus a svoboda*. Přeložil Martin PÁNEK a Jiří JONÁŠ. Druhé, opravené a doplněné vydání. Praha: Liberální institut, 2023. ISBN 978-80-86389-74-5.
 
+&nbsp;
+
 FRIEDMAN, Milton a FRIEDMANOVÁ, Rose D. *Svoboda volby*. Druhé, opravené a doplněné vydání. Přeložil Pavel VRECION a Viktor VRECION. Praha: Liberální institut, 2020. ISBN 978-80-86389-66-0.
+
+&nbsp;
 
 HAYEK, Friedrich August von. *Osudná domýšlivost: omyly socialismu*. Druhé vydání. Přeložil Jana OGROCKÁ. Praha: Liberální institut, 2022. ISBN 978-80-86389-71-4.
 
+&nbsp;
+
 HAYEK, Friedrich August von. *Individualismus a ekonomický řád*. Přeložil Jan Horych. Praha: Wolters Kluwer ČR, 2019. ISBN 978-80-7598-429-6.
+
+&nbsp;
 
 HAYEK, Friedrich August von. *Choice in Currency: A Way to Stop Inflation* \[online\]. London: The Institute of Economic Affairs & The Ludwig von Mises Institute, 2009 \[cit. 2023-09-23\]. ISBN 255 36078-9. Dostupné z: [https://mises.org/library/choice-currency-0](https://mises.org/library/choice-currency-0)
 
+&nbsp;
+
 HAYEK, Friedrich August von. *Prices and Production and Other Works: F. A. Hayek on Money, the Business Cycle, and the Gold Standard* \[online\]. Auburn: Ludwig von Mises Institute, 2008 \[cit. 2023-10-01\]. ISBN 978-1-933550-22-0. Dostupné z: [https://mises.org/library/prices-and-production-and-other-works](https://mises.org/library/prices-and-production-and-other-works)
+
+&nbsp;
 
 HAYEK, Friedrich August von. *Soukromé peníze: potřebujeme centrální banku?* Přeložil Miroslav ZAJÍČEK a Martin DVOŘÁČEK. Praha: Liberální institut, 1999. ISBN 80-902701-1-5.
 
+&nbsp;
+
 HAYEK, Friedrich August von. *Can We Still Avoid Inflation?* In: Ebeling, Richard M. The Austrian Theory of the Trade Cycle and Other Essays \[online\]. Auburn, Alabama: Ludwig von Mises Institute, 1996, s. 93–110 \[cit. 2023-11-11\]. ISBN 0–945466–21-8. Dostupné z: [https://mises.org/library/can-we-still-avoid-inflation](https://mises.org/library/can-we-still-avoid-inflation)
+
+&nbsp;
 
 HAYEK, Friedrich August von. *Kontrarevoluce vědy*. Přeložila Danica SLOUKOVÁ a Ján PAVLÍK. Praha: Liberální institut, 1995. ISBN 80-85787-87-3.
 
+&nbsp;
+
 HAYEK, Friedrich August von. How to deal with inflation. *The Times* \[online\]. 1980, s. 16 \[cit. 2023-10-01\]. Dostupné z: [https://www.margaretthatcher.org/document/114503](https://www.margaretthatcher.org/document/114503)
+
+&nbsp;
 
 HAZLITT, Henry. *Ekonomie v jedné lekci*. Praha: Alfa nakladatelství & Liberální institut, 2008. ISBN 978-80-87197-05-9.
 
+&nbsp;
+
 HORWITZ, Steven. *Úvod do rakouské ekonomie*. Přeložil Filip BLAHA a Ondřej CHLUBNA. Chocenice: Students for Liberty CZ, 2023. ISBN 978-80-905876-2-5.
+
+&nbsp;
 
 HUERTA DE SOTO, Jesús. *Peníze, banky a hospodářské krize*. Praha: ASPI & Liberální institut, 2009. ISBN 978-80-7357-411-6.
 
+&nbsp;
+
 KARPIŠ, Juraj. *Špatné peníze: průvodce krizí*. Přeložila Andrea HOLÚBKOVÁ-MACHÁLKOVÁ. Plzeň: F&R, 2021. ISBN 978-80-907962-0-1.
+
+&nbsp;
 
 KEYNES, John Maynard. *The Economic Consequences of the Peace*. Londýn: Macmillan & Co., Limited, 1919.
 
+&nbsp;
+
 MANKIW, Gregory N. *Zásady ekonomie* (dotisk). Přeložil Milan SOJKA a kolektiv. Praha: Grada, 2009. ISBN 978-80-7169-891-3.
+
+&nbsp;
 
 MISES, Ludwig von. *Lidské jednání: pojednání o ekonomii*. Druhé vydání. Přeložil Josef ŠÍMA a kolektiv. Praha: Liberální institut, 2018. ISBN 978-80-86389-61-5.
 
+&nbsp;
+
 MISES, Ludwig von. *Hospodářská politika: myšlenky pro dnešek a zítřek*. Přeložil Martin LEŠKO, Ondřej ŠPALEK a Jakub SKALA. Praha: Ludwig von Mises Institut, 2014. ISBN 978-80-87733-11-0.
+
+&nbsp;
 
 MISES, Ludwig von. Ekonomická kalkulace v socialistickém společenství. In: BOETTKE, Peter. *Robustní politická ekonomie pro 21. století*. Praha: Wolters Kluwer Česká republika; Cevro Institut, 2011, s. 294–319. ISBN 978-80-7357-619-6.
 
+&nbsp;
+
 MISES, Ludwig von. The Theory of Money and Credit \[online\]. New Haven: Yale University Press, 1953 \[cit. 2023-08-21\]. ISBN 978-1-933550-55-8. Dostupné z: [https://cdn.mises.org/Theory%20of%20Money%20and%20Credit.pdf](https://cdn.mises.org/Theory%20of%20Money%20and%20Credit.pdf)
+
+&nbsp;
 
 POTUŽÁK, Pavel. *Austrian Theory of Capital and Business Cycle: A Modern Approach*. Palgrave Macmillan, 2022. ISBN 978-3031187278.
 
+&nbsp;
+
 POTUŽÁK, Pavel. *Capital and The Monetary Business Cycle Theory: Essays on The Austrian Theory of Capital, Interest, and Business Cycle* \[online\]. Praha, 2015 \[cit. 2023-9-27\]. Disertační práce. Vysoká škola ekonomická v Praze, Národohospodářská fakulta. Dostupné z: [https://vskp.vse.cz/49157](https://vskp.vse.cz/49157)
+
+&nbsp;
 
 REVENDA, Zbyněk, Martin MANDEL, Jan KODERA, Petr MUSÍLEK, Petr DVOŘÁK a Jaroslav BRADA. *Peněžní ekonomie a bankovnictví*. 3. vydání. Praha: Management Press, 2004. ISBN 80-7261-031-7.
 
+&nbsp;
+
 REVENDA, Zbyněk. *Centrální bankovnictví*. Praha: Management Press, 1999. ISBN 80-85943-89-1.
+
+&nbsp;
 
 ROTHBARD, Murray Newton. *Zásady ekonomie: od lidského jednání k harmonii trhů*. Přeložil Josef ŠÍMA. Praha: Liberální institut, 2005. ISBN 80-86389-27-8.
 
+&nbsp;
+
 ROTHBARD, Murray N. *Peníze v rukou státu*. Přeložil Josef ŠÍMA. Praha: Liberální institut, 2001. ISBN 80-86389-12-X.
+
+&nbsp;
 
 SCHUMPETER, Joseph Alois. *Kapitalismus, socialismus a demokracie*. Brno: Centrum pro studium demokracie a kultury, 2004. ISBN 80-7325-044-6.
 
+&nbsp;
+
 ŠÍMA, Josef, ed. *Jerry Jordan: Změněná úloha centrálních bank v XXI. století*. Praha: Liberální institut, 1999. ISBN 978-80-86389-01-4.
 
+&nbsp;
+
 The Great Inflation: Lessons for Monetary Policy. *ECB Monthly Bulletin: May* \[online\]. European Central Bank, 2010, 99–110 \[cit. 2023-09-24\]. ISSN 1725-2822. Dostupné z: [https://www.ecb.europa.eu/pub/pdf/other/mopo\_strat\_art1.pdf?b19aa418314b36e5c21fe296a788b20b](https://www.ecb.europa.eu/pub/pdf/other/mopo_strat_art1.pdf?b19aa418314b36e5c21fe296a788b20b)
+
+&nbsp;
 
 WOODFORD, Michael. *Interest and Prices: Foundations of a Theory of Monetary Policy*. Princeton: Princeton University Press, 2003. ISBN 0-691-01049-8.
