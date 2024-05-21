@@ -47,6 +47,7 @@ Za dobu členství ČR v EU u nás vzrostl HDP na hlavu (tj. ukazatel ekonomick�
 &nbsp;
 
 ![](/uploads/hdp-cr-a-rakousko.png){: width="648" height="316"}
+{: .center}
 
 &nbsp;
 
