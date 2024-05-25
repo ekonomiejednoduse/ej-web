@@ -1,7 +1,7 @@
 ---
 layout: tvorba
 title: >-
-  🥉Konference mladých přírodovědců Přírodovědecké fakulty Univerzity Palackého
+  🥉 Konference mladých přírodovědců Přírodovědecké fakulty Univerzity Palackého
   v Olomouci
 date: 2024-05-24 00:00:00
 description: >-
