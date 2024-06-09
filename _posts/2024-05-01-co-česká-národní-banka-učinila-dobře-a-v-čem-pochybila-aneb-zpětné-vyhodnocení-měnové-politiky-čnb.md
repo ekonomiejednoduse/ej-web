@@ -121,6 +121,7 @@ Následující graf ilustruje to, jak se reálná úroková míra v ČR liší v
 &nbsp;
 
 ![](/uploads/r-cr-2.png){: width="3597" height="1535"}
+{: .center}
 
 &nbsp;
 
