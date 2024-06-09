@@ -40,9 +40,7 @@ Nákup zlata by údajně měl posílit očekávanou výnosnost aktiv ČNB. Z his
 
 &nbsp;
 
-![Obsah obrázku snímek obrazovky, řada/pruh, Vykreslený graf, diagram
-
-Popis byl vytvořen automaticky](/uploads/vynos-zlato-akcie-dluhopisy.png){: width="628" height="380"}
+![](/uploads/vynos-zlato-akcie-dluhopisy-1.png){: width="628" height="380"}
 
 &nbsp;
 
@@ -76,9 +74,9 @@ Z grafu níže je zřejmé, že trend držby zlata ve vyspělých zemích (včet
 
 &nbsp;
 
-![Obsah obrázku text, řada/pruh, Vykreslený graf, snímek obrazovky
+![](/uploads/drzba-zlata-1.png){: width="801" height="528"}
 
-Popis byl vytvořen automaticky](/uploads/drzba-zlata.png){: width="801" height="528"}
+&nbsp;
 
 *Držba zlata podle skupin zemí. Zdroj:* [*ČNB*](https://www.cnb.cz/export/sites/cnb/cs/ekonomicky-vyzkum/.galleries/vyzkum_publikace/rpn/download/rpn_1_2019_cz.pdf){: target="_blank" rel="noopener"}
 
@@ -114,9 +112,9 @@ Jak [uvádí](https://www.grada.cz/ekonomicke-jednohubky-13499/){: target="_blan
 
 &nbsp;
 
-![Obsah obrázku text, snímek obrazovky, Písmo, řada/pruh
+![](/uploads/zlato-u-cnb-1.png){: width="470" height="348"}
 
-Popis byl vytvořen automaticky](/uploads/zlato-u-cnb.png){: width="470" height="348"}
+&nbsp;
 
 *Zdroj: ČNB, ČBA*
 
