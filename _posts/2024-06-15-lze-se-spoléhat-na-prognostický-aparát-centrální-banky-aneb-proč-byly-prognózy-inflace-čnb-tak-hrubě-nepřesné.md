@@ -58,26 +58,11 @@ Příchod dvojciferné míry inflace byl ze strany naší měnové autority neo�
 
 &nbsp;
 
-| **ZoI/ZoMP ČNB** | **2021** | **2022** | **2023** |
-| I.Q/2020 | **2,2 %** (–1,6 p. b.) | – | – |
-| II.Q/2020 | **2,1 %** (–1,7 p. b.) | – | – |
-| III.Q/2020 | **2,4 %** (–1,4 p. b.) | **2,2 %** (–12,9 p. b.) | – |
-| IV.Q/2020 | **2,3 %** (–1,5 p. b.) | **2,0 %** (–13,1 p. b.) | – |
-| I.Q/2021 | **2,0 %** (–1,8 p. b.) | **2,2 %** (–12,9 p. b.) | – |
-| II.Q/2021 | **2,7 %** (–1,1 p. b.) | **2,4 %** (–12,7 p. b.) | – |
-| III.Q/2021 | **3,0 %** (–0,8 p. b.) | **2,8 %** (–12,3 p. b.) | **2,1 %** (–8,6 p. b.) |
-| IV.Q/2021 | **3,7 %** (–0,1 p. b.) | **5,6 %** (–9,5 p. b.) | **2,1 %** (–8,6 p. b.) |
-| I.Q/2022 | – | **8,5 %** (–6,6 p. b.) | **2,3 %** (–8,4 p. b.) |
-| II.Q/2022 | – | **13,1 %** (–2,0 p. b.) | **4,1 %** (–6,6 p. b.) |
-| III.Q/2022 | – | **16,5 %** (+1,4 p. b.) | **9,5 %** (–1,2 p. b.) |
-| IV.Q/2022 | – | **15,8 %** (+0,7 p. b.) | **9,1 %** (–1,6 p. b.) |
-| I.Q/2023 | – | – | **10,8 %** (+0,1 p. b.) |
-| II.Q/2023 | – | – | **11,2 %** (+0,5 p. b.) |
-| III.Q/2023 | – | – | **11,0 %** (+0,3 p. b.) |
-| IV.Q/2023 | – | – | **10,8 %** (+0,1 p. b.) |
-| **Skutečnost** | **3,8 %** | **15,1 %** | **10,7 %** |
+![](/uploads/inflace-tabulka.png){: width="976" height="748"}
 
 *Prognózovaná inflace ČNB v ZoI a ZoMP versus její skutečné hodnoty v letech 2021, 2022 a 2023 a rozdíly mezi nimi. Zdroj: **Vlastní zpracování**dle ČNB. Pozn.: data pocházejí ze Zpráv o inflaci (ZoI) a Zpráv o měnové politice (ZoMP) kvartálně zveřejňovaných ČNB (I.Q/2020–IV.Q/2023); odchylky prognóz inflace od jejích skutečných, ex post, hodnot jsou uvedeny v procentních bodech (p. b.) – záporné hodnoty značí nižší odhad oproti skutečnosti, kdežto kladné vyšší.*
+
+&nbsp;
 
 Z tabulky výše vyplývá, že rozmezí odchylek skutečné *ex post* míry inflace od *ex ante* prognóz ČNB činilo –13,1 p. b. až +1,4 p. b., což je, nutno dodat, mimořádně široké rozpětí. Není snad příliš překvapivé, že zvláště zkreslené byly prognózy inflace ČNB v roce 2020, kdy přítomnost intenzivních inflačních tlaků zdaleka nebyla tak evidentní.
 
@@ -91,9 +76,7 @@ Opačným extrémem byla predikce inflace ve [Zprávě o měnové politice](http
 
 &nbsp;
 
-![Obsah obrázku text, Vykreslený graf, diagram, řada/pruh
-
-Popis byl vytvořen automaticky](/uploads/cnb-odchylky-prognoz.png){: width="911" height="448"}
+![](/uploads/cnb-odchylky-prognoz-1.png){: width="911" height="448"}
 
 &nbsp;
 
