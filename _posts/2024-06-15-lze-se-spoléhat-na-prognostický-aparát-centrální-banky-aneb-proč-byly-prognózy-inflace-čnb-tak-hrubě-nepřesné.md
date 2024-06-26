@@ -1,8 +1,8 @@
 ---
 layout: post
 title: >-
-  "Lze se spoléhat na prognostický aparát centrální banky ? Aneb proč byly
-  prognózy inflace ČNB tak hrubě nepřesné?"
+  Lze se spoléhat na prognostický aparát centrální banky ? Aneb proč byly
+  prognózy inflace ČNB tak hrubě nepřesné?
 date: 2024-06-15 00:00:00
 description: >-
   Nakolik přesné byly v posledních letech prognózy inflace od ČNB? Existuje pro
