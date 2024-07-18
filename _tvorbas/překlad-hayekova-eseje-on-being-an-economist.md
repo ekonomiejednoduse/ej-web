@@ -172,28 +172,54 @@ Postskriptum editora: Snad stojí za zmínku, že Hayek v předmluvě k druhému
 
 [\[1\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref1) Projev přednesený před Studentskou unií London School of Economics, 23. února 1944. Poprvé publikováno v knize *The Trend of Economic Thinking: Essays on Political Economists and Economic History* (III. svazek Sebraných spisů F. A. Hayeka), editoři W. W. Bartley III a Stephen Kresge (Chicago: University of Chicago Press, 1991), s. 35–48.
 
+&nbsp;
+
 [\[2\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref2) Pro český překlad viz HAYEK, Friedrich August von. Intelektuálové a socialismus. In: HAYEK, Friedrich August von. *Osudná domýšlivost: omyly socialismu*. Druhé vydání. Praha: Liberální institut, 2022, s. 227–248. ISBN 978-80-86389-71-4. – pozn. překl.
+
+&nbsp;
 
 [\[3\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref3) \[Nobelova cena za ekonomii byla zřízena v roce 1968, tedy 24 let poté. – pozn. red. Hayekova díla\]
 
+&nbsp;
+
 [\[4\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref4) \[Jedná se zjevně o narážku na Keynese, který byl v roce 1942 jmenován baronem. – pozn. red. Hayekova díla\]
+
+&nbsp;
 
 [\[5\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref5) The General Theory of Employment Interest and Money (London: Macmillan, 1936), s. 383.
 
+&nbsp;
+
 [\[6\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref6) \[John Stuart Mill, *"Rationale of Representation"* \[1835\], in *Essays on Politics and Society* (Toronto: University of Toronto Press; London: Routledge & Kegan Paul, 1977), str. 23, což je svazek č. 18 *Sebraných spisů Johna Stuarta Milla*. Uvedený citát prolíná celou Millovu větu s citátem v závorce, který mu o několik řádků předchází. Význam není pozměněn. – pozn. red. Hayekova díla\]
+
+&nbsp;
 
 [\[7\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref7) \[A. V. Dicey, *Lectures on the Relation Between Law & Public Opinion in England During the Nineteenth Century* (London: Macmillan, 1914). – pozn. red. Hayekova díla\]
 
+&nbsp;
+
 [\[8\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref8) \[W. H. Hutt, *Economists and the Public: A Study of Competition and Opinion* (J. Cape, 1936). – pozn. ed. Hayekova díla\]
+
+&nbsp;
 
 [\[9\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref9) \[Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* \[1776\], kniha IV., kap. 2., in *The Glasgow Edition of the Works and Correspondence of Adam Smith*, vol. 2:1 (Oxford: Clarendon Press, 1976), s. 471. – pozn. red. Hayekova díla\].
 
+&nbsp;
+
 [\[10\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref10) \[Stalo se tak v době klidu na italské frontě na Piavě. Dvě knihy byly od Grunzla a Jentsche. Hayek nám později sdělil: *"Stále se divím, že právě tyto knihy ve mně nevyvolaly trvalý odpor k tomuto oboru."* – pozn. red. Hayekova díla\].
+
+&nbsp;
 
 [\[11\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref11) \[Tj. délka obvyklého bakalářského studia v Británii. – pozn. red. Hayekova díla.\]
 
+&nbsp;
+
 [\[12\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref12) Srov. s HAYEK, Friedrich A. von, WENAR, Leif a KRESGE, Stephen (ed.). *Autobiografické rozhovory*. Přeložila Veronika MACHOVÁ. Brno: Barrister & Principal, 2002. ISBN 80-86598-16-0; s. **102**: *„Mám teorii, že všechny ekonomy, kteří pracují pro vládu, tato práce zkazí.“* – pozn. překl.
 
+&nbsp;
+
 [\[13\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref13) *"Studenti společenských věd se musejí obávat uznání veřejnosti; zlé je pro ně, když o nich všichni lidé mluví dobře. Existuje-li nějaký souhrn názorů, jejichž obhajobou mohou noviny zvýšit svůj odbyt, pak je student ... povinen zabývat se omezeními, nedostatky a případnými chybami tohoto souboru názorů: a nikdy je bezpodmínečně neobhajovat ani v diskusi ad hoc. Je téměř nemožné, aby student byl skutečným vlastencem a zároveň měl pověst takového člověka."* – Alfred Marshall. \[Citováno v A. C. Pigou, "In Memoriam: C. Pigou, Memorials of Alfred Marshall (New York: Kelley & Millman, 1956), s. 89. Více o Marshallových názorech na povinnosti ekonoma viz John K. Whitaker, "Some Neglected Aspects of Alfred Marshall's Economic and Social Thought", History of Political Economy, roč. 9, č. 2 (léto 1977), s. 161–97, zejm. s. 185–90. – pozn. ed. Hayekova díla\].
+
+&nbsp;
 
 [\[14\]](applewebdata://3C64111C-83DE-47D6-94E1-7C9448851688#_ftnref14) Pro české vydání viz HAYEK, Friedrich A. von. *Soukromé peníze: potřebujeme centrální banku?* Přeložil Miroslav ZAJÍČEK a Martin DVOŘÁČEK. Praha: Liberální institut, 1999. ISBN 80-902701-1-5; s. **24**, odkud pochází překlad této pasáže. – pozn. překl.
