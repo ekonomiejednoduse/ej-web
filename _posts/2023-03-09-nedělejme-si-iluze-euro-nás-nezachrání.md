@@ -61,9 +61,3 @@ Stejnou skutečnost trochu jinak vyjádřil i předseda Národní rozpočtové r
 &nbsp;
 
 Bývalý guvernér Bank of England (centrální banky Spojeného Království) Mervin King o Evropské měnové unii (EMU) [hovoří](https://bailiping.github.io/assets/docs/Books/alchemy.pdf){: target="_blank" rel="noopener"} jako o nejambicióznějším projektu v celé monetární historii. Zdůrazňuje však také, že euro již bohužel přestalo být považováno za prostředek k dosažení jiných cílů, když se z něj stal cíl samotný, a z diskuze o jeho přijetí se tak do značné míry vytratila racionalita ekonomických argumentů. Závěrem nelze nesouhlasit s jeho tezí o tom, že ať již ekonomická teorie říká cokoli, výběr měny je v konečném důsledku čistě politickým rozhodnutím.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
