@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nedělejme si iluze, euro nás nezachrání
-date: 2023-03-09 00:00:00
+date: 2024-07-09 00:00:00
 description: >-
   Máloco hýbe veřejným prostorem tolik jako kontroverzní téma přijetí eura v
   České republice. Zájem o tento fenomén u nás vždy přichází a odchází ve
@@ -28,7 +28,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-Článek vyšel dne 9. 6. 2024 v Hospodářských novinách a stejného dne i v jejich tištěné verzi. Odkaz na odemknutou verzi textu: [https://archiv.hn.cz/c7-67340390-1-25edb1521cf263f](https://archiv.hn.cz/c7-67340390-1-25edb1521cf263f){: target="_blank" rel="noopener"}
+Článek vyšel dne 9. 7. 2024 v Hospodářských novinách a stejného dne i v jejich tištěné verzi. Odkaz na odemknutou verzi textu: [https://archiv.hn.cz/c7-67340390-1-25edb1521cf263f](https://archiv.hn.cz/c7-67340390-1-25edb1521cf263f){: target="_blank" rel="noopener"}
 
 &nbsp;
 
