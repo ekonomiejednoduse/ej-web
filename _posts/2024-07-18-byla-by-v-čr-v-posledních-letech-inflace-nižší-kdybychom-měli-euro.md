@@ -58,30 +58,30 @@ V říjnu roku 2022, kdy míra inflace v eurozóně měřená HICP při své kul
 
 &nbsp;
 
-| Země{: .center} | Míra inflace{: .center} | Inflační diferenciál vůči průměrné inflaci v eurozóně{: .center} |
-| Belgie{: .center} | 13,1 %{: .center} | \+2,5 p. b.{: .center} |
-| **Česká republika**{: .center} | **15,5 %**{: .center} | **\+4,9 p. b.**{: .center} |
-| Estonsko{: .center} | 22,5 %{: .center} | \+11,9 p. b.{: .center} |
-| Finsko{: .center} | 8,4 %{: .center} | –2,2 p. b.{: .center} |
-| Francie{: .center} | 7,1 %{: .center} | –3,5 p. b.{: .center} |
-| Irsko{: .center} | 9,4 %{: .center} | –1,2 p. b.{: .center} |
-| Itálie{: .center} | 12,6 %{: .center} | \+2,0 p. b.{: .center} |
-| Kypr{: .center} | 8,6 %{: .center} | –2,0 p. b.{: .center} |
-| Litva{: .center} | 22,1 %{: .center} | \+11,5 p. b.{: .center} |
-| Lotyšsko{: .center} | 21,7 %{: .center} | \+11,1 p. b.{: .center} |
-| Lucembursko{: .center} | 8,8 %{: .center} | –1,8 p. b.{: .center} |
-| Malta{: .center} | 7,4 %{: .center} | –3,2 p. b.{: .center} |
-| Německo{: .center} | 11,6 %{: .center} | \+1,0 p. b.{: .center} |
-| Nizozemsko{: .center} | 16,8 %{: .center} | \+6,2 p. b.{: .center} |
-| Portugalsko{: .center} | 10,6 %{: .center} | 0,0 p. b.{: .center} |
-| Rakousko{: .center} | 11,5 %{: .center} | \+0,9 p. b.{: .center} |
-| Řecko{: .center} | 9,5 %{: .center} | –1,1 p. b.{: .center} |
-| Slovensko{: .center} | 14,5 %{: .center} | \+3,9 p. b.{: .center} |
-| Slovinsko{: .center} | 10,3 %{: .center} | –0,3 p. b.{: .center} |
-| Španělsko{: .center} | 7,3 %{: .center} | –3,3 p. b.{: .center} |
-| Švýcarsko{: .center} | 2,9 %{: .center} | –7,7 p. b.{: .center} |
-| **Průměrná inflace v zemích eurozóny**{: .center} | **10,6 %**{: .center} | –{: .center} |
-| Průměrná inflace v zemích EU{: .center} | 11,5 %{: .center} | \+0,9 p. b.{: .center} |
+| Země | Míra inflace | Inflační diferenciál vůči průměrné inflaci v eurozóně |
+| Belgie | 13,1 % | \+2,5 p. b. |
+| **Česká republika** | **15,5 %** | **\+4,9 p. b.** |
+| Estonsko | 22,5 % | \+11,9 p. b. |
+| Finsko | 8,4 % | –2,2 p. b. |
+| Francie | 7,1 % | –3,5 p. b. |
+| Irsko | 9,4 % | –1,2 p. b. |
+| Itálie | 12,6 % | \+2,0 p. b. |
+| Kypr | 8,6 % | –2,0 p. b. |
+| Litva | 22,1 % | \+11,5 p. b. |
+| Lotyšsko | 21,7 % | \+11,1 p. b. |
+| Lucembursko | 8,8 % | –1,8 p. b. |
+| Malta | 7,4 % | –3,2 p. b. |
+| Německo | 11,6 % | \+1,0 p. b. |
+| Nizozemsko | 16,8 % | \+6,2 p. b. |
+| Portugalsko | 10,6 % | 0,0 p. b. |
+| Rakousko | 11,5 % | \+0,9 p. b. |
+| Řecko | 9,5 % | –1,1 p. b. |
+| Slovensko | 14,5 % | \+3,9 p. b. |
+| Slovinsko | 10,3 % | –0,3 p. b. |
+| Španělsko | 7,3 % | –3,3 p. b. |
+| Švýcarsko | 2,9 % | –7,7 p. b. |
+| **Průměrná inflace v zemích eurozóny** | **10,6 %** | – |
+| Průměrná inflace v zemích EU | 11,5 % | \+0,9 p. b. |
 
 &nbsp;
 
@@ -128,7 +128,7 @@ Jak je ostatně vidno v následující tabulce, v roce 2019 (tedy v posledním r
 | Španělsko | 0,8 % | –0,4 p. b. |
 | Švýcarsko | 0,4 % | –0,8 p. b. |
 | **Průměrná inflace v zemích eurozóny** | **1,2 %** | – |
-| Průměrná inflace v zemích EU | 1,5 % | \+0,3 p. b.{: .center} |
+| Průměrná inflace v zemích EU | 1,5 % | \+0,3 p. b. |
 
 &nbsp;
 
