@@ -3,7 +3,7 @@ layout: post
 title: >-
   Bylo oslabování koruny největší chybou ČNB? Aneb jak to bylo s kurzovým
   závazkem
-date: 2024-08-15 00:00:00
+date: 2024-07-25 00:00:00
 description: >-
   Kurzový závazek je tématem, které pořád ostře rozděluje ekonomy na dva
   znepřátelené tábory. Přestože od ukončení cíleného oslabování koruny uplynulo
