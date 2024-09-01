@@ -96,7 +96,7 @@ Tlaky na posílení kurzu koruny v roce 2017 postupně sílily, což nutilo cent
 
 &nbsp;
 
-![](/uploads/kurzovy-zavazek.jpeg){: width="385" height="251"}
+![](/uploads/kurzovy-zavazek-1.jpeg){: width="385" height="251"}
 
 *Kurz koruny vůči euru a devizové intervence ČNB. Zdroj:* [*ČNB (Filáček; Král, 2017)*](https://www.cnb.cz/cs/menova-politika/zpravy-o-inflaci/tematicke-prilohy-a-boxy/Ohlednuti-za-ukoncenym-kurzovym-zavazkem){: target="_blank" rel="noopener"}*.*
 
@@ -136,7 +136,7 @@ Nejdůležitější je však vzhledem k [mandátu ČNB](https://www.cnb.cz/cs/o_
 
 &nbsp;
 
-![](/uploads/inflace-kurzovy-zavazek.png)
+![](/uploads/inflace-kurzovy-zavazek-1.png){: width="843" height="513"}
 
 *Efekt kurzového závazku na míru inflace a její odhadovaný vývoj bez tohoto opatření. Zdroj:* [*Brůha; Tonner (2018)*](https://journal.fsv.cuni.cz/storage/1424_537_549_bruha_tonner_final_issue_06_2018.pdf){: target="_blank" rel="noopener"}*.*
 
