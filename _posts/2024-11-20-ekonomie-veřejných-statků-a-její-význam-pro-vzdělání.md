@@ -13,7 +13,7 @@ categories:
   - ekonomie
   - selhani trhu
 featured_image: /uploads/verejne-statky.jpeg
-download: VSP-esej-cz
+download: drabek-economics-of-public-goods.pdf
 seo:
   title: Ekonomie veřejných statků a její význam pro vzdělání
   description: >-
