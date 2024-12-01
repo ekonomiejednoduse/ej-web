@@ -11,7 +11,7 @@ description: >-
   ministra financí ČR Marek Mora.
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/eo.jpeg
+featured_image: /uploads/marek-mora.jpeg
 categories: dalsi tvorba
 download:
 video-url:
@@ -148,7 +148,7 @@ Je pravda, že společná měna by asi bez geopolitické situace přelomu 80. a 
 
 &nbsp;
 
-**Jaký je Váš názor na aktuální nákupy zlata ze strany ČNB či dalších centrálních bank? Je podle Vás smysluplným krokem mohutné devizové rezervy ČNB uložit do "**[**zlatého národního pokladu**](https://archiv.hn.cz/c1-67328650-michl-se-pustil-do-budovani-zlateho-pokladu-budou-cnb-dalsi-tuny-zlata-k-necemu){: target="_blank" rel="noopener"}**"?**
+**Jaký je Váš názor na aktuální nákupy zlata ze strany ČNB či dalších centrálních bank? Je podle Vás smysluplným krokem mohutné devizové rezervy ČNB uložit do “**[**zlatého národního pokladu**](https://archiv.hn.cz/c1-67328650-michl-se-pustil-do-budovani-zlateho-pokladu-budou-cnb-dalsi-tuny-zlata-k-necemu){: target="_blank" rel="noopener"}**”?**
 
 &nbsp;
 
