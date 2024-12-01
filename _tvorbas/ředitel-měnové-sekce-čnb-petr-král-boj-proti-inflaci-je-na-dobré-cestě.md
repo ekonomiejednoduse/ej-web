@@ -148,9 +148,7 @@ A na základě zkušeností se zápornými úrokovými sazbami a na základě to
 
 &nbsp;
 
-Došlo také k novele samotného Zákona o ČNB, kde se v příslušných paragrafech rozšířilo instrumentárium pro aktivní obchody centrální banky na finančních trzích, aby mohla bez právních omezení implementovat širší paletu nekonvenčních nástrojů. Jsme tedy připraveni analyticky i implementačně na jakékoli situace a jenom doufáme, že toho nebude v blízké budoucnosti potřeba.
-
-**<br><br>**
+Došlo také k novele samotného Zákona o ČNB, kde se v příslušných paragrafech rozšířilo instrumentárium pro aktivní obchody centrální banky na finančních trzích, aby mohla bez právních omezení implementovat širší paletu nekonvenčních nástrojů. Jsme tedy připraveni analyticky i implementačně na jakékoli situace a jenom doufáme, že toho nebude v blízké budoucnosti potřeba.**<br><br>**
 
 **S tím souvisí otázka, jak vnímáte kurzový závazek ČNB ze zpětného pohledu? Šlo na jeho realizaci provést něco jinak a lépe?**
 
