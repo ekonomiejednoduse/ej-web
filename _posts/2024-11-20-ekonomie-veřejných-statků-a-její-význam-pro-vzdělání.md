@@ -33,4 +33,8 @@ Tato práce vznikla jako soutěžní příspěvek do [17\. ročníku ekonomické
 
 &nbsp;
 
-Česká verze textu vyšla jako studie pro Institut liberálních studií. Odkaz: [https://inlist.cz/wp-content/uploads/2024/11/vzdelani\_letterhead.pdf](https://inlist.cz/wp-content/uploads/2024/11/vzdelani_letterhead.pdf){: target="_blank" rel="noopener"}
+Česká verze textu vyšla jako studie pro Institut liberálních studií. Odkaz: [https://inlist.cz/wp-content/uploads/2024/11/vzdelani\_letterhead.pdf](https://inlist.cz/wp-content/uploads/2024/11/vzdelani_letterhead.pdf){: target="_blank" rel="noopener"}.
+
+&nbsp;
+
+Originální (tj. anglickou) verzi práce lze níže stáhnout ve formátu .pdf
