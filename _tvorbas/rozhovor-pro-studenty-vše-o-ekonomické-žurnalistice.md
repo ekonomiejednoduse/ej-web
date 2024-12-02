@@ -8,7 +8,7 @@ description: >-
   textů.
 author: Štěpán Drábek
 featured: true
-featured_image: /uploads/vse.png
+featured_image: /uploads/vse-1.png
 categories: dalsi tvorba
 download:
 video-url:
