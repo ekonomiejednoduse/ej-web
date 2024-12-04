@@ -12,7 +12,7 @@ author: Štěpán Drábek
 featured: true
 categories:
   - ekonomie
-featured_image: /uploads/btc-hezka-fotka.jpeg
+featured_image: /uploads/inflace-eu-2.png
 download: puvod-inflace-v-cr.pdf
 seo:
   title: Původ vysoké míry inflace v ČR
